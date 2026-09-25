@@ -1,0 +1,1211 @@
+{
+  "annotations": [
+    {
+      "id": "fact-001",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s020",
+      "quote": "Vous avez réalisé 46,9 % des voix au 2e tour",
+      "speaker": "moderator",
+      "claim": "Ségolène Royal a obtenu 46,9 % des voix au second tour de la présidentielle de 2007.",
+      "verdict": "true",
+      "fakeness": 0,
+      "confidence": 95,
+      "title": "Royal 2007 : 46,9 % au second tour, exact",
+      "explanation": "Au second tour du 6 mai 2007, Ségolène Royal a recueilli 46,94 % des suffrages exprimés (16,79 millions de voix) face à Nicolas Sarkozy (53,06 %). Le chiffre cité par l'animateur est exact.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Vie publique — Résultats du second tour de l'élection présidentielle 2007",
+          "url": "https://www.vie-publique.fr/carte/272132-france-election-presidentielle-2007-deuxieme-tour"
+        },
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2007",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-002",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s103",
+      "quote": "À l'issue du Covid, un jeune sur 10 a pensé à se suicider",
+      "speaker": "royal",
+      "claim": "Après la crise du Covid, environ un jeune sur dix a eu des pensées suicidaires.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 65,
+      "title": "Pensées suicidaires des jeunes : ordre de grandeur plausible",
+      "explanation": "Selon le Baromètre santé 2021 de Santé publique France, 7,2 % des 18-24 ans déclaraient des pensées suicidaires au cours des 12 derniers mois, contre 3,3 % en 2014 ; chez les 17 ans (enquête Escapad), la proportion atteignait 18 % en 2022. « Un jeune sur dix » est donc un ordre de grandeur défendable, même si le chiffre exact dépend de la tranche d'âge et de l'enquête.",
+      "correction": "Les pensées suicidaires ont plus que doublé chez les 18-24 ans entre 2014 et 2021 (de 3,3 % à 7,2 %), et touchaient 18 % des jeunes de 17 ans en 2022.",
+      "sources": [
+        {
+          "title": "Santé publique France — Prévalence des pensées suicidaires, Baromètre santé 2021",
+          "url": "https://www.santepubliquefrance.fr/regions-et-territoires/nouvelle-aquitaine/article/prevalence-des-pensees-suicidaires-et-tentatives-de-suicide-chez-les-18-85-ans-en-france-resultats"
+        },
+        {
+          "title": "ICI — Tentatives de suicide et idées suicidaires en augmentation chez les jeunes",
+          "url": "https://www.ici.fr/infos/sante-sciences/les-tentatives-de-suicide-et-idees-suicidaires-en-augmentation-chez-les-jeunes-selon-sante-publique-france-5599390"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-003",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s180",
+      "quote": "on a beaucoup d'éparges disponibles en France 6000 6000 milliards d'éparges disponibles",
+      "speaker": "maurel",
+      "claim": "Les ménages français disposent d'environ 6 000 milliards d'euros d'épargne.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 80,
+      "title": "Épargne des ménages : 6 600 Md€, pas tous « disponibles »",
+      "explanation": "Selon la Banque de France, le patrimoine financier brut des ménages atteignait 6 590 milliards d'euros fin 2025. Le montant est donc correct, voire légèrement sous-estimé ; en revanche, qualifier cette épargne de « disponible » est discutable : près d'un tiers est placé en assurance-vie (2 100 Md€), le reste comprenant actions, titres non cotés et dépôts peu mobilisables pour un emprunt.",
+      "correction": "Le patrimoine financier brut des ménages s'élevait à environ 6 590 Md€ fin 2025, dont une large part est déjà placée (assurance-vie, actions).",
+      "sources": [
+        {
+          "title": "La finance pour tous — Épargne des ménages : près de 6 600 milliards d'euros",
+          "url": "https://www.lafinancepourtous.com/2026/01/15/epargne-des-menages-pres-de-6600-milliards-deuros/"
+        },
+        {
+          "title": "Banque de France — Épargne des ménages 2025-Q3",
+          "url": "https://www.banque-france.fr/fr/statistiques/epargne/epargne-des-menages-2025-q3"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-004",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s193",
+      "quote": "11 milliards de bénéfices au premier semestre à 95 % réalisé à l'étranger",
+      "speaker": "glucksmann",
+      "claim": "TotalEnergies a réalisé 11 milliards de bénéfices au premier semestre 2026, dont 95 % à l'étranger.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 65,
+      "title": "Total : 11,2 Md$ au 1er semestre, exact",
+      "explanation": "TotalEnergies a publié un bénéfice net de 11,2 milliards de dollars (environ 9,8 Md€) au premier semestre 2026, en hausse de 73 % sur un an, porté par la guerre avec l'Iran et l'envolée des marges de raffinage. Le chiffre est juste s'il s'entend en dollars. La part de 95 % réalisée à l'étranger n'est pas publiée telle quelle, mais le groupe paie l'essentiel de son impôt dans les pays producteurs et très peu d'IS en France (95 M$ en 2024).",
+      "correction": "TotalEnergies a dégagé 11,2 milliards de dollars de bénéfice net au premier semestre 2026, très majoritairement hors de France.",
+      "sources": [
+        {
+          "title": "L'EnerGeek — TotalEnergies : 11,2 milliards de bénéfice dopés par la guerre en Iran",
+          "url": "https://lenergeek.com/2026/07/23/totalenergies-11-2-milliards-guerre-iran/"
+        },
+        {
+          "title": "France 24 — Pourquoi TotalEnergies échappe quasiment à l'impôt sur les bénéfices en France",
+          "url": "https://www.france24.com/fr/info-en-continu/20260617-pourquoi-totalenergies-%C3%A9chappe-quasiment-%C3%A0-l-imp%C3%B4t-sur-les-b%C3%A9n%C3%A9fices-en-france"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-005",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s197",
+      "quote": "En 2022-2023, suite à l'invasion de l'Ukraine, Total a versé 37 milliards de dividendes en dividende ou en rachat d'action à ses actionnaires",
+      "speaker": "glucksmann",
+      "claim": "En 2022-2023, TotalEnergies a versé 37 milliards à ses actionnaires en dividendes et rachats d'actions.",
+      "verdict": "mostly_true",
+      "fakeness": 25,
+      "confidence": 55,
+      "title": "Total 2022-2023 : chiffre un peu gonflé",
+      "explanation": "Global Witness évalue à 25 Md€ (13 Md€ de dividendes et 12 Md€ de rachats d'actions) les sommes reversées aux actionnaires entre avril 2022 et septembre 2023, dont 11 Md€ sur la seule année 2023. En ajoutant le début 2022 et la fin 2023, on arrive plutôt à 30-34 milliards (en euros ou en dollars). L'ordre de grandeur est juste, mais 37 milliards est au-dessus des estimations disponibles.",
+      "correction": "TotalEnergies a reversé environ 25 Md€ à ses actionnaires d'avril 2022 à septembre 2023, soit plutôt 30 à 34 milliards sur les deux années civiles.",
+      "sources": [
+        {
+          "title": "Global Witness — TotalEnergies pays shareholders €25 billion since Russia's invasion of Ukraine",
+          "url": "https://globalwitness.org/en/press-releases/totalenergies-q3-pays-shareholders-a-massive-25-billion-since-russias-full-scale-invasion-of-ukraine/"
+        },
+        {
+          "title": "Zonebourse — TotalEnergies choie ses actionnaires après un bond des profits en 2022",
+          "url": "https://www.zonebourse.com/cours/action/TOTALENERGIES-SE-4717/actualite/TotalEnergies-choie-ses-actionnaires-apres-un-bond-des-profits-en-2022-42925829/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-006",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s231",
+      "quote": "ils ont passé le taux de TVA de 20 % à 10 %",
+      "speaker": "royal",
+      "claim": "L'Espagne a ramené la TVA sur les carburants de 20 % à 10 %, ce qui explique ses prix plus bas.",
+      "verdict": "misleading",
+      "fakeness": 40,
+      "confidence": 75,
+      "title": "TVA espagnole à 10 % : mesure déjà terminée",
+      "explanation": "L'Espagne a bien abaissé la TVA sur les carburants à 10 % en mars 2026, mais depuis le taux normal de 21 % (et non 20 %). Surtout, cette baisse n'a pas été reconduite au 1er juillet 2026 : en septembre, seule subsiste une réduction dégressive de l'impôt sur les hydrocarbures (5 centimes par litre). L'écart de prix actuel avec la France (35 à 45 centimes) s'explique surtout par des accises structurellement plus faibles en Espagne.",
+      "correction": "L'Espagne a appliqué une TVA à 10 % (au lieu de 21 %) sur les carburants de mars à fin juin 2026, puis y a mis fin.",
+      "sources": [
+        {
+          "title": "Direction générale du Trésor — Brèves économiques d'Espagne n°02/2026",
+          "url": "https://www.tresor.economie.gouv.fr/Articles/2026/07/29/breves-economiques-d-espagne-n%C2%BA02-2026"
+        },
+        {
+          "title": "Boursorama — L'Espagne va réduire la TVA sur les carburants à 10 %",
+          "url": "https://www.boursorama.com/bourse/actualites/l-espagne-va-reduire-la-tva-sur-les-carburants-a-10-ser-e48326007ef1c3a7b0e03020b2bcba21"
+        },
+        {
+          "title": "Prix du carburant — Pourquoi l'Espagne est 40 centimes moins chère que la France",
+          "url": "https://prix-du-carburant.com/actualites/prix-carburant-espagne-sept-2026/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-007",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s259",
+      "quote": "Michel Rocard prend le décret le 8 août pour plafonner les marges.",
+      "speaker": "guedj",
+      "claim": "Après l'invasion du Koweït le 2 août 1990, le gouvernement Rocard a pris le 8 août un décret plafonnant les marges sur les carburants.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 90,
+      "title": "Décret Rocard du 8 août 1990 : exact",
+      "explanation": "Le décret n° 90-701 du 8 août 1990 relatif aux prix de vente des produits pétroliers a instauré un prix maximal recalculé chaque jour, en fixant les marges des compagnies et des distributeurs, six jours après l'invasion du Koweït par l'Irak. Le dispositif, contesté par les pompistes, a été levé le 15 septembre 1990. Les dates et la nature de la mesure citées sont exactes.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Légifrance — Décret n° 90-701 du 8 août 1990 relatif aux prix de vente des produits pétroliers",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000351059"
+        },
+        {
+          "title": "INA — 1990 : l'année où le gouvernement a contrôlé les prix de l'essence",
+          "url": "https://www.ina.fr/ina-eclaire-actu/prix-essence-blocage-michel-rocard"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-008",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s270",
+      "quote": "C'est 5 milliards d'euros qui avaient été supprimés par Emmanuel Macron dès le début de son de son quinquena",
+      "speaker": "guedj",
+      "claim": "La suppression de l'ISF par Emmanuel Macron en début de premier quinquennat a représenté 5 milliards d'euros.",
+      "verdict": "mostly_true",
+      "fakeness": 25,
+      "confidence": 75,
+      "title": "ISF : plutôt 4,2 Md€ bruts, 3 Md€ nets",
+      "explanation": "L'ISF a rapporté 4,2 milliards d'euros en 2017, sa dernière année. Il a été remplacé en 2018 par l'IFI, qui a rapporté environ 1,3 milliard, si bien que le coût net de la réforme est estimé à 2,9-3,2 milliards (Sénat, Cour des comptes). Les 5 milliards cités surestiment donc le rendement de l'ISF et plus encore ce que rapporterait son rétablissement.",
+      "correction": "L'ISF rapportait 4,2 Md€ en 2017 ; sa transformation en IFI a coûté environ 3 Md€ nets par an.",
+      "sources": [
+        {
+          "title": "Sénat — Transformation de l'ISF en IFI et création du PFU : un premier bilan",
+          "url": "https://www.senat.fr/rap/r19-042-1/r19-042-15.html"
+        },
+        {
+          "title": "Cour des comptes — Comité d'évaluation des réformes de la fiscalité du capital",
+          "url": "https://www.ccomptes.fr/fr/plateformes-citoyennes/plateforme-evaluations-politique-publique/explorer-evaluations/comite-3"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-009",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s335",
+      "quote": "vous avez des marges qui ont compté de qui sont multipliées par 7, plus de sep même",
+      "speaker": "faure",
+      "claim": "Les marges de raffinage sur les carburants ont été multipliées par plus de sept depuis le début de la crise.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 75,
+      "title": "Marges de raffinage ×7 : exact à peu près",
+      "explanation": "L'indicateur de marge de raffinage de l'administration atteignait 281 €/t début septembre 2026, contre 41 €/t en février, avant le déclenchement de la guerre avec l'Iran le 28 février, soit un facteur d'environ 6,9. Le « multipliées par 7 » est donc juste ; le « plus de sept » est légèrement exagéré. Les marges de distribution, elles, sont restées stables.",
+      "correction": "La marge de raffinage est passée d'environ 41 €/t en février à 281 €/t début septembre 2026, soit près de sept fois plus.",
+      "sources": [
+        {
+          "title": "Europe Business News — Marge de raffinage : 281 €/t, sept fois plus qu'en février",
+          "url": "https://europe-business-news.com/20/09/2026/marge-de-raffinage-carburants-prix-pompe-2026/"
+        },
+        {
+          "title": "L'EnerGeek — Carburants 2026 : analyser les perturbations d'approvisionnement",
+          "url": "https://lenergeek.com/2026/09/21/carburants-2026-analyser-perturbations-approvisionnement-solutions/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-010",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s359",
+      "quote": "nous nous sommes engagés à la COP 21 que j'ai l'honneur de présider à la Corde de Paris sur le climat",
+      "speaker": "royal",
+      "claim": "Ségolène Royal a présidé la COP21, qui a adopté l'accord de Paris sur le climat.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 85,
+      "title": "Présidence de la COP21 : après l'accord de Paris",
+      "explanation": "Ségolène Royal a bien été nommée présidente de la COP21 en février 2016, succédant à Laurent Fabius, parti présider le Conseil constitutionnel, et a exercé cette présidence jusqu'à la COP22 de novembre 2016. Mais l'accord de Paris a été adopté en décembre 2015 sous la présidence de Laurent Fabius. La formule laisse entendre un rôle dans la négociation de l'accord qu'elle n'a pas occupé en tant que présidente.",
+      "correction": "Ségolène Royal a présidé la COP21 de février à novembre 2016, après l'adoption de l'accord de Paris sous la présidence de Laurent Fabius.",
+      "sources": [
+        {
+          "title": "CCNUCC — Ségolène Royal Appointed New COP21 President",
+          "url": "https://unfccc.int/news/s%C3%A9gol%C3%A8ne-royal-appointed-new-cop21-president"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-011",
+      "kind": "fact",
+      "type": "legal",
+      "label": "Texte de loi",
+      "segmentId": "s377",
+      "quote": "Vous savez que EDF est obligé de vendre à des concurrents qui ne produisent pas d'électricité.",
+      "speaker": "maurel",
+      "claim": "EDF est aujourd'hui obligé de vendre une partie de son électricité nucléaire à prix coûtant à des fournisseurs concurrents.",
+      "verdict": "mostly_false",
+      "fakeness": 60,
+      "confidence": 75,
+      "title": "ARENH : obligation éteinte depuis fin 2025",
+      "explanation": "Le mécanisme ARENH (loi NOME de 2010) obligeait EDF à céder jusqu'à 100 TWh par an de nucléaire à ses concurrents à 42 €/MWh, mais il a pris fin le 31 décembre 2025. Depuis 2026, il est remplacé par le versement nucléaire universel (VNU), qui redistribue aux consommateurs une partie des revenus d'EDF quand les prix de marché sont élevés, et par des contrats de long terme conclus librement. L'affirmation décrit donc au présent une obligation qui n'existe plus.",
+      "correction": "EDF a été contraint de vendre du nucléaire à prix régulé à ses concurrents de 2011 à fin 2025 (ARENH), dispositif remplacé en 2026 par le versement nucléaire universel.",
+      "sources": [
+        {
+          "title": "Fournisseurs-electricite.com — Fin de l'ARENH : un nouveau dispositif en 2026",
+          "url": "https://www.fournisseurs-electricite.com/contrat-electricite/prix/arenh"
+        },
+        {
+          "title": "Opéra Énergie — ARENH 2026 : quels mécanismes sont à venir ?",
+          "url": "https://opera-energie.com/arenh-2026/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-012",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s486",
+      "quote": "on a 210 milliards d'avoirs publics russes gelés en Europe.",
+      "speaker": "glucksmann",
+      "claim": "Environ 210 milliards d'euros d'avoirs publics russes sont gelés dans l'Union européenne.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 90,
+      "title": "210 Md€ d'avoirs russes gelés : exact",
+      "explanation": "Plus de 210 milliards d'euros de réserves de la Banque centrale russe sont immobilisés dans l'UE, dont l'essentiel chez Euroclear en Belgique (202 Md€ au 30 juin 2026). En décembre 2025, les Vingt-Sept ont rendu ce gel indéfini sur la base de l'article 122 du traité. Leur confiscation pure et simple reste en revanche juridiquement contestée, notamment par la Belgique.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Toute l'Europe — L'UE verrouille juridiquement le gel des 210 milliards d'avoirs russes",
+          "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/sanctions-contre-moscou-l-ue-verrouille-juridiquement-le-gel-des-210-milliards-d-avoirs-russes/"
+        },
+        {
+          "title": "Toute l'Europe — Cinq questions sur les avoirs russes gelés en Europe",
+          "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/aubaine-pour-l-ukraine-et-casse-tete-pour-l-ue-cinq-questions-sur-les-avoirs-russes-geles-en-europe/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-013",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s659",
+      "quote": "J'ai défendu il y a maintenant 4 ans une résolution à l'Assemblée qui a permis de reconnaître le génocide des igours.",
+      "speaker": "faure",
+      "claim": "Olivier Faure a défendu il y a environ quatre ans une résolution de l'Assemblée nationale reconnaissant le génocide des Ouïghours.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 90,
+      "title": "Résolution sur les Ouïghours de janvier 2022 : exact",
+      "explanation": "Le 20 janvier 2022, l'Assemblée nationale a adopté (169 voix pour) une résolution, non contraignante et portée par le groupe socialiste, reconnaissant le caractère génocidaire des violences commises par la Chine contre les Ouïghours. Olivier Faure l'a défendue à la tribune. C'était il y a quatre ans et huit mois.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "franceinfo — L'Assemblée nationale adopte une résolution dénonçant le génocide des Ouïghours",
+          "url": "https://www.franceinfo.fr/monde/chine/persecution-des-ouighours/l-assemblee-nationale-adopte-une-resolution-denoncant-le-genocide-des-ouighours-par-la-chine_4923651.html"
+        },
+        {
+          "title": "Assemblée nationale — Résolution T.A. n° 758 (15e législature)",
+          "url": "https://www.assemblee-nationale.fr/dyn/old/15/ta/ta0758.asp"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-014",
+      "kind": "fact",
+      "type": "legal",
+      "label": "Texte de loi",
+      "segmentId": "s683",
+      "quote": "en sorte que toute une partie de cette population subisse un exode durable.",
+      "speaker": "faure",
+      "claim": "Selon la convention de 1948, le fait de soumettre une partie d'une population à un exode durable fait partie des critères du génocide.",
+      "verdict": "mostly_false",
+      "fakeness": 50,
+      "confidence": 75,
+      "title": "Convention de 1948 : l'exode forcé n'y figure pas",
+      "explanation": "La convention de 1948 impose bien aux États de prévenir le génocide (article Ier) et définit celui-ci comme l'intention de détruire « en tout ou en partie » un groupe. Mais les cinq actes qu'elle énumère (meurtres, atteintes graves, conditions d'existence menant à la destruction physique, entraves aux naissances, transfert forcé d'enfants) ne comprennent pas le déplacement ou l'exode d'une population. Un exode forcé peut relever du crime contre l'humanité ou servir d'indice de l'intention génocidaire, mais il n'est pas en soi un critère de la convention.",
+      "correction": "La convention de 1948 énumère cinq actes constitutifs du génocide ; le déplacement forcé d'une population n'en fait pas partie, seul le transfert forcé d'enfants y figure.",
+      "sources": [
+        {
+          "title": "CICR — Convention pour la prévention et la répression du crime de génocide, 9 décembre 1948",
+          "url": "https://ihl-databases.icrc.org/fr/ihl-treaties/genocide-conv-1948"
+        },
+        {
+          "title": "ONU, Bibliothèque audiovisuelle de droit international — Texte de la convention",
+          "url": "https://legal.un.org/avl/pdf/ha/cppcg/cppcg_f.pdf"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-015",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s852",
+      "quote": "on est le pays d'Europe où il y a la plus grande communauté juive,",
+      "speaker": "maurel",
+      "claim": "La France abrite la plus grande communauté juive et la plus grande communauté musulmane d'Europe.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 75,
+      "title": "Communautés juive et musulmane : les plus grandes d'Europe",
+      "explanation": "La France compte environ 440 000 à 500 000 Juifs, la première communauté juive d'Europe et la troisième du monde. Pour les musulmans, le Pew Research Center estimait leur nombre à 5,7 millions en 2016, le plus élevé d'Europe (UE, Norvège et Suisse), devant l'Allemagne (4,95 millions). Ces estimations restent approximatives, faute de statistiques religieuses officielles en France, et la Russie ou la Turquie sont exclues de ce périmètre.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Times of Israël — Les chiffres de l'islam en France",
+          "url": "https://fr.timesofisrael.com/les-chiffres-de-lislam-en-france/"
+        },
+        {
+          "title": "France 24 — La communauté juive de France en cinq questions",
+          "url": "https://www.france24.com/fr/france/20251007-7-octobre-deux-ans-apr%C3%A8s-communaut%C3%A9-juive-france-cinq-questions"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-016",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s940",
+      "quote": "C'est 25 %. Tout le monde le sait.",
+      "speaker": "maurel",
+      "claim": "Les prix de l'alimentation ont augmenté de 25 %, alors que l'inflation affichée n'est que de 2 à 2,5 %.",
+      "verdict": "misleading",
+      "fakeness": 30,
+      "confidence": 70,
+      "title": "Alimentation +25 % : un cumul sur cinq ans",
+      "explanation": "Selon l'Insee, l'inflation d'ensemble atteint 2,4 % sur un an en août 2026, mais les prix alimentaires n'ont augmenté que de 1,1 % sur la même période. Le chiffre de 25 % correspond à peu près à la hausse cumulée de l'indice alimentaire depuis 2021 (environ +22 à +24 %), due surtout à la flambée de 2022-2023. Comparer ce cumul sur cinq ans à un taux annuel exagère l'écart actuel entre alimentation et inflation.",
+      "correction": "Les prix alimentaires ont augmenté d'environ 22 à 24 % depuis 2021, mais seulement de 1,1 % sur un an en août 2026, contre 2,4 % pour l'inflation d'ensemble.",
+      "sources": [
+        {
+          "title": "Insee, « En août 2026, les prix à la consommation augmentent de 2,4 % sur un an »",
+          "url": "https://www.insee.fr/fr/statistiques/9051406"
+        },
+        {
+          "title": "Insee, Éclairage : descente en gamme et prix alimentaires pendant la période inflationniste",
+          "url": "https://www.insee.fr/fr/statistiques/8907465?sommaire=8907467"
+        },
+        {
+          "title": "Insee, Données et publications sur les prix et l'inflation",
+          "url": "https://www.insee.fr/fr/information/6546039"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-017",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s978",
+      "quote": "la France est le leader européen des morts au travail",
+      "speaker": "maurel",
+      "claim": "La France a le taux de mortalité au travail le plus élevé de l'Union européenne.",
+      "verdict": "mostly_true",
+      "fakeness": 12,
+      "confidence": 80,
+      "title": "Morts au travail : France en tête d'Eurostat",
+      "explanation": "D'après Eurostat, la France présente en 2023 le taux standardisé d'accidents du travail mortels le plus élevé de l'UE (3,6 pour 100 000 travailleurs, 811 décès), devant la Bulgarie et Chypre, pour une moyenne européenne de 1,63. Eurostat et l'INRS rappellent toutefois que le système français de déclaration (présomption d'imputabilité de tout accident survenu au temps et au lieu de travail, y compris les malaises) accentue l'écart avec les autres pays.",
+      "correction": "Selon Eurostat, la France a le taux d'accidents du travail mortels le plus élevé de l'UE (3,6 pour 100 000 en 2023), en partie à cause de règles de déclaration plus larges.",
+      "sources": [
+        {
+          "title": "Touteleurope, « Accidents et morts au travail : la France affiche un triste record européen »",
+          "url": "https://www.touteleurope.eu/economie-et-social/accidents-et-morts-au-travail-la-france-herite-d-un-triste-record-europeen/"
+        },
+        {
+          "title": "Eurostat, Accidents de travail mortels par 100 000 travailleurs (sdg_08_60)",
+          "url": "https://ec.europa.eu/eurostat/databrowser/view/sdg_08_60/default/table?lang=fr"
+        },
+        {
+          "title": "Travail et Sécurité (INRS), « La France, mauvaise élève de l'Europe ? »",
+          "url": "https://www.travail-et-securite.fr/ts/858/ACT/AT-France-mauvaise-eleve.html"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-018",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1041",
+      "quote": "C'est une inégalité 82 % c'est des femmes.",
+      "speaker": "glucksmann",
+      "claim": "82 % des familles monoparentales ont une femme à leur tête.",
+      "verdict": "true",
+      "fakeness": 3,
+      "confidence": 85,
+      "title": "Familles monoparentales : 82 % de mères",
+      "explanation": "Selon l'Insee, environ une famille avec enfants mineurs sur quatre est monoparentale et, dans 82 % des cas, le parent est la mère ; le rapport d'information du Sénat de 2024 reprend ce chiffre. Le candidat le cite correctement, comme la citoyenne qui évoquait « plus de huit sur dix ».",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Sénat, rapport « Familles monoparentales : pour un changement des représentations sociétales »",
+          "url": "https://www.senat.fr/rap/r23-485-1/r23-485-13.html"
+        },
+        {
+          "title": "Insee Focus n°249, « Les familles en 2020 : 25 % de familles monoparentales »",
+          "url": "https://www.insee.fr/fr/statistiques/5422681"
+        },
+        {
+          "title": "Ministère des Solidarités, « Monoparentalité et pauvreté » (2025)",
+          "url": "https://solidarites.gouv.fr/sites/solidarite/files/2025-08/Livret-Familles-monoparentales-et-pauvrete-2025.pdf"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-019",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1050",
+      "quote": "il va y avoir 9000 milliards d'euros qui vont être transmis en succession",
+      "speaker": "glucksmann",
+      "claim": "9 000 milliards d'euros de patrimoine vont être transmis par succession en France.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 75,
+      "title": "« Grande transmission » : 9 000 Md€ d'ici 2040",
+      "explanation": "Le chiffre provient d'un rapport publié fin 2024 pour la Fondation Jean-Jaurès, qui estime que plus de 9 000 milliards d'euros de patrimoine pourraient être transmis en France entre 2025 et 2040 (le flux annuel passant de 464 à 677 milliards). Il s'agit d'une projection, qui inclut les donations et pas seulement les successions, et le candidat n'en précise pas l'horizon de quinze ans.",
+      "correction": "Selon une projection publiée pour la Fondation Jean-Jaurès, plus de 9 000 milliards d'euros pourraient être transmis (successions et donations) entre 2025 et 2040.",
+      "sources": [
+        {
+          "title": "Club Patrimoine, « Grande transmission : 9 000 milliards d'euros d'héritages attendus en France d'ici 2040 »",
+          "url": "https://www.clubpatrimoine.com/contenus/transmission-patrimoine-france"
+        },
+        {
+          "title": "Le Conseil Patrimoine, « Les 9 000 milliards de la grande transmission »",
+          "url": "https://www.leconseilpatrimoine.fr/actualites/impots/politique/grande-transmission-patrimoine-heritage-9000-milliards/"
+        },
+        {
+          "title": "ICI, « Le choc d'héritage : ces 9 000 milliards des baby-boomers transmis d'ici 2040 »",
+          "url": "https://www.ici.fr/emissions/ici-poitou-c-est-vous-et-frederique-gissot/le-choc-d-heritage-ces-9-000-milliards-des-baby-boomers-transmis-d-ici-2040-1485704?at_locale=54"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-020",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1060",
+      "quote": "Les 2/3, c'est l'héritage et seulement un/3 le produit de son travail.",
+      "speaker": "glucksmann",
+      "claim": "Il y a 50 ans, deux tiers du patrimoine des Français venaient du travail et un tiers de l'héritage ; aujourd'hui, c'est l'inverse.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 75,
+      "title": "Patrimoine hérité : tendance juste, ratio forcé",
+      "explanation": "Le Conseil d'analyse économique (note n°69, décembre 2021), qui s'appuie sur les travaux de Thomas Piketty, estime que la part du patrimoine hérité dans le patrimoine total est passée d'environ 35 % au début des années 1970 à environ 60 % aujourd'hui. L'inversion décrite est donc réelle, mais la formule « deux tiers / un tiers » force un peu le trait par rapport au rapport 60/40 mesuré.",
+      "correction": "La part du patrimoine hérité dans le patrimoine total est passée d'environ 35 % au début des années 1970 à environ 60 % aujourd'hui (CAE).",
+      "sources": [
+        {
+          "title": "Conseil d'analyse économique, « Repenser l'héritage » (note n°69)",
+          "url": "https://cae-eco.fr/repenser-lheritage"
+        },
+        {
+          "title": "CAE, note n°69 (PDF)",
+          "url": "https://cae-eco.fr/static/pdf/cae-note069.pdf"
+        },
+        {
+          "title": "Actu-Juridique, « Taxation de l'héritage : le CAE préconise une réforme en profondeur »",
+          "url": "https://www.actu-juridique.fr/fiscalite/droit-fiscal/taxation-de-lheritage-le-conseil-danalyse-economique-preconise-une-reforme-en-profondeur/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-021",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1122",
+      "quote": "Il y en a un autre de 211 milliards, le rapport de Fabien Guayet.",
+      "speaker": "faure",
+      "claim": "Le rapport sénatorial dont Fabien Gay est rapporteur chiffre les aides publiques aux entreprises à 211 milliards d'euros.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 85,
+      "title": "211 milliards : bien le rapport Fabien Gay",
+      "explanation": "La commission d'enquête du Sénat sur les aides publiques aux grandes entreprises (présidée par Olivier Rietmann, rapporteur Fabien Gay) a chiffré en juillet 2025 ces aides à au moins 211 milliards d'euros pour 2023. Ce total repose sur un périmètre très large (dépenses fiscales, exonérations de cotisations, interventions de Bpifrance) et reste débattu : d'autres estimations vont d'environ 110 à 150 milliards selon la définition retenue, ce qui explique les montants différents cités par Ségolène Royal.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Public Sénat, « Un coût annuel de 211 milliards d'euros : la commission d'enquête du Sénat… »",
+          "url": "https://www.publicsenat.fr/actualites/economie/un-cout-annuel-de-211-milliards-deuros-la-commission-denquete-du-senat-sur-les-aides-publiques-aux-entreprises-reclame-un-choc-de-transparence"
+        },
+        {
+          "title": "Public Sénat, « 211 milliards d'euros d'aides publiques aux entreprises : sur quoi repose le calcul ? »",
+          "url": "https://www.publicsenat.fr/actualites/economie/211-milliards-deuros-daides-publiques-aux-entreprises-sur-quoi-repose-le-calcul-de-la-commission-denquete-du-senat"
+        },
+        {
+          "title": "La finance pour tous, « Aides publiques : l'État verse-t-il vraiment 211 milliards d'euros aux entreprises ? »",
+          "url": "https://www.lafinancepourtous.com/2025/09/26/aides-publiques-letat-verse-t-il-vraiment-211-milliards-deuros-aux-entreprises/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-022",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1125",
+      "quote": "Nous sommes second sur le podium mondial de la distribution de dividendes.",
+      "speaker": "faure",
+      "claim": "La France est le deuxième pays au monde pour les dividendes versés aux actionnaires.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 65,
+      "title": "Dividendes : 2e mondial, mais sur un trimestre",
+      "explanation": "Selon l'indice Janus Henderson relayé par l'AFP en septembre 2026, les entreprises françaises ont versé 70,4 milliards de dollars (environ 61 milliards d'euros) au 2e trimestre 2026, au 2e rang mondial derrière les États-Unis et au 1er rang européen, comme l'affirmait aussi Emmanuel Maurel. Ce classement est cependant trimestriel : les sociétés françaises versent l'essentiel de leurs dividendes au printemps, et les sources consultées n'établissent pas ce rang sur l'année entière.",
+      "correction": "Au 2e trimestre 2026, la France a été le 2e payeur de dividendes au monde (environ 61 milliards d'euros) selon Janus Henderson, un classement qui vaut pour ce trimestre.",
+      "sources": [
+        {
+          "title": "Echos Plus, « Dividendes : la France deuxième mondiale avec 61 milliards d'euros versés au deuxième trimestre 2026 »",
+          "url": "https://echosplus.com/2026/09/15/dividendes-la-france-deuxieme-mondiale-avec-61-milliards-deuros-verses-au-deuxieme-trimestre-2026/"
+        },
+        {
+          "title": "Zoom Invest, « Les entreprises françaises restent parmi les premières distributrices de dividendes »",
+          "url": "https://zoominvest.fr/actualites/les-entreprises-francaises-restent-parmi-les-premieres-distributrices-de-dividen/umvru6wojtx0zt2qxl0cqwwm"
+        },
+        {
+          "title": "Titres Presse, « Dividendes versés aux actionnaires : la France numéro deux mondiale après les États-Unis »",
+          "url": "https://www.titrespresse.com/21435932603/etats-unis-dividendes"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-023",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1159",
+      "quote": "On est passé de 37 milliards à près de 90 milliards aujourd'hui.",
+      "speaker": "guedj",
+      "claim": "Les exonérations de cotisations sociales sont passées de 37 milliards à près de 90 milliards d'euros en une dizaine d'années.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 70,
+      "title": "Exonérations de cotisations : plus que doublées",
+      "explanation": "Le rapport transpartisan Ferracci-Guedj de 2023, cité par Force ouvrière, évalue les allègements à environ 37 milliards d'euros en 2013 ; les exonérations ont ensuite atteint environ 80 milliards d'euros en 2023, et jusqu'à 88 milliards en 2024 en incluant les exemptions d'assiette. Le doublement sur dix ans est exact ; « près de 90 milliards » correspond au périmètre le plus large.",
+      "correction": "Les exonérations et exemptions de cotisations sociales sont passées d'environ 37 milliards d'euros en 2013 à 80-88 milliards en 2023-2024 selon le périmètre.",
+      "sources": [
+        {
+          "title": "Force ouvrière, « Ces chères « exos » de cotisations qui plombent les comptes publics »",
+          "url": "https://www.force-ouvriere.fr/ces-cheres-exos-de-cotisations-qui-plombent-les-comptes-publics"
+        },
+        {
+          "title": "Rapport Bozio-Wasmer, « Les politiques d'exonérations de cotisations sociales » (octobre 2024)",
+          "url": "https://www.strategie-plan.gouv.fr/files/2024-11/rapport_vffff_241003.pdf"
+        },
+        {
+          "title": "CGT, « Une explosion des exonérations de cotisations sociales depuis 20 ans »",
+          "url": "https://www.cgt.fr/barometre-fiche-35"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-024",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1183",
+      "quote": "3 millions de français.",
+      "speaker": "guedj",
+      "claim": "3 millions de Français sont en attente d'un logement social.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 75,
+      "title": "HLM : 2,9 millions de demandes en attente",
+      "explanation": "Selon l'Union sociale pour l'habitat, 2,885 millions de ménages étaient en attente d'un logement social fin 2025 (+4 % sur un an), un record. Le chiffre compte des demandes de ménages et non des personnes, dont une partie émane de locataires HLM demandant une mutation ; la Cour des comptes a d'ailleurs questionné ce décompte.",
+      "correction": "Environ 2,9 millions de demandes de logement social (ménages) étaient en attente fin 2025 selon l'USH.",
+      "sources": [
+        {
+          "title": "USH, « La demande et les attributions de logement social à fin 2025 »",
+          "url": "https://www.union-habitat.org/centre-de-ressources/economie-financement/la-demande-et-les-attributions-de-logement-social-fin-0"
+        },
+        {
+          "title": "Empruntis, « Logement social : 2,8 millions de Français en attente, un record historique »",
+          "url": "https://www.empruntis.com/financement/actualites/logement-social-2-8-millions-francais-attente-record-historique-qui-alarme-19751.php"
+        },
+        {
+          "title": "Fondation IFRAP, « La Cour questionne le chiffre de 2,8 millions de demandeurs de logements sociaux »",
+          "url": "https://www.ifrap.org/emploi-et-politiques-sociales/la-cour-questionne-le-chiffre-de-28-millions-de-demandeurs-de-logements-sociaux"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-025",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1251",
+      "quote": "la dette de la Banque centrale européenne c'est 18 % à peu près de la dette française",
+      "speaker": "royal",
+      "claim": "La BCE détient environ 18 % de la dette française, les autres acteurs français 20 % et les investisseurs internationaux 60 %.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 70,
+      "title": "Détenteurs de la dette : ordres de grandeur justes",
+      "explanation": "D'après l'Agence France Trésor au 1er trimestre 2026, les non-résidents détiennent 57,5 % de la dette négociable de l'État, l'Eurosystème via la Banque de France 20,6 %, les banques et assureurs français environ 20 %. Le portefeuille de la Banque de France recule (488 milliards d'euros fin juin 2026, soit environ 18 %) car les titres arrivés à échéance ne sont plus réinvestis. Les chiffres sont donc proches, à ceci près que ces titres sont portés par la Banque de France et non par la BCE elle-même.",
+      "correction": "Environ 57 % de la dette négociable de l'État est détenue par des non-résidents et 18 à 21 % par la Banque de France au sein de l'Eurosystème.",
+      "sources": [
+        {
+          "title": "Économie Matin, « Dette française : 56 % détenue par l'étranger, mais qui sont vraiment nos créanciers ? »",
+          "url": "https://www.economiematin.fr/dette-francaise-detention-etranger"
+        },
+        {
+          "title": "Zoom Invest, « Plus de la moitié de la dette française est entre les mains d'investisseurs étrangers »",
+          "url": "https://zoominvest.fr/actualites/plus-de-la-moitie-de-la-dette-francaise-est-entre-les-mains-dinvestisseurs-etran/igf9ce3wgjiqs9dmqwys05cz"
+        },
+        {
+          "title": "Sénat, rapport sur les enjeux associés à la structure de détention de la dette de l'État",
+          "url": "https://www.senat.fr/rap/r24-902/r24-902_mono.html"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-026",
+      "kind": "fact",
+      "type": "other",
+      "label": "Autre",
+      "segmentId": "s1267",
+      "quote": "c'est tous les pays voisins l'ont fait.",
+      "speaker": "royal",
+      "claim": "Tous les pays voisins de la France appliquent un impôt sur la fortune.",
+      "verdict": "mostly_false",
+      "fakeness": 75,
+      "confidence": 80,
+      "title": "Impôt sur la fortune : rare chez nos voisins",
+      "explanation": "En Europe, seules l'Espagne, la Suisse et la Norvège appliquent encore un véritable impôt sur la fortune ; l'Allemagne, l'Italie, le Luxembourg ou le Royaume-Uni n'en ont pas, et la Belgique se limite à une taxe sur les comptes-titres. Près de 70 % des pays de l'OCDE qui avaient instauré un tel impôt l'ont supprimé. Parmi les voisins de la France, seules l'Espagne et la Suisse taxent donc le patrimoine global.",
+      "correction": "Parmi les voisins de la France, seules l'Espagne et la Suisse appliquent un impôt sur la fortune, la Belgique taxant seulement les comptes-titres.",
+      "sources": [
+        {
+          "title": "Touteleurope, « Impôt sur la fortune : dans quels pays européens est-il appliqué ? »",
+          "url": "https://www.touteleurope.eu/economie-et-social/comparatif-impot-sur-la-fortune-dans-quels-pays-europeens-est-il-applique/"
+        },
+        {
+          "title": "CNews, « Voici les 6 pays européens qui appliquent un impôt sur la fortune »",
+          "url": "https://www.cnews.fr/monde/2025-10-13/voici-les-6-pays-europeens-qui-appliquent-un-impot-sur-la-fortune-1752997"
+        },
+        {
+          "title": "RTBF, « Comment les pays d'Europe taxent la fortune et avec quel résultat ? »",
+          "url": "https://www.rtbf.be/article/explosion-des-inegalites-de-richesse-comment-les-pays-d-europe-taxent-la-fortune-et-avec-quel-resultat-11608773"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-027",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s1295",
+      "quote": "en fait ça fait des dépenses supplémentair comme l'a dit la cour",
+      "speaker": "royal",
+      "claim": "La Cour des comptes a constaté que la fusion des régions a entraîné des dépenses supplémentaires plutôt que des économies.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 80,
+      "title": "Fusion des régions : surcoûts relevés par la Cour",
+      "explanation": "Dans son rapport sur les finances publiques locales 2019 (fascicule 2), la Cour des comptes conclut que la fusion des régions entrée en vigueur en 2016 a occasionné des surcoûts, notamment pour la rémunération des agents et les indemnités des élus, sans gains d'efficience à court terme. L'affirmation reflète fidèlement ce constat.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Cour des comptes, « Les finances publiques locales 2019 – Fascicule 2 »",
+          "url": "https://www.ccomptes.fr/fr/publications/les-finances-publiques-locales-2019-fascicule-2"
+        },
+        {
+          "title": "La Gazette des communes, « La Cour des comptes dénonce les surcoûts de la fusion des régions »",
+          "url": "https://www.lagazettedescommunes.com/639645/la-fusion-des-regions-bien-a-occasionne-des-surcouts/"
+        },
+        {
+          "title": "Banque des territoires, « Malgré les surcoûts, la Cour des comptes appelle à conforter le rôle des régions »",
+          "url": "https://www.banquedesterritoires.fr/malgre-les-surcouts-la-cour-des-comptes-appelle-conforter-le-role-des-regions"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-028",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1339",
+      "quote": "Il a fait 1000 milliards de dettes supplémentaires.",
+      "speaker": "maurel",
+      "claim": "La dette publique a augmenté de 1 000 milliards d'euros sous Emmanuel Macron.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 80,
+      "title": "Dette : plus de 1 000 Md€ depuis 2017",
+      "explanation": "Selon l'Insee, la dette publique au sens de Maastricht est passée d'environ 2 218 milliards d'euros fin 2017 à 3 460,5 milliards fin 2025 (115,6 % du PIB), soit plus de 1 200 milliards supplémentaires : le chiffre avancé est même prudent. Une partie de cette hausse est liée aux crises (Covid, énergie), mais l'OFCE impute aussi environ 5 points de PIB de dette supplémentaire à des mesures structurelles non financées.",
+      "correction": "La dette publique a augmenté d'environ 1 240 milliards d'euros entre fin 2017 et fin 2025.",
+      "sources": [
+        {
+          "title": "Insee, « À la fin du quatrième trimestre 2025, le ratio de dette publique s'établit à 115,6 % du PIB »",
+          "url": "https://www.insee.fr/fr/statistiques/8955019"
+        },
+        {
+          "title": "Institut économique Molinari, « Dette publique : 1 200 milliards d'euros de plus depuis 2017 »",
+          "url": "https://www.institutmolinari.org/2025/12/22/macron-et-la-dette-publique-1-200-milliards-deuros-de-plus-depuis-2017/"
+        },
+        {
+          "title": "Yahoo Finance, « Comment la dette publique a-t-elle évolué depuis 2017 ? »",
+          "url": "https://fr.finance.yahoo.com/actualites/dette-publique-t-%C3%A9volu%C3%A9-depuis-174536384.html"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-029",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1394",
+      "quote": "on a gagné en Espagne 2500000 emplois depuis 2018.",
+      "speaker": "faure",
+      "claim": "Malgré une hausse de 60 % du salaire minimum en huit ans, l'Espagne a gagné 2,5 millions d'emplois depuis 2018.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 70,
+      "title": "Espagne : SMI +61 %, emploi en forte hausse",
+      "explanation": "Le salaire minimum espagnol est passé de 735,9 € en 2018 à 1 184 € en 2025, soit +61 % selon le gouvernement espagnol, et l'emploi a progressé d'environ 2,3 millions depuis 2018 (plus encore en affiliés à la Sécurité sociale, qui dépassent 21,8 millions) : le chiffre cité est dans la fourchette. Les prévisions de plus de 200 000 destructions d'emplois ne se sont pas vérifiées, mais l'OCDE et la Banque d'Espagne relèvent de légers effets négatifs, et d'autres facteurs (reprise, réforme du marché du travail) jouent : parler de « preuve » est excessif.",
+      "correction": "Avec un salaire minimum en hausse de 61 % depuis 2018, l'Espagne a créé environ 2,3 millions d'emplois, sans que ce lien de cause à effet soit démontré.",
+      "sources": [
+        {
+          "title": "La Moncloa, Pedro Sánchez : « El Gobierno ha subido en siete años el 61 % el salario mínimo »",
+          "url": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2025/120225-sanchez-sesion-control-congreso.aspx"
+        },
+        {
+          "title": "L'Essentiel de l'Éco, « SMIC : à combien s'élève le salaire minimum en Espagne ? »",
+          "url": "https://lessentieldeleco.fr/4314-smic-salaire-minimum-en-espagne/"
+        },
+        {
+          "title": "Seguridad Social, « La Seguridad Social suma 522.000 afiliados en el último año y supera los 21,8 millones »",
+          "url": "https://revista.seg-social.es/-/la-seguridad-social-suma-522.000-afiliados-en-el-%C3%BAltimo-a%C3%B1o-y-supera-los-21-8-millones-de-afiliados"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-030",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s1560",
+      "quote": "La cour d'appel rejette à son tour sa demande de réintégration",
+      "speaker": "moderator",
+      "claim": "La cour d'appel de Paris a rejeté, après le tribunal judiciaire le matin même, la demande de réintégration de Philippe Brun dans la primaire.",
+      "verdict": "true",
+      "fakeness": 0,
+      "confidence": 90,
+      "title": "Brun : deux rejets judiciaires le même jour",
+      "explanation": "Le 23 septembre 2026, le juge des référés du tribunal judiciaire de Paris puis la cour d'appel de Paris ont rejeté la demande de réintégration du député Philippe Brun, suspendu par le bureau national du PS le 16 septembre après des accusations de harcèlement, de violences physiques et d'emploi familial. Les articles consultés ne mentionnent ni plainte pénale, ni garde à vue, ni mise en examen, ce qui est cohérent avec la question de l'animateur.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "franceinfo — La justice rejette la demande de réintégration de Philippe Brun",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/la-justice-rejette-la-demande-de-reintegration-de-philippe-brun-exclu-de-la-primaire-socialiste-apres-des-accusations-de-violences_8206013.html"
+        },
+        {
+          "title": "France 24 (AFP) — La Cour d'appel rejette à son tour la demande de réintégration de Philippe Brun",
+          "url": "https://www.france24.com/fr/info-en-continu/20260923-primaire-du-ps-la-cour-d-appel-rejette-%C3%A0-son-tour-la-demande-de-r%C3%A9int%C3%A9gration-de-philippe-brun"
+        },
+        {
+          "title": "Public Sénat — Primaire PS : la justice rejette la demande de réintégration de Philippe Brun",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-ps-la-justice-rejette-la-demande-de-reintegration-de-philippe-brun-qui-denonce-un-coup-monte-apres-des-revelations-du-canard-enchaine"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-031",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s1576",
+      "quote": "la France insoumise a toléré dans ses rangs la présence d'Adrien Catnin",
+      "speaker": "faure",
+      "claim": "LFI a maintenu dans son groupe Adrien Quatennens, qui avait reconnu avoir giflé son épouse.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 85,
+      "title": "Affaire Quatennens : la gifle et la réintégration",
+      "explanation": "Adrien Quatennens a reconnu en septembre 2022 avoir giflé son épouse ; il a été condamné en décembre 2022 à quatre mois de prison avec sursis pour violences conjugales (gifle et SMS insistants). Suspendu quatre mois du groupe LFI, il y a été réintégré le 11 avril 2023, décision jugée « inacceptable » par plusieurs partenaires de la NUPES. La description d'Olivier Faure est fidèle ; la condamnation ne portait toutefois pas uniquement sur la gifle.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "France 24 (AFP) — Quatennens réintégré dans le groupe LFI, une décision « inacceptable » pour de nombreux alliés Nupes",
+          "url": "https://www.france24.com/fr/info-en-continu/20230411-quatennens-r%C3%A9int%C3%A9gr%C3%A9-dans-le-groupe-lfi-une-d%C3%A9cision-inacceptable-pour-de-nombreux-alli%C3%A9s-nupes"
+        },
+        {
+          "title": "RTS — La France insoumise réintègre Adrien Quatennens, condamné pour violences conjugales",
+          "url": "https://www.rts.ch/info/monde/13934541-la-france-insoumise-reintegre-adrien-quatennens-condamne-pour-violences-conjugales.html"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-032",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s1599",
+      "quote": "j'ai été élu en 2024 sous une bannière qui s'appelait Nouveau Front Populaire",
+      "speaker": "maurel",
+      "claim": "Emmanuel Maurel a été élu député en 2024 sous l'étiquette du Nouveau Front populaire.",
+      "verdict": "true",
+      "fakeness": 0,
+      "confidence": 90,
+      "title": "Maurel, élu NFP du Val-d'Oise en 2024",
+      "explanation": "Emmanuel Maurel (Gauche républicaine et socialiste) a été élu le 7 juillet 2024 député de la 3e circonscription du Val-d'Oise sous la bannière du Nouveau Front populaire, avec 62,54 % des voix au second tour face à la candidate du RN. L'affirmation est exacte.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Assemblée nationale — M. Emmanuel Maurel, Val-d'Oise (3e circonscription)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842271/fonctions"
+        },
+        {
+          "title": "Wikipedia — Results of the 2024 French legislative election in Val-d'Oise",
+          "url": "https://en.wikipedia.org/wiki/Results_of_the_2024_French_legislative_election_in_Val-d%27Oise"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-033",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s1646",
+      "quote": "comme ça a été fait au moment des élections municipales après les propos rel antisémit",
+      "speaker": "guedj",
+      "claim": "Aux municipales 2026, le PS a proclamé l'absence d'accord avec LFI après des propos jugés antisémites de Mélenchon, puis a laissé se conclure des alliances locales.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 80,
+      "title": "Municipales 2026 : résolution PS, fusions locales",
+      "explanation": "Le 3 mars 2026, le bureau national du PS a adopté à l'unanimité une résolution condamnant les « propos antisémites » de Jean-Luc Mélenchon et affirmant qu'il n'y avait pas d'accord national avec LFI et qu'il ne pouvait y en avoir au second tour. Des fusions techniques ou politiques ont pourtant eu lieu entre les deux tours (Toulouse, Nantes, Limoges, Brest, Clermont-Ferrand, Avignon), Olivier Faure disant « comprendre » ces choix. Nuance : la résolution visait les accords nationaux et laissait implicitement une marge aux accords locaux.",
+      "correction": "Le PS a exclu tout accord national avec LFI en mars 2026, mais a toléré des fusions locales au second tour dans plusieurs grandes villes.",
+      "sources": [
+        {
+          "title": "franceinfo — Municipales 2026 : le PS dénonce les « propos antisémites » de Jean-Luc Mélenchon",
+          "url": "https://www.franceinfo.fr/elections/municipales-2026-le-parti-socialiste-denonce-les-propos-antisemites-de-jean-luc-melenchon-et-appelle-les-militants-insoumis-a-prendre-leurs-distances_7843439.html"
+        },
+        {
+          "title": "Public Sénat — Municipales 2026, une élection de contorsionnistes",
+          "url": "https://www.publicsenat.fr/actualites/politique/municipales-2026-une-election-de-contorsionnistes"
+        },
+        {
+          "title": "LCP — Municipales : les socialistes sommés de s'expliquer sur leurs alliances avec des candidats LFI",
+          "url": "https://lcp.fr/actualites/municipales-les-socialistes-sommes-de-s-expliquer-sur-leurs-alliances-avec-des-candidats"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-034",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s1654",
+      "quote": "J'ai pris le risque d'avoir une candidature de la France insoumise face à moi",
+      "speaker": "guedj",
+      "claim": "En 2024, Jérôme Guedj a refusé l'étiquette NFP et a affronté une candidate soutenue par LFI.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 80,
+      "title": "Guedj 2024 : face à une candidate NFP",
+      "explanation": "Aux législatives 2024 (6e circonscription de l'Essonne), Jérôme Guedj a refusé l'étiquette NFP après des attaques de LFI ; il a affronté Hella Kribi-Romdhane, investie par le NFP (Génération.s, avec un suppléant LFI), arrivée 2e avec 25,23 %, avant d'être réélu face au RN (74,29 %). Il s'agissait donc d'une candidate Génération.s soutenue par LFI plutôt que d'une candidate LFI. Comme le rappelle Olivier Faure juste après, Ensemble n'avait présenté aucun candidat dans cette circonscription.",
+      "correction": "En 2024, Guedj a affronté une candidate NFP issue de Génération.s et soutenue par LFI, sans candidat Ensemble face à lui.",
+      "sources": [
+        {
+          "title": "La Semaine de l'Île-de-France — Législative 2024 Essonne : désistement du NFP, voie libre pour Jérôme Guedj",
+          "url": "https://mesinfos.fr/ile-de-france/legislative-2024-essonne-desistement-du-nfp-voie-libre-pour-jerome-guedj-202229.html"
+        },
+        {
+          "title": "CNews — Jérôme Guedj (PS) affrontera une candidature dissidente Générations-LFI",
+          "url": "https://www.cnews.fr/france/2024-06-16/elections-legislatives-2024-jerome-guedj-ps-affrontera-une-candidature-dissidente"
+        },
+        {
+          "title": "Wikipedia — Essonne's 6th constituency",
+          "url": "https://en.wikipedia.org/wiki/Essonne%27s_6th_constituency"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-035",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1704",
+      "quote": "des gens qui ont fait fondre le fond vert le qui l'ont divisé par",
+      "speaker": "faure",
+      "claim": "Le Fonds vert pour les collectivités a été divisé par trois par les gouvernements récents.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 85,
+      "title": "Fonds vert : bien divisé par trois",
+      "explanation": "Le Fonds vert est passé de près de 2,5 Md€ d'autorisations d'engagement en 2024 à 1,15 Md€ en 2025, puis à environ 650 M€ dans le projet de loi de finances 2026 (environ 837 M€ selon d'autres décomptes de la loi votée). Selon le rapport du Sénat, le programme a perdu 74 % de ses crédits entre 2024 et 2026 : « divisé par trois » est exact, voire en deçà de la réalité.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Sénat — Rapport PLF 2026 : Écologie, développement et mobilité durables",
+          "url": "https://www.senat.fr/rap/l25-139-310-1/l25-139-310-112.html"
+        },
+        {
+          "title": "Maire-Info — Dilico doublé, DGF gelée, Fonds vert raboté : budget 2026",
+          "url": "https://www.maire-info.com/dilico-double-dgf-gelee-fonds-vert-rabote...-potion-amere-pour-les-collectivites-dans-le-budget-2026-article2-30091"
+        },
+        {
+          "title": "I4CE — Adaptation au changement climatique : qu'attendre (vraiment) du Fonds vert ?",
+          "url": "https://www.i4ce.org/adaptation-changement-climatique-attendre-fonds-vert/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-036",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1712",
+      "quote": "Nous votons nous socialistes Jérôme GCH compris à 80 % actuellement avec les insoumis, à 84 % avec les communistes",
+      "speaker": "faure",
+      "claim": "À l'Assemblée, les socialistes votent comme LFI dans 80 % des cas et comme les communistes ou les écologistes dans 84 % des cas.",
+      "verdict": "misleading",
+      "fakeness": 35,
+      "confidence": 80,
+      "title": "Proximité PS-LFI : 72 %, pas 80 %",
+      "explanation": "Selon Datan, depuis 2024 le groupe Socialistes a un taux de proximité de 72 % avec LFI-NFP, de 78 % avec le groupe Écologiste et social et de 60 % avec le groupe GDR (communistes). Le classement est juste (les insoumis sont le 2e groupe le plus proche), mais les chiffres sont gonflés, surtout pour les communistes. 20 Minutes (Fake Off) juge qu'Olivier Faure « exagère légèrement ».",
+      "correction": "Selon Datan, les socialistes votent comme LFI dans 72 % des cas, comme les écologistes dans 78 % et comme les communistes dans 60 %.",
+      "sources": [
+        {
+          "title": "20 Minutes (Fake Off) — 80 % des socialistes voteraient avec LFI, selon Olivier Faure ? Pas tout à fait…",
+          "url": "https://fr.news.yahoo.com/sport/pr%C3%A9sidentielle-2027-80-socialistes-voteraient-143152545.html"
+        },
+        {
+          "title": "Datan — Statistiques du groupe Socialistes et apparentés",
+          "url": "https://datan.fr/groupes/legislature-17/soc/statistiques"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-037",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s1730",
+      "quote": "à Grenoble refusé de soutenir Liel S Loufock parce qu'il était soutenu par la France insoumise",
+      "speaker": "faure",
+      "claim": "Lors de la législative partielle de Grenoble, un soutien a été refusé à Lyes Louffok, candidat investi par LFI, et un candidat de droite l'a emporté.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 70,
+      "title": "Partielle de Grenoble : Louffok battu par Renaissance",
+      "explanation": "En janvier 2025, Raphaël Glucksmann a refusé de soutenir Lyes Louffok, militant des droits des enfants placés investi par LFI et candidat du NFP dans la 1re circonscription de l'Isère, alors que Place publique Isère le soutenait ; la fédération PS locale s'était retirée en sa faveur. La macroniste Camille Galliard-Minier (Renaissance) l'a emporté le 19 janvier 2025 avec 64,28 % contre 35,72 %. Le fait est exact, mais qualifier la gagnante de « candidat de droite » force le trait : elle est issue du camp présidentiel.",
+      "correction": "Glucksmann a refusé de soutenir Lyes Louffok (LFI-NFP), battu en janvier 2025 par la candidate Renaissance Camille Galliard-Minier.",
+      "sources": [
+        {
+          "title": "Libération (X) — Raphaël Glucksmann a refusé d'apporter son soutien à Lyes Louffok",
+          "url": "https://x.com/libe/status/1877717034190192662"
+        },
+        {
+          "title": "France 3 Auvergne-Rhône-Alpes — La macroniste Camille Galliard-Minier élue députée face à Lyes Louffok (NFP)",
+          "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/legislative-partielle-en-isere-la-macroniste-camille-galliard-minier-elue-deputee-face-a-lyes-louffok-nfp-3093769.html"
+        },
+        {
+          "title": "ICI (France Bleu) — Législative partielle en Isère : le PS se retire, Lyes Louffok seul candidat à gauche",
+          "url": "https://www.francebleu.fr/infos/politique/legislative-partielle-en-isere-le-ps-se-retire-il-y-aura-un-candidat-unique-a-gauche-1299241"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-038",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1763",
+      "quote": "aux élections européennes et bien nous avons fait 14 %",
+      "speaker": "glucksmann",
+      "claim": "La liste PS-Place publique menée par Raphaël Glucksmann a obtenu 14 % aux européennes de 2024.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 90,
+      "title": "Européennes 2024 : 13,83 %, arrondi à 14 %",
+      "explanation": "La liste PS-Place publique conduite par Raphaël Glucksmann a obtenu 13,83 % des suffrages exprimés aux européennes du 9 juin 2024, en 3e position. Arrondir à 14 % est acceptable ; la liste était toutefois une alliance PS-Place publique, pas la seule « famille » de Place publique.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Public Sénat — Résultats européennes 2024 : Bardella en tête, Hayer deuxième, Glucksmann troisième",
+          "url": "https://www.publicsenat.fr/actualites/politique/resultats-europeennes-2024-jordan-bardella-en-tete-valerie-hayer-en-deuxieme-position-glucksmann-troisieme"
+        },
+        {
+          "title": "Toute l'Europe — Résultats des élections européennes 2024 en France",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/resultats-des-elections-europeennes-en-france-jordan-bardella-et-le-rassemblement-national-en-tete-valerie-hayer-et-renaissance-en-seconde-position/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-039",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s1815",
+      "quote": "14 %, on est loin des 50 % et c'était même derrière la liste Macron",
+      "speaker": "royal",
+      "claim": "Aux européennes 2024, la liste Glucksmann (14 %) est arrivée derrière la liste de la majorité présidentielle.",
+      "verdict": "true",
+      "fakeness": 0,
+      "confidence": 90,
+      "title": "Européennes 2024 : Glucksmann derrière Hayer",
+      "explanation": "La liste Renaissance-Besoin d'Europe de Valérie Hayer a obtenu 14,60 %, devant la liste PS-Place publique de Raphaël Glucksmann (13,83 %). La liste LFI était conduite par Manon Aubry (9,89 %), et non par Jean-Luc Mélenchon, comme le relève Ségolène Royal juste après. L'affirmation est exacte.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Toute l'Europe — Résultats des élections européennes 2024 en France",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/resultats-des-elections-europeennes-en-france-jordan-bardella-et-le-rassemblement-national-en-tete-valerie-hayer-et-renaissance-en-seconde-position/"
+        },
+        {
+          "title": "Wikipedia — 2024 European Parliament election in France",
+          "url": "https://en.wikipedia.org/wiki/2024_European_Parliament_election_in_France"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "speakers": {
+    "moderator": {
+      "name": "Anne-Claire Coudray",
+      "role": "Journaliste, présentatrice du 20H de TF1",
+      "party": null,
+      "kind": "moderator"
+    },
+    "attal": {
+      "name": "Gabriel Attal",
+      "role": "Porte-parole du gouvernement, soutien d'Emmanuel Macron",
+      "party": "LREM",
+      "kind": "debater"
+    },
+    "bardella": {
+      "name": "Jordan Bardella",
+      "role": "Président par intérim du Rassemblement national, soutien de Marine Le Pen",
+      "party": "RN",
+      "kind": "debater"
+    }
+  },
+  "turns": [
+    {
+      "segmentId": "s001",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s002",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s003",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s004",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s005",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s006",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s007",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s008",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s009",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s010",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s011",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s012",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s013",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s014",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s015",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s016",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s017",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s018",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s019",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s020",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s021",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s022",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s023",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s024",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s025",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s026",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s027",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s028",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s029",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s030",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s031",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s032",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s033",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s034",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s035",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s036",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s037",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s038",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s039",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s040",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s041",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s042",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s043",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s044",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s045",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s046",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s047",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s048",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s049",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s050",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s051",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s052",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s053",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s054",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s055",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s056",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s057",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s058",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s059",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s060",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s061",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s062",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s063",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s064",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s065",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s066",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s067",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s068",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s069",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s070",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s071",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s072",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s073",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s074",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s075",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s076",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s077",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s078",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s079",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s080",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s081",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s082",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s083",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s084",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s085",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s086",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s087",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s088",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s089",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s090",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s091",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s092",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s093",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s094",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s095",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s096",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s097",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s098",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s099",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s100",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s101",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s102",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s103",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s104",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s105",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s106",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s107",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s108",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s109",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s110",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s111",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s112",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s113",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s114",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s115",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s116",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s117",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s118",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s119",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s120",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s121",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s122",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s123",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s124",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s125",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s126",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s127",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s128",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s129",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s130",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s131",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s132",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s133",
+      "speaker": "bardella"
+    },
+    {
+      "segmentId": "s134",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s135",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s136",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s137",
+      "speaker": "attal"
+    },
+    {
+      "segmentId": "s138",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s139",
+      "speaker": "moderator"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "c1",
+      "title": "Abstention des jeunes et pourquoi voter",
+      "start": 0.0,
+      "end": 190.0,
+      "summary": "La journaliste ouvre le débat en interrogeant Gabriel Attal et Jordan Bardella sur les raisons d'aller voter face au risque d'abstention massive des jeunes générations."
+    },
+    {
+      "id": "c2",
+      "title": "Retraites : quel âge de départ",
+      "start": 190.0,
+      "end": 451.0,
+      "summary": "Attal défend le passage à 65 ans porté par Macron tandis que Bardella défend le maintien à 60-62 ans de Le Pen, chacun accusant l'autre de tromper les Français."
+    },
+    {
+      "id": "c3",
+      "title": "Financement des retraites et régimes spéciaux",
+      "start": 451.0,
+      "end": 675.0,
+      "summary": "Attal met en doute le chiffrage à 9 milliards du programme du RN et pointe le maintien des régimes spéciaux, pendant que Bardella s'appuie sur un rapport du COR pour défendre son financement."
+    },
+    {
+      "id": "c4",
+      "title": "Dette, économies et scandale McKinsey",
+      "start": 675.0,
+      "end": 1008.0,
+      "summary": "Face à la dette publique, Bardella détaille son plan d'économies (immigration, fraude, Union européenne) tandis qu'Attal renvoie à la polémique du recours aux cabinets de conseil, y compris à la mairie de Perpignan."
+    },
+    {
+      "id": "c5",
+      "title": "Sécurité et laxisme judiciaire",
+      "start": 1008.0,
+      "end": 1187.0,
+      "summary": "Les deux candidats s'affrontent sur le bilan sécuritaire du quinquennat, Bardella proposant présomption de légitime défense et tolérance zéro, Attal défendant les moyens supplémentaires accordés aux forces de l'ordre."
+    },
+    {
+      "id": "c6",
+      "title": "Mesure phare en 30 secondes",
+      "start": 1187.0,
+      "end": 1287.0,
+      "summary": "Invités à présenter en 30 secondes la mesure qui changerait le quotidien des Français, Bardella met en avant la baisse de TVA sur l'énergie et Attal le versement à la source des aides sociales, avant la clôture du journal."
+    }
+  ]
+}

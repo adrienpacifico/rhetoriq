@@ -1,0 +1,905 @@
+{
+  "annotations": [
+    {
+      "id": "fact-001",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s042",
+      "quote": "la salle qui était celle du CNR aux 47, rue du Four",
+      "speaker": "villepin",
+      "claim": "Le Conseil national de la Résistance s'est réuni pour la première fois au 47, rue du Four à Paris.",
+      "verdict": "mostly_true",
+      "fakeness": 8,
+      "confidence": 90,
+      "title": "CNR rue du Four : bon lieu, numéro erroné",
+      "explanation": "La première réunion du CNR, présidée par Jean Moulin le 27 mai 1943, s'est tenue au premier étage du 48, rue du Four (Paris 6e), dans l'appartement de René Corbin. Le lieu est juste, seul le numéro est décalé d'une unité.",
+      "correction": "La première réunion du CNR s'est tenue le 27 mai 1943 au 48, rue du Four, à Paris.",
+      "sources": [
+        {
+          "title": "Ministère des Armées — La première réunion du CNR, 27 mai 1943",
+          "url": "https://www.defense.gouv.fr/actualites/premiere-reunion-du-conseil-national-resistance-27-mai-1943-moment-fondateur-resistance-francaise"
+        },
+        {
+          "title": "Wikipédia — Conseil national de la Résistance",
+          "url": "https://fr.wikipedia.org/wiki/Conseil_national_de_la_R%C3%A9sistance"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-002",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s052",
+      "quote": "la tragédie de la petite Liana, avec la canicule, la sécheresse, les incendies, le piratage de nos impôts",
+      "speaker": "villepin",
+      "claim": "L'été 2026 a été marqué par l'affaire de la petite Liana (Lyhanna), une canicule, des incendies et un piratage du système des impôts.",
+      "verdict": "mostly_true",
+      "fakeness": 5,
+      "confidence": 80,
+      "title": "Été 2026 : une série de crises avérées",
+      "explanation": "Tous ces événements sont documentés : l'affaire Lyhanna (fillette de 11 ans disparue le 29 mai 2026 dans le Gers, retrouvée morte le 4 juin, avec des dysfonctionnements judiciaires reconnus), les feux de juillet en Gironde et dans les Landes (plusieurs pompiers tués) au pic de la canicule, et le vol de données à la DGFiP (intrusions en juin-juillet, révélé mi-août, environ 678 000 personnes concernées). Seule nuance : l'affaire Lyhanna date de la fin du printemps plutôt que de l'été.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Affaire Lyhanna",
+          "url": "https://fr.wikipedia.org/wiki/Affaire_Lyhanna"
+        },
+        {
+          "title": "impots.gouv.fr — Vol de données suite à des accès illégitimes au SI de la DGFiP",
+          "url": "https://www.impots.gouv.fr/actualite/vol-de-donnees-suite-des-acces-illegitimes-au-systeme-dinformation-de-la-dgfip"
+        },
+        {
+          "title": "Gendinfo — Incendies en Gironde : deux sapeurs-pompiers décédés",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2026/incendies-en-gironde-deux-sapeurs-pompiers-sont-decedes-dans-l-exercice-de-leur-mission"
+        },
+        {
+          "title": "Wikipédia — Incendies de 2026 dans la forêt des Landes",
+          "url": "https://fr.wikipedia.org/wiki/Incendies_de_2026_dans_la_for%C3%AAt_des_Landes"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-003",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s087",
+      "quote": "80 % des ouvriers ont voté pour le nom",
+      "speaker": "ruffin",
+      "claim": "Lors du référendum de 2005 sur le traité constitutionnel européen, 80 % des ouvriers ont voté non (et 55 % des Français).",
+      "verdict": "true",
+      "fakeness": 3,
+      "confidence": 90,
+      "title": "Référendum 2005 : le non ouvrier confirmé",
+      "explanation": "Le sondage sortie des urnes d'Ipsos du 29 mai 2005 donne 79 % de non chez les ouvriers, contre 35 % chez les cadres et professions libérales. Le non l'a emporté avec environ 55 % des suffrages exprimés. Les deux chiffres cités sont exacts à l'arrondi près.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Ipsos — Référendum : le Non des classes actives, des classes populaires et moyennes",
+          "url": "https://www.ipsos.com/fr-fr/referendum-le-non-des-classes-actives-des-classes-populaires-et-moyennes-et-de-gauche"
+        },
+        {
+          "title": "Touteleurope — Référendum du 29 mai 2005 : sondage sortie des urnes",
+          "url": "https://www.touteleurope.eu/fonctionnement-de-l-ue/referendum-29-mai-2005-sondage-sortie-des-urnes-ssu/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-004",
+      "kind": "fact",
+      "type": "quote_attribution",
+      "label": "Citation attribuée",
+      "segmentId": "s124",
+      "quote": "l'ancien président François Hollande préconise lui zéro taxe sur les carburants",
+      "speaker": "villepin",
+      "claim": "François Hollande préconise de supprimer toute taxe sur les carburants.",
+      "verdict": "unverifiable",
+      "fakeness": 50,
+      "confidence": 25,
+      "title": "Hollande et le « zéro taxe » : introuvable",
+      "explanation": "Aucune source fiable trouvée ne rapporte une proposition de François Hollande de supprimer les taxes sur les carburants pendant la crise d'Ormuz de 2026. Les seuls échos disponibles évoquent plutôt une aide ciblée (un « chèque » versé aux gros rouleurs via l'employeur), ce qui n'est pas la même chose. L'attribution reste donc à établir.",
+      "correction": null,
+      "sources": [],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-005",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s155",
+      "quote": "une absence de cagoule filtrante parce que ça coûte 80 €",
+      "speaker": "ruffin",
+      "claim": "Des pompiers ont combattu les incendies de l'été 2026 sans cagoule filtrante, un équipement coûtant environ 80 euros.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 80,
+      "title": "Cagoules filtrantes : 60 à 80 € pièce",
+      "explanation": "Selon la presse de l'été 2026, les cagoules filtrant les particules fines coûtent entre 70 et 80 euros l'unité (60 euros selon la CFDT citée par franceinfo), contre 15 à 20 euros pour le modèle classique, et moins de 10 % des SDIS en seraient équipés selon les syndicats. La somme citée est dans la fourchette haute des estimations.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Politis — « Les fumées nous tuent à petit feu » : la colère des pompiers monte",
+          "url": "https://www.politis.fr/articles/2026/08/analyse-les-fumees-nous-tuent-a-petit-feu-la-colere-des-pompiers-monte/"
+        },
+        {
+          "title": "franceinfo — Les pompiers pas suffisamment protégés par leurs cagoules, dénonce la CFDT",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/les-pompiers-pas-suffisamment-proteges-par-leurs-cagoules-denonce-la-cfdt_8124002.html"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-006",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s196",
+      "quote": "il voit une dette qui avance vers les 120 %",
+      "speaker": "villepin",
+      "claim": "La dette publique française approche 120 % du PIB.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 90,
+      "title": "Dette publique : 117,5 % du PIB",
+      "explanation": "Selon l'Insee, la dette publique au sens de Maastricht atteignait 117,5 % du PIB à la fin du premier trimestre 2026 (3 536 milliards d'euros), contre 115,7 % trois mois plus tôt. La tendance décrite est exacte, le seuil de 120 % n'est pas encore atteint.",
+      "correction": "La dette publique s'élevait à 117,5 % du PIB fin mars 2026, en hausse.",
+      "sources": [
+        {
+          "title": "Insee — À la fin du premier trimestre 2026, le ratio de dette publique s'établit à 117,5 % du PIB",
+          "url": "https://www.insee.fr/fr/statistiques/9010340"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-007",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s247",
+      "quote": "il y a 5 millions de passoirs thermiques dans notre pays",
+      "speaker": "ruffin",
+      "claim": "La France compte 5 millions de passoires thermiques.",
+      "verdict": "misleading",
+      "fakeness": 35,
+      "confidence": 80,
+      "title": "Passoires thermiques : un chiffre dépassé",
+      "explanation": "L'Observatoire national de la rénovation énergétique recensait 3,9 millions de passoires (étiquettes F et G) sur 30,9 millions de résidences principales au 1er janvier 2025 (12,7 %), soit 836 000 de moins qu'en 2023. Le chiffre de 5 millions correspond aux estimations de 2022. Depuis, la réforme du DPE du 1er janvier 2026 a encore fait sortir environ 850 000 logements chauffés à l'électricité de ce statut.",
+      "correction": "Selon l'ONRE, environ 3,9 millions de résidences principales étaient des passoires énergétiques au 1er janvier 2025.",
+      "sources": [
+        {
+          "title": "SDES — Le parc de logements par classe de performance énergétique au 1er janvier 2025",
+          "url": "https://www.statistiques.developpement-durable.gouv.fr/le-parc-de-logements-par-classe-de-performance-energetique-au-1er-janvier-2025"
+        },
+        {
+          "title": "franceinfo — 850 000 passoires thermiques en moins avec le nouveau calcul du DPE",
+          "url": "https://www.franceinfo.fr/economie/immobilier/chauffage-electrique-850-000-passoires-thermiques-en-moins-ce-que-va-changer-le-nouveau-calcul-du-dpe-des-le-1er-janvier_7708939.html"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-008",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s257",
+      "quote": "rapport de Jeanpisanif qui disait 16 milliards pour les logements, 10 milliards pour les bâtiments publics",
+      "speaker": "ruffin",
+      "claim": "Le rapport Pisani-Ferry estime les besoins à 16 milliards d'euros par an pour les logements et 10 milliards pour les bâtiments publics.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 85,
+      "title": "Rapport Pisani-Ferry : ordre de grandeur juste",
+      "explanation": "Le rapport Pisani-Ferry et Mahfouz (France Stratégie, mai 2023) chiffre à 10 milliards d'euros par an en 2030 l'investissement supplémentaire pour les bâtiments publics, ce qui correspond exactement. Pour la rénovation des logements, il donne 21 milliards d'investissement supplémentaire, dont 10 à 14 milliards de financement public, et environ 15 milliards pour les seules passoires chauffées au fioul et au gaz. Le chiffre de 16 milliards n'apparaît pas tel quel, mais il se situe dans cette fourchette.",
+      "correction": "Le rapport évalue à 10 Md€/an les bâtiments publics et à 21 Md€/an la rénovation des logements (dont 10 à 14 Md€ publics) en 2030.",
+      "sources": [
+        {
+          "title": "France Stratégie — Les incidences économiques de l'action pour le climat (rapport, mai 2023)",
+          "url": "https://www.documentation-administrative.gouv.fr/adm-01859873v1/file/FS_RA2023_IncidencesEcoActionClimat.pdf"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-009",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s360",
+      "quote": "on signe un accord de libre échange dans lequel maudit refuse que soit intégré les normes de",
+      "speaker": "ruffin",
+      "claim": "L'UE vient de signer avec l'Inde un accord de libre-échange dont Narendra Modi a refusé qu'il intègre les normes de l'Organisation internationale du travail.",
+      "verdict": "mostly_false",
+      "fakeness": 55,
+      "confidence": 70,
+      "title": "Accord UE-Inde : pas signé, normes OIT présentes",
+      "explanation": "L'accord UE-Inde a été conclu politiquement le 27 janvier 2026, mais il n'était pas signé début septembre : la Commission n'a transmis sa proposition de signature au Conseil que le 11 septembre 2026. Son chapitre commerce et développement durable reprend les principes fondamentaux de l'OIT (liberté syndicale, travail forcé, travail des enfants, non-discrimination). L'Inde a refusé en revanche un mécanisme de sanctions commerciales : ces engagements passent par une procédure de consultation.",
+      "correction": "L'accord UE-Inde, conclu en janvier 2026 et pas encore signé, cite les principes de l'OIT sans prévoir de sanctions en cas de manquement.",
+      "sources": [
+        {
+          "title": "Commission européenne — L'UE et l'Inde concluent un accord de libre-échange historique (27/01/2026)",
+          "url": "https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/lue-et-linde-concluent-un-accord-de-libre-echange-historique-2026-01-27_fr"
+        },
+        {
+          "title": "Commission européenne — Proposition au Conseil en vue de la signature (11/09/2026)",
+          "url": "https://france.representation.ec.europa.eu/informations-et-evenements/informations/la-commission-presente-au-conseil-laccord-de-libre-echange-historique-avec-linde-en-vue-de-sa-2026-09-11_fr"
+        },
+        {
+          "title": "DG Trade — EU-India FTA: chapter-by-chapter summary",
+          "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/india/eu-india-agreements/memo-eu-india-free-trade-agreement-chapter-chapter-summary_en"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-010",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s407",
+      "quote": "des taxes asymétriques de 15 % d'un côté, 0 % de l'autre, mais parce qu' il est contenu de manière tacite",
+      "speaker": "ruffin",
+      "claim": "L'accord de Turnberry prévoit 15 % de droits de douane américains contre 0 % côté européen, et des engagements tacites d'achats d'énergie et d'armement américains.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 80,
+      "title": "Turnberry : asymétrie réelle, engagements pas tacites",
+      "explanation": "L'accord du 27 juillet 2025 plafonne à 15 % les droits américains sur la plupart des produits européens, tandis que l'UE s'engage à supprimer ses droits sur les biens industriels américains. En revanche, les achats d'énergie (750 milliards de dollars jusqu'en 2028) et l'augmentation des achats d'équipements militaires figurent explicitement dans la déclaration conjointe du 21 août 2025. Ils ne sont donc pas « tacites ».",
+      "correction": "L'accord de Turnberry impose 15 % d'un côté et 0 % de l'autre, et il contient des engagements explicites d'achats d'énergie et d'armement américains.",
+      "sources": [
+        {
+          "title": "Touteleurope — Qu'est-ce que l'accord de Turnberry ?",
+          "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/droits-de-douane-qu-est-ce-que-l-accord-de-turnberry-entre-l-union-europeenne-et-les-etats-unis/"
+        },
+        {
+          "title": "Commission européenne — Joint Statement on a US-EU framework agreement (21/08/2025)",
+          "url": "https://policy.trade.ec.europa.eu/news/joint-statement-united-states-european-union-framework-agreement-reciprocal-fair-and-balanced-trade-2025-08-21_en"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-011",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s424",
+      "quote": "Il est le seul en Europe à le faire mais du coup ça bloque le projet",
+      "speaker": "ruffin",
+      "claim": "Mitterrand a été le seul dirigeant européen à refuser la « guerre des étoiles » de Reagan, et ce refus a bloqué le projet.",
+      "verdict": "mostly_false",
+      "fakeness": 60,
+      "confidence": 80,
+      "title": "IDS : un refus français, pas un blocage",
+      "explanation": "Mitterrand a bien refusé en 1985 que la France participe à l'Initiative de défense stratégique et a lancé en réponse le programme européen Eureka. Mais ce refus n'a rien bloqué : le Royaume-Uni (décembre 1985), la RFA (mars 1986) et l'Italie (septembre 1986) ont signé des accords de participation, et le programme américain s'est poursuivi jusqu'au début des années 1990.",
+      "correction": "Mitterrand a refusé de participer à l'IDS et lancé Eureka, mais le programme s'est poursuivi avec d'autres alliés européens.",
+      "sources": [
+        {
+          "title": "Institut François Mitterrand — La France face à l'initiative de défense stratégique",
+          "url": "https://www.mitterrand.org/la-france-face-a-l-initiative-de.html"
+        },
+        {
+          "title": "Heritage Foundation — America's Allies Continue to Join the Strategic Defense Initiative",
+          "url": "https://www.heritage.org/defense/report/americas-allies-continue-join-the-strategic-defense-initiative"
+        },
+        {
+          "title": "Hansard — Strategic Defence Initiative (19 février 1986)",
+          "url": "https://api.parliament.uk/historic-hansard/commons/1986/feb/19/strategic-defence-initiative"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-012",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s428",
+      "quote": "sont tous les trois passés par la French American Foundation, par le programme des Young American Leaders",
+      "speaker": "ruffin",
+      "claim": "Nicolas Sarkozy, François Hollande et Emmanuel Macron sont tous trois passés par le programme Young Leaders de la French-American Foundation.",
+      "verdict": "misleading",
+      "fakeness": 40,
+      "confidence": 75,
+      "title": "Young Leaders : Hollande et Macron, pas Sarkozy",
+      "explanation": "François Hollande (1996) et Emmanuel Macron (2012) figurent bien parmi les Young Leaders de la French-American Foundation. Nicolas Sarkozy, lui, n'apparaît pas dans les listes de lauréats, même s'il a entretenu des liens avec la fondation. L'affirmation est donc juste pour deux présidents sur trois.",
+      "correction": "Deux des trois derniers présidents, François Hollande (1996) et Emmanuel Macron (2012), ont été Young Leaders de la French-American Foundation.",
+      "sources": [
+        {
+          "title": "Wikipédia — French-American Foundation (France)",
+          "url": "https://fr.wikipedia.org/wiki/French-American_Foundation-France"
+        },
+        {
+          "title": "Wikipedia — French-American Foundation",
+          "url": "https://en.wikipedia.org/wiki/French-American_Foundation"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-013",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s472",
+      "quote": "ce continent qui en 2050 aura plus de 2 milliards d'habitants et en plus de 4 milliards",
+      "speaker": "villepin",
+      "claim": "L'Afrique comptera plus de 2 milliards d'habitants en 2050 et plus de 4 milliards à terme (2100).",
+      "verdict": "mostly_true",
+      "fakeness": 12,
+      "confidence": 85,
+      "title": "Démographie africaine : 2050 juste, 2100 surestimé",
+      "explanation": "Selon les World Population Prospects 2024 de l'ONU, l'Afrique devrait approcher 2,5 milliards d'habitants en 2050, soit « plus de 2 milliards ». Pour 2100, la projection centrale est d'environ 3,8 milliards : le chiffre de « plus de 4 milliards » est un peu surestimé.",
+      "correction": "L'Afrique devrait compter environ 2,5 milliards d'habitants en 2050 et environ 3,8 milliards en 2100 (ONU, scénario central).",
+      "sources": [
+        {
+          "title": "Nations unies — World Population Prospects 2024",
+          "url": "https://population.un.org/wpp/"
+        },
+        {
+          "title": "Commission économique pour l'Afrique (ONU) — Africa's population crosses 1.5 billion",
+          "url": "https://www.uneca.org/stories/(blog)-as-africa%E2%80%99s-population-crosses-1.5-billion,-the-demographic-window-is-opening-getting"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-014",
+      "kind": "fact",
+      "type": "legal",
+      "label": "Texte de loi",
+      "segmentId": "s512",
+      "quote": "une partie de la majorité de droite a voulu faire passer une loi qui reconnaissait les bénéfices de la colonisation",
+      "speaker": "villepin",
+      "claim": "En 2005, une partie de la majorité de droite a fait voter une loi reconnaissant les bienfaits de la colonisation, que le gouvernement Villepin a ensuite défaite.",
+      "verdict": "mostly_true",
+      "fakeness": 8,
+      "confidence": 85,
+      "title": "Loi de 2005 sur la colonisation : exact",
+      "explanation": "L'article 4 de la loi du 23 février 2005, adoptée sous le gouvernement Raffarin, demandait aux programmes scolaires de reconnaître « le rôle positif de la présence française outre-mer ». Après l'intervention de Jacques Chirac, le Premier ministre Dominique de Villepin a saisi le Conseil constitutionnel en janvier 2006, et l'alinéa a été supprimé par décret en février 2006. Le texte parlait de « rôle positif » et non de « bienfaits », une nuance de formulation.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Loi portant reconnaissance de la Nation en faveur des Français rapatriés",
+          "url": "https://fr.wikipedia.org/wiki/Loi_portant_reconnaissance_de_la_Nation_et_contribution_nationale_en_faveur_des_Fran%C3%A7ais_rapatri%C3%A9s"
+        },
+        {
+          "title": "INA — Suppression de l'article 4 de la loi du 23 février 2005",
+          "url": "https://www.ina.fr/ina-eclaire-actu/video/3016608001021/suppression-de-l-article-4-de-la-loi-du-23-fevrier-2005"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-015",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s516",
+      "quote": "suivait au Cameroun, je crois une colonne de l'armée française",
+      "speaker": "ruffin",
+      "claim": "Le film Afrique 50 de René Vautier suivait une colonne de l'armée française au Cameroun.",
+      "verdict": "mostly_true",
+      "fakeness": 25,
+      "confidence": 75,
+      "title": "Afrique 50 : tourné en AOF, pas au Cameroun",
+      "explanation": "Afrique 50 (1950) de René Vautier dénonce bien les violences coloniales, avec des villages incendiés et des habitants tués, et il a été interdit pendant des décennies. Le film a toutefois été tourné en Afrique occidentale française (Côte d'Ivoire, Soudan français, Haute-Volta, Sénégal), et non au Cameroun. Ruffin avait lui-même nuancé avec « je crois ».",
+      "correction": "Afrique 50 a été tourné en Afrique occidentale française (Côte d'Ivoire, Mali, Haute-Volta), pas au Cameroun.",
+      "sources": [
+        {
+          "title": "Wikipedia — Afrique 50",
+          "url": "https://en.wikipedia.org/wiki/Afrique_50"
+        },
+        {
+          "title": "Ciné-Archives — Afrique 50, René Vautier, 1950",
+          "url": "https://www.cinearchives.org/catalogue-afrique-50-1104-171-1-0.html"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-016",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s537",
+      "quote": "On est à 70 milliards, ça va passer à 100 milliards",
+      "speaker": "villepin",
+      "claim": "La charge d'intérêts de la dette publique atteint environ 70 milliards d'euros par an et va monter à 100 milliards.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 75,
+      "title": "Charge de la dette : ordre de grandeur juste",
+      "explanation": "Selon la Cour des comptes (juin 2026), la charge d'intérêts de l'ensemble des administrations publiques augmente de 12 milliards en 2026 pour atteindre 77 milliards d'euros ; pour le seul budget de l'État, le Sénat retient 60,4 milliards en 2026. Les projections officielles la voient dépasser 90 milliards en 2029 et atteindre 100 milliards vers 2030. Le chiffre de 70 milliards se situe entre ces deux périmètres, et les 100 milliards sont une projection à moyen terme, pas une certitude.",
+      "correction": "La charge d'intérêts atteint 60 milliards (État) à 77 milliards d'euros (toutes administrations) en 2026 et pourrait avoisiner 100 milliards vers 2029-2030.",
+      "sources": [
+        {
+          "title": "Public Sénat — « La dette consomme toutes nos marges de manœuvre budgétaires », Cour des comptes (juin 2026)",
+          "url": "https://www.publicsenat.fr/actualites/economie/la-dette-consomme-toutes-nos-marges-de-manoeuvre-budgetaires-salarme-la-cour-des-comptes-avant-les-arbitrages-du-prochain-budget"
+        },
+        {
+          "title": "Sénat — Rapport PLF 2026, Engagements financiers de l'État",
+          "url": "https://www.senat.fr/rap/l25-139-312/l25-139-312_mono.html"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-017",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s544",
+      "quote": "les niches sociales et fiscales qui représentent 175 milliards d'euros",
+      "speaker": "villepin",
+      "claim": "Les niches fiscales et sociales représentent environ 175 à 180 milliards d'euros par an.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 70,
+      "title": "Niches fiscales et sociales : montant plausible",
+      "explanation": "Les dépenses fiscales (niches fiscales) sont chiffrées entre 90 et 100 milliards d'euros selon les années et les périmètres (101,4 milliards en 2024 selon Fipeco), et les exonérations et exemptions de cotisations sociales ont représenté environ 88 milliards d'euros en 2024. Leur addition donne bien un ordre de grandeur de 175 à 190 milliards. Le total dépend toutefois fortement de ce que l'on range dans les « niches » : les allègements généraux de cotisations (environ 75 milliards) sont parfois considérés comme faisant partie de la norme.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Fipeco — Les dépenses fiscales",
+          "url": "https://www.fipeco.fr/fiche/Les-d%C3%A9penses-fiscales"
+        },
+        {
+          "title": "Sénat — Séance du 19 novembre 2024 (PLFSS 2025)",
+          "url": "https://www.senat.fr/seances/s202411/s20241119/s20241119012.html"
+        },
+        {
+          "title": "MoneyVox — Villepin propose un « big bang » fiscal",
+          "url": "https://www.moneyvox.fr/impot/actualites/110169/presidentielle-2027-pour-sortir-un-systeme-feodal-villepin-propose-un-big-bang-fiscal"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-018",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s605",
+      "quote": "ça fait 1000 milliards auquel Emmanuel Macron a rajouté 1000 milliards",
+      "speaker": "villepin",
+      "claim": "La dette publique a augmenté d'environ 1 000 milliards d'euros sous Nicolas Sarkozy et François Hollande réunis, puis d'environ 1 000 milliards sous Emmanuel Macron.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 75,
+      "title": "Dette par quinquennat : chiffres globalement exacts",
+      "explanation": "Les séries reprises par The Conversation situent la dette publique autour de 1 280 milliards d'euros mi-2007 et à 2 258,7 milliards en 2017, soit près de 1 000 milliards de plus sous Sarkozy et Hollande. Selon l'Insee, elle atteint 3 536,1 milliards fin mars 2026, soit environ 1 280 milliards de plus depuis l'arrivée d'Emmanuel Macron : le chiffre de Villepin est même un peu sous-estimé pour Macron. Ces hausses tiennent en partie aux crises (2008-2009, Covid).",
+      "correction": "La dette a crû d'environ 1 000 milliards d'euros sous Sarkozy et Hollande, puis d'environ 1 280 milliards sous Macron (fin mars 2026).",
+      "sources": [
+        {
+          "title": "The Conversation — L'endettement de l'État sous Chirac, Sarkozy, Hollande, Macron",
+          "url": "https://theconversation.com/lendettement-de-letat-sous-chirac-sarkozy-hollande-macron-ce-que-nous-apprend-lhistoire-recente-261478"
+        },
+        {
+          "title": "Insee — À la fin du premier trimestre 2026, le ratio de dette publique s'établit à 117,5 % du PIB",
+          "url": "https://www.insee.fr/fr/statistiques/9010340"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-019",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s617",
+      "quote": "Aujourd'hui, on en est à 40 %.",
+      "speaker": "ruffin",
+      "claim": "Le patrimoine des 500 plus grandes fortunes du classement Challenges est passé de 6 % du PIB en 1996 à 20 % en 2017, puis à 40 % aujourd'hui.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 75,
+      "title": "500 fortunes : tendance exacte, étape 2017 sous-estimée",
+      "explanation": "D'après les classements Challenges, les 500 fortunes pesaient environ 6 % du PIB en 1996 et environ 25 % en 2017-2018 (et non 20 %) ; elles ont culminé à 42 % du PIB en 2024 avant de reculer à 1 128 milliards d'euros en 2025, soit un peu moins de 40 %. La tendance décrite est donc exacte. La fondation iFRAP souligne toutefois que rapporter un stock de patrimoine, largement fait d'actions cotées, à un flux annuel comme le PIB est une comparaison trompeuse.",
+      "correction": "Les 500 fortunes sont passées d'environ 6 % du PIB en 1996 à environ 25 % en 2017 et près de 40 % en 2024-2025 (comparaison stock/flux à manier avec prudence).",
+      "sources": [
+        {
+          "title": "Fakir — La bombe de Challenges (2018)",
+          "url": "https://fakirpresse.info/la-bombe-de-challenges/"
+        },
+        {
+          "title": "Fondation iFRAP — Fortune des 500 plus riches et PIB : une comparaison trompeuse",
+          "url": "https://www.ifrap.org/budget-et-fiscalite/fortune-des-500-plus-riches-et-pib-une-comparaison-trompeuse"
+        },
+        {
+          "title": "Observatoire des inégalités — La croissance démesurée des 500 plus grandes fortunes",
+          "url": "https://www.inegalites.fr/La-croissance-demesuree-des-500-plus-grandes-fortunes"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-020",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s623",
+      "quote": "la part des salaires est passé de 50 % à 25 %",
+      "speaker": "ruffin",
+      "claim": "Selon le rapport Mazzucato sur les 300 plus grandes entreprises européennes, la part des salaires est passée de 50 % à 25 %.",
+      "verdict": "mostly_false",
+      "fakeness": 70,
+      "confidence": 75,
+      "title": "Rapport Mazzucato : chiffre sur les salaires introuvable",
+      "explanation": "Le rapport de Mariana Mazzucato pour la Confédération européenne des syndicats (juin 2026) confirme plusieurs chiffres cités par Ruffin : bénéfices bruts en hausse de 151 % depuis 2000, 300 entreprises pesant environ 40 % du PIB de l'UE, investissement net tombé de 18,9 % à 7,4 % du bénéfice brut, dividendes et rachats d'actions passés de 27 % à 68 % des bénéfices nets. En revanche, il ne fait état d'aucune chute de la part des salaires de 50 % à 25 % : il décrit des coûts salariaux stables (15 à 17 % du chiffre d'affaires) et une part du travail dans la valeur ajoutée quasi stable (59,8 % en 2000, 59,2 % en 2024), la rémunération par salarié ayant progressé de 87 % contre 151 % pour les profits.",
+      "correction": "Le rapport montre une part des salaires stagnante (autour de 59 % de la valeur ajoutée) et des salaires en hausse de 87 % contre 151 % pour les profits, pas une division par deux.",
+      "sources": [
+        {
+          "title": "ETUC — Mazzucato: EU has 'misdiagnosed' competitiveness problem (30 juin 2026)",
+          "url": "https://www.etuc.org/en/pressrelease/mazzucato-eu-has-misdiagnosed-competitiveness-problem"
+        },
+        {
+          "title": "ETUC — Labour Squeezed, Investment Stalled (rapport, juin 2026)",
+          "url": "https://www.etuc.org/sites/default/files/document/file/2026-06/Labour%20Squeezed%20Investment%20Stalled%20-%20The%20Hidden%20Cost%20of%20Financialisation%20in%20Europes%20Corporate%20Sector.pdf"
+        },
+        {
+          "title": "Force Ouvrière — En Europe, des profits insuffisamment réinvestis dans la production",
+          "url": "https://www.force-ouvriere.fr/etude-en-europe-des-profits-insuffisamment-reinvestis-dans-la"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-021",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s630",
+      "quote": "qui paye l'impôt sur la fortune immobilière mais qui ne paye pas l'impôt sur le revenu",
+      "speaker": "ruffin",
+      "claim": "Selon un ancien ministre des Finances, environ 13 000 contribuables assujettis à l'IFI ne paient pas d'impôt sur le revenu.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 85,
+      "title": "IFI sans impôt sur le revenu : chiffre exact",
+      "explanation": "Après son départ de Bercy, l'ex-ministre de l'Économie Éric Lombard a affirmé en janvier 2026 que des milliers de contribuables parmi les plus aisés ne payaient pas d'impôt sur le revenu. Les données fiscales obtenues par la commission des finances du Sénat (février 2026) le confirment : 13 335 foyers assujettis à l'IFI, soit 7,3 %, n'ont pas payé d'impôt sur le revenu en 2024. Les causes mêlent revenus exonérés, crédits d'impôt et optimisation (holdings, apport-cession), mais aussi des héritiers de biens immobiliers aux revenus modestes.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Public Sénat — Plus de 13 000 millionnaires ne paient pas d'impôt sur le revenu (février 2026)",
+          "url": "https://www.publicsenat.fr/actualites/economie/plus-de-13-000-millionnaires-ne-paient-pas-dimpot-sur-le-revenu-selon-des-donnees-gouvernementales-obtenues-par-le-senat"
+        },
+        {
+          "title": "Fondation iFRAP — 13 335 personnes assujetties à l'IFI ne paient pas d'impôt sur le revenu… et alors ?",
+          "url": "https://www.ifrap.org/budget-et-fiscalite/13-335-personnes-assujetties-lifi-ne-paient-pas-dimpot-sur-le-revenu-et-alors"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-022",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s684",
+      "quote": "je n'ai jamais privatisé les autoroutes",
+      "speaker": "villepin",
+      "claim": "Le gouvernement Villepin n'a pas privatisé les autoroutes : il a seulement achevé un processus d'ouverture engagé par la gauche.",
+      "verdict": "misleading",
+      "fakeness": 60,
+      "confidence": 80,
+      "title": "Autoroutes : la privatisation date bien de 2006",
+      "explanation": "Les autoroutes sont concédées depuis 1955 et l'infrastructure reste propriété de l'État, ce qui donne à Villepin un argument formel. Mais c'est bien son gouvernement qui, fin 2005-2006, a vendu les participations restantes de l'État dans ASF, APRR et Sanef à Vinci, Eiffage et Abertis pour 14,8 milliards d'euros : c'est ce que l'on appelle la privatisation des sociétés d'autoroutes. Il est exact que le gouvernement Jospin avait cédé 49 % du capital d'ASF en 2002 et que les premières concessions (Sanef) arrivent à échéance fin 2031.",
+      "correction": "Le gouvernement Villepin a privatisé en 2006 les sociétés concessionnaires d'autoroutes (14,8 milliards d'euros), après une ouverture partielle de leur capital engagée sous Jospin en 2002.",
+      "sources": [
+        {
+          "title": "Fipeco — Fallait-il concéder et privatiser les autoroutes ?",
+          "url": "https://www.fipeco.fr/fiche/Fallait-il-conc%C3%A9der-et-privatiser-les-autoroutes-%3F"
+        },
+        {
+          "title": "Wikipédia — Société concessionnaire d'autoroutes en France",
+          "url": "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_concessionnaire_d'autoroutes_en_France"
+        },
+        {
+          "title": "Le Moniteur — Concessions autoroutières : l'État fixe ses exigences à l'approche de l'échéance des contrats",
+          "url": "https://www.lemoniteur.fr/article/sept-ans-de-chantiers-autoroutiers-sous-l-il-de-l-etat-premiers.2343446"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-023",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s727",
+      "quote": "c'est-à-dire 100000 personnes par an, 100000 qui sont broyés",
+      "speaker": "ruffin",
+      "claim": "Environ 100 000 personnes par an sont exclues du travail pour raisons de santé (burn-out, troubles musculosquelettiques), un chiffre qui a plus que doublé.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 65,
+      "title": "Inaptitudes au travail : ordre de grandeur correct",
+      "explanation": "Ruffin vise les licenciements pour inaptitude médicale. Selon l'IGAS (rapport de décembre 2025), 130 000 déclarations d'inaptitude ont été prononcées en 2023, conduisant dans la grande majorité des cas à un licenciement ; des comptes rendus de ses interventions parlementaires évoquent un passage de 43 000 à plus de 100 000 licenciements en dix ans. L'ordre de grandeur est donc correct, voire prudent, mais toutes les inaptitudes ne relèvent pas du burn-out ou des TMS.",
+      "correction": "Environ 130 000 avis d'inaptitude ont été prononcés en 2023 selon l'IGAS, débouchant le plus souvent sur un licenciement.",
+      "sources": [
+        {
+          "title": "IGAS — Prévention de la désinsertion professionnelle : détecter le risque, coordonner les acteurs (déc. 2025)",
+          "url": "https://www.igas.gouv.fr/prevention-de-la-desinsertion-professionnelle-detecter-le-risque-coordonner-les-acteurs-0"
+        },
+        {
+          "title": "L'Actu citoyenne — Un million de licenciements ? François Ruffin tire la sonnette d'alarme",
+          "url": "https://www.lactucitoyenne.fr/actualites/social/un-million-de-licenciements-francois-ruffin-tire-la-sonnette-d-alarme-en-commission"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-024",
+      "kind": "fact",
+      "type": "legal",
+      "label": "Texte de loi",
+      "segmentId": "s750",
+      "quote": "c'est d'avoir sorti le critère de pénibilité",
+      "speaker": "villepin",
+      "claim": "Emmanuel Macron a retiré des critères de pénibilité du dispositif de retraite.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 75,
+      "title": "Pénibilité : quatre critères supprimés en 2017",
+      "explanation": "L'ordonnance du 22 septembre 2017 a transformé le compte pénibilité (C3P) en compte professionnel de prévention (C2P) et supprimé quatre des dix facteurs d'exposition : port de charges lourdes, postures pénibles, vibrations mécaniques et agents chimiques. Ces risques ne sont plus pris en compte qu'en cas de maladie professionnelle reconnue avec une incapacité d'au moins 10 %. Parler d'un « critère » retiré simplifie : six facteurs de pénibilité subsistent.",
+      "correction": "En 2017, Emmanuel Macron a supprimé quatre des dix critères de pénibilité ouvrant droit au compte pénibilité, six restant en vigueur.",
+      "sources": [
+        {
+          "title": "Éditions Tissot — Suppression du compte pénibilité : confirmation du Conseil constitutionnel",
+          "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/suppression-du-compte-penibilite-confirmation-du-conseil-constitutionnel"
+        },
+        {
+          "title": "Preventeo — Révision du « compte pénibilité » : le C3P est mort, vive le C2P !",
+          "url": "https://www.preventeo.com/fr/revision-du-compte-penibilite-le-c3p-est-mort-vive-le-c2p/"
+        },
+        {
+          "title": "Previsoft — C2P : la Cour des comptes veut tourner la page de la réforme de 2017",
+          "url": "https://www.previsoft.fr/c2p-la-cour-des-comptes-veut-tourner-la-page-de-la-reforme-de-2017/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-025",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s782",
+      "quote": "je suis donné à 6 % dans les sondages",
+      "speaker": "ruffin",
+      "claim": "François Ruffin est crédité d'environ 6 % des intentions de vote ; Marine Le Pen et Jean-Luc Mélenchon disputent leur quatrième présidentielle.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 85,
+      "title": "Ruffin à 6 % : conforme aux sondages",
+      "explanation": "Le sondage Elabe d'août 2026 crédite François Ruffin de 6 % des intentions de vote au premier tour (Villepin : 2 à 2,5 %). Jean-Luc Mélenchon a officialisé en mai 2026 sa quatrième candidature, après 2012, 2017 et 2022. Marine Le Pen, condamnée en appel le 7 juillet 2026 mais redevenue éligible, s'est déclarée candidate le soir même, pour une quatrième présidentielle après 2012, 2017 et 2022.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Elabe — Les Français et l'élection présidentielle 2027 (août 2026)",
+          "url": "https://elabe.fr/presidentielle-2027-aout/"
+        },
+        {
+          "title": "France 24 — Jean-Luc Mélenchon officialise sa candidature à l'élection présidentielle de 2027",
+          "url": "https://www.france24.com/fr/france/20260503-jean-luc-m%C3%A9lenchon-lfi-officialise-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle-de-2027"
+        },
+        {
+          "title": "Touteleurope.eu — Marine Le Pen condamnée en appel, mais éligible à la présidentielle 2027",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-026",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s861",
+      "quote": "Ils étaient 17 autour de la table au 48 rue du Four.",
+      "speaker": "villepin",
+      "claim": "La première réunion du Conseil national de la Résistance a rassemblé 17 personnes au 48 rue du Four, autour de Jean Moulin.",
+      "verdict": "true",
+      "fakeness": 3,
+      "confidence": 90,
+      "title": "CNR : 17 personnes rue du Four, exact",
+      "explanation": "Le 27 mai 1943, Jean Moulin réunit clandestinement au premier étage du 48 rue du Four (Paris 6e) la première séance du Conseil de la Résistance : cinq représentants des mouvements de zone Nord, trois de zone Sud, six des partis politiques et deux des syndicats, soit 17 personnes avec Jean Moulin selon le ministère des Armées. Le détail avancé par Villepin est donc exact.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Ministère des Armées — La première réunion du Conseil national de la Résistance, le 27 mai 1943",
+          "url": "https://www.defense.gouv.fr/actualites/premiere-reunion-du-conseil-national-resistance-27-mai-1943-moment-fondateur-resistance-francaise"
+        },
+        {
+          "title": "Fondation de la Résistance — Le Conseil national de la Résistance",
+          "url": "https://www.fondationresistance.org/pedagogie/espace-enseignant/dossiers-thematiques/dossier-thematique/conseil-national-sistance-dossier-thematique-22/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-027",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s872",
+      "quote": "Quand le vicomte de noil monte pour prendre la parole",
+      "speaker": "villepin",
+      "claim": "Lors de la nuit du 4 août 1789, le vicomte de Noailles, cadet sans fortune, a proposé la fin des privilèges, suivi par le duc d'Aiguillon, beaucoup plus riche, les droits étant ensuite déclarés rachetables.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 75,
+      "title": "Nuit du 4 août : récit fidèle",
+      "explanation": "Le soir du 4 août 1789, le vicomte de Noailles, cadet de famille sans fortune, propose le premier la suppression des droits féodaux, suivi par le duc d'Aiguillon, l'un des plus riches seigneurs du royaume, qui renonçait à plus de 100 000 livres de rentes annuelles. Les droits seigneuriaux réels furent bien déclarés rachetables (décrets d'août 1789, précisés en mars 1790). Nuance : d'Aiguillon avait préparé l'initiative dès la veille au Club breton, et le sacrifice de Noailles était surtout symbolique.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Hérodote — 4 août 1789 : abolition des privilèges et des droits féodaux",
+          "url": "https://www.herodote.net/4_aout_1789-evenement-17890804.php"
+        },
+        {
+          "title": "Assemblée nationale — Target, Noailles et Aiguillon (nuit du 4 août 1789)",
+          "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/grands-discours-parlementaires/target-noailles-et-aiguillon-nuit-du-4-aout-1789"
+        },
+        {
+          "title": "Wikipédia — Nuit du 4 août 1789",
+          "url": "https://fr.wikipedia.org/wiki/Nuit_du_4_ao%C3%BBt_1789"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-028",
+      "kind": "fact",
+      "type": "quote_attribution",
+      "label": "Citation attribuée",
+      "segmentId": "s932",
+      "quote": "comme disait Rouvelt, il faut essayer quelque chose",
+      "speaker": "ruffin",
+      "claim": "Franklin D. Roosevelt a dit qu'il fallait essayer quelque chose, et que le peuple pardonnerait l'échec mais pas l'inaction.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 75,
+      "title": "Roosevelt : citation authentique, suite paraphrasée",
+      "explanation": "Dans son discours à l'université d'Oglethorpe (22 mai 1932), Franklin D. Roosevelt réclamait une expérimentation audacieuse et persistante : essayer une méthode, admettre franchement son échec, en essayer une autre, « but above all, try something ». La première partie de la citation est donc authentique. La suite (« le peuple ne nous en voudra pas d'avoir échoué… ») est une paraphrase qui ne figure pas telle quelle dans le discours.",
+      "correction": "Roosevelt a bien dit « avant tout, essayez quelque chose » (Oglethorpe, 1932), mais pas la phrase sur le peuple qui pardonnerait l'échec.",
+      "sources": [
+        {
+          "title": "The American Presidency Project — Address at Oglethorpe University in Atlanta, Georgia (1932)",
+          "url": "https://www.presidency.ucsb.edu/documents/address-oglethorpe-university-atlanta-georgia"
+        },
+        {
+          "title": "Oglethorpe University — Roosevelt speaks on campus",
+          "url": "https://oglethorpe.edu/roosevelt-speaks-on-campus/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-029",
+      "kind": "fact",
+      "type": "quote_attribution",
+      "label": "Citation attribuée",
+      "segmentId": "s1011",
+      "quote": "J'espère qu'il y aura des désobéissances",
+      "speaker": "fauvelle",
+      "claim": "Marine Tondelier a dit espérer des désobéissances en cas de victoire du RN ; Mathilde Panot a dit qu'elle respecterait le résultat mais résisterait.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 85,
+      "title": "Tondelier et Panot : propos fidèlement rapportés",
+      "explanation": "Interrogée sur LCI le 22 août 2026, lors des journées d'été des Écologistes, Marine Tondelier a répondu espérer des actes de « désobéissance » en cas de victoire du RN, tout en reconnaissant qu'il y en aurait peu ; elle a réitéré ce souhait sur franceinfo. Mathilde Panot, présidente du groupe LFI à l'Assemblée, a promis de « résister de toutes les manières » face à une présidence Le Pen tout en assurant qu'elle respecterait le résultat des urnes.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Le JDD — Présidentielle : Marine Tondelier espère des « désobéissances » en cas de victoire du RN",
+          "url": "https://www.lejdd.fr/politique/presidentielle-marine-tondelier-espere-des-desobeissances-en-cas-de-victoire-du-rn-181677"
+        },
+        {
+          "title": "franceinfo — Marine Tondelier réaffirme son souhait d'une « désobéissance civile » en cas de victoire du RN",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-tondelier-reaffirme-son-souhait-d-une-desobeissance-civile-en-cas-de-victoire-du-rn_8173421.html"
+        },
+        {
+          "title": "Le JDD — Mathilde Panot promet de « résister » en cas de victoire du RN",
+          "url": "https://www.lejdd.fr/politique/presidentielle-mathilde-panot-promet-de-resister-de-toutes-les-manieres-en-cas-de-victoire-du-rn-181773"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-030",
+      "kind": "fact",
+      "type": "quote_attribution",
+      "label": "Citation attribuée",
+      "segmentId": "s1037",
+      "quote": "Bruno Rota pour ce qui concerne l'état de droit",
+      "speaker": "villepin",
+      "claim": "Bruno Retailleau a tenu des propos remettant en cause l'État de droit.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 75,
+      "title": "Retailleau et l'État de droit : déclaration réelle",
+      "explanation": "Une semaine après sa nomination au ministère de l'Intérieur, Bruno Retailleau déclarait au JDD (septembre 2024) : « L'État de droit, ça n'est pas intangible ni sacré », en ajoutant que sa source était « le peuple souverain ». Ces propos ont suscité une vive polémique, y compris dans son camp. Dire qu'il « flirte » avec la remise en cause de l'État de droit relève de l'interprétation politique, mais s'appuie sur une déclaration bien réelle.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "franceinfo — « L'État de droit, ça n'est pas intangible, ni sacré » : pourquoi les propos de Bruno Retailleau font polémique",
+          "url": "https://www.franceinfo.fr/politique/gouvernement-de-michel-barnier/l-etat-de-droit-ca-n-est-pas-intangible-ni-sacre-pourquoi-les-propos-du-ministre-de-l-interieur-bruno-retailleau-font-polemique_6810349.html"
+        },
+        {
+          "title": "Les Surligneurs — L'État de droit est-il ni « intangible ni sacré », comme l'affirme Bruno Retailleau ?",
+          "url": "https://lessurligneurs.eu/letat-de-droit-est-il-ni-intangible-ni-sacre-comme-laffirme-bruno-retailleau/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1941 @@
+{
+ "speakers": {
+  "moderator": {
+   "name": "Journaliste France Inter",
+   "role": "Modération",
+   "party": null,
+   "kind": "moderator"
+  },
+  "bompard": {
+   "name": "Manuel Bompard",
+   "role": "Député, coordinateur LFI",
+   "party": "LFI",
+   "kind": "debater"
+  },
+  "nunez": {
+   "name": "Laurent Nuñez",
+   "role": "Ministre de l'Intérieur",
+   "party": null,
+   "kind": "debater"
+  }
+ },
+ "turns": {
+  "s001": "moderator",
+  "s002": "moderator",
+  "s003": "moderator",
+  "s004": "moderator",
+  "s005": "moderator",
+  "s006": "bompard",
+  "s007": "bompard",
+  "s008": "bompard",
+  "s009": "bompard",
+  "s010": "bompard",
+  "s011": "bompard",
+  "s012": "bompard",
+  "s013": "bompard",
+  "s014": "bompard",
+  "s015": "bompard",
+  "s016": "bompard",
+  "s017": "bompard",
+  "s018": "bompard",
+  "s019": "moderator",
+  "s020": "nunez",
+  "s021": "nunez",
+  "s022": "nunez",
+  "s023": "nunez",
+  "s024": "nunez",
+  "s025": "nunez",
+  "s026": "nunez",
+  "s027": "nunez",
+  "s028": "nunez",
+  "s029": "nunez",
+  "s030": "nunez",
+  "s031": "nunez",
+  "s032": "nunez",
+  "s033": "moderator",
+  "s034": "moderator",
+  "s035": "moderator",
+  "s036": "nunez",
+  "s037": "nunez",
+  "s038": "bompard",
+  "s039": "nunez",
+  "s040": "nunez",
+  "s041": "nunez",
+  "s042": "bompard",
+  "s043": "bompard",
+  "s044": "bompard",
+  "s045": "bompard",
+  "s046": "bompard",
+  "s047": "bompard",
+  "s048": "bompard",
+  "s049": "bompard",
+  "s050": "bompard",
+  "s051": "bompard",
+  "s052": "bompard",
+  "s053": "bompard",
+  "s054": "bompard",
+  "s055": "bompard",
+  "s056": "bompard",
+  "s057": "bompard",
+  "s058": "bompard",
+  "s059": "bompard",
+  "s060": "moderator",
+  "s061": "moderator",
+  "s062": "nunez",
+  "s063": "nunez",
+  "s064": "nunez",
+  "s065": "bompard",
+  "s066": "bompard",
+  "s067": "bompard",
+  "s068": "bompard",
+  "s069": "bompard",
+  "s070": "bompard",
+  "s071": "nunez",
+  "s072": "nunez",
+  "s073": "nunez",
+  "s074": "nunez",
+  "s075": "nunez",
+  "s076": "nunez",
+  "s077": "nunez",
+  "s078": "nunez",
+  "s079": "nunez",
+  "s080": "nunez",
+  "s081": "nunez",
+  "s082": "nunez",
+  "s083": "nunez",
+  "s084": "nunez",
+  "s085": "nunez",
+  "s086": "bompard",
+  "s087": "bompard",
+  "s088": "bompard",
+  "s089": "bompard",
+  "s090": "bompard",
+  "s091": "bompard",
+  "s092": "bompard",
+  "s093": "bompard",
+  "s094": "moderator",
+  "s095": "moderator",
+  "s096": "moderator",
+  "s097": "moderator",
+  "s098": "bompard",
+  "s099": "bompard",
+  "s100": "bompard",
+  "s101": "bompard",
+  "s102": "bompard",
+  "s103": "bompard",
+  "s104": "bompard",
+  "s105": "bompard",
+  "s106": "moderator",
+  "s107": "moderator",
+  "s108": "nunez",
+  "s109": "nunez",
+  "s110": "bompard",
+  "s111": "nunez",
+  "s112": "nunez",
+  "s113": "nunez",
+  "s114": "nunez",
+  "s115": "nunez",
+  "s116": "nunez",
+  "s117": "nunez",
+  "s118": "nunez",
+  "s119": "nunez",
+  "s120": "nunez",
+  "s121": "nunez",
+  "s122": "nunez",
+  "s123": "nunez",
+  "s124": "nunez",
+  "s125": "nunez",
+  "s126": "nunez",
+  "s127": "nunez",
+  "s128": "nunez",
+  "s129": "nunez",
+  "s130": "nunez",
+  "s131": "nunez",
+  "s132": "nunez",
+  "s133": "bompard",
+  "s134": "bompard",
+  "s135": "bompard",
+  "s136": "bompard",
+  "s137": "bompard",
+  "s138": "bompard",
+  "s139": "bompard",
+  "s140": "bompard",
+  "s141": "bompard",
+  "s142": "bompard",
+  "s143": "bompard",
+  "s144": "moderator",
+  "s145": "moderator",
+  "s146": "moderator",
+  "s147": "moderator",
+  "s148": "moderator",
+  "s149": "moderator",
+  "s150": "nunez",
+  "s151": "nunez",
+  "s152": "nunez",
+  "s153": "nunez",
+  "s154": "nunez",
+  "s155": "nunez",
+  "s156": "nunez",
+  "s157": "nunez",
+  "s158": "nunez",
+  "s159": "nunez",
+  "s160": "nunez",
+  "s161": "nunez",
+  "s162": "bompard",
+  "s163": "nunez",
+  "s164": "nunez",
+  "s165": "nunez",
+  "s166": "nunez",
+  "s167": "nunez",
+  "s168": "bompard",
+  "s169": "bompard",
+  "s170": "bompard",
+  "s171": "bompard",
+  "s172": "bompard",
+  "s173": "bompard",
+  "s174": "bompard",
+  "s175": "bompard",
+  "s176": "nunez",
+  "s177": "nunez",
+  "s178": "moderator",
+  "s179": "moderator"
+ },
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Ouverture du débat",
+   "start": 0.0,
+   "end": 18.0,
+   "summary": "La journaliste de France Inter présente le débat entre Manuel Bompard et Laurent Nuñez sur les questions de sécurité et de maintien de l'ordre."
+  },
+  {
+   "id": "c2",
+   "title": "Racisme dans la police et IGPN",
+   "start": 18.0,
+   "end": 368.0,
+   "summary": "Bompard accuse le gouvernement de déni face au racisme et aux contrôles au faciès dans la police et réclame un récépissé de contrôle et une réforme de l'IGPN, que Nuñez rejette en défendant le cadre légal des contrôles et l'indépendance de l'IGPN."
+  },
+  {
+   "id": "c3",
+   "title": "Impunité policière et stigmatisation",
+   "start": 368.0,
+   "end": 509.0,
+   "summary": "Bompard dénonce une impunité policière et l'absence de sanctions exemplaires, tandis que Nuñez accuse la France insoumise de stigmatiser les policiers et de nuire à l'apaisement."
+  },
+  {
+   "id": "c4",
+   "title": "La police tue et légitime défense",
+   "start": 509.0,
+   "end": 736.0,
+   "summary": "Le débat porte sur la formule « la police tue » employée par Bompard et sur la loi de présomption de légitime défense pour les forces de l'ordre, que Bompard qualifie de « permis de tuer » et que Nuñez défend statistiques à l'appui."
+  },
+  {
+   "id": "c5",
+   "title": "Le cas Soualfa Wouri",
+   "start": 736.0,
+   "end": 833.0,
+   "summary": "Bompard relate le cas d'un jeune homme tué par un tir policier dans sa circonscription et dénonce des dysfonctionnements dans l'enquête, que Nuñez conteste."
+  },
+  {
+   "id": "c6",
+   "title": "Programme sécuritaire et maintien de l'ordre",
+   "start": 833.0,
+   "end": 989.0,
+   "summary": "La discussion porte sur le programme sécuritaire de la France insoumise (interdiction des LBD et des grenades, suppression de la BAC) et sur la doctrine de maintien de l'ordre, chacun défendant son approche avant la clôture du débat."
+  }
+ ],
+ "annotations": [
+  {
+   "id": "fal-001",
+   "kind": "rhetoric",
+   "type": "framing",
+   "label": "Cadrage",
+   "segmentId": "s003",
+   "quote": "sur ces sujets à peu près tout vous oppose",
+   "speaker": "moderator",
+   "severity": 30,
+   "confidence": 70,
+   "title": "Cadrage en affrontement total",
+   "explanation": "Le journaliste annonce d'emblée que « tout » oppose les deux invités. Ce cadrage installe le débat comme un duel plutôt que comme une recherche d'accords partiels, et rend coûteuse toute concession ultérieure. Une formulation plus neutre aurait été d'énoncer les points précis de désaccord.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-002",
+   "kind": "rhetoric",
+   "type": "framing",
+   "label": "Cadrage",
+   "segmentId": "s008",
+   "quote": "J'étais assez estomaqué finalement du dénire sur la question du racisme dans la police",
+   "speaker": "bompard",
+   "severity": 40,
+   "confidence": 65,
+   "title": "Qualifie l'adversaire de négationniste",
+   "explanation": "Avant d'argumenter, Manuel Bompard requalifie la position du ministre en « déni », ce qui présuppose la conclusion du débat à venir. Le procédé installe l'idée que l'adversaire ne discute pas de bonne foi. Une version plus honnête aurait été d'exposer d'abord les faits, puis de montrer en quoi la réponse du ministre les ignore.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-003",
+   "kind": "fallacy",
+   "type": "loaded_question",
+   "label": "Question piégée",
+   "segmentId": "s013",
+   "quote": "je comprends pas pourquoi vous n'êtes pas en capacité de regarder la réalité en face",
+   "speaker": "bompard",
+   "severity": 45,
+   "confidence": 70,
+   "title": "Question présupposant le refus adverse",
+   "explanation": "La question intègre sa propre réponse : elle tient pour acquis que le ministre est incapable de regarder la réalité, ce qui est précisément l'objet du désaccord. Quelle que soit la réponse, l'interlocuteur valide la prémisse. Il aurait été plus rigoureux de demander ce que le ministre répond aux rapports cités.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-004",
+   "kind": "rhetoric",
+   "type": "concession",
+   "label": "Concession stratégique",
+   "segmentId": "s014",
+   "quote": "Il s'agit pas de dire que l'ensemble des policiers sont racistes.",
+   "speaker": "bompard",
+   "severity": 30,
+   "confidence": 80,
+   "title": "Désamorce l'accusation de généralisation",
+   "explanation": "Manuel Bompard borne lui-même sa thèse avant que le ministre ne puisse l'accuser de viser tous les policiers. La concession est sincère sur le fond mais sert aussi de bouclier préventif. C'est un procédé légitime qui clarifie la prétention défendue : un problème systémique, pas une accusation collective.",
+   "habermas": [
+    "comprehensibility"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-005",
+   "kind": "rhetoric",
+   "type": "concession",
+   "label": "Concession stratégique",
+   "segmentId": "s022",
+   "quote": "je suis content de vous en train de dire que tous les policiers sont pas racistes",
+   "speaker": "nunez",
+   "severity": 35,
+   "confidence": 70,
+   "title": "Concession retournée en avantage",
+   "explanation": "Le ministre enregistre la précision de son adversaire comme s'il s'agissait d'un aveu ou d'un recul. La concession apparente prépare immédiatement l'attaque contre La France insoumise plutôt que la réponse sur le fond. Une réponse plus directe aurait enchaîné sur les mesures demandées (récépissé, IGPN).",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-006",
+   "kind": "fallacy",
+   "type": "straw_man",
+   "label": "Homme de paille",
+   "segmentId": "s023",
+   "quote": "Parfois sur les bans de la France insoumise, j'ai un peu le sentiment que c'est un peu ça quand même.",
+   "speaker": "nunez",
+   "severity": 60,
+   "confidence": 75,
+   "title": "Attribue une thèse tout juste démentie",
+   "explanation": "Bompard vient d'exclure explicitement l'idée que tous les policiers seraient racistes ; le ministre lui réattribue aussitôt cette position, sur la base d'un « sentiment ». Le débat se déplace vers une thèse que personne ne défend dans le studio. Une version honnête aurait cité un propos précis et daté, ou discuté la thèse réellement avancée.",
+   "habermas": [
+    "truth",
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-007",
+   "kind": "rhetoric",
+   "type": "reframing",
+   "label": "Recadrage",
+   "segmentId": "s024",
+   "quote": "me dire que ça n'est pas une généralisation chez la France insoumise",
+   "speaker": "nunez",
+   "severity": 55,
+   "confidence": 70,
+   "title": "Déplace le sujet vers les slogans LFI",
+   "explanation": "La question posée portait sur les mesures contre le racisme dans la police ; le ministre la transforme en procès du slogan « la police tue ». Le recadrage est efficace car il met l'interlocuteur en position de se justifier. Il reste que la question initiale (récépissé, IGPN) n'a pas encore reçu de réponse à ce stade.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-008",
+   "kind": "fallacy",
+   "type": "red_herring",
+   "label": "Diversion",
+   "segmentId": "s027",
+   "quote": "Le cas de Carcassen d'ailleurs, c'est un policier municipal.",
+   "speaker": "nunez",
+   "severity": 50,
+   "confidence": 65,
+   "title": "Statut du policier au lieu des faits",
+   "explanation": "Le ministre répond au cas de Carcassonne en soulignant que l'agent relève de la police municipale, donc pas de son autorité directe. L'argument est exact mais ne dit rien du problème soulevé : le maintien en poste tant que la vidéo n'était pas publique. Une réponse complète aurait traité la question du signalement et de la sanction, indépendamment du statut.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-009",
+   "kind": "fallacy",
+   "type": "begging_the_question",
+   "label": "Pétition de principe",
+   "segmentId": "s031",
+   "quote": "Toujours dans un cadre légal.",
+   "speaker": "nunez",
+   "severity": 60,
+   "confidence": 70,
+   "title": "La légalité comme preuve d'absence de biais",
+   "explanation": "Le ministre répond à l'accusation de contrôles discriminatoires en affirmant que les contrôles ont toujours lieu dans un cadre légal. Or la critique porte justement sur la manière dont ce cadre, très large, permet des contrôles ciblés sur l'apparence : la légalité formelle ne réfute pas le biais. Une réponse honnête aurait porté sur les données de ciblage, pas sur la base juridique.",
+   "habermas": [
+    "truth",
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-010",
+   "kind": "rhetoric",
+   "type": "hyperbole",
+   "label": "Hyperbole",
+   "segmentId": "s036",
+   "quote": "c'est une mesure qui qui viendrait complètement gripper le fonctionnement des services de police",
+   "speaker": "nunez",
+   "severity": 45,
+   "confidence": 70,
+   "title": "Conséquence opérationnelle maximaliste",
+   "explanation": "L'objection opérationnelle au récépissé est présentée dans sa version la plus extrême : un blocage « complet » des services. Aucune évaluation ni expérimentation n'est citée à l'appui. Une formulation mesurée aurait chiffré le coût en temps par contrôle ou renvoyé à l'expérimentation de 2012-2013.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-011",
+   "kind": "fallacy",
+   "type": "straw_man",
+   "label": "Homme de paille",
+   "segmentId": "s041",
+   "quote": "On va pas dire tiens on vous a contrôlé un lundi et ben jusqu'au samedi suivant, ça n'est plus possible.",
+   "speaker": "nunez",
+   "severity": 60,
+   "confidence": 75,
+   "title": "Récépissé transformé en quota de contrôles",
+   "explanation": "Le ministre réfute une proposition qui n'a pas été faite : interdire de recontrôler quelqu'un pendant un délai donné. Le récépissé vise la traçabilité et la preuve d'un ciblage répété, pas l'interdiction d'un nouveau contrôle. Répondre à la proposition réelle aurait supposé de discuter la traçabilité et son coût.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-012",
+   "kind": "rhetoric",
+   "type": "reframing",
+   "label": "Recadrage",
+   "segmentId": "s042",
+   "quote": "c'est trop compliqué de demander un policier quand il faut un contrôle d'identité de remettre un bout de papier",
+   "speaker": "bompard",
+   "severity": 40,
+   "confidence": 65,
+   "title": "Réduit l'objection à un bout de papier",
+   "explanation": "Bompard reformule l'objection du ministre dans sa version la plus triviale, un simple papier à remettre, ce qui rend le refus absurde. Le procédé escamote les objections avancées (charge administrative, volume des contrôles). Une reformulation loyale aurait reconnu le coût opérationnel avant de le comparer aux bénéfices constatés ailleurs.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-013",
+   "kind": "rhetoric",
+   "type": "personal_anecdote",
+   "label": "Anecdote personnelle",
+   "segmentId": "s048",
+   "quote": "il s'est fait contrôler un certain nombre de fois alors qu'il avait évidemment rien à se reprocher",
+   "speaker": "bompard",
+   "severity": 45,
+   "confidence": 80,
+   "title": "Anecdote du collègue gare du Nord",
+   "explanation": "Pour illustrer les contrôles au faciès, Bompard raconte le contraste entre son expérience et celle d'un collègue racisé faisant le même trajet. L'anecdote est parlante et vient en appui de données déjà citées, mais un cas isolé ne démontre pas à lui seul l'ampleur du phénomène. Sa force est illustrative, pas probante.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-014",
+   "kind": "rhetoric",
+   "type": "rhetorical_question",
+   "label": "Question rhétorique",
+   "segmentId": "s049",
+   "quote": "Est-ce que vous trouvez que c'est un comportement normal ?",
+   "speaker": "bompard",
+   "severity": 35,
+   "confidence": 80,
+   "title": "Question dont la réponse est imposée",
+   "explanation": "La question n'attend pas d'information : une seule réponse est socialement possible. Elle sert à faire acquiescer l'auditeur plutôt qu'à faire avancer l'échange. Une question ouverte aurait demandé quelles procédures existent pour repérer ces contrôles répétés.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-015",
+   "kind": "fallacy",
+   "type": "hasty_generalization",
+   "label": "Généralisation hâtive",
+   "segmentId": "s051",
+   "quote": "à chaque fois, tant que les images ne sortent pas, votre première réaction de couvrir",
+   "speaker": "bompard",
+   "severity": 60,
+   "confidence": 70,
+   "title": "Un cas devient une règle systématique",
+   "explanation": "À partir de l'affaire de Carcassonne, Bompard affirme que « à chaque fois » la réaction du ministère est de couvrir tant qu'il n'y a pas d'images. Cette montée en généralité prête aussi une intention, ce qui n'est pas démontré. Une version défendable aurait dit que plusieurs affaires récentes n'ont avancé qu'après diffusion de vidéos, en citant lesquelles.",
+   "habermas": [
+    "truth",
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-016",
+   "kind": "rhetoric",
+   "type": "hyperbole",
+   "label": "Hyperbole",
+   "segmentId": "s059",
+   "quote": "qui se retrouvent contrôler 10 15 20 fois dans la journée",
+   "speaker": "bompard",
+   "severity": 55,
+   "confidence": 75,
+   "title": "Fréquence de contrôles exagérée",
+   "explanation": "L'ordre de grandeur avancé, jusqu'à vingt contrôles dans une même journée, dépasse largement ce que documentent les enquêtes disponibles, qui parlent de contrôles répétés sur des périodes longues. L'exagération peut retourner l'argument contre celui qui l'emploie. Parler de contrôles répétés chaque semaine ou chaque mois aurait été à la fois fort et vérifiable.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-017",
+   "kind": "fallacy",
+   "type": "anecdotal",
+   "label": "Preuve anecdotique",
+   "segmentId": "s063",
+   "quote": "je peux vous dire moi j'ai connu j'ai connu pas mal dans ma carrière d'enquête",
+   "speaker": "nunez",
+   "severity": 45,
+   "confidence": 65,
+   "title": "Son expérience tient lieu de preuve",
+   "explanation": "Interrogé sur l'indépendance de l'IGPN, le ministre répond par son expérience personnelle d'enquêtes qu'il a connues. Un témoignage individuel, de surcroît émanant d'une partie intéressée, ne répond pas à une objection structurelle sur qui juge qui. Des taux de saisine, de sanction et des comparaisons internationales auraient constitué une réponse vérifiable.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-018",
+   "kind": "fallacy",
+   "type": "other",
+   "label": "Procès d'intention",
+   "segmentId": "s070",
+   "quote": "Non, vous voulez pas le faire en fait.",
+   "speaker": "bompard",
+   "severity": 50,
+   "confidence": 60,
+   "title": "Du désaccord à la mauvaise volonté",
+   "explanation": "Bompard conclut que si les mesures ne sont pas prises, c'est par refus délibéré d'agir. Il substitue une intention supposée aux arguments effectivement opposés (coût, faisabilité, doctrine). Une critique équivalente aurait consisté à montrer que les objections avancées ne tiennent pas, sans préjuger des motivations.",
+   "habermas": [
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-019",
+   "kind": "fallacy",
+   "type": "burden_of_proof",
+   "label": "Renversement de la charge de la preuve",
+   "segmentId": "s071",
+   "quote": "vous invite à lire les rapports de l'IGPN",
+   "speaker": "nunez",
+   "severity": 45,
+   "confidence": 55,
+   "title": "Renvoie aux rapports sans les citer",
+   "explanation": "Plutôt que de donner les chiffres qui soutiendraient sa position, le ministre renvoie son contradicteur à des rapports qu'il ne cite pas. La charge de vérifier l'affirmation est transférée à l'interlocuteur et aux auditeurs. Citer un nombre de saisines et de sanctions pour une année donnée aurait permis la discussion.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-020",
+   "kind": "fallacy",
+   "type": "false_cause",
+   "label": "Fausse causalité",
+   "segmentId": "s081",
+   "quote": "à stigmatiser les policiers ne facilite pas la relation police population",
+   "speaker": "nunez",
+   "severity": 55,
+   "confidence": 60,
+   "title": "Le discours LFI cause la défiance",
+   "explanation": "Le ministre impute la dégradation de la relation police-population au discours de La France insoumise, sans établir ce lien de cause à effet. La défiance documentée dans certains quartiers est antérieure et pluricausale. Une version prudente aurait parlé d'un discours qui, selon lui, aggrave une défiance dont les causes sont multiples.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-021",
+   "kind": "rhetoric",
+   "type": "repetition",
+   "label": "Anaphore",
+   "segmentId": "s084",
+   "quote": "que la police tue, que la police stigmatise, que la police est raciste",
+   "speaker": "nunez",
+   "severity": 50,
+   "confidence": 80,
+   "title": "Anaphore accumulant les accusations",
+   "explanation": "Le ministre enchaîne trois propositions de même structure pour faire masse et donner l'impression d'une accusation globale contre l'institution. Seule la première correspond à un slogan effectivement assumé par son contradicteur dans l'émission. L'effet rythmique remplace ici la vérification de ce qui a réellement été dit.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-022",
+   "kind": "fallacy",
+   "type": "ad_hominem",
+   "label": "Attaque par association",
+   "segmentId": "s089",
+   "quote": "une proposition qui est issue du programme du Front National de Jean-Marie Le Pen",
+   "speaker": "bompard",
+   "severity": 60,
+   "confidence": 70,
+   "title": "Disqualifie par l'origine de la mesure",
+   "explanation": "La mesure est critiquée par sa filiation supposée plutôt que par son contenu : si elle vient du Front national, elle est mauvaise. L'origine d'une idée ne détermine pas sa validité, et cette généalogie est elle-même discutable. Une critique sur le fond aurait porté sur les effets juridiques du texte, ce que Bompard fait d'ailleurs juste après.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-023",
+   "kind": "fallacy",
+   "type": "straw_man",
+   "label": "Homme de paille",
+   "segmentId": "s091",
+   "quote": "il n'y aura pas d'ouverture d'une enquête de manière",
+   "speaker": "bompard",
+   "severity": 55,
+   "confidence": 60,
+   "title": "Présente la loi comme supprimant l'enquête",
+   "explanation": "Bompard décrit le texte comme empêchant l'ouverture automatique d'une enquête après un tir mortel. Le ministre répond qu'il s'agit d'une présomption simple, donc réfragable, ce qui ne supprime pas l'enquête. Une description fidèle aurait porté sur le déplacement de la charge de la preuve et ses effets pratiques, plutôt que sur une disparition de l'enquête.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-024",
+   "kind": "fallacy",
+   "type": "appeal_to_emotion",
+   "label": "Appel à l'émotion",
+   "segmentId": "s092",
+   "quote": "vous avez des familles de victimes qui se battent contre ce type de",
+   "speaker": "bompard",
+   "severity": 45,
+   "confidence": 65,
+   "title": "Familles de victimes et appel à manifester",
+   "explanation": "L'argument juridique glisse vers l'évocation des familles de victimes et l'annonce d'une mobilisation. La souffrance des familles est réelle mais ne tranche pas la question de ce que change le texte en droit. Une articulation honnête aurait distingué l'argument juridique de l'appel militant.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-025",
+   "kind": "rhetoric",
+   "type": "reframing",
+   "label": "Recadrage",
+   "segmentId": "s098",
+   "quote": "qu'est-ce que de dire la police tue avec un caractère systémique ?",
+   "speaker": "bompard",
+   "severity": 35,
+   "confidence": 70,
+   "title": "Le modérateur force la clarification",
+   "explanation": "Le journaliste oblige Bompard à distinguer le constat factuel de morts après tirs policiers et la thèse d'un caractère systémique. Ce recadrage améliore la qualité de l'échange en séparant deux prétentions de nature différente. Il oriente néanmoins la discussion sur le terrain choisi par le ministre, celui du slogan.",
+   "habermas": [
+    "comprehensibility"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-026",
+   "kind": "fallacy",
+   "type": "ambiguity",
+   "label": "Équivoque",
+   "segmentId": "s103",
+   "quote": "La question est de savoir si quand la police tue, elle le fait dans les règles",
+   "speaker": "bompard",
+   "severity": 50,
+   "confidence": 60,
+   "title": "Le sens du slogan se déplace",
+   "explanation": "Sous la pression, la formule « la police tue » passe d'un sens polémique, qui suggère une pratique systémique, à un sens minimal : il arrive que des tirs policiers tuent, et il faut vérifier la légalité de ces tirs. Ce glissement rend le slogan indiscutable mais lui retire sa portée initiale. Assumer un énoncé unique, par exemple sur la proportion de tirs jugés illégitimes, aurait évité l'ambiguïté.",
+   "habermas": [
+    "comprehensibility",
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-027",
+   "kind": "rhetoric",
+   "type": "reframing",
+   "label": "Recadrage",
+   "segmentId": "s109",
+   "quote": "ça n'est pas une présomption légitime défense c'est une présomption d'usage légitime de l'arme",
+   "speaker": "nunez",
+   "severity": 40,
+   "confidence": 75,
+   "title": "Rectification juridique du vocabulaire",
+   "explanation": "Le ministre corrige la qualification employée par son contradicteur et par le journaliste en distinguant deux notions juridiques distinctes. Le recadrage est ici informatif et vérifiable, et il élève la précision du débat. Il sert aussi à désamorcer la formule « permis de tuer » sans répondre encore à l'objection sur la charge de la preuve.",
+   "habermas": [
+    "comprehensibility"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-028",
+   "kind": "rhetoric",
+   "type": "hyperbole",
+   "label": "Hyperbole",
+   "segmentId": "s110",
+   "quote": "C'est un permis de tuer pour les petit.",
+   "speaker": "bompard",
+   "severity": 60,
+   "confidence": 60,
+   "title": "Slogan « permis de tuer »",
+   "explanation": "La formule condense la critique du texte en une image maximale, celle d'une autorisation de tuer, qui excède ce que prévoit une présomption simple. Le slogan est mémorable mais empêche la discussion des effets réels de la norme. Parler d'un affaiblissement du contrôle sur l'usage des armes aurait été discutable point par point.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-029",
+   "kind": "fallacy",
+   "type": "cherry_picking",
+   "label": "Sélection des données",
+   "segmentId": "s118",
+   "quote": "Il a baissé, il a pas explosé, il a baissé, il a baissé",
+   "speaker": "nunez",
+   "severity": 50,
+   "confidence": 55,
+   "title": "Indicateur choisi favorable retenu",
+   "explanation": "Pour réfuter les prévisions faites en 2017, le ministre retient le nombre global d'usages d'armes, en baisse, et écarte l'indicateur discuté par les chercheurs, celui des tirs lors de refus d'obtempérer. La répétition martelée renforce l'impression de démonstration. Une comparaison honnête aurait présenté les deux séries et précisé leurs périmètres.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-030",
+   "kind": "fallacy",
+   "type": "appeal_to_authority",
+   "label": "Appel à l'autorité",
+   "segmentId": "s122",
+   "quote": "C'est pas des chiffres des chercheurs des des sociologues.",
+   "speaker": "nunez",
+   "severity": 55,
+   "confidence": 70,
+   "title": "Chiffres officiels contre chercheurs",
+   "explanation": "Le ministre valide ses données par leur provenance institutionnelle et disqualifie en bloc celles des chercheurs et sociologues, sans examiner leurs méthodes. L'origine d'un chiffre ne garantit ni sa pertinence ni son périmètre, et les inspections ne sont pas un tiers extérieur. Confronter les méthodologies aurait permis de trancher l'écart entre les deux séries.",
+   "habermas": [
+    "truth",
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-031",
+   "kind": "fallacy",
+   "type": "loaded_question",
+   "label": "Question piégée",
+   "segmentId": "s128",
+   "quote": "Pourquoi vous essayez de faire croire autre chose ?",
+   "speaker": "nunez",
+   "severity": 60,
+   "confidence": 80,
+   "title": "Présuppose une intention de tromper",
+   "explanation": "La question tient pour établi que l'interlocuteur cherche sciemment à induire le public en erreur, prémisse que rien n'étaye dans l'échange. Elle attaque la sincérité plutôt que le contenu de l'argument. Demander sur quelles données repose l'affirmation adverse aurait permis une réponse vérifiable.",
+   "habermas": [
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-032",
+   "kind": "rhetoric",
+   "type": "appeal_to_common_sense",
+   "label": "Appel au sens commun",
+   "segmentId": "s132",
+   "quote": "heureusement que la population fait confiance à cette police",
+   "speaker": "nunez",
+   "severity": 45,
+   "confidence": 65,
+   "title": "La confiance du public comme argument",
+   "explanation": "Le ministre invoque la confiance de la population pour clore la discussion sur les dysfonctionnements. Le niveau de confiance, variable selon les âges et les quartiers, ne constitue pas une preuve de l'absence de problèmes. Citer les enquêtes d'opinion avec leurs écarts internes aurait été plus informatif.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-033",
+   "kind": "rhetoric",
+   "type": "personal_anecdote",
+   "label": "Anecdote personnelle",
+   "segmentId": "s134",
+   "quote": "il y a un jeune homme qui avait 19 ans, il s'appelle Soalfawoui et il a été tué suite à un tir policier",
+   "speaker": "bompard",
+   "severity": 55,
+   "confidence": 80,
+   "title": "Cas individuel dans sa circonscription",
+   "explanation": "Bompard oppose aux chiffres du ministre un cas concret suivi comme député, avec nom, âge et circonstances. Le récit est vérifiable et donne chair au débat, mais il ne permet pas à lui seul de conclure sur la fréquence des dysfonctionnements. Adossé à des données agrégées, il aurait eu une portée démonstrative.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-034",
+   "kind": "rhetoric",
+   "type": "repetition",
+   "label": "Anaphore",
+   "segmentId": "s137",
+   "quote": "bizarrement les vidéos de cette caméra, elles ont été effacé",
+   "speaker": "bompard",
+   "severity": 55,
+   "confidence": 75,
+   "title": "« Bizarrement » répété trois fois",
+   "explanation": "La répétition de l'adverbe suggère, sans l'affirmer, une entrave volontaire à l'enquête. Le procédé transforme une série d'anomalies en insinuation de dissimulation, qui n'est pas établie. Énoncer les faits et demander une explication aurait produit le même effet sans accusation implicite.",
+   "habermas": [
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-035",
+   "kind": "rhetoric",
+   "type": "interruption",
+   "label": "Interruption",
+   "segmentId": "s143",
+   "quote": "si vous me permettez parce que là ce cas particulier je sais pas si nos auditeurs",
+   "speaker": "bompard",
+   "severity": 45,
+   "confidence": 70,
+   "title": "Le modérateur coupe le cas Sohaib",
+   "explanation": "Le journaliste interrompt le récit au moment où une question directe est posée au ministre, au motif que le cas particulier serait mal connu des auditeurs. L'interruption protège le déroulé de l'émission mais laisse sans réponse une mise en cause précise. Laisser le ministre répondre brièvement avant de changer de thème aurait mieux servi le débat.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-036",
+   "kind": "rhetoric",
+   "type": "evasion",
+   "label": "Esquive",
+   "segmentId": "s151",
+   "quote": "moi je peux vous en citer plein d'autres où les investigations sont allées au bout",
+   "speaker": "nunez",
+   "severity": 60,
+   "confidence": 75,
+   "title": "Répond par d'autres affaires",
+   "explanation": "Interrogé sur un dossier précis, scellés disparus et vidéosurveillance effacée, le ministre répond en évoquant d'autres affaires menées à leur terme, puis dit ne pas connaître le cas. Les contre-exemples ne répondent pas à l'anomalie signalée. S'engager à vérifier le dossier cité aurait constitué une réponse recevable.",
+   "habermas": [
+    "sincerity",
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-037",
+   "kind": "fallacy",
+   "type": "ad_hominem",
+   "label": "Attaque personnelle",
+   "segmentId": "s156",
+   "quote": "Vous êtes dans le monde des bisous nours, quoi.",
+   "speaker": "nunez",
+   "severity": 65,
+   "confidence": 85,
+   "title": "Ridiculise plutôt que réfuter",
+   "explanation": "Le ministre disqualifie le programme adverse en renvoyant son auteur au monde de l'enfance, sans examiner les mesures listées juste avant. Le ridicule remplace la réfutation et rend la réponse difficile sans surenchère. Une critique argumentée aurait pris une mesure précise, par exemple l'interdiction des LBD, et exposé ses conséquences attendues.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-038",
+   "kind": "fallacy",
+   "type": "appeal_to_fear",
+   "label": "Appel à la peur",
+   "segmentId": "s160",
+   "quote": "vous avez des prises à partie systématiqu",
+   "speaker": "nunez",
+   "severity": 50,
+   "confidence": 60,
+   "title": "Violence présentée comme systématique",
+   "explanation": "Le caractère « systématique » des prises à partie est affirmé pour justifier l'arsenal actuel, sans donnée sur la part des interventions concernées. L'évocation du danger oriente le jugement par la crainte plutôt que par la comparaison des doctrines. Citer le nombre d'interventions avec violences sur une période donnée aurait permis de discuter la proportionnalité.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-039",
+   "kind": "fallacy",
+   "type": "false_dilemma",
+   "label": "Faux dilemme",
+   "segmentId": "s161",
+   "quote": "Si vous n'avez pas des unités comme les bacs qui peuvent aller au contact",
+   "speaker": "nunez",
+   "severity": 60,
+   "confidence": 75,
+   "title": "Ces unités et ces armes, ou rien",
+   "explanation": "L'alternative posée est binaire : soit les BAC et les armes intermédiaires actuelles, soit un dispositif qui « ne fonctionne plus ». Les options intermédiaires, réorganisation, police de proximité, autres équipements, disparaissent de l'énoncé. Une discussion honnête aurait comparé les résultats des différentes doctrines plutôt que de réduire le choix à deux termes.",
+   "habermas": [
+    "truth",
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-040",
+   "kind": "fallacy",
+   "type": "straw_man",
+   "label": "Homme de paille",
+   "segmentId": "s166",
+   "quote": "ça revient partiellement d'ailleurs à désarmer la police",
+   "speaker": "nunez",
+   "severity": 60,
+   "confidence": 75,
+   "title": "Interdire les LBD assimilé à désarmer",
+   "explanation": "Le programme adverse propose d'interdire certaines armes dites intermédiaires ; le ministre le traduit en désarmement de la police. La reformulation gonfle la proposition jusqu'à la rendre indéfendable. Discuter arme par arme, en s'appuyant sur les pays qui les ont restreintes, aurait respecté la position adverse.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-041",
+   "kind": "fallacy",
+   "type": "ad_hominem",
+   "label": "Attaque personnelle",
+   "segmentId": "s171",
+   "quote": "Vous faites essentiellement de la communication.",
+   "speaker": "bompard",
+   "severity": 45,
+   "confidence": 60,
+   "title": "Réduit l'action du ministre à la com",
+   "explanation": "Bompard attribue l'échec supposé de la politique de sécurité à une pratique de communication, visant la personne du ministre plutôt que ses mesures. L'affirmation n'est pas étayée dans l'échange. Opposer des indicateurs de délinquance ou d'élucidation aurait soutenu la critique sur le fond.",
+   "habermas": [
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-042",
+   "kind": "fallacy",
+   "type": "hasty_generalization",
+   "label": "Généralisation hâtive",
+   "segmentId": "s173",
+   "quote": "partout où ça a été mis en place",
+   "speaker": "bompard",
+   "severity": 50,
+   "confidence": 65,
+   "title": "La police de proximité marche « partout »",
+   "explanation": "Bompard présente la baisse de la criminalité comme un résultat obtenu partout où la police de proximité a été instaurée. Les évaluations disponibles sont plus contrastées et dépendent fortement des moyens et du contexte local. Citer une ou deux expériences évaluées aurait été plus solide qu'une affirmation universelle.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-043",
+   "kind": "fallacy",
+   "type": "cherry_picking",
+   "label": "Sélection des données",
+   "segmentId": "s175",
+   "quote": "ça fait des manifestations moins violentes et qui se passe bien mieux",
+   "speaker": "bompard",
+   "severity": 40,
+   "confidence": 55,
+   "title": "Modèles étrangers retenus sélectivement",
+   "explanation": "Les pays européens pratiquant la désescalade sont invoqués globalement, sans être nommés ni comparés aux cas où ces doctrines ont aussi connu des débordements. Le choix des exemples favorables affaiblit la démonstration. Nommer les pays et les évaluations mobilisées aurait rendu la comparaison discutable.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-044",
+   "kind": "fallacy",
+   "type": "tu_quoque",
+   "label": "Renvoi à l'adversaire",
+   "segmentId": "s177",
+   "quote": "Nous encadrons y compris les manipres de la France insolie qui sont bien cont d'avoir des policiers",
+   "speaker": "nunez",
+   "severity": 50,
+   "confidence": 65,
+   "title": "Vous bénéficiez de ce que vous critiquez",
+   "explanation": "Le ministre clôt l'échange en rappelant que les manifestations de La France insoumise sont encadrées par les policiers que le mouvement critique. Le fait que l'adversaire bénéficie du service n'établit pas que la doctrine de maintien de l'ordre soit adaptée. Répondre sur les pratiques de désescalade effectivement appliquées aurait traité l'objection.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-001",
+   "kind": "fact",
+   "type": "event",
+   "label": "Événement",
+   "segmentId": "s009",
+   "quote": "tant que cette vidéo n'a pas été publiée ce policier est restait en poste",
+   "speaker": "bompard",
+   "claim": "L'agent de Carcassonne filmé tenant des propos racistes est resté en poste tant que la vidéo n'avait pas été rendue publique.",
+   "verdict": "mostly_true",
+   "fakeness": 10,
+   "confidence": 80,
+   "title": "Carcassonne : sanction après la publication",
+   "explanation": "La vidéo, enregistrée par une caméra-piéton en novembre 2025, a été révélée par Midi Libre les 8 et 11 septembre 2026, et les quatre policiers municipaux n'ont été suspendus qu'après cette publication. La presse régionale souligne qu'environ un an s'est écoulé entre l'enregistrement et la suspension, malgré une fuite interne dès décembre 2025. L'affirmation est donc exacte sur le fond, avec une réserve : il s'agit d'agents municipaux, qui relèvent du maire et non directement du ministre de l'Intérieur.",
+   "correction": "Les quatre policiers municipaux de Carcassonne n'ont été suspendus qu'après la publication de la vidéo par Midi Libre en septembre 2026, environ un an après son enregistrement.",
+   "sources": [
+    {
+     "title": "France 3 Occitanie – Tout comprendre au scandale de la police municipale de Carcassonne",
+     "url": "https://france3-regions.franceinfo.fr/occitanie/aude/carcassonne/propos-racistes-policier-proche-du-rn-video-choc-tout-comprendre-au-scandale-qui-secoue-la-police-municipale-de-carcassonne-quatre-agents-suspendus-3414509.html"
+    },
+    {
+     "title": "ICI – Un an entre l'enregistrement de la vidéo et la suspension des policiers",
+     "url": "https://www.ici.fr/occitanie/aude-11/carcassonne/propos-racistes-de-carcassonne-un-an-s-est-ecoule-entre-l-enregistrement-de-la-video-et-la-suspension-des-policiers-5240902"
+    },
+    {
+     "title": "franceinfo – Propos racistes d'un policier municipal à Carcassonne",
+     "url": "https://www.franceinfo.fr/societe/racisme/propos-racistes-d-un-policier-municipal-a-carcassonne/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-002",
+   "kind": "fact",
+   "type": "quote_attribution",
+   "label": "Citation attribuée",
+   "segmentId": "s010",
+   "quote": "c'est l'Organisation des Nations- Unies qui dit qu'il y a un profond problème de racisme dans la police",
+   "speaker": "bompard",
+   "claim": "L'ONU affirme qu'il existe un problème profond de racisme dans la police française.",
+   "verdict": "mostly_true",
+   "fakeness": 15,
+   "confidence": 75,
+   "title": "L'ONU a bien alerté sur le racisme policier",
+   "explanation": "En juin 2023, le Haut-Commissariat des Nations unies aux droits de l'homme a appelé la France à s'attaquer aux « profonds problèmes » de racisme et de discrimination raciale au sein de ses forces de l'ordre. Le Comité pour l'élimination de la discrimination raciale (CEDR) a de son côté demandé aux autorités françaises de traiter les causes « structurelles et systémiques » des discriminations, notamment dans le maintien de l'ordre. Ces positions émanent d'organes et d'experts onusiens, et non d'une décision de l'ONU en tant qu'organisation ; la France les a officiellement contestées, les jugeant « excessives » et « infondées ».",
+   "correction": "Des organes onusiens (HCDH en 2023, Comité CEDR) ont dénoncé de « profonds problèmes » de racisme dans les forces de l'ordre françaises, constats que Paris conteste.",
+   "sources": [
+    {
+     "title": "ONU Info – L'ONU appelle la France à s'attaquer aux « profonds problèmes » de racisme au sein des forces de l'ordre",
+     "url": "https://news.un.org/fr/story/2023/06/1136572"
+    },
+    {
+     "title": "France Diplomatie – Statement by the Committee on the Elimination of Racial Discrimination (réponse française)",
+     "url": "https://www.diplomatie.gouv.fr/en/french-foreign-policy/france-and-the-united-nations/news-and-events/news/news-2023/article/statement-by-the-committee-on-the-elimination-of-racial-discrimination-08-07-23"
+    },
+    {
+     "title": "Human Rights Watch – Des associations saisissent l'ONU sur les contrôles au faciès (2024)",
+     "url": "https://www.hrw.org/fr/news/2024/04/11/france-des-associations-saisissent-lonu-pour-lutter-contre-les-controles-au-facies"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-003",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s011",
+   "quote": "un jeune homme en France s'il est noir ou arabe il a 20 fois plus",
+   "speaker": "bompard",
+   "claim": "Un jeune homme perçu comme noir ou arabe a 20 fois plus de risques d'être contrôlé qu'un jeune homme blanc.",
+   "verdict": "mostly_true",
+   "fakeness": 15,
+   "confidence": 85,
+   "title": "Contrôles au faciès : ordre de grandeur correct",
+   "explanation": "L'enquête du Défenseur des droits publiée le 20 janvier 2017, menée auprès d'un échantillon représentatif de plus de 5 000 personnes, conclut que les jeunes hommes perçus comme noirs ou arabes ont une probabilité 20 fois plus élevée d'être contrôlés. Le chiffre est donc exact. La nuance porte sur le terme de comparaison : le rapport compare ce groupe au reste de la population, et non spécifiquement aux « jeunes hommes blancs ». La même enquête relève que 80 % des jeunes hommes perçus comme noirs ou arabes déclarent avoir été contrôlés dans les cinq dernières années, contre 16 % des autres répondants.",
+   "correction": "Selon le Défenseur des droits (2017), les jeunes hommes perçus comme noirs ou arabes ont une probabilité 20 fois supérieure à celle du reste de la population d'être contrôlés.",
+   "sources": [
+    {
+     "title": "franceinfo – Les jeunes Noirs ou Arabes ont 20 fois plus de chances d'être contrôlés (Défenseur des droits)",
+     "url": "https://www.franceinfo.fr/societe/controle-au-facies-les-jeunes-noirs-ou-arabes-ont-20-fois-plus-de-chances-d-etre-controles-par-la-police-selon-le-defenseur-des-droits_2027820.html"
+    },
+    {
+     "title": "Défenseur des droits – Relations police/population : le cas des contrôles d'identité",
+     "url": "https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=16064"
+    },
+    {
+     "title": "Défenseur des droits – Contrôles d'identité : que dit le droit ?",
+     "url": "https://www.defenseurdesdroits.fr/controles-didentite-que-dit-le-droit-et-comment-mettre-fin-aux-controles-discriminatoires-565"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-004",
+   "kind": "fact",
+   "type": "quote_attribution",
+   "label": "Citation attribuée",
+   "segmentId": "s024",
+   "quote": "des slogans comme ceux qui sont de la police tue",
+   "speaker": "nunez",
+   "claim": "La France insoumise emploie le slogan « la police tue ».",
+   "verdict": "mostly_true",
+   "fakeness": 15,
+   "confidence": 75,
+   "title": "Formule bien employée par Mélenchon",
+   "explanation": "Jean-Luc Mélenchon a publié en juin 2022 un message affirmant « La police tue et le groupe factieux Alliance justifie les tirs et la mort pour refus d'obtempérer », qu'il a ensuite assumé publiquement sur France Inter. La formule a provoqué les réactions d'Élisabeth Borne, qui l'a jugée « choquante », et de Gérald Darmanin. L'attribution à la principale figure de LFI est donc exacte. La qualifier de « slogan » du mouvement élargit toutefois la portée du propos : il s'agit d'une déclaration du fondateur de LFI, pas d'un mot d'ordre inscrit dans le programme du mouvement.",
+   "correction": "Jean-Luc Mélenchon a bien écrit et assumé « la police tue » en juin 2022, mais ce n'est pas un slogan officiel de La France insoumise.",
+   "sources": [
+    {
+     "title": "Le JDD – « La police tue » : Jean-Luc Mélenchon persiste, Élisabeth Borne lui répond",
+     "url": "https://www.lejdd.fr/politique/la-police-tue-jean-luc-melenchon-persiste-elisabeth-borne-et-la-majorite-lui-repondent-746"
+    },
+    {
+     "title": "Le JDD – Mélenchon défend les slogans visant les policiers",
+     "url": "https://www.lejdd.fr/politique/le-droit-de-rigoler-jean-luc-melenchon-defend-les-slogans-appelant-la-mort-de-policiers-146855"
+    }
+   ],
+   "habermas": [
+    "truth",
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-005",
+   "kind": "fact",
+   "type": "event",
+   "label": "Événement",
+   "segmentId": "s027",
+   "quote": "Le cas de Carcassen d'ailleurs, c'est un policier municipal.",
+   "speaker": "nunez",
+   "claim": "L'agent mis en cause dans la vidéo de Carcassonne est un policier municipal.",
+   "verdict": "true",
+   "fakeness": 5,
+   "confidence": 90,
+   "title": "Carcassonne : bien la police municipale",
+   "explanation": "L'affaire concerne la police municipale de Carcassonne : le principal mis en cause est un chef de patrouille, ancien militaire et membre du service d'ordre du RN, filmé par sa propre caméra-piéton. Quatre agents de la police municipale ont été suspendus après la diffusion de la vidéo par Midi Libre en septembre 2026. La précision du ministre est exacte ; elle a toutefois une portée argumentative, puisque la police municipale dépend du maire et non du ministère de l'Intérieur.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "France 3 Occitanie – Réactions au scandale de la police municipale de Carcassonne",
+     "url": "https://france3-regions.franceinfo.fr/occitanie/aude/carcassonne/propos-racistes-suspension-maire-rn-sur-la-defensive-tout-comprendre-au-scandale-qui-secoue-la-police-municipale-de-carcassonne-3414374.html"
+    },
+    {
+     "title": "franceinfo – Propos racistes d'un policier municipal à Carcassonne",
+     "url": "https://www.franceinfo.fr/societe/racisme/propos-racistes-d-un-policier-municipal-a-carcassonne/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-006",
+   "kind": "fact",
+   "type": "other",
+   "label": "Autre",
+   "segmentId": "s043",
+   "quote": "ce système il existe par exemple dans la police britannique",
+   "speaker": "bompard",
+   "claim": "Le récépissé de contrôle d'identité existe dans la police britannique et y a réduit les discriminations.",
+   "verdict": "misleading",
+   "fakeness": 35,
+   "confidence": 65,
+   "title": "Récépissé britannique : réalité plus nuancée",
+   "explanation": "Au Royaume-Uni, le Police and Criminal Evidence Act de 1986 impose au policier de remplir un formulaire lors d'un « stop and search », mentionnant le motif, l'identité et l'origine ethnique, dont la personne contrôlée peut obtenir copie. Mais l'obligation d'enregistrer les simples « stop and account » a été supprimée par le Crime and Security Act de 2010, à compter du 1er janvier 2011. Le Défenseur des droits estime que le récépissé réduit mécaniquement le nombre de contrôles, donc de contrôles abusifs, mais « ne résout pas fondamentalement » le problème des contrôles discriminatoires. L'expérimentation la plus souvent citée comme probante est d'ailleurs espagnole (Fuenlabrada), pas britannique.",
+   "correction": "Le Royaume-Uni impose depuis 1986 une trace écrite des fouilles (« stop and search »), mais son effet sur les discriminations est partiel et l'obligation d'enregistrement a été allégée en 2011.",
+   "sources": [
+    {
+     "title": "Le JDD – Contrôle d'identité : ce qui existe ailleurs",
+     "url": "https://www.lejdd.fr/Societe/Controle-d-identite-ce-qui-existe-ailleurs-569665-3131630"
+    },
+    {
+     "title": "franceinfo – Quatre questions sur les récépissés de contrôle d'identité",
+     "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/violences-policieres-quatre-questions-sur-les-recepisses-de-controle-d-identite-reclames-par-une-partie-de-l-opposition_4002051.html"
+    },
+    {
+     "title": "Défenseur des droits – Rapport relatif aux relations police/citoyens et aux contrôles d'identité (2012)",
+     "url": "https://www.defenseurdesdroits.fr/sites/default/files/2023-10/ddd_rapport_relations-police-citoyen-controle-identite_20140515.pdf"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-007",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s059",
+   "quote": "qui se retrouvent contrôler 10 15 20 fois dans la journée",
+   "speaker": "bompard",
+   "claim": "Des personnes n'ayant rien à se reprocher sont contrôlées 10, 15 ou 20 fois dans la même journée.",
+   "verdict": "misleading",
+   "fakeness": 55,
+   "confidence": 70,
+   "title": "Fréquence des contrôles nettement exagérée",
+   "explanation": "Les travaux du Défenseur des droits documentent bien des contrôles répétés : près de 40 % des 18-24 ans déclarent avoir été contrôlés en cinq ans, et plus d'un tiers des hommes de moins de 25 ans perçus comme noirs ou arabes rapportent plus de cinq contrôles sur la même période. L'institution évoque aussi le cas de personnes contrôlées « plusieurs fois par jour ». En revanche, aucune source institutionnelle ne documente une fréquence de 10 à 20 contrôles dans une seule journée. L'ordre de grandeur avancé dépasse largement les données disponibles, même s'il peut refléter des témoignages individuels extrêmes.",
+   "correction": "Le Défenseur des droits documente des contrôles répétés, parfois plusieurs fois par jour pour certaines personnes, mais pas une fréquence de 10 à 20 contrôles quotidiens.",
+   "sources": [
+    {
+     "title": "Défenseur des droits – Fiche 8 : lutter contre les contrôles d'identité discriminatoires",
+     "url": "https://www.defenseurdesdroits.fr/sites/default/files/2024-03/FICHE8_ControlesID_20240304.pdf"
+    },
+    {
+     "title": "Défenseur des droits – Contrôles d'identité : que dit le droit ?",
+     "url": "https://www.defenseurdesdroits.fr/controles-didentite-que-dit-le-droit-et-comment-mettre-fin-aux-controles-discriminatoires-565"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-008",
+   "kind": "fact",
+   "type": "legal",
+   "label": "Texte de loi",
+   "segmentId": "s062",
+   "quote": "est dirigé comme l'IGGN d'ailleurs maintenant par des magistrats",
+   "speaker": "nunez",
+   "claim": "L'IGPN et l'IGGN sont désormais dirigées par des magistrats.",
+   "verdict": "true",
+   "fakeness": 10,
+   "confidence": 85,
+   "title": "IGPN et IGGN dirigées par des magistrats",
+   "explanation": "La magistrate Agnès Thibault-Lecuivre a été nommée directrice de l'IGPN par décret publié au Journal officiel du 21 juillet 2022, une première pour une institution jusque-là dirigée par des commissaires de police. À l'IGGN, le magistrat Jean-Michel Gentil a succédé au général Alain Pidoux en septembre 2023, le chef de l'inspection portant depuis le titre d'inspecteur général pour marquer l'arrivée d'un civil. Le fait est donc exact. La conclusion qu'en tire le ministre — « toutes les garanties d'indépendance » — reste, elle, contestée : l'IGPN demeure rattachée à la direction générale de la police nationale et son directeur est nommé par le ministre de l'Intérieur.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "Gazette du Palais – La magistrate Agnès Thibault-Lecuivre devient directrice de l'IGPN",
+     "url": "https://www.gazette-du-palais.fr/actualites-professionnelles/la-magistrate-agnes-thibault-lecuivre-devient-directrice-de-ligpn/"
+    },
+    {
+     "title": "Wikipédia – Agnès Thibault-Lecuivre",
+     "url": "https://fr.wikipedia.org/wiki/Agn%C3%A8s_Thibault-Lecuivre"
+    },
+    {
+     "title": "Gendarmerie nationale – L'Inspection générale de la gendarmerie nationale (IGGN)",
+     "url": "https://www.gendarmerie.interieur.gouv.fr/organisation/nos-unites/l-inspection-generale-de-la-gendarmerie-nationale-iggn"
+    },
+    {
+     "title": "Wikipedia – Inspection générale de la Gendarmerie nationale",
+     "url": "https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_de_la_Gendarmerie_nationale"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-009",
+   "kind": "fact",
+   "type": "historical",
+   "label": "Fait historique",
+   "segmentId": "s089",
+   "quote": "une proposition qui est issue du programme du Front National de Jean-Marie Le Pen",
+   "speaker": "bompard",
+   "claim": "La présomption de légitime défense pour les forces de l'ordre est issue du programme du Front national de Jean-Marie Le Pen.",
+   "verdict": "mostly_true",
+   "fakeness": 15,
+   "confidence": 80,
+   "title": "Origine lepéniste : filiation avérée",
+   "explanation": "L'INA rappelle que la présomption de légitime défense figurait dans le programme présidentiel de Jean-Marie Le Pen en 2007, qui proposait de « mettre fin au soupçon qui pèse sur les forces de l'ordre » en créant une telle présomption. La mesure a ensuite été reprise par Marine Le Pen, puis par Nicolas Sarkozy lors de la campagne de 2012. La filiation est donc documentée. La nuance porte sur le texte visé : la proposition de loi adoptée le 7 juillet 2026, portée par le député LR Éric Pauget, a été réécrite par amendement gouvernemental en « présomption d'usage légitime de l'arme », formulation plus étroite que celle du programme frontiste.",
+   "correction": "La présomption de légitime défense figurait bien au programme de Jean-Marie Le Pen en 2007, mais le texte voté en juillet 2026 porte sur une « présomption d'usage légitime de l'arme ».",
+   "sources": [
+    {
+     "title": "INA – La présomption de légitime défense pour les forces de l'ordre, une proposition ancienne de l'extrême droite",
+     "url": "https://www.ina.fr/ina-eclaire-actu/presomption-legitime-defense-police-forces-de-l-ordre-extreme-droite"
+    },
+    {
+     "title": "INA – Vidéo : une proposition de l'extrême droite",
+     "url": "https://www.ina.fr/ina-eclaire-actu/video/man1783693880/la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-une-proposition-de-l-extreme-droite"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-010",
+   "kind": "fact",
+   "type": "legal",
+   "label": "Texte de loi",
+   "segmentId": "s091",
+   "quote": "il n'y aura pas d'ouverture d'une enquête de manière",
+   "speaker": "bompard",
+   "claim": "Avec le texte voté en juillet 2026, aucune enquête ne serait plus ouverte automatiquement après un tir policier mortel.",
+   "verdict": "misleading",
+   "fakeness": 45,
+   "confidence": 60,
+   "title": "Présomption simple, pas fin des enquêtes",
+   "explanation": "Le texte adopté le 7 juillet 2026 insère à l'article L. 435-1 du code de la sécurité intérieure une disposition selon laquelle les policiers et gendarmes qui font usage de leur arme « sont présumés avoir agi » dans l'un des cas autorisés, dans des conditions d'absolue nécessité et de stricte proportionnalité. Il s'agit d'une présomption simple, réfragable, qui déplace la charge de la preuve mais ne supprime pas la procédure judiciaire ouverte en cas de mort d'homme. Les débats parlementaires ont porté sur un sous-amendement visant à garantir explicitement l'ouverture automatique d'une enquête, ce qui montre que le risque dénoncé est un affaiblissement des investigations, pas leur suppression de droit.",
+   "correction": "Le texte instaure une présomption simple, renversable, qui allège la charge pesant sur l'agent sans supprimer l'enquête judiciaire consécutive à un tir mortel.",
+   "sources": [
+    {
+     "title": "Assemblée nationale – Proposition de loi, texte adopté n° 328 (17e législature)",
+     "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0328_texte-adopte-seance"
+    },
+    {
+     "title": "Le Club des Juristes – Ce que changerait la présomption de légitime défense pour les forces de l'ordre",
+     "url": "https://www.leclubdesjuristes.com/societe/ce-que-changerait-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-16913/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-011",
+   "kind": "fact",
+   "type": "legal",
+   "label": "Texte de loi",
+   "segmentId": "s094",
+   "quote": "cette loi qui a été adoptée à l'Assemblée euh au mois de juillet",
+   "speaker": "moderator",
+   "claim": "Une loi sur la présomption de légitime défense des forces de l'ordre a été adoptée à l'Assemblée nationale en juillet.",
+   "verdict": "mostly_true",
+   "fakeness": 10,
+   "confidence": 85,
+   "title": "Texte voté le 7 juillet 2026",
+   "explanation": "L'Assemblée nationale a adopté en première lecture, le 7 juillet 2026, par 313 voix contre 199, la proposition de loi du député LR Éric Pauget, déposée le 3 décembre 2024. Le texte a été profondément réécrit en séance : la « présomption de légitime défense » du titre initial a été remplacée, par amendement du gouvernement, par une « présomption d'usage légitime de l'arme ». La date et le vote sont donc exacts. La formulation « cette loi » est approximative : il s'agit d'une adoption en première lecture par une seule chambre, pas d'une loi promulguée.",
+   "correction": "L'Assemblée nationale a adopté ce texte en première lecture le 7 juillet 2026 ; il n'est pas encore une loi promulguée.",
+   "sources": [
+    {
+     "title": "Assemblée nationale – Proposition de loi, texte adopté n° 328 (17e législature)",
+     "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0328_texte-adopte-seance"
+    },
+    {
+     "title": "Le Club des Juristes – Ce que changerait la présomption de légitime défense pour les forces de l'ordre",
+     "url": "https://www.leclubdesjuristes.com/societe/ce-que-changerait-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-16913/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-012",
+   "kind": "fact",
+   "type": "historical",
+   "label": "Fait historique",
+   "segmentId": "s108",
+   "quote": "l'expression qui avait déjà été utilisée lorsque Bernard Cast a fait adopter la loi de 2017",
+   "speaker": "nunez",
+   "claim": "L'expression « permis de tuer » avait déjà été employée contre la loi de 2017 sur l'usage des armes, attribuée à Bernard Cazeneuve.",
+   "verdict": "mostly_true",
+   "fakeness": 20,
+   "confidence": 75,
+   "title": "Loi de 2017 : paternité à nuancer",
+   "explanation": "La loi n° 2017-258 du 28 février 2017 relative à la sécurité publique a bien créé l'article L. 435-1 du code de la sécurité intérieure, qui harmonise et énumère les cas d'usage des armes par policiers et gendarmes. Elle est couramment appelée « loi Cazeneuve » et qualifiée de « permis de tuer » par les députés LFI, qualification que Bernard Cazeneuve conteste : l'expression est donc effectivement antérieure au débat de 2026. La nuance est chronologique : Bernard Cazeneuve a porté le projet comme ministre de l'Intérieur jusqu'en décembre 2016, mais il était Premier ministre lors de l'adoption du texte, défendu au banc par Bruno Le Roux.",
+   "correction": "La loi du 28 février 2017 est dite « loi Cazeneuve », mais elle a été adoptée alors qu'il était Premier ministre, Bruno Le Roux étant ministre de l'Intérieur.",
+   "sources": [
+    {
+     "title": "Légifrance – LOI n° 2017-258 du 28 février 2017 relative à la sécurité publique",
+     "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034104023"
+    },
+    {
+     "title": "Vie-publique.fr – Loi du 28 février 2017 relative à la sécurité publique",
+     "url": "https://www.vie-publique.fr/loi/20990-securite-publique-policiers-usage-des-armes-feu-anonymat"
+    },
+    {
+     "title": "LCP – Usage des armes par la police : la mort de Nahel relance le débat sur la loi de 2017",
+     "url": "https://lcp.fr/actualites/usage-des-armes-par-la-police-la-mort-de-nahel-relance-le-debat-sur-la-loi-de-2017"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-013",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s118",
+   "quote": "Il a baissé, il a pas explosé, il a baissé",
+   "speaker": "nunez",
+   "claim": "Le nombre d'usages d'armes par les policiers et gendarmes a baissé depuis la loi de 2017.",
+   "verdict": "mostly_true",
+   "fakeness": 25,
+   "confidence": 70,
+   "title": "Baisse réelle, base de comparaison choisie",
+   "explanation": "Les rapports de l'IGPN recensent 189 usages d'armes à feu en 2023, le total le plus bas depuis 2017 (394), soit une baisse d'environ 52 % en six ans ; les tirs sur véhicules en mouvement passent de 202 en 2017 à 79 en 2023. La tendance invoquée par le ministre est donc réelle sur cette période. Elle est cependant mesurée à partir de l'année de pic : l'IGPN avait relevé dès le premier semestre 2017 une hausse de près de 40 % des déclarations d'usage de l'arme individuelle par rapport à 2016, et de 46 % des tirs de LBD. Prendre 2017 comme point de départ maximise mécaniquement la baisse affichée et neutralise l'effet immédiat de la loi.",
+   "correction": "Les usages d'armes à feu ont fortement reculé depuis 2017 (394 puis 189 en 2023), mais 2017 est précisément l'année de forte hausse qui a suivi l'entrée en vigueur de la loi.",
+   "sources": [
+    {
+     "title": "franceinfo – L'usage de l'arme de service en net recul en 2023, selon le rapport annuel de l'IGPN",
+     "url": "https://www.franceinfo.fr/faits-divers/police/police-l-usage-de-l-arme-de-service-en-net-recul-en-2023-selon-le-rapport-annuel-de-l-igpn_6906983.html"
+    },
+    {
+     "title": "L'Essor – Le rapport 2024 de l'IGPN détaille l'usage des armes par les policiers",
+     "url": "https://lessor.org/operationnel/le-rapport-2024-de-ligpn-detaille-lusage-des-armes-par-les-policiers-et-leurs-consequences/"
+    },
+    {
+     "title": "Europe 1 – « Hausse significative » de l'usage des armes à feu au premier semestre 2017",
+     "url": "https://www.europe1.fr/societe/hausse-significative-de-lusage-des-armes-a-feu-par-les-policiers-au-premier-semestre-2017-3462071"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-014",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s132",
+   "quote": "heureusement que la population fait confiance à cette police",
+   "speaker": "nunez",
+   "claim": "La population française fait confiance à sa police.",
+   "verdict": "true",
+   "fakeness": 5,
+   "confidence": 80,
+   "title": "Confiance dans la police largement majoritaire",
+   "explanation": "Le Baromètre de la confiance politique du CEVIPOF mesure en janvier 2026 une confiance de 73 % des Français envers la police, soit presque le niveau d'avant le mouvement des Gilets jaunes (74 % en décembre 2018) et bien au-dessus du creux de 66 % atteint en février 2020. L'écart avec la justice, créditée de 45 %, est de 28 points. L'affirmation est donc exacte. Le CEVIPOF souligne lui-même le paradoxe d'une institution très contestée dans le débat public mais qui conserve un capital de confiance élevé.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "Sciences Po CEVIPOF – Pourquoi les Français font-ils davantage confiance à la police qu'à la justice ?",
+     "url": "https://www.sciencespo.fr/cevipof/fr/actualites/pourquoi-les-francais-font-ils-davantage-confiance-a-la-police-qu-a-la-justice/"
+    },
+    {
+     "title": "CEVIPOF – Baromètre de la confiance politique, vague 17 (février 2026)",
+     "url": "https://www.sciencespo.fr/cevipof/sites/sciencespo.fr.cevipof/files/Barometre_confiance_CEVIPOFVague17_fev2026_vd1.pdf"
+    },
+    {
+     "title": "Insee – Confiance de la population dans les institutions : la police",
+     "url": "https://www.insee.fr/fr/statistiques/serie/010596051"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-015",
+   "kind": "fact",
+   "type": "event",
+   "label": "Événement",
+   "segmentId": "s134",
+   "quote": "Et en 2022, sur la circonscription dont je suis le député, il y a un jeune homme qui avait 19 ans",
+   "speaker": "bompard",
+   "claim": "En 2022, dans la circonscription de Manuel Bompard, un jeune homme de 19 ans a été tué par un tir policier.",
+   "verdict": "mostly_true",
+   "fakeness": 20,
+   "confidence": 85,
+   "title": "Souheil El Khalfaoui : erreur de date",
+   "explanation": "Souheil El Khalfaoui, 19 ans, a bien été tué par un tir policier lors d'un contrôle routier, mais le 4 août 2021 et non en 2022, à l'angle des rues Bonnardel et Fortuné-Jourdan, dans le quartier de la Belle-de-Mai (3e arrondissement de Marseille), qui relève de la 4e circonscription des Bouches-du-Rhône dont Manuel Bompard est le député. L'âge, le lieu et les circonstances sont exacts. Seule l'année est erronée d'un an : 2022 correspond au classement sans suite (janvier) puis à la réouverture de l'enquête (février).",
+   "correction": "Souheil El Khalfaoui, 19 ans, a été tué par un tir policier à Marseille le 4 août 2021, et non en 2022.",
+   "sources": [
+    {
+     "title": "Wikipédia – Mort de Souheil El Khalfaoui",
+     "url": "https://fr.wikipedia.org/wiki/Mort_de_Souheil_El_Khalfaoui"
+    },
+    {
+     "title": "ICI (ex-France Bleu) – Souheil tué par un policier à Marseille en 2021 : les scellés retrouvés",
+     "url": "https://www.ici.fr/infos/faits-divers-justice/souheil-tue-par-un-policier-a-marseille-en-2021-les-scelles-retrouves-dans-le-bureau-d-un-juge-d-instruction-6129989"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-016",
+   "kind": "fact",
+   "type": "event",
+   "label": "Événement",
+   "segmentId": "s141",
+   "quote": "par magie, le lendemain, les scellé avaient réapparu",
+   "speaker": "bompard",
+   "claim": "Les scellés disparus de l'affaire ont réapparu le lendemain d'une question de Manuel Bompard à l'Assemblée nationale.",
+   "verdict": "mostly_true",
+   "fakeness": 30,
+   "confidence": 75,
+   "title": "Scellés retrouvés, mais pas le lendemain",
+   "explanation": "Neuf scellés de l'enquête — dont la balle mortelle, une vidéo de surveillance bancaire et l'enregistrement de l'audition du policier — avaient bien disparu du tribunal judiciaire de Marseille. Manuel Bompard a interpellé le garde des Sceaux Gérald Darmanin lors des questions au gouvernement du mardi 24 juin 2025, celui-ci annonçant qu'il saisirait l'Inspection générale de la justice à défaut de retrouver les pièces. Le parquet a annoncé leur découverte dans le bureau du juge d'instruction initialement saisi le 26 juin 2025, soit deux jours plus tard et non le lendemain. La formule « il y a quelques mois » est également approximative : les faits remontent à plus d'un an avant ce débat.",
+   "correction": "Les scellés ont été retrouvés le 26 juin 2025, deux jours après la question au gouvernement de Manuel Bompard du 24 juin 2025.",
+   "sources": [
+    {
+     "title": "ICI – Les scellés retrouvés dans le bureau d'un juge d'instruction",
+     "url": "https://www.ici.fr/infos/faits-divers-justice/souheil-tue-par-un-policier-a-marseille-en-2021-les-scelles-retrouves-dans-le-bureau-d-un-juge-d-instruction-6129989"
+    },
+    {
+     "title": "Assemblée nationale – Question au gouvernement n° 822 : enquête sur la mort de Souheil El Khalfaoui",
+     "url": "https://questions.assemblee-nationale.fr/q17/17-822QG.htm"
+    },
+    {
+     "title": "Assemblée nationale – Compte rendu de la première séance du mardi 24 juin 2025",
+     "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-24-juin-2025"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-017",
+   "kind": "fact",
+   "type": "quote_attribution",
+   "label": "Citation attribuée",
+   "segmentId": "s147",
+   "quote": "l'interdiction des grenades de désencerclement, l'interdiction des LBD lanceur de balles de défense 40",
+   "speaker": "moderator",
+   "claim": "Le programme L'Avenir en commun prévoit l'interdiction des nasses, des grenades de désencerclement et des LBD 40, ainsi que la suppression de la BAC et des BRAV-M.",
+   "verdict": "mostly_true",
+   "fakeness": 10,
+   "confidence": 80,
+   "title": "Programme LFI fidèlement résumé",
+   "explanation": "Le livret programmatique « Sécurité et sûreté » de La France insoumise et les versions successives de L'Avenir en commun prévoient l'interdiction des nasses et des armes dites mutilantes (LBD 40, grenades de désencerclement), l'interdiction du Taser, la dissolution des BRAV-M et de la BAC, ainsi que le redéploiement des effectifs vers une police de proximité. Le résumé du ministre est donc conforme au texte, y compris sur le terme « suppression ». La seule imprécision tient à la présentation : le programme lie ces suppressions à la création d'unités de proximité et à une refonte de la formation, ce que le ministre mentionne d'ailleurs en fin de citation.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "La France insoumise – Livret « Sécurité et sûreté : refonder le service public de la police »",
+     "url": "https://programme.lafranceinsoumise.fr/livrets/securite-et-surete/"
+    },
+    {
+     "title": "L'Avenir en commun, version actualisée avril 2020 (PDF)",
+     "url": "https://lafranceinsoumise.fr/wp-content/uploads/2020/04/avenir-en-commun-maj-avril-2020.pdf"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-018",
+   "kind": "fact",
+   "type": "event",
+   "label": "Événement",
+   "segmentId": "s158",
+   "quote": "regardez ce qui s'est passé à Chambéri",
+   "speaker": "nunez",
+   "claim": "Des violences urbaines visant notamment les forces de l'ordre ont eu lieu à Chambéry après une intervention policière.",
+   "verdict": "true",
+   "fakeness": 5,
+   "confidence": 80,
+   "title": "Chambéry : violences de septembre 2026",
+   "explanation": "Dans la nuit du 7 au 8 septembre 2026, plusieurs quartiers de Chambéry (Biollay, Hauts-de-Chambéry) et la commune voisine de Cognin ont connu incendies et dégradations : agence d'un bailleur social incendiée, commerce et salle municipale endommagés, bus scolaire et véhicules brûlés. Les violences ont suivi une intervention policière sur un refus d'obtempérer présumé, à l'issue de laquelle le jeune conducteur a été retrouvé grièvement blessé par balle, puis est décédé. Selon le parquet de Chambéry, les premières conclusions de l'autopsie orientent vers un geste auto-infligé ou accidentel. La référence du ministre porte donc sur un événement réel et récent, dont l'enchaînement causal est encore établi par l'enquête.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "Ville de Chambéry – Communiqué : incidents dans plusieurs quartiers, nuit du 7 au 8 septembre 2026",
+     "url": "https://www.chambery.fr/actualite/1665/9-nuit-du-7-au-8-septembre-2026-incidents-dans-plusieurs-quartiers-de-chambery.htm"
+    },
+    {
+     "title": "CNEWS – Chambéry : mort du conducteur, voitures brûlées, ce que l'on sait des violences urbaines",
+     "url": "https://www.cnews.fr/france/2026-09-08/voitures-incendiees-centre-social-detruit-chambery-frappe-par-des-violences"
+    },
+    {
+     "title": "Savoie News – Incidents dans plusieurs quartiers au cours de la nuit",
+     "url": "https://www.savoie-news.fr/reportages/societe/article/incidents-dans-plusieurs-quartiers-au-cours-de-la-nuit"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-019",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s173",
+   "quote": "sous forme de police de proximité parce que partout où ça a été mis en place",
+   "speaker": "bompard",
+   "claim": "Partout où la police de proximité a été mise en place, elle a fait baisser la criminalité.",
+   "verdict": "mostly_false",
+   "fakeness": 55,
+   "confidence": 65,
+   "title": "Baisse de la criminalité non démontrée",
+   "explanation": "La police de proximité a été instaurée en France à partir de 1998 sous le gouvernement Jospin, puis démantelée à partir de 2003. Les évaluations menées notamment par les chercheurs de l'IHESI soulignent des effets paradoxaux : le rapprochement entre policiers et habitants augmente mécaniquement le nombre de plaintes déposées, et rien ne permet d'attribuer la baisse de la criminalité enregistrée à ces stratégies. Les bénéfices documentés portent surtout sur la confiance, la légitimité de l'institution et le sentiment de sécurité. L'affirmation généralisante « partout où ça a été mis en place » n'est donc pas étayée par la littérature d'évaluation.",
+   "correction": "Les évaluations de la police de proximité montrent des gains de confiance et de légitimité, mais n'établissent pas de baisse de la criminalité qui lui soit attribuable.",
+   "sources": [
+    {
+     "title": "Wikipédia – Police de proximité en France",
+     "url": "https://fr.wikipedia.org/wiki/Police_de_proximit%C3%A9_en_France"
+    },
+    {
+     "title": "CIPC – Les politiques en matière de police de proximité (rapport, juin 2022)",
+     "url": "https://cipc-icpc.org/wp-content/uploads/2022/08/06-2022_RapportPolicedeProximite_VF.pdf"
+    },
+    {
+     "title": "The Conversation – Police de proximité, mode d'emploi",
+     "url": "https://theconversation.com/police-de-proximite-mode-demploi-82923"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-020",
+   "kind": "fact",
+   "type": "other",
+   "label": "Autre",
+   "segmentId": "s175",
+   "quote": "sur la méthode de la désescalade et ça fait des manifestations moins violentes",
+   "speaker": "bompard",
+   "claim": "D'autres pays européens ont adopté une doctrine de désescalade, qui rend les manifestations moins violentes.",
+   "verdict": "mostly_true",
+   "fakeness": 20,
+   "confidence": 70,
+   "title": "Désescalade européenne : constat globalement étayé",
+   "explanation": "Les travaux d'Olivier Fillieule et Fabien Jobard décrivent en Allemagne, en Suède ou en Suisse des doctrines de maintien de l'ordre fondées sur le dialogue et le renseignement plutôt que sur la coercition, avec des équipes de communication (« Anti-Konflikts Teams ») et sans lanceurs de balles de défense ni grenades de désencerclement. La France est décrite comme restant à l'écart de la diffusion européenne de ce modèle, notamment portée par le projet GODIAC, et le Défenseur des droits a documenté ces approches de désescalade. Le constat de doctrines différentes est solide ; le lien de causalité direct avec des manifestations « moins violentes » est plus discuté, les comparaisons internationales étant difficiles à isoler d'autres facteurs (culture protestataire, organisation des cortèges, judiciarisation).",
+   "correction": "Plusieurs polices européennes privilégient la désescalade et n'emploient ni LBD ni grenades de désencerclement, mais l'effet sur le niveau de violence relève de comparaisons qualitatives plus que d'une mesure causale.",
+   "sources": [
+    {
+     "title": "Cairn – « L'art du désordre toléré. La police des manifestations en Allemagne fédérale » (Savoir/Agir, 2021)",
+     "url": "https://shs.cairn.info/revue-savoir-agir-2021-1-page-57?lang=fr"
+    },
+    {
+     "title": "La Vie des idées – « Un splendide isolement. Les politiques françaises du maintien de l'ordre »",
+     "url": "https://laviedesidees.fr/Un-splendide-isolement"
+    },
+    {
+     "title": "Défenseur des droits – Désescalade de la violence et gestion des foules",
+     "url": "https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=21084"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  }
+ ],
+ "habermas": {
+  "dimensions": {
+   "truth": "Vérité : les faits avancés sont-ils exacts ?",
+   "rightness": "Justesse : les normes invoquées sont-elles légitimes et discutées ?",
+   "sincerity": "Sincérité : le locuteur croit-il ce qu'il dit, sans manipulation ?",
+   "comprehensibility": "Intelligibilité : le propos est-il clair et compréhensible ?"
+  },
+  "speakers": {
+   "bompard": {
+    "truth": 64,
+    "rightness": 72,
+    "sincerity": 66,
+    "comprehensibility": 82,
+    "verdict": "Bompard construit un réquisitoire ordonné et largement sourcé : il s'appuie sur des autorités extérieures (ONU, Défenseur des droits, précédent britannique), délimite lui-même sa thèse (« Il s'agit pas de dire que l'ensemble des policiers sont racistes ») et avance deux propositions institutionnelles précises, ce qui en fait le locuteur le plus intelligible du débat. Sa faiblesse est ailleurs : chiffres forcés (« contrôler 10 15 20 fois dans la journée »), disqualification généalogique de la loi (« issue du programme du Front National ») et insinuations invérifiables (« bizarrement les vidéos de cette caméra, elles ont été effacé ») qui convertissent le soupçon en preuve, pendant que plusieurs objections factuelles du ministre restent sans réponse."
+   },
+   "nunez": {
+    "truth": 66,
+    "rightness": 54,
+    "sincerity": 55,
+    "comprehensibility": 64,
+    "verdict": "Nuñez apporte les corrections les plus utiles de l'échange — le cas de Carcassonne concerne « un policier municipal », l'IGPN est « dirigé comme l'IGGN d'ailleurs maintenant par des magistrats », et le texte crée « une présomption d'usage légitime de l'arme » et non une présomption de légitime défense — et il concède d'emblée que des comportements racistes existent dans la police et sont sanctionnés. Mais il referme la discussion normative plus qu'il ne l'ouvre : universels invérifiables (« toujours dans un cadre légal »), chiffres opposés sans jamais être produits et travaux de recherche disqualifiés en bloc, procès d'intention (« Pourquoi vous essayez de faire croire autre chose ? ») et ridicule (« le monde des bisous nours »), jusqu'à faire de la critique elle-même une faute contre l'apaisement."
+   }
+  },
+  "moments": [
+   {
+    "id": "hab-001",
+    "segmentId": "s011",
+    "speaker": "bompard",
+    "dimension": "truth",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Ouvre en citant des sources externes",
+    "note": "Il adosse son accusation à des instances identifiables — l'ONU au segment précédent, puis « un certain nombre de défenseurs des droits » — et donne un ordre de grandeur chiffré (« 20 fois plus de chances de se faire contrôler »). La prétention à la vérité est explicitement offerte à la vérification, même si l'attribution du chiffre reste approximative."
+   },
+   {
+    "id": "hab-002",
+    "segmentId": "s014",
+    "speaker": "bompard",
+    "dimension": "rightness",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Délimite sa thèse avant d'être contredit",
+    "note": "« Il s'agit pas de dire que l'ensemble des policiers sont racistes » : il restreint de lui-même la portée de la norme qu'il invoque, ce qui rend la critique discutable au lieu de la rendre totale. C'est exactement le geste qu'une discussion argumentée exige : formuler une prétention assez précise pour pouvoir être réfutée."
+   },
+   {
+    "id": "hab-003",
+    "segmentId": "s024",
+    "speaker": "nunez",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Prête une généralisation qui vient d'être écartée",
+    "note": "Bompard vient de dire qu'il ne vise pas tous les policiers ; Nuñez lui oppose malgré tout le slogan « la police tue » pour conclure à « une généralisation chez la France insoumise ». Il répond à une position reconstruite plutôt qu'à celle qui a été énoncée devant lui."
+   },
+   {
+    "id": "hab-004",
+    "segmentId": "s026",
+    "speaker": "nunez",
+    "dimension": "truth",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Concède l'existence de comportements racistes",
+    "note": "« il y a évidemment parfois des comportements qui sont des comportements racistes dans la police, dans la gendarmerie, qui sont sanctionnés » : il ne nie pas le fait établi et il précise, au segment suivant, que l'agent de Carcassonne est un policier municipal. La concession est réelle, même si le qualificatif « très minoritaires » est posé sans chiffre."
+   },
+   {
+    "id": "hab-005",
+    "segmentId": "s030",
+    "speaker": "nunez",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Un universel invérifiable martelé deux fois",
+    "note": "« ce sont des contrôles qui s'effectuent toujours dans un cadre légal », répété tel quel au segment suivant : l'affirmation porte sur la totalité des contrôles et ne peut être ni vérifiée ni discutée. La répétition remplace ici la justification, alors que des décisions de justice ont reconnu des contrôles discriminatoires."
+   },
+   {
+    "id": "hab-006",
+    "segmentId": "s036",
+    "speaker": "nunez",
+    "dimension": "rightness",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Écarte le récépissé sur un motif opérationnel",
+    "note": "La proposition est rejetée parce qu'elle « viendrait complètement gripper le fonctionnement des services de police », sans que soit examinée la question normative qui la motive, la discrimination. Un obstacle d'exécution est substitué à la discussion de la norme elle-même."
+   },
+   {
+    "id": "hab-007",
+    "segmentId": "s043",
+    "speaker": "bompard",
+    "dimension": "truth",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Précédent britannique cité avec prudence",
+    "note": "Il oppose à l'objection opérationnelle un cas comparable — « ce système il existe par exemple dans la police britannique » — et mesure lui-même l'effet annoncé : « pas de les effacer complètement mais de réduire ». L'argument est falsifiable et calibré ; il restera pourtant sans réponse du ministre."
+   },
+   {
+    "id": "hab-008",
+    "segmentId": "s051",
+    "speaker": "bompard",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Impute au ministre une intention de couvrir",
+    "note": "« votre première réaction de couvrir, c'est de protéger » : il passe du constat d'un délai de réaction à l'attribution d'un mobile, que rien dans l'échange n'établit. Le procès d'intention déplace le désaccord des faits vers la personne."
+   },
+   {
+    "id": "hab-009",
+    "segmentId": "s059",
+    "speaker": "bompard",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Chiffre forcé présenté comme évident",
+    "note": "« des gens qui n'ont rien à se reprocher qui se retrouvent contrôler 10 15 20 fois dans la journée » : l'échelle avancée, à la journée, dépasse largement ce que documentent les enquêtes sur les contrôles répétés. L'exagération affaiblit une démonstration qui reposait jusque-là sur des sources."
+   },
+   {
+    "id": "hab-010",
+    "segmentId": "s063",
+    "speaker": "nunez",
+    "dimension": "rightness",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Indépendance de l'IGPN close par l'expérience personnelle",
+    "note": "Après avoir signalé, à juste titre, que l'IGPN est dirigée par des magistrats, il conclut « il y a toutes les garanties d'indépendance » et l'appuie sur sa carrière : « j'ai connu pas mal dans ma carrière d'enquête de l'IGPN ». La compétence du locuteur est mobilisée comme preuve, ce qui soustrait la norme contestée à l'examen."
+   },
+   {
+    "id": "hab-011",
+    "segmentId": "s065",
+    "speaker": "bompard",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 1,
+    "title": "Refuse la réponse sans la discuter",
+    "note": "« vous convaincrerez personne, en tout cas, vous me convaincrerez pas moi » : l'argument précis du ministre — des magistrats à la tête des inspections, des enquêtes sous autorité du parquet — n'est à aucun moment contredit sur le fond. L'incrédulité affichée tient lieu de réfutation."
+   },
+   {
+    "id": "hab-012",
+    "segmentId": "s084",
+    "speaker": "nunez",
+    "dimension": "rightness",
+    "polarity": "negative",
+    "weight": 3,
+    "title": "Fait de la critique une atteinte à l'apaisement",
+    "note": "« on a une responsabilité de ce point de vue, c'est jouer l'apaisement » et dire que la police est raciste « ne contribue pas à l'apaisement » : la question posée n'est plus celle de la validité de la critique mais de ses effets sur l'ordre public. C'est la forme la plus coercitive du débat, car elle délégitime la prise de parole adverse indépendamment de ce qu'elle vaut."
+   },
+   {
+    "id": "hab-013",
+    "segmentId": "s089",
+    "speaker": "bompard",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Disqualifie la loi par sa généalogie supposée",
+    "note": "Rattacher la mesure à « une proposition qui est issue du programme du Front National de Jean-Marie Le Pen » est une filiation historiquement contestable, et surtout sans effet sur la validité du texte discuté. L'origine attribuée sert à condamner la mesure sans l'examiner."
+   },
+   {
+    "id": "hab-014",
+    "segmentId": "s091",
+    "speaker": "bompard",
+    "dimension": "comprehensibility",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Explique la mesure aux auditeurs",
+    "note": "Après avoir demandé « Qu'est-ce que ça veut dire très concrètement ? », il déroule le mécanisme qu'il dénonce en termes accessibles, du tir policier à l'ouverture d'enquête. La clarté profite à l'auditeur même si sa description de l'automaticité de l'enquête sera aussitôt contestée."
+   },
+   {
+    "id": "hab-015",
+    "segmentId": "s103",
+    "speaker": "bompard",
+    "dimension": "comprehensibility",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Traduit le slogan en question discutable",
+    "note": "Pressé par le modérateur sur le caractère systémique du slogan, il reformule sans dérober : « La question est de savoir si quand la police tue, elle le fait dans les règles qui sont les règles prévues par la déontologie. » L'énoncé polémique est traduit en prétention discutable."
+   },
+   {
+    "id": "hab-016",
+    "segmentId": "s109",
+    "speaker": "nunez",
+    "dimension": "comprehensibility",
+    "polarity": "positive",
+    "weight": 3,
+    "title": "Rectifie la qualification juridique du texte",
+    "note": "« ça n'est pas une présomption légitime défense c'est une présomption d'usage légitime de l'arme » : c'est la clarification conceptuelle la plus utile de l'émission, et elle porte sur le cœur même du désaccord. Il rappelle ensuite les critères — « Absolue nécessité, proportionnalité » — et le caractère simple, donc réfragable, de la présomption."
+   },
+   {
+    "id": "hab-017",
+    "segmentId": "s110",
+    "speaker": "bompard",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Coupe l'explication par un slogan",
+    "note": "« C'est un permis de tuer » est lancé au milieu de la distinction juridique que le ministre est en train d'établir. L'interruption ramène à la formule militante au moment précis où l'échange devenait technique et vérifiable."
+   },
+   {
+    "id": "hab-018",
+    "segmentId": "s117",
+    "speaker": "nunez",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Traite les chiffres adverses de « farfelus »",
+    "note": "Il qualifie les données avancées à l'Assemblée de « farfelus farfelus » et affirme que l'usage des armes « a baissé » depuis 2017, sans produire un seul chiffre ni une seule référence. L'évaluation de la prétention devient impossible pour l'auditeur, alors que l'évolution des tirs après refus d'obtempérer est précisément disputée."
+   },
+   {
+    "id": "hab-019",
+    "segmentId": "s122",
+    "speaker": "nunez",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Écarte en bloc chercheurs et sociologues",
+    "note": "« C'est pas des chiffres des chercheurs des des sociologues », opposé aux chiffres « des deux inspections générales » : une source est disqualifiée par sa catégorie et non par une erreur identifiée. L'autorité administrative est posée comme supérieure au travail scientifique, ce qui ferme la vérification plutôt que de l'ouvrir."
+   },
+   {
+    "id": "hab-020",
+    "segmentId": "s128",
+    "speaker": "nunez",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Suppose la mauvaise foi de l'adversaire",
+    "note": "« Pourquoi vous essayez de faire croire autre chose ? » suppose acquis que Bompard sait le contraire de ce qu'il soutient. La discussion glisse de la validité de l'énoncé à l'honnêteté supposée de celui qui l'énonce."
+   },
+   {
+    "id": "hab-021",
+    "segmentId": "s137",
+    "speaker": "bompard",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Insinuation répétée sur un dossier judiciaire",
+    "note": "« bizarrement il y avait une caméra... et bizarrement les vidéos de cette caméra, elles ont été effacé » : l'adverbe répété installe l'idée d'une dissimulation organisée sans que rien ne l'établisse à l'antenne. Le soupçon, légitime comme question, est présenté comme un fait acquis."
+   },
+   {
+    "id": "hab-022",
+    "segmentId": "s152",
+    "speaker": "nunez",
+    "dimension": "sincerity",
+    "polarity": "positive",
+    "weight": 1,
+    "title": "Reconnaît ne pas connaître le dossier",
+    "note": "« Moi je connais pas exactement les dysfonctionnements dont vous parlez » : plutôt que d'improviser une réponse, il avoue une limite de son information. La franchise est réelle, mais il enchaîne aussitôt sur d'autres affaires « allées au bout », ce qui laisse le cas soulevé sans traitement."
+   },
+   {
+    "id": "hab-023",
+    "segmentId": "s156",
+    "speaker": "nunez",
+    "dimension": "rightness",
+    "polarity": "negative",
+    "weight": 3,
+    "title": "Ridiculise l'adversaire plutôt que son programme",
+    "note": "« Vous êtes dans le monde des bisous nours » suit immédiatement « vous êtes plus dans le monde du réel » : le programme adverse est renvoyé à l'enfance au lieu d'être discuté point par point. Le ridicule est une contrainte exercée sur le débat, pas un argument."
+   },
+   {
+    "id": "hab-024",
+    "segmentId": "s175",
+    "speaker": "bompard",
+    "dimension": "rightness",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Oppose une doctrine alternative, pas un refus",
+    "note": "Il assume une norme de rechange — redéploiement en police de proximité, maintien de l'ordre fondé « sur la méthode de la désescalade » — et l'appuie sur l'expérience d'autres pays européens. La prétention reste peu sourcée, mais elle est formulée comme une proposition discutable et non comme une dénonciation."
+   },
+   {
+    "id": "hab-025",
+    "segmentId": "s176",
+    "speaker": "nunez",
+    "dimension": "rightness",
+    "polarity": "positive",
+    "weight": 1,
+    "title": "Répond directement sur la désescalade",
+    "note": "« la désescalade, ça vous savez très bien que nous l'appliquons » : il prend l'argument tel qu'il vient d'être posé et le conteste frontalement, au lieu de changer de terrain. La réponse arrive toutefois à la toute fin, sans que le désaccord factuel puisse être tranché."
+   }
+  ],
+  "ideal_speech": {
+   "equal_participation": {
+    "score": 62,
+    "note": "Le modérateur organise explicitement l'alternance (« Je vous laisse la parole », « Réponse de Laurent Lunis à Emmanuel Bonpard ») et chacun obtient de longues séquences continues, ce qui place ce débat au-dessus de la moyenne du genre. Mais les interruptions sont nombreuses et croisées (s110, s121, s157, s162-s165), Bompard doit réclamer son temps pour exposer son propre programme (« il faut que vous puissiez répondre une minute pour parler de mon propre programme »), et le dossier qu'il apporte est écourté par le modérateur alors que le programme de LFI est, lui, introduit sous une forme choisie par la modération."
+   },
+   "no_coercion": {
+    "score": 46,
+    "note": "Aucune menace, mais une coercition discursive constante : ridicule (« le monde des bisous nours »), injonction (« Renseignez-vous »), argument d'autorité institutionnelle (les chiffres des inspections contre ceux des chercheurs) et expérience personnelle érigée en preuve d'indépendance de l'IGPN. Le plus lourd reste la mise en cause de la légitimité même de la critique, accusée de ne pas « contribuer à l'apaisement » ; côté Bompard, les procès d'intention (« votre première réaction de couvrir ») et les insinuations répétées exercent une pression symétrique, quoique moins systématique."
+   },
+   "argument_over_power": {
+    "score": 52,
+    "note": "Il existe de vraies séquences argumentatives : récépissé, objection opérationnelle, contre-exemple britannique ; slogan « la police tue » clarifié en question de proportionnalité ; distinction entre présomption de légitime défense et présomption d'usage légitime de l'arme ; désescalade contestée frontalement. Mais les meilleurs arguments de chaque camp restent orphelins — Nuñez ne répond jamais au précédent britannique ni au rapport de 1 à 20, Bompard ne répond jamais à la direction des inspections par des magistrats — et chacun dispose d'une porte de sortie récurrente, l'imputation d'intention pour l'un, la disqualification des sources pour l'autre."
+   },
+   "overall": {
+    "score": 54,
+    "verdict": "Au sens de Habermas, ce n'est qu'à moitié un bon débat : le cadre formel est honorable, puisque deux positions frontalement opposées acceptent la confrontation en direct, qu'un modérateur distribue la parole et reformule les termes, et que chacun développe des arguments construits plutôt que des formules. Mais la force du meilleur argument ne l'emporte que par intermittence : les objections les plus solides de chaque camp restent sans réponse, et l'échange bascule régulièrement du contenu vers les intentions et la personne de l'adversaire. Surtout, la coercition, pour être purement discursive, n'en est pas moins efficace — ridicule, autorité institutionnelle opposée à la recherche, et procès fait à la critique de nuire à l'apaisement ferment des questions que la discussion aurait dû maintenir ouvertes."
+   }
+  }
+ }
+}

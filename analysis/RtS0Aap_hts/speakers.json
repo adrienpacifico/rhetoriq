@@ -1,0 +1,784 @@
+{
+ "speakers": {
+  "moderator": {
+   "name": "Journaliste France Inter",
+   "role": "Modération",
+   "party": null,
+   "kind": "moderator"
+  },
+  "bompard": {
+   "name": "Manuel Bompard",
+   "role": "Député, coordinateur LFI",
+   "party": "LFI",
+   "kind": "debater"
+  },
+  "nunez": {
+   "name": "Laurent Nuñez",
+   "role": "Ministre de l'Intérieur",
+   "party": null,
+   "kind": "debater"
+  }
+ },
+ "turns": [
+  {
+   "segmentId": "s001",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s002",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s003",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s004",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s005",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s006",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s007",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s008",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s009",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s010",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s011",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s012",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s013",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s014",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s015",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s016",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s017",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s018",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s019",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s020",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s021",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s022",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s023",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s024",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s025",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s026",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s027",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s028",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s029",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s030",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s031",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s032",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s033",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s034",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s035",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s036",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s037",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s038",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s039",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s040",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s041",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s042",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s043",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s044",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s045",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s046",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s047",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s048",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s049",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s050",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s051",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s052",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s053",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s054",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s055",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s056",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s057",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s058",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s059",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s060",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s061",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s062",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s063",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s064",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s065",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s066",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s067",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s068",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s069",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s070",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s071",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s072",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s073",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s074",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s075",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s076",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s077",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s078",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s079",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s080",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s081",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s082",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s083",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s084",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s085",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s086",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s087",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s088",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s089",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s090",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s091",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s092",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s093",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s094",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s095",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s096",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s097",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s098",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s099",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s100",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s101",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s102",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s103",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s104",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s105",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s106",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s107",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s108",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s109",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s110",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s111",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s112",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s113",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s114",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s115",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s116",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s117",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s118",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s119",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s120",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s121",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s122",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s123",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s124",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s125",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s126",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s127",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s128",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s129",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s130",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s131",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s132",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s133",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s134",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s135",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s136",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s137",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s138",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s139",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s140",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s141",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s142",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s143",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s144",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s145",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s146",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s147",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s148",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s149",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s150",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s151",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s152",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s153",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s154",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s155",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s156",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s157",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s158",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s159",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s160",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s161",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s162",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s163",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s164",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s165",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s166",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s167",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s168",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s169",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s170",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s171",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s172",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s173",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s174",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s175",
+   "speaker": "bompard"
+  },
+  {
+   "segmentId": "s176",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s177",
+   "speaker": "nunez"
+  },
+  {
+   "segmentId": "s178",
+   "speaker": "moderator"
+  },
+  {
+   "segmentId": "s179",
+   "speaker": "moderator"
+  }
+ ],
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Ouverture du débat",
+   "start": 0.0,
+   "end": 18.0,
+   "summary": "La journaliste de France Inter présente le débat entre Manuel Bompard et Laurent Nuñez sur les questions de sécurité et de maintien de l'ordre."
+  },
+  {
+   "id": "c2",
+   "title": "Racisme dans la police et IGPN",
+   "start": 18.0,
+   "end": 368.0,
+   "summary": "Bompard accuse le gouvernement de déni face au racisme et aux contrôles au faciès dans la police et réclame un récépissé de contrôle et une réforme de l'IGPN, que Nuñez rejette en défendant le cadre légal des contrôles et l'indépendance de l'IGPN."
+  },
+  {
+   "id": "c3",
+   "title": "Impunité policière et stigmatisation",
+   "start": 368.0,
+   "end": 509.0,
+   "summary": "Bompard dénonce une impunité policière et l'absence de sanctions exemplaires, tandis que Nuñez accuse la France insoumise de stigmatiser les policiers et de nuire à l'apaisement."
+  },
+  {
+   "id": "c4",
+   "title": "La police tue et légitime défense",
+   "start": 509.0,
+   "end": 736.0,
+   "summary": "Le débat porte sur la formule « la police tue » employée par Bompard et sur la loi de présomption de légitime défense pour les forces de l'ordre, que Bompard qualifie de « permis de tuer » et que Nuñez défend statistiques à l'appui."
+  },
+  {
+   "id": "c5",
+   "title": "Le cas Soualfa Wouri",
+   "start": 736.0,
+   "end": 833.0,
+   "summary": "Bompard relate le cas d'un jeune homme tué par un tir policier dans sa circonscription et dénonce des dysfonctionnements dans l'enquête, que Nuñez conteste."
+  },
+  {
+   "id": "c6",
+   "title": "Programme sécuritaire et maintien de l'ordre",
+   "start": 833.0,
+   "end": 989.0,
+   "summary": "La discussion porte sur le programme sécuritaire de la France insoumise (interdiction des LBD et des grenades, suppression de la BAC) et sur la doctrine de maintien de l'ordre, chacun défendant son approche avant la clôture du débat."
+  }
+ ]
+}

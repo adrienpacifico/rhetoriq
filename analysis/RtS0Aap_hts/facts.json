@@ -1,0 +1,637 @@
+{
+  "annotations": [
+    {
+      "id": "fact-001",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s009",
+      "quote": "tant que cette vidéo n'a pas été publiée ce policier est restait en poste",
+      "speaker": "bompard",
+      "claim": "L'agent de Carcassonne filmé tenant des propos racistes est resté en poste tant que la vidéo n'avait pas été rendue publique.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 80,
+      "title": "Carcassonne : sanction après la publication",
+      "explanation": "La vidéo, enregistrée par une caméra-piéton en novembre 2025, a été révélée par Midi Libre les 8 et 11 septembre 2026, et les quatre policiers municipaux n'ont été suspendus qu'après cette publication. La presse régionale souligne qu'environ un an s'est écoulé entre l'enregistrement et la suspension, malgré une fuite interne dès décembre 2025. L'affirmation est donc exacte sur le fond, avec une réserve : il s'agit d'agents municipaux, qui relèvent du maire et non directement du ministre de l'Intérieur.",
+      "correction": "Les quatre policiers municipaux de Carcassonne n'ont été suspendus qu'après la publication de la vidéo par Midi Libre en septembre 2026, environ un an après son enregistrement.",
+      "sources": [
+        {
+          "title": "France 3 Occitanie – Tout comprendre au scandale de la police municipale de Carcassonne",
+          "url": "https://france3-regions.franceinfo.fr/occitanie/aude/carcassonne/propos-racistes-policier-proche-du-rn-video-choc-tout-comprendre-au-scandale-qui-secoue-la-police-municipale-de-carcassonne-quatre-agents-suspendus-3414509.html"
+        },
+        {
+          "title": "ICI – Un an entre l'enregistrement de la vidéo et la suspension des policiers",
+          "url": "https://www.ici.fr/occitanie/aude-11/carcassonne/propos-racistes-de-carcassonne-un-an-s-est-ecoule-entre-l-enregistrement-de-la-video-et-la-suspension-des-policiers-5240902"
+        },
+        {
+          "title": "franceinfo – Propos racistes d'un policier municipal à Carcassonne",
+          "url": "https://www.franceinfo.fr/societe/racisme/propos-racistes-d-un-policier-municipal-a-carcassonne/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-002",
+      "kind": "fact",
+      "type": "quote_attribution",
+      "label": "Citation attribuée",
+      "segmentId": "s010",
+      "quote": "c'est l'Organisation des Nations- Unies qui dit qu'il y a un profond problème de racisme dans la police",
+      "speaker": "bompard",
+      "claim": "L'ONU affirme qu'il existe un problème profond de racisme dans la police française.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 75,
+      "title": "L'ONU a bien alerté sur le racisme policier",
+      "explanation": "En juin 2023, le Haut-Commissariat des Nations unies aux droits de l'homme a appelé la France à s'attaquer aux « profonds problèmes » de racisme et de discrimination raciale au sein de ses forces de l'ordre. Le Comité pour l'élimination de la discrimination raciale (CEDR) a de son côté demandé aux autorités françaises de traiter les causes « structurelles et systémiques » des discriminations, notamment dans le maintien de l'ordre. Ces positions émanent d'organes et d'experts onusiens, et non d'une décision de l'ONU en tant qu'organisation ; la France les a officiellement contestées, les jugeant « excessives » et « infondées ».",
+      "correction": "Des organes onusiens (HCDH en 2023, Comité CEDR) ont dénoncé de « profonds problèmes » de racisme dans les forces de l'ordre françaises, constats que Paris conteste.",
+      "sources": [
+        {
+          "title": "ONU Info – L'ONU appelle la France à s'attaquer aux « profonds problèmes » de racisme au sein des forces de l'ordre",
+          "url": "https://news.un.org/fr/story/2023/06/1136572"
+        },
+        {
+          "title": "France Diplomatie – Statement by the Committee on the Elimination of Racial Discrimination (réponse française)",
+          "url": "https://www.diplomatie.gouv.fr/en/french-foreign-policy/france-and-the-united-nations/news-and-events/news/news-2023/article/statement-by-the-committee-on-the-elimination-of-racial-discrimination-08-07-23"
+        },
+        {
+          "title": "Human Rights Watch – Des associations saisissent l'ONU sur les contrôles au faciès (2024)",
+          "url": "https://www.hrw.org/fr/news/2024/04/11/france-des-associations-saisissent-lonu-pour-lutter-contre-les-controles-au-facies"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-003",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s011",
+      "quote": "un jeune homme en France s'il est noir ou arabe il a 20 fois plus",
+      "speaker": "bompard",
+      "claim": "Un jeune homme perçu comme noir ou arabe a 20 fois plus de risques d'être contrôlé qu'un jeune homme blanc.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 85,
+      "title": "Contrôles au faciès : ordre de grandeur correct",
+      "explanation": "L'enquête du Défenseur des droits publiée le 20 janvier 2017, menée auprès d'un échantillon représentatif de plus de 5 000 personnes, conclut que les jeunes hommes perçus comme noirs ou arabes ont une probabilité 20 fois plus élevée d'être contrôlés. Le chiffre est donc exact. La nuance porte sur le terme de comparaison : le rapport compare ce groupe au reste de la population, et non spécifiquement aux « jeunes hommes blancs ». La même enquête relève que 80 % des jeunes hommes perçus comme noirs ou arabes déclarent avoir été contrôlés dans les cinq dernières années, contre 16 % des autres répondants.",
+      "correction": "Selon le Défenseur des droits (2017), les jeunes hommes perçus comme noirs ou arabes ont une probabilité 20 fois supérieure à celle du reste de la population d'être contrôlés.",
+      "sources": [
+        {
+          "title": "franceinfo – Les jeunes Noirs ou Arabes ont 20 fois plus de chances d'être contrôlés (Défenseur des droits)",
+          "url": "https://www.franceinfo.fr/societe/controle-au-facies-les-jeunes-noirs-ou-arabes-ont-20-fois-plus-de-chances-d-etre-controles-par-la-police-selon-le-defenseur-des-droits_2027820.html"
+        },
+        {
+          "title": "Défenseur des droits – Relations police/population : le cas des contrôles d'identité",
+          "url": "https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=16064"
+        },
+        {
+          "title": "Défenseur des droits – Contrôles d'identité : que dit le droit ?",
+          "url": "https://www.defenseurdesdroits.fr/controles-didentite-que-dit-le-droit-et-comment-mettre-fin-aux-controles-discriminatoires-565"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-004",
+      "kind": "fact",
+      "type": "quote_attribution",
+      "label": "Citation attribuée",
+      "segmentId": "s024",
+      "quote": "des slogans comme ceux qui sont de la police tue",
+      "speaker": "nunez",
+      "claim": "La France insoumise emploie le slogan « la police tue ».",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 75,
+      "title": "Formule bien employée par Mélenchon",
+      "explanation": "Jean-Luc Mélenchon a publié en juin 2022 un message affirmant « La police tue et le groupe factieux Alliance justifie les tirs et la mort pour refus d'obtempérer », qu'il a ensuite assumé publiquement sur France Inter. La formule a provoqué les réactions d'Élisabeth Borne, qui l'a jugée « choquante », et de Gérald Darmanin. L'attribution à la principale figure de LFI est donc exacte. La qualifier de « slogan » du mouvement élargit toutefois la portée du propos : il s'agit d'une déclaration du fondateur de LFI, pas d'un mot d'ordre inscrit dans le programme du mouvement.",
+      "correction": "Jean-Luc Mélenchon a bien écrit et assumé « la police tue » en juin 2022, mais ce n'est pas un slogan officiel de La France insoumise.",
+      "sources": [
+        {
+          "title": "Le JDD – « La police tue » : Jean-Luc Mélenchon persiste, Élisabeth Borne lui répond",
+          "url": "https://www.lejdd.fr/politique/la-police-tue-jean-luc-melenchon-persiste-elisabeth-borne-et-la-majorite-lui-repondent-746"
+        },
+        {
+          "title": "Le JDD – Mélenchon défend les slogans visant les policiers",
+          "url": "https://www.lejdd.fr/politique/le-droit-de-rigoler-jean-luc-melenchon-defend-les-slogans-appelant-la-mort-de-policiers-146855"
+        }
+      ],
+      "habermas": [
+        "truth",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fact-005",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s027",
+      "quote": "Le cas de Carcassen d'ailleurs, c'est un policier municipal.",
+      "speaker": "nunez",
+      "claim": "L'agent mis en cause dans la vidéo de Carcassonne est un policier municipal.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 90,
+      "title": "Carcassonne : bien la police municipale",
+      "explanation": "L'affaire concerne la police municipale de Carcassonne : le principal mis en cause est un chef de patrouille, ancien militaire et membre du service d'ordre du RN, filmé par sa propre caméra-piéton. Quatre agents de la police municipale ont été suspendus après la diffusion de la vidéo par Midi Libre en septembre 2026. La précision du ministre est exacte ; elle a toutefois une portée argumentative, puisque la police municipale dépend du maire et non du ministère de l'Intérieur.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "France 3 Occitanie – Réactions au scandale de la police municipale de Carcassonne",
+          "url": "https://france3-regions.franceinfo.fr/occitanie/aude/carcassonne/propos-racistes-suspension-maire-rn-sur-la-defensive-tout-comprendre-au-scandale-qui-secoue-la-police-municipale-de-carcassonne-3414374.html"
+        },
+        {
+          "title": "franceinfo – Propos racistes d'un policier municipal à Carcassonne",
+          "url": "https://www.franceinfo.fr/societe/racisme/propos-racistes-d-un-policier-municipal-a-carcassonne/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-006",
+      "kind": "fact",
+      "type": "other",
+      "label": "Autre",
+      "segmentId": "s043",
+      "quote": "ce système il existe par exemple dans la police britannique",
+      "speaker": "bompard",
+      "claim": "Le récépissé de contrôle d'identité existe dans la police britannique et y a réduit les discriminations.",
+      "verdict": "misleading",
+      "fakeness": 35,
+      "confidence": 65,
+      "title": "Récépissé britannique : réalité plus nuancée",
+      "explanation": "Au Royaume-Uni, le Police and Criminal Evidence Act de 1986 impose au policier de remplir un formulaire lors d'un « stop and search », mentionnant le motif, l'identité et l'origine ethnique, dont la personne contrôlée peut obtenir copie. Mais l'obligation d'enregistrer les simples « stop and account » a été supprimée par le Crime and Security Act de 2010, à compter du 1er janvier 2011. Le Défenseur des droits estime que le récépissé réduit mécaniquement le nombre de contrôles, donc de contrôles abusifs, mais « ne résout pas fondamentalement » le problème des contrôles discriminatoires. L'expérimentation la plus souvent citée comme probante est d'ailleurs espagnole (Fuenlabrada), pas britannique.",
+      "correction": "Le Royaume-Uni impose depuis 1986 une trace écrite des fouilles (« stop and search »), mais son effet sur les discriminations est partiel et l'obligation d'enregistrement a été allégée en 2011.",
+      "sources": [
+        {
+          "title": "Le JDD – Contrôle d'identité : ce qui existe ailleurs",
+          "url": "https://www.lejdd.fr/Societe/Controle-d-identite-ce-qui-existe-ailleurs-569665-3131630"
+        },
+        {
+          "title": "franceinfo – Quatre questions sur les récépissés de contrôle d'identité",
+          "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/violences-policieres-quatre-questions-sur-les-recepisses-de-controle-d-identite-reclames-par-une-partie-de-l-opposition_4002051.html"
+        },
+        {
+          "title": "Défenseur des droits – Rapport relatif aux relations police/citoyens et aux contrôles d'identité (2012)",
+          "url": "https://www.defenseurdesdroits.fr/sites/default/files/2023-10/ddd_rapport_relations-police-citoyen-controle-identite_20140515.pdf"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-007",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s059",
+      "quote": "qui se retrouvent contrôler 10 15 20 fois dans la journée",
+      "speaker": "bompard",
+      "claim": "Des personnes n'ayant rien à se reprocher sont contrôlées 10, 15 ou 20 fois dans la même journée.",
+      "verdict": "misleading",
+      "fakeness": 55,
+      "confidence": 70,
+      "title": "Fréquence des contrôles nettement exagérée",
+      "explanation": "Les travaux du Défenseur des droits documentent bien des contrôles répétés : près de 40 % des 18-24 ans déclarent avoir été contrôlés en cinq ans, et plus d'un tiers des hommes de moins de 25 ans perçus comme noirs ou arabes rapportent plus de cinq contrôles sur la même période. L'institution évoque aussi le cas de personnes contrôlées « plusieurs fois par jour ». En revanche, aucune source institutionnelle ne documente une fréquence de 10 à 20 contrôles dans une seule journée. L'ordre de grandeur avancé dépasse largement les données disponibles, même s'il peut refléter des témoignages individuels extrêmes.",
+      "correction": "Le Défenseur des droits documente des contrôles répétés, parfois plusieurs fois par jour pour certaines personnes, mais pas une fréquence de 10 à 20 contrôles quotidiens.",
+      "sources": [
+        {
+          "title": "Défenseur des droits – Fiche 8 : lutter contre les contrôles d'identité discriminatoires",
+          "url": "https://www.defenseurdesdroits.fr/sites/default/files/2024-03/FICHE8_ControlesID_20240304.pdf"
+        },
+        {
+          "title": "Défenseur des droits – Contrôles d'identité : que dit le droit ?",
+          "url": "https://www.defenseurdesdroits.fr/controles-didentite-que-dit-le-droit-et-comment-mettre-fin-aux-controles-discriminatoires-565"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-008",
+      "kind": "fact",
+      "type": "legal",
+      "label": "Texte de loi",
+      "segmentId": "s062",
+      "quote": "est dirigé comme l'IGGN d'ailleurs maintenant par des magistrats",
+      "speaker": "nunez",
+      "claim": "L'IGPN et l'IGGN sont désormais dirigées par des magistrats.",
+      "verdict": "true",
+      "fakeness": 10,
+      "confidence": 85,
+      "title": "IGPN et IGGN dirigées par des magistrats",
+      "explanation": "La magistrate Agnès Thibault-Lecuivre a été nommée directrice de l'IGPN par décret publié au Journal officiel du 21 juillet 2022, une première pour une institution jusque-là dirigée par des commissaires de police. À l'IGGN, le magistrat Jean-Michel Gentil a succédé au général Alain Pidoux en septembre 2023, le chef de l'inspection portant depuis le titre d'inspecteur général pour marquer l'arrivée d'un civil. Le fait est donc exact. La conclusion qu'en tire le ministre — « toutes les garanties d'indépendance » — reste, elle, contestée : l'IGPN demeure rattachée à la direction générale de la police nationale et son directeur est nommé par le ministre de l'Intérieur.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Gazette du Palais – La magistrate Agnès Thibault-Lecuivre devient directrice de l'IGPN",
+          "url": "https://www.gazette-du-palais.fr/actualites-professionnelles/la-magistrate-agnes-thibault-lecuivre-devient-directrice-de-ligpn/"
+        },
+        {
+          "title": "Wikipédia – Agnès Thibault-Lecuivre",
+          "url": "https://fr.wikipedia.org/wiki/Agn%C3%A8s_Thibault-Lecuivre"
+        },
+        {
+          "title": "Gendarmerie nationale – L'Inspection générale de la gendarmerie nationale (IGGN)",
+          "url": "https://www.gendarmerie.interieur.gouv.fr/organisation/nos-unites/l-inspection-generale-de-la-gendarmerie-nationale-iggn"
+        },
+        {
+          "title": "Wikipedia – Inspection générale de la Gendarmerie nationale",
+          "url": "https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_de_la_Gendarmerie_nationale"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-009",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s089",
+      "quote": "une proposition qui est issue du programme du Front National de Jean-Marie Le Pen",
+      "speaker": "bompard",
+      "claim": "La présomption de légitime défense pour les forces de l'ordre est issue du programme du Front national de Jean-Marie Le Pen.",
+      "verdict": "mostly_true",
+      "fakeness": 15,
+      "confidence": 80,
+      "title": "Origine lepéniste : filiation avérée",
+      "explanation": "L'INA rappelle que la présomption de légitime défense figurait dans le programme présidentiel de Jean-Marie Le Pen en 2007, qui proposait de « mettre fin au soupçon qui pèse sur les forces de l'ordre » en créant une telle présomption. La mesure a ensuite été reprise par Marine Le Pen, puis par Nicolas Sarkozy lors de la campagne de 2012. La filiation est donc documentée. La nuance porte sur le texte visé : la proposition de loi adoptée le 7 juillet 2026, portée par le député LR Éric Pauget, a été réécrite par amendement gouvernemental en « présomption d'usage légitime de l'arme », formulation plus étroite que celle du programme frontiste.",
+      "correction": "La présomption de légitime défense figurait bien au programme de Jean-Marie Le Pen en 2007, mais le texte voté en juillet 2026 porte sur une « présomption d'usage légitime de l'arme ».",
+      "sources": [
+        {
+          "title": "INA – La présomption de légitime défense pour les forces de l'ordre, une proposition ancienne de l'extrême droite",
+          "url": "https://www.ina.fr/ina-eclaire-actu/presomption-legitime-defense-police-forces-de-l-ordre-extreme-droite"
+        },
+        {
+          "title": "INA – Vidéo : une proposition de l'extrême droite",
+          "url": "https://www.ina.fr/ina-eclaire-actu/video/man1783693880/la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-une-proposition-de-l-extreme-droite"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-010",
+      "kind": "fact",
+      "type": "legal",
+      "label": "Texte de loi",
+      "segmentId": "s091",
+      "quote": "il n'y aura pas d'ouverture d'une enquête de manière",
+      "speaker": "bompard",
+      "claim": "Avec le texte voté en juillet 2026, aucune enquête ne serait plus ouverte automatiquement après un tir policier mortel.",
+      "verdict": "misleading",
+      "fakeness": 45,
+      "confidence": 60,
+      "title": "Présomption simple, pas fin des enquêtes",
+      "explanation": "Le texte adopté le 7 juillet 2026 insère à l'article L. 435-1 du code de la sécurité intérieure une disposition selon laquelle les policiers et gendarmes qui font usage de leur arme « sont présumés avoir agi » dans l'un des cas autorisés, dans des conditions d'absolue nécessité et de stricte proportionnalité. Il s'agit d'une présomption simple, réfragable, qui déplace la charge de la preuve mais ne supprime pas la procédure judiciaire ouverte en cas de mort d'homme. Les débats parlementaires ont porté sur un sous-amendement visant à garantir explicitement l'ouverture automatique d'une enquête, ce qui montre que le risque dénoncé est un affaiblissement des investigations, pas leur suppression de droit.",
+      "correction": "Le texte instaure une présomption simple, renversable, qui allège la charge pesant sur l'agent sans supprimer l'enquête judiciaire consécutive à un tir mortel.",
+      "sources": [
+        {
+          "title": "Assemblée nationale – Proposition de loi, texte adopté n° 328 (17e législature)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0328_texte-adopte-seance"
+        },
+        {
+          "title": "Le Club des Juristes – Ce que changerait la présomption de légitime défense pour les forces de l'ordre",
+          "url": "https://www.leclubdesjuristes.com/societe/ce-que-changerait-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-16913/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-011",
+      "kind": "fact",
+      "type": "legal",
+      "label": "Texte de loi",
+      "segmentId": "s094",
+      "quote": "cette loi qui a été adoptée à l'Assemblée euh au mois de juillet",
+      "speaker": "moderator",
+      "claim": "Une loi sur la présomption de légitime défense des forces de l'ordre a été adoptée à l'Assemblée nationale en juillet.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 85,
+      "title": "Texte voté le 7 juillet 2026",
+      "explanation": "L'Assemblée nationale a adopté en première lecture, le 7 juillet 2026, par 313 voix contre 199, la proposition de loi du député LR Éric Pauget, déposée le 3 décembre 2024. Le texte a été profondément réécrit en séance : la « présomption de légitime défense » du titre initial a été remplacée, par amendement du gouvernement, par une « présomption d'usage légitime de l'arme ». La date et le vote sont donc exacts. La formulation « cette loi » est approximative : il s'agit d'une adoption en première lecture par une seule chambre, pas d'une loi promulguée.",
+      "correction": "L'Assemblée nationale a adopté ce texte en première lecture le 7 juillet 2026 ; il n'est pas encore une loi promulguée.",
+      "sources": [
+        {
+          "title": "Assemblée nationale – Proposition de loi, texte adopté n° 328 (17e législature)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0328_texte-adopte-seance"
+        },
+        {
+          "title": "Le Club des Juristes – Ce que changerait la présomption de légitime défense pour les forces de l'ordre",
+          "url": "https://www.leclubdesjuristes.com/societe/ce-que-changerait-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-16913/"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-012",
+      "kind": "fact",
+      "type": "historical",
+      "label": "Fait historique",
+      "segmentId": "s108",
+      "quote": "l'expression qui avait déjà été utilisée lorsque Bernard Cast a fait adopter la loi de 2017",
+      "speaker": "nunez",
+      "claim": "L'expression « permis de tuer » avait déjà été employée contre la loi de 2017 sur l'usage des armes, attribuée à Bernard Cazeneuve.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 75,
+      "title": "Loi de 2017 : paternité à nuancer",
+      "explanation": "La loi n° 2017-258 du 28 février 2017 relative à la sécurité publique a bien créé l'article L. 435-1 du code de la sécurité intérieure, qui harmonise et énumère les cas d'usage des armes par policiers et gendarmes. Elle est couramment appelée « loi Cazeneuve » et qualifiée de « permis de tuer » par les députés LFI, qualification que Bernard Cazeneuve conteste : l'expression est donc effectivement antérieure au débat de 2026. La nuance est chronologique : Bernard Cazeneuve a porté le projet comme ministre de l'Intérieur jusqu'en décembre 2016, mais il était Premier ministre lors de l'adoption du texte, défendu au banc par Bruno Le Roux.",
+      "correction": "La loi du 28 février 2017 est dite « loi Cazeneuve », mais elle a été adoptée alors qu'il était Premier ministre, Bruno Le Roux étant ministre de l'Intérieur.",
+      "sources": [
+        {
+          "title": "Légifrance – LOI n° 2017-258 du 28 février 2017 relative à la sécurité publique",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034104023"
+        },
+        {
+          "title": "Vie-publique.fr – Loi du 28 février 2017 relative à la sécurité publique",
+          "url": "https://www.vie-publique.fr/loi/20990-securite-publique-policiers-usage-des-armes-feu-anonymat"
+        },
+        {
+          "title": "LCP – Usage des armes par la police : la mort de Nahel relance le débat sur la loi de 2017",
+          "url": "https://lcp.fr/actualites/usage-des-armes-par-la-police-la-mort-de-nahel-relance-le-debat-sur-la-loi-de-2017"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-013",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s118",
+      "quote": "Il a baissé, il a pas explosé, il a baissé",
+      "speaker": "nunez",
+      "claim": "Le nombre d'usages d'armes par les policiers et gendarmes a baissé depuis la loi de 2017.",
+      "verdict": "mostly_true",
+      "fakeness": 25,
+      "confidence": 70,
+      "title": "Baisse réelle, base de comparaison choisie",
+      "explanation": "Les rapports de l'IGPN recensent 189 usages d'armes à feu en 2023, le total le plus bas depuis 2017 (394), soit une baisse d'environ 52 % en six ans ; les tirs sur véhicules en mouvement passent de 202 en 2017 à 79 en 2023. La tendance invoquée par le ministre est donc réelle sur cette période. Elle est cependant mesurée à partir de l'année de pic : l'IGPN avait relevé dès le premier semestre 2017 une hausse de près de 40 % des déclarations d'usage de l'arme individuelle par rapport à 2016, et de 46 % des tirs de LBD. Prendre 2017 comme point de départ maximise mécaniquement la baisse affichée et neutralise l'effet immédiat de la loi.",
+      "correction": "Les usages d'armes à feu ont fortement reculé depuis 2017 (394 puis 189 en 2023), mais 2017 est précisément l'année de forte hausse qui a suivi l'entrée en vigueur de la loi.",
+      "sources": [
+        {
+          "title": "franceinfo – L'usage de l'arme de service en net recul en 2023, selon le rapport annuel de l'IGPN",
+          "url": "https://www.franceinfo.fr/faits-divers/police/police-l-usage-de-l-arme-de-service-en-net-recul-en-2023-selon-le-rapport-annuel-de-l-igpn_6906983.html"
+        },
+        {
+          "title": "L'Essor – Le rapport 2024 de l'IGPN détaille l'usage des armes par les policiers",
+          "url": "https://lessor.org/operationnel/le-rapport-2024-de-ligpn-detaille-lusage-des-armes-par-les-policiers-et-leurs-consequences/"
+        },
+        {
+          "title": "Europe 1 – « Hausse significative » de l'usage des armes à feu au premier semestre 2017",
+          "url": "https://www.europe1.fr/societe/hausse-significative-de-lusage-des-armes-a-feu-par-les-policiers-au-premier-semestre-2017-3462071"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-014",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s132",
+      "quote": "heureusement que la population fait confiance à cette police",
+      "speaker": "nunez",
+      "claim": "La population française fait confiance à sa police.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 80,
+      "title": "Confiance dans la police largement majoritaire",
+      "explanation": "Le Baromètre de la confiance politique du CEVIPOF mesure en janvier 2026 une confiance de 73 % des Français envers la police, soit presque le niveau d'avant le mouvement des Gilets jaunes (74 % en décembre 2018) et bien au-dessus du creux de 66 % atteint en février 2020. L'écart avec la justice, créditée de 45 %, est de 28 points. L'affirmation est donc exacte. Le CEVIPOF souligne lui-même le paradoxe d'une institution très contestée dans le débat public mais qui conserve un capital de confiance élevé.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Sciences Po CEVIPOF – Pourquoi les Français font-ils davantage confiance à la police qu'à la justice ?",
+          "url": "https://www.sciencespo.fr/cevipof/fr/actualites/pourquoi-les-francais-font-ils-davantage-confiance-a-la-police-qu-a-la-justice/"
+        },
+        {
+          "title": "CEVIPOF – Baromètre de la confiance politique, vague 17 (février 2026)",
+          "url": "https://www.sciencespo.fr/cevipof/sites/sciencespo.fr.cevipof/files/Barometre_confiance_CEVIPOFVague17_fev2026_vd1.pdf"
+        },
+        {
+          "title": "Insee – Confiance de la population dans les institutions : la police",
+          "url": "https://www.insee.fr/fr/statistiques/serie/010596051"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-015",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s134",
+      "quote": "Et en 2022, sur la circonscription dont je suis le député, il y a un jeune homme qui avait 19 ans",
+      "speaker": "bompard",
+      "claim": "En 2022, dans la circonscription de Manuel Bompard, un jeune homme de 19 ans a été tué par un tir policier.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 85,
+      "title": "Souheil El Khalfaoui : erreur de date",
+      "explanation": "Souheil El Khalfaoui, 19 ans, a bien été tué par un tir policier lors d'un contrôle routier, mais le 4 août 2021 et non en 2022, à l'angle des rues Bonnardel et Fortuné-Jourdan, dans le quartier de la Belle-de-Mai (3e arrondissement de Marseille), qui relève de la 4e circonscription des Bouches-du-Rhône dont Manuel Bompard est le député. L'âge, le lieu et les circonstances sont exacts. Seule l'année est erronée d'un an : 2022 correspond au classement sans suite (janvier) puis à la réouverture de l'enquête (février).",
+      "correction": "Souheil El Khalfaoui, 19 ans, a été tué par un tir policier à Marseille le 4 août 2021, et non en 2022.",
+      "sources": [
+        {
+          "title": "Wikipédia – Mort de Souheil El Khalfaoui",
+          "url": "https://fr.wikipedia.org/wiki/Mort_de_Souheil_El_Khalfaoui"
+        },
+        {
+          "title": "ICI (ex-France Bleu) – Souheil tué par un policier à Marseille en 2021 : les scellés retrouvés",
+          "url": "https://www.ici.fr/infos/faits-divers-justice/souheil-tue-par-un-policier-a-marseille-en-2021-les-scelles-retrouves-dans-le-bureau-d-un-juge-d-instruction-6129989"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-016",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s141",
+      "quote": "par magie, le lendemain, les scellé avaient réapparu",
+      "speaker": "bompard",
+      "claim": "Les scellés disparus de l'affaire ont réapparu le lendemain d'une question de Manuel Bompard à l'Assemblée nationale.",
+      "verdict": "mostly_true",
+      "fakeness": 30,
+      "confidence": 75,
+      "title": "Scellés retrouvés, mais pas le lendemain",
+      "explanation": "Neuf scellés de l'enquête — dont la balle mortelle, une vidéo de surveillance bancaire et l'enregistrement de l'audition du policier — avaient bien disparu du tribunal judiciaire de Marseille. Manuel Bompard a interpellé le garde des Sceaux Gérald Darmanin lors des questions au gouvernement du mardi 24 juin 2025, celui-ci annonçant qu'il saisirait l'Inspection générale de la justice à défaut de retrouver les pièces. Le parquet a annoncé leur découverte dans le bureau du juge d'instruction initialement saisi le 26 juin 2025, soit deux jours plus tard et non le lendemain. La formule « il y a quelques mois » est également approximative : les faits remontent à plus d'un an avant ce débat.",
+      "correction": "Les scellés ont été retrouvés le 26 juin 2025, deux jours après la question au gouvernement de Manuel Bompard du 24 juin 2025.",
+      "sources": [
+        {
+          "title": "ICI – Les scellés retrouvés dans le bureau d'un juge d'instruction",
+          "url": "https://www.ici.fr/infos/faits-divers-justice/souheil-tue-par-un-policier-a-marseille-en-2021-les-scelles-retrouves-dans-le-bureau-d-un-juge-d-instruction-6129989"
+        },
+        {
+          "title": "Assemblée nationale – Question au gouvernement n° 822 : enquête sur la mort de Souheil El Khalfaoui",
+          "url": "https://questions.assemblee-nationale.fr/q17/17-822QG.htm"
+        },
+        {
+          "title": "Assemblée nationale – Compte rendu de la première séance du mardi 24 juin 2025",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-24-juin-2025"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-017",
+      "kind": "fact",
+      "type": "quote_attribution",
+      "label": "Citation attribuée",
+      "segmentId": "s147",
+      "quote": "l'interdiction des grenades de désencerclement, l'interdiction des LBD lanceur de balles de défense 40",
+      "speaker": "nunez",
+      "claim": "Le programme L'Avenir en commun prévoit l'interdiction des nasses, des grenades de désencerclement et des LBD 40, ainsi que la suppression de la BAC et des BRAV-M.",
+      "verdict": "mostly_true",
+      "fakeness": 10,
+      "confidence": 80,
+      "title": "Programme LFI fidèlement résumé",
+      "explanation": "Le livret programmatique « Sécurité et sûreté » de La France insoumise et les versions successives de L'Avenir en commun prévoient l'interdiction des nasses et des armes dites mutilantes (LBD 40, grenades de désencerclement), l'interdiction du Taser, la dissolution des BRAV-M et de la BAC, ainsi que le redéploiement des effectifs vers une police de proximité. Le résumé du ministre est donc conforme au texte, y compris sur le terme « suppression ». La seule imprécision tient à la présentation : le programme lie ces suppressions à la création d'unités de proximité et à une refonte de la formation, ce que le ministre mentionne d'ailleurs en fin de citation.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "La France insoumise – Livret « Sécurité et sûreté : refonder le service public de la police »",
+          "url": "https://programme.lafranceinsoumise.fr/livrets/securite-et-surete/"
+        },
+        {
+          "title": "L'Avenir en commun, version actualisée avril 2020 (PDF)",
+          "url": "https://lafranceinsoumise.fr/wp-content/uploads/2020/04/avenir-en-commun-maj-avril-2020.pdf"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-018",
+      "kind": "fact",
+      "type": "event",
+      "label": "Événement",
+      "segmentId": "s158",
+      "quote": "regardez ce qui s'est passé à Chambéri",
+      "speaker": "nunez",
+      "claim": "Des violences urbaines visant notamment les forces de l'ordre ont eu lieu à Chambéry après une intervention policière.",
+      "verdict": "true",
+      "fakeness": 5,
+      "confidence": 80,
+      "title": "Chambéry : violences de septembre 2026",
+      "explanation": "Dans la nuit du 7 au 8 septembre 2026, plusieurs quartiers de Chambéry (Biollay, Hauts-de-Chambéry) et la commune voisine de Cognin ont connu incendies et dégradations : agence d'un bailleur social incendiée, commerce et salle municipale endommagés, bus scolaire et véhicules brûlés. Les violences ont suivi une intervention policière sur un refus d'obtempérer présumé, à l'issue de laquelle le jeune conducteur a été retrouvé grièvement blessé par balle, puis est décédé. Selon le parquet de Chambéry, les premières conclusions de l'autopsie orientent vers un geste auto-infligé ou accidentel. La référence du ministre porte donc sur un événement réel et récent, dont l'enchaînement causal est encore établi par l'enquête.",
+      "correction": null,
+      "sources": [
+        {
+          "title": "Ville de Chambéry – Communiqué : incidents dans plusieurs quartiers, nuit du 7 au 8 septembre 2026",
+          "url": "https://www.chambery.fr/actualite/1665/9-nuit-du-7-au-8-septembre-2026-incidents-dans-plusieurs-quartiers-de-chambery.htm"
+        },
+        {
+          "title": "CNEWS – Chambéry : mort du conducteur, voitures brûlées, ce que l'on sait des violences urbaines",
+          "url": "https://www.cnews.fr/france/2026-09-08/voitures-incendiees-centre-social-detruit-chambery-frappe-par-des-violences"
+        },
+        {
+          "title": "Savoie News – Incidents dans plusieurs quartiers au cours de la nuit",
+          "url": "https://www.savoie-news.fr/reportages/societe/article/incidents-dans-plusieurs-quartiers-au-cours-de-la-nuit"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-019",
+      "kind": "fact",
+      "type": "statistic",
+      "label": "Statistique",
+      "segmentId": "s173",
+      "quote": "sous forme de police de proximité parce que partout où ça a été mis en place",
+      "speaker": "bompard",
+      "claim": "Partout où la police de proximité a été mise en place, elle a fait baisser la criminalité.",
+      "verdict": "mostly_false",
+      "fakeness": 55,
+      "confidence": 65,
+      "title": "Baisse de la criminalité non démontrée",
+      "explanation": "La police de proximité a été instaurée en France à partir de 1998 sous le gouvernement Jospin, puis démantelée à partir de 2003. Les évaluations menées notamment par les chercheurs de l'IHESI soulignent des effets paradoxaux : le rapprochement entre policiers et habitants augmente mécaniquement le nombre de plaintes déposées, et rien ne permet d'attribuer la baisse de la criminalité enregistrée à ces stratégies. Les bénéfices documentés portent surtout sur la confiance, la légitimité de l'institution et le sentiment de sécurité. L'affirmation généralisante « partout où ça a été mis en place » n'est donc pas étayée par la littérature d'évaluation.",
+      "correction": "Les évaluations de la police de proximité montrent des gains de confiance et de légitimité, mais n'établissent pas de baisse de la criminalité qui lui soit attribuable.",
+      "sources": [
+        {
+          "title": "Wikipédia – Police de proximité en France",
+          "url": "https://fr.wikipedia.org/wiki/Police_de_proximit%C3%A9_en_France"
+        },
+        {
+          "title": "CIPC – Les politiques en matière de police de proximité (rapport, juin 2022)",
+          "url": "https://cipc-icpc.org/wp-content/uploads/2022/08/06-2022_RapportPolicedeProximite_VF.pdf"
+        },
+        {
+          "title": "The Conversation – Police de proximité, mode d'emploi",
+          "url": "https://theconversation.com/police-de-proximite-mode-demploi-82923"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fact-020",
+      "kind": "fact",
+      "type": "other",
+      "label": "Autre",
+      "segmentId": "s175",
+      "quote": "sur la méthode de la désescalade et ça fait des manifestations moins violentes",
+      "speaker": "bompard",
+      "claim": "D'autres pays européens ont adopté une doctrine de désescalade, qui rend les manifestations moins violentes.",
+      "verdict": "mostly_true",
+      "fakeness": 20,
+      "confidence": 70,
+      "title": "Désescalade européenne : constat globalement étayé",
+      "explanation": "Les travaux d'Olivier Fillieule et Fabien Jobard décrivent en Allemagne, en Suède ou en Suisse des doctrines de maintien de l'ordre fondées sur le dialogue et le renseignement plutôt que sur la coercition, avec des équipes de communication (« Anti-Konflikts Teams ») et sans lanceurs de balles de défense ni grenades de désencerclement. La France est décrite comme restant à l'écart de la diffusion européenne de ce modèle, notamment portée par le projet GODIAC, et le Défenseur des droits a documenté ces approches de désescalade. Le constat de doctrines différentes est solide ; le lien de causalité direct avec des manifestations « moins violentes » est plus discuté, les comparaisons internationales étant difficiles à isoler d'autres facteurs (culture protestataire, organisation des cortèges, judiciarisation).",
+      "correction": "Plusieurs polices européennes privilégient la désescalade et n'emploient ni LBD ni grenades de désencerclement, mais l'effet sur le niveau de violence relève de comparaisons qualitatives plus que d'une mesure causale.",
+      "sources": [
+        {
+          "title": "Cairn – « L'art du désordre toléré. La police des manifestations en Allemagne fédérale » (Savoir/Agir, 2021)",
+          "url": "https://shs.cairn.info/revue-savoir-agir-2021-1-page-57?lang=fr"
+        },
+        {
+          "title": "La Vie des idées – « Un splendide isolement. Les politiques françaises du maintien de l'ordre »",
+          "url": "https://laviedesidees.fr/Un-splendide-isolement"
+        },
+        {
+          "title": "Défenseur des droits – Désescalade de la violence et gestion des foules",
+          "url": "https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=21084"
+        }
+      ],
+      "habermas": [
+        "truth"
+      ]
+    }
+  ]
+}

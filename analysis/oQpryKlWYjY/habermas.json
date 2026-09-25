@@ -1,0 +1,294 @@
+{
+  "dimensions": {
+    "truth": "Vérité : les faits avancés sont-ils exacts ?",
+    "rightness": "Justesse : les normes invoquées sont-elles légitimes et discutées ?",
+    "sincerity": "Sincérité : le locuteur croit-il ce qu'il dit, sans manipulation ?",
+    "comprehensibility": "Intelligibilité : le propos est-il clair et compréhensible ?"
+  },
+  "speakers": {
+    "attal": {
+      "truth": 66,
+      "rightness": 56,
+      "sincerity": 50,
+      "comprehensibility": 77,
+      "verdict": "Gabriel Attal est le plus précis des deux : il expose clairement l'arbitrage des retraites, avance des chiffres vérifiables (bilan budgétaire, moyens de la sécurité) et répond souvent directement aux objections (infirmières, régimes spéciaux, remises de peine, TVA soumise à la loi). Mais il exige de son adversaire un chiffrage qu'il ne fournit pas lui-même, idéalise le bilan d'Emmanuel Macron et bascule dans la disqualification (« complotisme », « les vrais politiciens », « raconter n'importe quoi ») dès que le terrain lui devient défavorable, notamment sur l'affaire McKinsey."
+    },
+    "bardella": {
+      "truth": 44,
+      "rightness": 50,
+      "sincerity": 47,
+      "comprehensibility": 68,
+      "verdict": "Jordan Bardella porte l'objection normative la plus forte du débat, l'injustice d'un recul de l'âge pour ceux qui ont commencé à travailler tôt, et formule des propositions nettes et vérifiables sur les retraites comme sur la sécurité. Sa prétention à la vérité est en revanche fragile (chômage avant la retraite, rapport du COR, fraude, délinquance imputée à l'immigration, TVA « dès le lendemain matin »), et il pose la préférence nationale comme une évidence tout en renvoyant le financement à des économies peu étayées."
+    }
+  },
+  "moments": [
+    {
+      "id": "hab-001",
+      "segmentId": "s009",
+      "speaker": "attal",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Contrefactuel à charge présenté comme certain",
+      "note": "Pour répondre à la question sur l'abstention, il décrit ce qu'aurait été un quinquennat Le Pen (pas de vaccins, pas d'armes à l'Ukraine, « une alliance militaire avec la russie »). Ces hypothèses invérifiables sont assénées comme des faits et retiennent la lecture la plus défavorable d'un programme qui a évolué depuis 2017."
+    },
+    {
+      "id": "hab-002",
+      "segmentId": "s026",
+      "speaker": "attal",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Expose l'arbitrage des retraites en trois options",
+      "note": "Il rend explicites la contrainte démographique et les trois leviers possibles, en disant lesquels il écarte et pourquoi : c'est le passage le plus pédagogique du débat. L'alternative reste simplifiée, d'autres leviers (emploi des seniors, cotisations patronales, croissance) n'étant pas évoqués."
+    },
+    {
+      "id": "hab-003",
+      "segmentId": "s037",
+      "speaker": "bardella",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "« La moitié » au chômage : chiffre gonflé",
+      "note": "« la moitié des gens qui aujourd'hui arrivent à la retraite arrive au chômage » : l'ordre de grandeur correspond au mieux à la part des nouveaux retraités qui ne sont plus en emploi, chômage, inactivité, maladie et invalidité confondus. L'argument (reculer l'âge allonge l'indemnisation chômage) est recevable, mais il repose sur une donnée présentée avec une certitude qu'elle n'a pas."
+    },
+    {
+      "id": "hab-004",
+      "segmentId": "s039",
+      "speaker": "bardella",
+      "dimension": "sincerity",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "S'inclut parmi les privilégiés des bureaux",
+      "note": "« qui n'ont pas la chance comme vous et moi de travailler dans des bureaux » : en se rangeant lui-même du côté des métiers protégés, il évite l'attaque personnelle et fonde l'argument de la pénibilité sur la condition des travailleurs concernés. Le propos glisse ensuite vers l'imputation (« c'est pas votre modèle »), mais le geste initial est de bonne foi."
+    },
+    {
+      "id": "hab-005",
+      "segmentId": "s043",
+      "speaker": "bardella",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Proposition chiffrée : 60 ans, 40 annuités",
+      "note": "Il détaille les paramètres de la réforme défendue : départ à 60 ans avec 40 annuités pour ceux qui ont commencé entre 17 et 20 ans, progressivité jusqu'à 62 ans « mais pas plus », minimum de pension. La proposition devient ainsi discutable et vérifiable, ce qui honore l'exigence d'intelligibilité."
+    },
+    {
+      "id": "hab-006",
+      "segmentId": "s045",
+      "speaker": "attal",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "Concède l'objection des carrières longues et pénibles",
+      "note": "Il reconnaît qu'« une partie des français qui ne peuvent pas aller jusqu'à 65 ans » existe et promet d'en tenir compte : c'est une concession réelle à l'argument adverse. Elle reste toutefois renvoyée à une future « négociation », sans critère précis, ce qui en limite la portée."
+    },
+    {
+      "id": "hab-007",
+      "segmentId": "s060",
+      "speaker": "bardella",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Objection d'équité : l'infirmière face au cadre",
+      "note": "Il oppose au recul de l'âge un argument de justice précis : un âge légal élevé fait travailler plus longtemps ceux qui ont commencé tôt que les diplômés entrés tard sur le marché du travail. C'est l'objection normative la plus solide du débat, directement adressée à la proposition adverse, même si sa formulation embrouillée (annuités et âge mêlés) en obscurcit la démonstration."
+    },
+    {
+      "id": "hab-008",
+      "segmentId": "s062",
+      "speaker": "bardella",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Rapport du COR cité mais déformé",
+      "note": "Citer le rapport de juin 2021 du Conseil d'orientation des retraites est un bon réflexe, mais la baisse de la part des retraites dans le PIB qu'il projette vaut à l'horizon 2070, non « d'ici 2025 ». Surtout, cette baisse résulte du recul du niveau relatif des pensions, précisément ce que Bardella dit refuser."
+    },
+    {
+      "id": "hab-009",
+      "segmentId": "s068",
+      "speaker": "attal",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Répond directement sur infirmières et carrières longues",
+      "note": "Plutôt que de changer de sujet, il répond à l'exemple adverse : départs anticipés des « catégories actives » et maintien du dispositif de carrières longues. La réponse est pertinente mais incomplète, une large part des infirmières (secteur privé, recrues hospitalières depuis 2010) ne relevant plus de la catégorie active."
+    },
+    {
+      "id": "hab-010",
+      "segmentId": "s070",
+      "speaker": "attal",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Met la norme d'équité adverse à l'épreuve",
+      "note": "Il reprend l'argument de justice de son contradicteur et l'applique aux régimes spéciaux : un chauffeur de bus parisien part plus tôt qu'au Havre, à Metz ou à Bordeaux pour le même travail. Ce test d'universalisation d'une norme invoquée par l'autre est exactement le type d'échange que requiert la discussion argumentée."
+    },
+    {
+      "id": "hab-011",
+      "segmentId": "s072",
+      "speaker": "bardella",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "Élude les régimes spéciaux par l'amalgame",
+      "note": "Au lieu de répondre sur l'écart entre agents de la RATP et chauffeurs de province, il invoque marins pêcheurs, policiers et militaires, dont les départs anticipés relèvent d'autres logiques, et lance « soyez sérieux ». L'échange est coupé par la modératrice avant que la contradiction soit traitée."
+    },
+    {
+      "id": "hab-012",
+      "segmentId": "s079",
+      "speaker": "attal",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "Bilan budgétaire daté et vérifiable",
+      "note": "Il appuie sa prétention au sérieux budgétaire sur des faits contrôlables : déficit repassé sous 3 % avant la crise du Covid et sortie en 2018 de la procédure européenne pour déficit excessif. Le « 15 ans » est exagéré (le précédent passage sous 3 % remontait à 2007), mais l'essentiel est exact."
+    },
+    {
+      "id": "hab-013",
+      "segmentId": "s081",
+      "speaker": "attal",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Exige un chiffrage qu'il ne fournit pas",
+      "note": "Après avoir reproché à son adversaire de ne pas expliquer son financement, il affirme avoir « un projet qui est financé » en énumérant des pistes sans montant (numérisation, intelligence artificielle, conseiller territorial). Ce double standard affaiblit la sincérité de la critique adressée à l'autre camp."
+    },
+    {
+      "id": "hab-014",
+      "segmentId": "s088",
+      "speaker": "bardella",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Insinuation pénale sur l'affaire McKinsey",
+      "note": "La critique de l'explosion du recours aux cabinets privés s'appuie sur le rapport de la commission d'enquête du Sénat (mars 2022), mais l'ajout « peut-être même devant le parquet national financier » suggère une faute pénale du gouvernement sans aucun élément. À la date du débat, aucune enquête n'était ouverte ; celle lancée quelques jours plus tard visera la situation fiscale du cabinet."
+    },
+    {
+      "id": "hab-015",
+      "segmentId": "s091",
+      "speaker": "bardella",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Préférence nationale posée comme une évidence",
+      "note": "« le fruit la solidarité nationale il doit rester nationale » : réserver le RSA et les allocations familiales aux familles françaises est présenté comme allant de soi. Or c'est précisément la légitimité de cette norme (égalité devant la loi, droit européen) qui fait débat, et elle n'est jamais discutée, pas plus que le chiffrage de « 16 milliards d'euros d'économies »."
+    },
+    {
+      "id": "hab-016",
+      "segmentId": "s096",
+      "speaker": "bardella",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "Renvoie à un chiffrage public et consultable",
+      "note": "Il invite les électeurs à consulter le chiffrage détaillé du programme sur le site de campagne : sa prétention à la vérité est offerte à la vérification. Plusieurs recettes annoncées reposent toutefois sur des estimations contestées, comme les « 50 milliards d'euros de fraudes » tirés du livre du magistrat Charles Prats."
+    },
+    {
+      "id": "hab-017",
+      "segmentId": "s102",
+      "speaker": "attal",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "« Ni plus ni moins » : bilan idéalisé",
+      "note": "Il affirme qu'Emmanuel Macron a fait depuis 2017 ce qu'il avait dit « ni plus ni moins », ce que contredit notamment la réforme des retraites par points, promesse phare de 2017 suspendue en 2020 puis abandonnée. L'autorité de la parole présidentielle remplace ici la discussion des engagements présents."
+    },
+    {
+      "id": "hab-018",
+      "segmentId": "s106",
+      "speaker": "attal",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 3,
+      "title": "Disqualifie McKinsey en « complotisme » d'extrême droite",
+      "note": "Face à une question documentée par une commission d'enquête sénatoriale, il répond par une étiquette (un « classique » de l'extrême droite, « du complotisme ») puis par un tu quoque sur un cabinet mandaté par la mairie de Perpignan. C'est le moment le plus coercitif du débat : l'interlocuteur est disqualifié au lieu que son argument soit discuté."
+    },
+    {
+      "id": "hab-019",
+      "segmentId": "s117",
+      "speaker": "bardella",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Trois mesures de sécurité précises et falsifiables",
+      "note": "Présomption de légitime défense pour les policiers, suppression des aménagements pour les peines ferme de plus de six mois, expulsion des délinquants étrangers : les propositions sont nettes et identifiables. Chacune peut être discutée sur pièces, ce qui tranche avec les constats généraux qui les précèdent."
+    },
+    {
+      "id": "hab-020",
+      "segmentId": "s120",
+      "speaker": "bardella",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Délinquance imputée à l'immigration sans données",
+      "note": "« la délinquance de rue est liée à votre incapacité de maîtriser notre politique d'immigration » : le lien causal est affirmé sans chiffre ni source, tout comme « l'explosion de l'insécurité » quelques secondes plus tôt. Une généralisation de ce type, présentée comme certaine, ferme la discussion factuelle qu'appelle le sujet."
+    },
+    {
+      "id": "hab-021",
+      "segmentId": "s122",
+      "speaker": "attal",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Bilan sécuritaire chiffré plutôt que slogans",
+      "note": "« je vais pas me payer de mots » : il répond par des données vérifiables (10 000 policiers et gendarmes, budget, véhicules, heures supplémentaires) puis, sur le volet pénal, par la loi supprimant les crédits de réduction de peine pour les agresseurs de policiers. Il laisse en revanche sans réponse la présomption de légitime défense sur laquelle Bardella l'avait interpellé."
+    },
+    {
+      "id": "hab-022",
+      "segmentId": "s131",
+      "speaker": "bardella",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "TVA baissée « dès le lendemain matin » : impossible",
+      "note": "Il promet que la TVA sur l'énergie passera de 20 % à 5,5 % « dès le lendemain matin » de l'élection, alors qu'un taux d'imposition relève de la loi et exige un vote du Parlement. L'engagement, présenté comme certain, ignore une contrainte institutionnelle élémentaire."
+    },
+    {
+      "id": "hab-023",
+      "segmentId": "s134",
+      "speaker": "attal",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Rappelle qu'une baisse de TVA exige une loi",
+      "note": "Il corrige la promesse adverse par un fait institutionnel exact : le taux de TVA est fixé par la loi, ce qui repousse toute baisse après les élections législatives. C'est une réfutation factuelle nette, qui vise l'affirmation et non la personne."
+    },
+    {
+      "id": "hab-024",
+      "segmentId": "s135",
+      "speaker": "attal",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "Transforme une erreur ponctuelle en discrédit global",
+      "note": "Juste après cette correction fondée, il conclut que son adversaire ne fait que « raconter n'importe quoi », généralisant une imprécision en disqualification de toute sa parole. Le procédé dessert sa propre réfutation en la faisant glisser de l'argument vers la personne."
+    },
+    {
+      "id": "hab-025",
+      "segmentId": "s136",
+      "speaker": "attal",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "« Plus de fraude » : promesse absolue",
+      "note": "Il affirme qu'avec le versement à la source des aides « il n'y aura plus de fraude aux prestations sociales », alors qu'un versement automatique réduit certaines erreurs déclaratives sans supprimer la fraude (identité, résidence, ressources dissimulées). Sa seconde justification, le non-recours aux droits, est en revanche fondée et clairement exposée."
+    }
+  ],
+  "ideal_speech": {
+    "equal_participation": {
+      "score": 72,
+      "note": "Temps de parole équilibré : environ 9 à 10 minutes chacun et un volume de mots quasi identique, avec une alternance tenue par Anne-Claire Coudray, qui recadre les deux camps (s073-s074, s110-s111, s128) et salue en conclusion le respect de la parole. Les chevauchements restent fréquents dans les passes d'armes sur les retraites (s046-s048, s054-s058, s065-s066) et sur McKinsey, où Attal proteste « je vous ai pas interrompu […] pas une seule fois » ; le format très court (21 minutes pour quatre thèmes) réduit en outre la sécurité à deux exposés successifs sans échange."
+    },
+    "no_coercion": {
+      "score": 58,
+      "note": "Aucune intimidation ni menace, mais une coercition discursive de part et d'autre. Chez Attal, étiquetage et disqualification (« complotisme », un « classique » de l'extrême droite, « les vrais politiciens », « raconter n'importe quoi ») et autorité vague (« tous les experts disent ») ; chez Bardella, insinuation pénale (« devant le parquet national financier »), procès d'intention (« vous ne vous rendez pas compte des souffrances », « c'est pas votre modèle ») et injonction (« soyez sérieux ») : la crédibilité de l'autre est souvent visée plutôt que ses raisons."
+    },
+    "argument_over_power": {
+      "score": 52,
+      "note": "Les retraites donnent lieu à un vrai échange d'arguments : objection d'équité (l'infirmière face au cadre), réponse par les catégories actives et les carrières longues, contre-épreuve des régimes spéciaux. Mais les concessions restent marginales : Attal admet qu'une partie des Français ne pourra pas travailler jusqu'à 65 ans sans en tirer de conséquence précise, Bardella ne répond pas sur les régimes spéciaux et adosse son financement à des économies peu étayées. La dette dérive vers l'affaire McKinsey et un tu quoque sur Perpignan, et la sécurité se réduit à la juxtaposition d'un réquisitoire et d'un bilan."
+    },
+    "overall": {
+      "score": 58,
+      "verdict": "Au sens de Habermas, c'est un débat honorable mais inabouti : le cadre est équilibré (temps de parole comparable, alternance respectée, modération qui recadre les deux camps) et plusieurs échanges sur les retraites relèvent d'une véritable confrontation d'arguments, où chacun répond à l'objection de l'autre. Mais aucune concession de fond n'est faite, l'objection d'équité de Bardella ne reçoit qu'une réponse partielle, le financement du programme du RN reste affirmé plutôt que démontré, et le format de 21 minutes pour quatre thèmes transforme la séquence sécurité en deux monologues. Surtout, dès que la discussion touche à la crédibilité de l'adversaire (McKinsey, promesses de campagne), les deux débatteurs basculent vers la disqualification et l'insinuation, si bien que la force du meilleur argument ne l'emporte que par intermittence."
+    }
+  }
+}

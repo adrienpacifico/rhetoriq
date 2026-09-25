@@ -1,0 +1,294 @@
+{
+  "dimensions": {
+    "truth": "Vérité : les faits avancés sont-ils exacts ?",
+    "rightness": "Justesse : les normes invoquées sont-elles légitimes et discutées ?",
+    "sincerity": "Sincérité : le locuteur croit-il ce qu'il dit, sans manipulation ?",
+    "comprehensibility": "Intelligibilité : le propos est-il clair et compréhensible ?"
+  },
+  "speakers": {
+    "ruffin": {
+      "truth": 58,
+      "rightness": 64,
+      "sincerity": 66,
+      "comprehensibility": 78,
+      "verdict": "François Ruffin est le plus concret et le plus clair des deux : il structure ses interventions (trois défis, trois piliers), assume ses désaccords en face (CPE, autoroutes, taxe carbone), cite des sources (rapport Pisani-Ferry, classement Challenges, rapport européen lu à voix haute) et fait de la délibération une norme explicite (planification démocratique, États généraux de la fiscalité, RIC). Sa prétention à la vérité est en revanche fragilisée par des chiffres d'anecdote ou non sourcés (masques, « 80 % » répétés, « rien essayé » sur le climat), une insinuation inexacte sur les Young Leaders et une lecture partisane de la dette, tandis que sa rhétorique de la « faillite des élites » disqualifie en bloc plutôt qu'elle n'argumente et qu'il esquive les questions sur ses alliés à droite et sur la désobéissance."
+    },
+    "villepin": {
+      "truth": 67,
+      "rightness": 62,
+      "sincerity": 60,
+      "comprehensibility": 70,
+      "verdict": "Dominique de Villepin offre la prétention à la vérité la plus solide (compétence européenne en matière commerciale, loi de 2005 sur la colonisation, rapport Gay sur les aides aux entreprises, répartition de la dette entre présidents) et les moments délibératifs les plus forts : refus de la disqualification facile des dirigeants, réponse argumentée sur la taxe carbone, autocritique sur le retrait du CPE. Mais il monopolise la parole (environ 55 % du temps des débatteurs) en passant outre la modération, nie avoir « privatisé » les autoroutes en qualifiant l'accusation de « mensonge éhonté », disqualifie les « radicalités » et le journaliste qui l'interroge, et recourt à une dramaturgie du sacrifice et à des procès d'intention envers toute la classe politique qui brouillent sa sincérité."
+    }
+  },
+  "moments": [
+    {
+      "id": "hab-001",
+      "segmentId": "s050",
+      "speaker": "villepin",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "Cherche des partenaires au-delà des clivages",
+      "note": "Villepin pose d'emblée une norme de discussion ouverte : chercher sur tout l'échiquier politique ceux qui partagent son refus de la fatalité, quelles que soient leurs différences. L'ouverture est réelle mais bornée par un objectif stratégique (faire barrage au RN) plus que par une recherche d'entente sur le fond."
+    },
+    {
+      "id": "hab-002",
+      "segmentId": "s081",
+      "speaker": "ruffin",
+      "dimension": "sincerity",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Éloge sincère et désaccords assumés en face",
+      "note": "Après avoir salué le discours de 2003 à l'ONU, Ruffin énumère sans détour ce qui le sépare de son interlocuteur : manifestation contre le CPE, autoroutes, traité constitutionnel de 2005. Cette franchise installe un échange où l'estime n'efface pas les divergences."
+    },
+    {
+      "id": "hab-003",
+      "segmentId": "s139",
+      "speaker": "villepin",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Anticipe l'objection sociale à la taxe carbone",
+      "note": "Il devance le soupçon qu'il prête à Ruffin de vouloir une nouvelle fois spolier les Français en annonçant que le produit de la taxe sera intégralement reversé aux plus modestes. Il répond ainsi à l'objection de justice héritée des gilets jaunes, même si le mécanisme de redistribution n'est pas chiffré."
+    },
+    {
+      "id": "hab-004",
+      "segmentId": "s156",
+      "speaker": "ruffin",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "« Faillite des élites » martelée en bloc",
+      "note": "À partir d'exemples concrets (couvertures de survie, cagoules de pompiers), Ruffin répète quatre fois la « faillite des élites » et évoque une quasi « non assistance à personne en danger », condamnation collective qu'il prolonge plus loin par « dirigés par des aveugles et par des inconscients ». La généralisation disqualifie plus qu'elle n'argumente, ce que Villepin lui objectera."
+    },
+    {
+      "id": "hab-005",
+      "segmentId": "s215",
+      "speaker": "villepin",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Renvoie les « radicalités » hors de la République",
+      "note": "Passant outre la relance de la modération (« je termine juste ce point »), Villepin écarte sans examen les propositions des « deux candidats de la radicalité », jugées « hors sol et vraisemblablement pour une part hors République ». Les positions adverses sont disqualifiées par étiquette plutôt que discutées."
+    },
+    {
+      "id": "hab-006",
+      "segmentId": "s242",
+      "speaker": "ruffin",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Objection argumentée : une taxe carbone régressive",
+      "note": "Ruffin annonce explicitement « un point de désaccord » et le justifie : le signal-prix pèse surtout sur ceux pour qui la voiture est indispensable (travail, hôpital, école). C'est une objection de justice formulée en raisons, assortie d'une alternative consensuelle, la rénovation des passoires thermiques."
+    },
+    {
+      "id": "hab-007",
+      "segmentId": "s256",
+      "speaker": "ruffin",
+      "dimension": "sincerity",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Avoue un premier chiffrage approximatif",
+      "note": "Il reconnaît avoir d'abord avancé ses 20 puis 10 milliards pour l'isolation sans base solide, avant de s'appuyer sur l'ordre de grandeur du rapport Pisani-Ferry. Rare aveu d'approximation, qui rend son chiffre final plus crédible."
+    },
+    {
+      "id": "hab-008",
+      "segmentId": "s265",
+      "speaker": "villepin",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 3,
+      "title": "Refuse la disqualification facile des dirigeants",
+      "note": "Villepin écarte la formule de Ruffin sur des dirigeants incompétents (« ce serait peut-être un peu facile ») en invoquant la complexité de la décision publique, puis répond point par point à l'objection sur la taxe carbone : « mal calibrée » ne veut pas dire à abandonner. C'est l'échange d'arguments le plus abouti du débat, qui amène Ruffin à préciser sa critique (une doxa plutôt que des « sots »)."
+    },
+    {
+      "id": "hab-009",
+      "segmentId": "s366",
+      "speaker": "villepin",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Rappelle que la politique commerciale est européenne",
+      "note": "Tout en se disant d'accord, il corrige le cadre de la proposition de Ruffin : la politique commerciale relève de la compétence exclusive de l'Union, et « la France ne peut pas se permettre d'être indépendante sur chacune de ces filières ». Précision institutionnelle exacte qui enrichit la discussion au lieu de la clore."
+    },
+    {
+      "id": "hab-010",
+      "segmentId": "s428",
+      "speaker": "ruffin",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Insinuation « Young Leaders » en partie inexacte",
+      "note": "Ruffin affirme que Sarkozy, Hollande et Macron sont « tous les trois » passés par le programme Young Leaders de la French-American Foundation : c'est le cas de Hollande et de Macron, mais Nicolas Sarkozy ne figure pas, à notre connaissance, dans les listes publiées. Le « ça me pose un souci » suggère une allégeance sans la démontrer."
+    },
+    {
+      "id": "hab-011",
+      "segmentId": "s514",
+      "speaker": "villepin",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Répond franchement sur la colonisation, faits vérifiables",
+      "note": "À la question directe sur la colonisation comme crime, il répond sans détour et s'appuie sur un fait vérifiable : la disposition de la loi de 2005 sur le « rôle positif » de la colonisation a bien été abrogée début 2006 sous son gouvernement. Il assume au passage un désaccord avec sa propre famille politique."
+    },
+    {
+      "id": "hab-012",
+      "segmentId": "s603",
+      "speaker": "ruffin",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Exonère la gauche de la dette",
+      "note": "Quand Villepin rappelle la part du quinquennat Hollande, Ruffin nie en imputant la dette à Sarkozy et Macron, alors qu'elle a crû d'environ 400 milliards entre 2012 et 2017 ; l'ordre de grandeur de Villepin (environ 1 000 milliards sous Sarkozy et Hollande, autant depuis 2017) est le bon. Le réflexe partisan l'emporte ici sur l'exactitude."
+    },
+    {
+      "id": "hab-013",
+      "segmentId": "s614",
+      "speaker": "ruffin",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Chiffres de patrimoine sourcés au classement Challenges",
+      "note": "Il appuie son argument capital/travail sur une source identifiée et politiquement non suspecte, le classement des 500 fortunes de Challenges (environ 6 % du PIB en 1996, 40 % aujourd'hui), puis lit mot pour mot un rapport européen. L'ordre de grandeur est conforme au classement, même si les chiffres du rapport lu restent difficiles à vérifier en direct."
+    },
+    {
+      "id": "hab-014",
+      "segmentId": "s660",
+      "speaker": "ruffin",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 3,
+      "title": "Propose de rediscuter le contrat fiscal avec tous",
+      "note": "Contre une réforme décidée « dans un bureau à l'Élysée », Ruffin défend des États généraux de la fiscalité où salariés, soignants, enseignants et entrepreneurs, jusqu'à un strapontin pour Bernard Arnault, rediscutent le fondement du contrat social : c'est la proposition la plus proche de l'idéal délibératif. Il l'assortit toutefois d'un jugement sommaire sur des députés qui « sont pas représentatifs »."
+    },
+    {
+      "id": "hab-015",
+      "segmentId": "s685",
+      "speaker": "villepin",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 3,
+      "title": "Autoroutes : dénégation et « mensonge éhonté »",
+      "note": "Son gouvernement a bien cédé en 2005-2006 les participations de l'État dans ASF, APRR et Sanef : la distinction entre concession et privatisation est juridiquement exacte, mais elle sert à qualifier de « mensonge éhonté » une description courante des faits. Il reconnaît ensuite les abus des concessionnaires tout en diluant sa responsabilité (Jospin, Élisabeth Borne, un État qui « a été faible »)."
+    },
+    {
+      "id": "hab-016",
+      "segmentId": "s706",
+      "speaker": "villepin",
+      "dimension": "sincerity",
+      "polarity": "positive",
+      "weight": 3,
+      "title": "Autocritique : le retrait du CPE comme leçon",
+      "note": "Rejoignant Ruffin sur la crise démocratique, Villepin reconnaît qu'il valait mieux « écouter la rue même si la loi avait été votée » et assure avoir « retenu la leçon ». C'est la concession la plus nette du débat, sur un épisode que son interlocuteur venait de lui reprocher."
+    },
+    {
+      "id": "hab-017",
+      "segmentId": "s733",
+      "speaker": "ruffin",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "Alternative claire au report de l'âge",
+      "note": "Interrogé sur les retraites, il répond par une thèse nette : relever le taux d'emploi entre 20 et 60 ans en résorbant les gâchis productifs (jeunes, seniors, handicap, femmes, usure au travail) plutôt que faire travailler plus longtemps. La logique est lisible, même si le financement n'est pas chiffré et que la comparaison avec toute l'industrie automobile est hyperbolique."
+    },
+    {
+      "id": "hab-018",
+      "segmentId": "s759",
+      "speaker": "villepin",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Position nette sur l'immigration de travail",
+      "note": "Sur un sujet où l'esquive est fréquente, il tranche : l'immigration de travail est nécessaire, doit être « maîtrisée », sans quotas mais planifiée, en partenariat avec les pays d'origine (exemple germano-indien). Il crédite au passage un argument de Ruffin sur les besoins sanitaires de l'Afrique."
+    },
+    {
+      "id": "hab-019",
+      "segmentId": "s894",
+      "speaker": "villepin",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Procès d'intention à toute la classe politique",
+      "note": "Villepin affirme que les autres responsables « ont tous compris ou acquis que Marine Le Pen allait gagner » et ne jouent que des places, affirmation invérifiable qui le pose en seul désintéressé. Elle s'inscrit dans une dramaturgie du sacrifice (« une balle entre les deux yeux ») qui remplace l'argument par la posture."
+    },
+    {
+      "id": "hab-020",
+      "segmentId": "s914",
+      "speaker": "villepin",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Disqualifie le journaliste au lieu de répondre",
+      "note": "Pressé de dire ce qu'il sacrifierait concrètement, il prête des pensées à Marc Fauvelle (« vous l'avez pensé ») puis lui dénie la capacité de comprendre (« vous êtes journaliste et vous ne voyez pas »). La question ne reçoit ensuite qu'une réponse vague sur l'absence d'ambition personnelle."
+    },
+    {
+      "id": "hab-021",
+      "segmentId": "s951",
+      "speaker": "ruffin",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "Esquive la demande de noms à droite",
+      "note": "Après une liste de personnalités de gauche ou souverainistes, il renvoie à Villepin la question des invités « de l'autre rive ». Son « CNR bis » reste ainsi flou sur son extension réelle vers la droite."
+    },
+    {
+      "id": "hab-022",
+      "segmentId": "s1015",
+      "speaker": "ruffin",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Refuse la question sur la désobéissance",
+      "note": "Il refuse ouvertement de dire s'il résisterait à une présidence Le Pen : « Je me refuse à me placer dans cette hypothèse ». Le refus est transparent, mais il laisse sans examen une question normative centrale, les limites de l'obéissance démocratique, que Villepin affronte."
+    },
+    {
+      "id": "hab-023",
+      "segmentId": "s1027",
+      "speaker": "villepin",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Fixe un critère : résister dans la République",
+      "note": "Il répond à la même question par une norme explicite, l'esprit de résistance « dans le cadre de la République, dans le cadre de la démocratie », illustrée par les États-Unis et la Hongrie. Il enchaîne toutefois sur des accusations de « démagogie » contre Philippe, Attal et Retailleau, plus affirmées que démontrées."
+    },
+    {
+      "id": "hab-024",
+      "segmentId": "s1073",
+      "speaker": "villepin",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "Renvoie tous les autres aux « mesurettes »",
+      "note": "En conclusion, il met dans le même sac radicalités, macronisme et « même à gauche » (« c'est les mêmes variables, c'est les mêmes mesurettes ») : la généralisation évacue les propositions concurrentes sans les discuter."
+    },
+    {
+      "id": "hab-025",
+      "segmentId": "s1077",
+      "speaker": "ruffin",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "Rend la question aux citoyens",
+      "note": "Ruffin conclut en se tournant vers la salle et « le citoyen » (« Qu'est-ce que veulent les citoyens ? »), en cohérence avec son plaidoyer pour le RIC et les États généraux. Le geste reste rhétorique, faute de dispositif concret pour recueillir cette parole."
+    }
+  ],
+  "ideal_speech": {
+    "equal_participation": {
+      "score": 62,
+      "note": "Déséquilibre réel mais modéré : Villepin parle environ 53 minutes contre 43 pour Ruffin (environ 55 % du temps des débatteurs), en prolongeant ses tours malgré les relances (s210, s263, s310, s683) et en tenant de longs monologues (s438-s477, s861-s901). Les interruptions entre débatteurs restent rares et brèves (dette s599-s605, CPE s669-s672), l'alternance des premières prises de parole est respectée et Ruffin conteste lui-même le cadrage des modérateurs sur les sondages (s780-s786)."
+    },
+    "no_coercion": {
+      "score": 70,
+      "note": "Aucune intimidation entre les deux invités, qui se traitent avec courtoisie et humour (« salle des mariages », « rendez-vous Tinder »). La dureté se reporte sur les absents — « radicalités » renvoyées « hors République », dirigeants « aveugles » et « inconscients », classe politique accusée de « tambouille » — et sur les journalistes (« vous êtes journaliste et vous ne voyez pas », accusation d'hypocrisie lancée à Marc Fauvelle en s952). Seules pointes directes entre débatteurs : le « mensonge éhonté » opposé à Ruffin sur les autoroutes et le paternaliste « bel apprentissage politique » sur sa manifestation anti-CPE."
+    },
+    "argument_over_power": {
+      "score": 63,
+      "note": "Plusieurs séquences relèvent d'une vraie confrontation d'arguments : taxe carbone (objection de justice, réponse sur le calibrage, contre-réponse sur le financement, s238-s313), méthode fiscale (États généraux contre décision assumée, s646-s681), comptabilité de la dette (s599-s607), avec des concessions explicites (retrait du CPE s706, « je suis d'accord avec vous sur ce point » s301, niches fiscales s633, pénibilité s738). Mais la convergence affichée pousse à refermer vite les désaccords, parfois à l'initiative des modérateurs (« on a compris votre différence » s313, « on est quand même un peu dans le détail » s801), et plusieurs questions dérangeantes sont esquivées : financement, alliés à droite, désobéissance, sacrifice concret."
+    },
+    "overall": {
+      "score": 64,
+      "verdict": "Au sens de Habermas, c'est un débat nettement au-dessus de la moyenne du genre : le format assumé contre la « culture du clash » produit un échange respectueux où les deux invités répondent souvent aux arguments de l'autre, citent des sources vérifiables et vont jusqu'à l'autocritique (Villepin sur le CPE) ou à l'aveu d'approximation (Ruffin sur son chiffrage). Mais la convergence tourne parfois à l'entre-soi : les désaccords réels (taxe carbone, méthode fiscale, diagnostic des élites, autoroutes) sont vite refermés, le temps de parole penche vers Villepin, et la dureté épargnée à l'interlocuteur se reporte sur les absents, disqualifiés en bloc plutôt que discutés. La prétention à la justesse est bien thématisée — planification démocratique, États généraux de la fiscalité, résistance dans le cadre républicain — mais plusieurs questions gênantes sont esquivées, si bien que la force du meilleur argument ne l'emporte que par séquences."
+    }
+  }
+}

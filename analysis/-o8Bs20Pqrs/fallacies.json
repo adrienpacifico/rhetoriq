@@ -1,0 +1,1199 @@
+{
+  "annotations": [
+    {
+      "id": "fal-001",
+      "kind": "rhetoric",
+      "type": "repetition",
+      "label": "Formule-slogan",
+      "segmentId": "s042",
+      "quote": "face à la loi du plus fort, je porterai la loi du plus juste",
+      "speaker": "faure",
+      "severity": 30,
+      "confidence": 80,
+      "title": "Antithèse-slogan répétée comme signature",
+      "explanation": "Faure clôt son introduction sur une antithèse ciselée (« loi du plus fort » / « loi du plus juste ») qu'il reprendra presque mot pour mot pour conclure sa réponse sur Gaza (63:25). Le martèlement installe une signature facile à mémoriser, mais la formule affiche une valeur sans dire quelle mesure la traduit.",
+      "habermas": []
+    },
+    {
+      "id": "fal-002",
+      "kind": "fallacy",
+      "type": "appeal_to_fear",
+      "label": "Appel à la peur",
+      "segmentId": "s049",
+      "quote": "Si la France tombe, c'est toute l'Europe qui tombera.",
+      "speaker": "glucksmann",
+      "severity": 40,
+      "confidence": 60,
+      "title": "Dramatisation : la chute de l'Europe entière",
+      "explanation": "Glucksmann enchaîne « moment de bascule inédit », chute en cascade de l'Europe et « dernière chance » pour décrire l'enjeu d'une victoire de l'extrême droite. La crainte est un argument légitime, mais l'effondrement mécanique du continent est posé plutôt que démontré ; une version rigoureuse aurait précisé ce qui serait concrètement menacé (soutien à l'Ukraine, institutions européennes) et pourquoi.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-003",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Fausse équivalence",
+      "segmentId": "s064",
+      "quote": "d'un côté la tentation réactionnaire du Rassemblement national et de l'autre cette gauche inutile du bruit de la fureur",
+      "speaker": "guedj",
+      "severity": 45,
+      "confidence": 60,
+      "title": "LFI et RN renvoyés dos à dos",
+      "explanation": "Sans la nommer, Guedj vise La France insoumise (« gauche inutile du bruit et de la fureur ») et la place symétriquement au Rassemblement national, comme les deux mâchoires d'une même « tenaille ». La mise en équivalence disqualifie un courant par une étiquette au lieu d'examiner ses positions, et fait de lui la seule voie raisonnable. Une critique honnête aurait nommé LFI et précisé les désaccords (laïcité, antisémitisme, stratégie).",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-004",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s096",
+      "quote": "parce que la France va mal, qu'elle est en déclin, que on ne la reconnaît même plus",
+      "speaker": "royal",
+      "severity": 45,
+      "confidence": 70,
+      "title": "Récit décliniste emprunté à la droite",
+      "explanation": "Royal ouvre sur un triptyque (« va mal », « en déclin », « on ne la reconnaît même plus ») puis martèle le mot « déclin » à propos du pouvoir d'achat et de la jeunesse. Ce cadrage décliniste, plus souvent associé à la droite, installe l'inquiétude avant l'argument ; « on ne la reconnaît même plus » reste vague et invérifiable faute d'indicateurs précis.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-005",
+      "kind": "fallacy",
+      "type": "false_dilemma",
+      "label": "Faux dilemme",
+      "segmentId": "s147",
+      "quote": "faut-il accroître les aides à la pompe ou bien accélérer la transition énergétique vers l'électrique",
+      "speaker": "moderator",
+      "severity": 25,
+      "confidence": 55,
+      "title": "Question posée en alternative exclusive",
+      "explanation": "En reformulant la question de Pascal, l'animateur oppose aides d'urgence et électrification comme si l'une excluait l'autre. Presque tous les candidats répondent qu'il faut les deux (Maurel commence par « C'est un dilemme » avant de proposer l'un et l'autre), ce qui montre que l'alternative était artificielle. Une question plus ouverte aurait porté sur l'arbitrage budgétaire et le calendrier entre les deux.",
+      "habermas": []
+    },
+    {
+      "id": "fal-006",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Image repoussoir",
+      "segmentId": "s185",
+      "quote": "ne pas faire des mesures générales qui permettraient à des bourgeois par exemple de prendre leur SUV pour partir en weekend",
+      "speaker": "glucksmann",
+      "severity": 35,
+      "confidence": 65,
+      "title": "Le « bourgeois en SUV » comme repoussoir",
+      "explanation": "Pour défendre le ciblage (argument recevable : une baisse générale profite aussi aux ménages aisés), Glucksmann convoque l'image du « bourgeois » partant en week-end en SUV. L'exemple caricatural tient lieu de chiffrage de la part de l'aide captée par les hauts revenus, et il structure ensuite tout l'échange (SUV, Rolls-Royce) au détriment de la question du coût.",
+      "habermas": []
+    },
+    {
+      "id": "fal-007",
+      "kind": "fallacy",
+      "type": "false_cause",
+      "label": "Fausse causalité",
+      "segmentId": "s236",
+      "quote": "Mais c'est peut-être grâce à ça.",
+      "speaker": "royal",
+      "severity": 50,
+      "confidence": 75,
+      "title": "La baisse des taxes expliquerait la santé espagnole",
+      "explanation": "À l'objection que l'Espagne a une bien meilleure situation budgétaire, Royal répond que c'est « peut-être grâce à » la baisse des taxes sur l'essence, qui aurait aussi « sauvé leur croissance ». Une baisse de recettes fiscales peut difficilement expliquer de meilleurs comptes publics, et la croissance espagnole dépend de bien d'autres facteurs. Une version honnête aurait reconnu le coût budgétaire et défendu la mesure sur son effet social.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-008",
+      "kind": "rhetoric",
+      "type": "concession",
+      "label": "Concession stratégique",
+      "segmentId": "s263",
+      "quote": "j'assume, c'est pas le plus naturel, mais à situation exceptionnelle, réponse exceptionnelle",
+      "speaker": "guedj",
+      "severity": 30,
+      "confidence": 70,
+      "title": "Assume une entorse au sérieux budgétaire",
+      "explanation": "Guedj, qui s'est présenté en défenseur du « sérieux budgétaire », concède qu'une baisse de fiscalité sur le carburant n'est « pas le plus naturel », puis la justifie par une maxime en miroir. La concession désamorce le reproche d'incohérence et la formule donne un air d'évidence ; il l'adosse toutefois à une recette identifiée (le retour de l'ISF), ce qui rend le procédé plutôt loyal.",
+      "habermas": []
+    },
+    {
+      "id": "fal-009",
+      "kind": "fallacy",
+      "type": "ad_hominem",
+      "label": "Attaque personnelle",
+      "segmentId": "s325",
+      "quote": "je ne sais pas si quelqu'un connaît le ministre Papin, c'est pas grave, il va partir",
+      "speaker": "faure",
+      "severity": 35,
+      "confidence": 70,
+      "title": "Raille l'obscurité du ministre avant de le citer",
+      "explanation": "Avant de rapporter une déclaration de Serge Papin sur Total, Faure moque sa notoriété (« je ne sais pas si quelqu'un connaît ») et son départ annoncé. La pique vise la personne plutôt que le propos, et la phrase rapportée (« je ne veux pas les embêter ») est aussitôt élargie en « on va embêter tous les Français ». Il aurait suffi de citer précisément la position du ministre et de la réfuter.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-010",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s334",
+      "quote": "Comme effectivement, j'ai les points de convergence avec mes camarades",
+      "speaker": "faure",
+      "severity": 40,
+      "confidence": 60,
+      "title": "Question sur la taxation de Total éludée",
+      "explanation": "Relancé sur ce qu'il faut concrètement taxer chez Total, alors que l'objection porte sur l'impossibilité de taxer des bénéfices réalisés à l'étranger, Faure se replie sur les « points de convergence » (plafonnement des marges) puis sur des questions d'indignation. L'objection technique n'est pas traitée ; une réponse directe aurait précisé l'assiette visée (marges de raffinage, dividendes, taxe européenne) et son rendement.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-011",
+      "kind": "fallacy",
+      "type": "straw_man",
+      "label": "Homme de paille",
+      "segmentId": "s357",
+      "quote": "On va contrôler maintenant ce que les gens ont le droit d'acheter et pas d'acheter.",
+      "speaker": "royal",
+      "severity": 50,
+      "confidence": 75,
+      "title": "Le ciblage caricaturé en police des achats",
+      "explanation": "Royal répond aux partisans des aides ciblées (Glucksmann, Faure) comme s'ils voulaient « faire la police de la consommation » et contrôler les achats. Personne n'a proposé d'interdire les SUV : il s'agissait de ne pas subventionner le carburant de ceux qui n'en ont pas besoin. Une réponse honnête aurait discuté le vrai point, la difficulté de verser automatiquement une aide ciblée, qu'elle soulevait par ailleurs à juste titre.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-012",
+      "kind": "fallacy",
+      "type": "straw_man",
+      "label": "Homme de paille",
+      "segmentId": "s366",
+      "quote": "faut pas dire qu'un SUV, c'est la voiture de demain, hein.",
+      "speaker": "maurel",
+      "severity": 35,
+      "confidence": 65,
+      "title": "Prête à Royal une défense des SUV",
+      "explanation": "Maurel rebondit sur l'appel de Royal à des « dirigeants visionnaires » en réfutant une thèse qu'elle n'a pas soutenue : elle refusait de priver tous les Français d'une baisse des taxes à cause des SUV, pas de présenter le SUV comme la voiture d'avenir. La pique porte, mais elle contourne le vrai désaccord (mesure générale ou ciblée).",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-013",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Bouc émissaire",
+      "segmentId": "s374",
+      "quote": "C'était la pression des Allemands.",
+      "speaker": "maurel",
+      "severity": 35,
+      "confidence": 55,
+      "title": "Le marché de l'électricité imputé aux Allemands",
+      "explanation": "Maurel attribue l'indexation du prix de l'électricité sur le gaz à « la pression des Allemands », avant de conclure « On marche sur la tête ». Les règles du marché européen de l'électricité ont été adoptées par les États membres, France comprise, et complétées par des choix nationaux : désigner un responsable unique simplifie un mécanisme complexe. La critique du marché est légitime, l'imputation exclusive beaucoup moins.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-014",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Question orientée",
+      "segmentId": "s423",
+      "quote": "est-ce que euh pour une fois vous allez assumer de financer largement l'Ukraine ?",
+      "speaker": "citoyens",
+      "severity": 30,
+      "confidence": 60,
+      "title": "« Pour une fois » : une présupposition",
+      "explanation": "Léandre fait précéder sa question d'un paradoxe (« sans armes, il n'y a pas de pacifisme ») et d'un « pour une fois » qui présuppose que la gauche n'a jamais assumé l'effort militaire. Le cadrage est efficace pour exiger une réponse nette, mais il intègre un jugement contestable sur les positions passées des candidats ; une formulation neutre aurait demandé jusqu'où chacun est prêt à aller.",
+      "habermas": []
+    },
+    {
+      "id": "fal-015",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Contrefactuel invérifiable",
+      "segmentId": "s437",
+      "quote": "si j'avais été en responsabilité à ce moment-là, j'aurais demandé le déploiement de casque bleu sur la frontière",
+      "speaker": "royal",
+      "severity": 45,
+      "confidence": 70,
+      "title": "Un contrefactuel flatteur et invérifiable",
+      "explanation": "Royal affirme que la guerre « aurait pu ne pas exister » et qu'elle aurait fait déployer des casques bleus à la frontière. Ce contrefactuel est irréfutable par construction et passe sous silence un obstacle majeur : une opération de maintien de la paix de l'ONU exige l'aval du Conseil de sécurité, où la Russie dispose d'un veto. Une version honnête aurait présenté l'idée comme une piste discutable, non comme une certitude rétrospective.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-016",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Analogie discutable",
+      "segmentId": "s478",
+      "quote": "ce qu'on a fait pour les Émirats arabes unis, c'est-à-dire simplement de protéger le ciel d'Abu Dhabi contre les missiles iraniens",
+      "speaker": "glucksmann",
+      "severity": 40,
+      "confidence": 55,
+      "title": "Abu Dhabi comme modèle pour l'Ukraine",
+      "explanation": "Glucksmann justifie une protection aérienne de l'ouest de l'Ukraine par le précédent émirien (« personne n'a dit que la France était entrée en guerre contre l'Iran »). Les situations diffèrent : la France est liée aux Émirats par un accord de défense et y dispose d'une base, alors que la Russie est une puissance nucléaire déjà en guerre ouverte, ce qui change le risque de cobelligérance. L'analogie éclaire l'idée mais ne suffit pas à établir son innocuité ; il la restreindra d'ailleurs ensuite à des intercepteurs.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-017",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s522",
+      "quote": "Et aujourd'hui, on a des nationalistes qui partout dans le monde font la guerre.",
+      "speaker": "maurel",
+      "severity": 40,
+      "confidence": 70,
+      "title": "Tour du monde des nationalismes, question éludée",
+      "explanation": "Interrogé sur la médiation avec Moscou et sur l'engagement de moyens français dans le ciel ukrainien, Maurel déroule un panorama (Poutine, Trump, Netanyahou) sous la bannière « le nationalisme, c'est la guerre ». L'animateur doit le relancer (« c'est le constat… votre vision ? ») et la seconde question reste sans réponse ; une réponse directe aurait dit oui, non, ou à quelles conditions.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-018",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Accusation vague",
+      "segmentId": "s555",
+      "quote": "par par tout le monde.",
+      "speaker": "royal",
+      "severity": 45,
+      "confidence": 55,
+      "title": "Une accusation sans auteur identifiable",
+      "explanation": "Ségolène Royal (passage attribué à tort à Guedj dans la diarisation) affirme qu'on a « interdit » à l'Ukraine de négocier lors de la médiation turque ; sommée de dire par qui, elle répond « par tout le monde ». L'accusation reprend un récit contesté sur les pourparlers d'Istanbul de 2022 sans source ni responsable identifiable, ce qui la rend impossible à discuter. Une version rigoureuse aurait cité des faits précis ou présenté l'hypothèse comme telle.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-019",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Recadrage",
+      "segmentId": "s583",
+      "quote": "Là où je vais te rejoindre parce que je pense que c'est ça que tu voulais évoquer",
+      "speaker": "glucksmann",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Recadre sa proposition en l'attribuant à Guedj",
+      "explanation": "Mis en cause par Guedj sur une « no-fly zone », Glucksmann écarte l'idée (« cette confrontation-là, on ne la veut pas ») et ramène sa proposition à des intercepteurs contre missiles et drones, présentés comme ce que son contradicteur « voulait évoquer ». Le recadrage clarifie utilement sa position, mais en prête la paternité à l'autre et gomme l'écart avec la formule initiale sur le ciel ukrainien, ce que Guedj relève (« il y avait une ambiguïté »).",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-020",
+      "kind": "rhetoric",
+      "type": "dog_whistle",
+      "label": "Insinuation",
+      "segmentId": "s606",
+      "quote": "des candidats à l'extrême droite ou peut-être ailleurs qui vont un petit peu tergiverser",
+      "speaker": "guedj",
+      "severity": 40,
+      "confidence": 60,
+      "title": "Soupçon de complaisance envers Moscou, sans nom",
+      "explanation": "Guedj affirme que la présidentielle est un enjeu pour Moscou et évoque des candidats qui « tergiverseraient », « à l'extrême droite ou peut-être ailleurs ». Après avoir cité Jean-Luc Mélenchon et pointé un « flottement » chez Ségolène Royal, ce « peut-être ailleurs » laisse planer un soupçon de complaisance envers la Russie sans nommer personne. Si le reproche est fondé, il gagnerait à être formulé explicitement et étayé.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-021",
+      "kind": "rhetoric",
+      "type": "personal_anecdote",
+      "label": "Témoignage personnel",
+      "segmentId": "s616",
+      "quote": "J'ai vu en fait des femmes, des hommes descendre des immeubles en pleine journée pour venir simplement se réchauffer",
+      "speaker": "faure",
+      "severity": 30,
+      "confidence": 75,
+      "title": "Le témoignage de Kiev à l'appui",
+      "explanation": "Faure s'appuie sur son déplacement en Ukraine (Boutcha, Kiev) pour décrire des habitants venus se réchauffer sous des tentes de l'ONU. Le témoignage incarne les frappes sur les infrastructures énergétiques et renforce sa crédibilité ; il illustre un fait documenté plutôt qu'il ne le remplace, mais la question précise de la protection aérienne reste sans réponse.",
+      "habermas": []
+    },
+    {
+      "id": "fal-022",
+      "kind": "fallacy",
+      "type": "loaded_question",
+      "label": "Question piège",
+      "segmentId": "s639",
+      "quote": "Est-ce que vous êtes prêts à ne pas fermer les yeux ?",
+      "speaker": "citoyens",
+      "severity": 25,
+      "confidence": 55,
+      "title": "Présuppose que les candidats ferment les yeux",
+      "explanation": "La question (posée par Léandre, alors que la diarisation attribue le passage à l'animateur) présuppose qu'on « ferme les yeux » sur Gaza, puis assimile sanctions contre Israël et défense de « la cause palestinienne ». Refuser l'une des mesures citées revient alors, par construction, à détourner le regard. Une formulation neutre aurait demandé quelles pressions chacun est prêt à exercer.",
+      "habermas": []
+    },
+    {
+      "id": "fal-023",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s678",
+      "quote": "Moi, j'utilise les termes que la justice consacre et je veux pas rentrer dans cette polémique.",
+      "speaker": "guedj",
+      "severity": 40,
+      "confidence": 70,
+      "title": "Génocide : refuge derrière les qualifications judiciaires",
+      "explanation": "Interrogé par oui ou non sur l'accord d'association UE-Israël et sur le mot « génocide », Guedj s'en remet aux qualifications judiciaires et range la question dans la « polémique », ce que Faure conteste aussitôt. La prudence juridique est défendable, mais la présenter comme un refus de débattre évite d'argumenter ; sur l'accord, il ne dit pas non plus clairement « suspendre » (« mis dans la balance »).",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-024",
+      "kind": "fallacy",
+      "type": "hasty_generalization",
+      "label": "Généralisation hâtive",
+      "segmentId": "s716",
+      "quote": "quand le ramas est au responsabilité, ça finit toujours par le 7 octobre",
+      "speaker": "maurel",
+      "severity": 45,
+      "confidence": 65,
+      "title": "« Ça finit toujours par la violence »",
+      "explanation": "Maurel érige en loi (« toujours ») que l'extrême droite ou les nationalismes religieux au pouvoir mènent à la violence, et place en parallèle le gouvernement Netanyahou et le Hamas. La tendance décrite est défendable, mais le « toujours » généralise à partir de quelques cas, et le parallèle suscite une réaction qui l'oblige à se reprendre (« c'est pas ce que je veux dire »). Parler d'un risque plutôt que d'une loi aurait été plus rigoureux.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-025",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Autopromotion par contraste",
+      "segmentId": "s736",
+      "quote": "On entend pas beaucoup la gauche en parler hein.",
+      "speaker": "maurel",
+      "severity": 30,
+      "confidence": 60,
+      "title": "Se distingue d'une gauche jugée silencieuse",
+      "explanation": "Après avoir affirmé que la gauche avait été « en pointe » sur la Palestine et l'Ukraine, Maurel déplore qu'on ne l'entende guère sur le Congo ou le Haut-Karabakh, pour ajouter aussitôt « moi j'en parle ». Le contraste le singularise face à ses concurrents, alors que Faure venait justement d'évoquer son engagement pour les Arméniens du Haut-Karabakh ; l'animateur conteste d'ailleurs le constat.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-026",
+      "kind": "fallacy",
+      "type": "false_cause",
+      "label": "Fausse causalité",
+      "segmentId": "s756",
+      "quote": "cette montée de l'antisémitisme, elle est pas du à Israël, elle est d aux actuels dirigeants d'Israël",
+      "speaker": "royal",
+      "severity": 65,
+      "confidence": 70,
+      "title": "L'antisémitisme imputé au gouvernement israélien",
+      "explanation": "Royal attribue la montée de l'antisémitisme en France aux « actuels dirigeants d'Israël », puis suggère que davantage de voix juives dénonçant Netanyahou la « freinerait ». Faire d'un gouvernement étranger la cause de l'hostilité envers des Juifs français déplace la responsabilité des auteurs d'actes antisémites et nourrit l'amalgame qu'elle dit combattre, comme le lui objectent Guedj et Glucksmann. Une version rigoureuse aurait distingué le contexte (un conflit instrumentalisé) de la cause (les préjugés antisémites).",
+      "habermas": [
+        "truth",
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-027",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Reformulation durcie",
+      "segmentId": "s767",
+      "quote": "celle qui consiste à dire que c'est aux juifs de se justifier du gouvernement israélien",
+      "speaker": "guedj",
+      "severity": 35,
+      "confidence": 50,
+      "title": "La thèse de Royal durcie par reformulation",
+      "explanation": "Guedj reformule l'appel de Royal à « plus de voix israéliennes et juives » contre Netanyahou en une injonction faite aux Juifs de « se justifier » du gouvernement israélien. La critique de fond est solide (son parallèle avec les musulmans sommés de se désolidariser de Daech montre bien l'essentialisation), mais la reformulation accentue la thèse, ce qui permet à Royal de protester qu'on « caricature » sa pensée et déplace l'échange sur les intentions.",
+      "habermas": []
+    },
+    {
+      "id": "fal-028",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s811",
+      "quote": "c'est pas la qualification qu'on emploie, c'est l'action qu'on mène qui compte",
+      "speaker": "glucksmann",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Contourne le mot « génocide » par l'action",
+      "explanation": "Sommé de dire s'il faut reconnaître un génocide à Gaza, Glucksmann s'aligne sur la CPI (crimes de guerre, crimes contre l'humanité) puis déplace la question : ce n'est « pas la qualification » qui compte mais l'action. Sa position juridique est cohérente, mais minorer l'importance des mots évite de trancher le désaccord que lui oppose Faure, alors qu'il parlait lui-même de « purification ethnique » quelques minutes plus tôt.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-029",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Prétérition",
+      "segmentId": "s842",
+      "quote": "je vais pas reprendre qu'AMu ici mais enfin quand on ne nomme pas les choses",
+      "speaker": "faure",
+      "severity": 25,
+      "confidence": 65,
+      "title": "Cite Camus en prétendant ne pas le citer",
+      "explanation": "Faure annonce qu'il ne va pas « reprendre Camus » avant de paraphraser la formule qui lui est attribuée sur le fait de mal nommer les choses. Cette prétérition mobilise une autorité morale pour trancher le débat sur le mot « génocide », sans ajouter d'argument juridique face à Glucksmann, qui s'appuie sur la CPI.",
+      "habermas": []
+    },
+    {
+      "id": "fal-030",
+      "kind": "fallacy",
+      "type": "anecdotal",
+      "label": "Preuve anecdotique",
+      "segmentId": "s939",
+      "quote": "il suffit d'aller faire ses courses pour voir que les prix de l'alimentation c'est pas de 2 % qu'ils ont pris.",
+      "speaker": "maurel",
+      "severity": 40,
+      "confidence": 60,
+      "title": "Le caddie contre la statistique d'inflation",
+      "explanation": "Emmanuel Maurel oppose l'inflation officielle (« 2 % 2 et demi ») à l'expérience des courses, puis affirme que l'alimentation a pris « 25 % », ce que « tout le monde sait ». Il compare un taux annuel général à une hausse cumulée sur plusieurs années d'un seul poste, en s'appuyant sur le ressenti et un consensus supposé plutôt que sur une source. Une version rigoureuse aurait précisé la période (la hausse alimentaire cumulée depuis 2021 est bien de l'ordre de 20 à 25 %) et distingué rythme annuel et niveau des prix.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-031",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s987",
+      "quote": "quand monsieur Atal et monsieur Lecornu vi ou monsieur Philippe viendront nous expliquer qu'ils vont régler les problèmes de la France",
+      "speaker": "maurel",
+      "severity": 40,
+      "confidence": 65,
+      "title": "De Johanna aux futurs adversaires",
+      "explanation": "Interrogé sur les salaires de la restauration, où Johanna va travailler, Emmanuel Maurel enchaîne SMIC, taxation des riches, espérance de vie, repas du CROUS, morts au travail et dividendes, pour conclure sur le « passif » d'Attal, Lecornu et Philippe. La réponse devient un réquisitoire de campagne contre de futurs adversaires, sans rien dire de la garde d'enfants, du logement ni du secteur visé. Une réponse ciblée aurait relié au moins une mesure à la situation décrite.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-032",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Attaque voilée",
+      "segmentId": "s1000",
+      "quote": "c'est une arnaque parce qu'on va dire on va vous faire plaisir, on va faire on va récupérer politiquement l'idée",
+      "speaker": "royal",
+      "severity": 45,
+      "confidence": 55,
+      "title": "Les promesses salariales qualifiées d’arnaque",
+      "explanation": "Ségolène Royal qualifie d'« arnaque » le fait de promettre une hausse des bas salaires sans maîtriser les prix, en prêtant à ceux qui le font l'intention de « récupérer politiquement l'idée ». Juste après la proposition d'indexation de Maurel, la pique vise implicitement ses concurrents en leur imputant une arrière-pensée, alors qu'elle propose elle-même une hausse négociée. L'argument de fond (une hausse nominale peut être absorbée par l'inflation) se suffisait à lui-même.",
+      "habermas": [
+        "sincerity",
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-033",
+      "kind": "fallacy",
+      "type": "red_herring",
+      "label": "Diversion",
+      "segmentId": "s1021",
+      "quote": "je voudrais un instant qu'on pense aux agriculteurs qui sont vraiment au bord du gouffre du désespoir",
+      "speaker": "royal",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Des bas salaires aux agriculteurs",
+      "explanation": "Partie des bas salaires, la réponse glisse vers le blocage des prix, les métaux lourds dans les pâtes, la viande en circuit court puis la détresse des agriculteurs après la sécheresse. Ces sujets sont réels mais éloignés de la question de Johanna (vivre de son salaire dans la restauration, faire garder ses enfants) et occupent toute la fin du temps de parole. Une réponse honnête aurait explicité le lien entre ces mesures et le budget d'une famille monoparentale.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-034",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Chiffrage non étayé",
+      "segmentId": "s1054",
+      "quote": "120 € de plus dans ton salaire net chaque mois.",
+      "speaker": "glucksmann",
+      "severity": 45,
+      "confidence": 55,
+      "title": "120 € par mois : un chiffrage fragile",
+      "explanation": "Raphaël Glucksmann promet que la réforme des successions (15 milliards par an) rendra 120 € nets par mois à un salarié à 2 000 €, sans coûter « un centime » à l'État. À titre d'ordre de grandeur, 15 milliards répartis sur environ 27 millions de salariés font quelque 45 € par mois en moyenne : 120 € supposent une baisse de CSG très ciblée qui n'est pas précisée, et le rendement de 15 milliards est lui-même une hypothèse. Présenter ce montant comme acquis, en tutoyant l'auditeur, lui donne une précision que le chiffrage ne garantit pas.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-035",
+      "kind": "fallacy",
+      "type": "slippery_slope",
+      "label": "Pente glissante",
+      "segmentId": "s1071",
+      "quote": "Dans le chaos. Il faut donc qu'on redevienne une République de travailleurs",
+      "speaker": "glucksmann",
+      "severity": 40,
+      "confidence": 60,
+      "title": "Sans réforme de l'héritage, le chaos",
+      "explanation": "Raphaël Glucksmann enchaîne : faute de réformer la fiscalité des successions avant « cette grande transmission », la France deviendra une « société d'ancien régime », et ces sociétés finissent « dans le chaos », après une évocation de la nuit du 4 août. Le lien entre une réforme fiscale non faite et l'effondrement de la société n'est pas démontré ; il joue sur la crainte et l'imaginaire révolutionnaire. L'argument solide (la part croissante de l'héritage dans le patrimoine) suffisait sans cette dramatisation.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-036",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s1073",
+      "quote": "Est-ce que ça suffit ou est-ce que comme le disent certains, il faudrait que le prochain Google ou Nvidia soit français ?",
+      "speaker": "moderator",
+      "severity": 25,
+      "confidence": 55,
+      "title": "Redistribuer ou produire : une alternative récurrente",
+      "explanation": "Pour la troisième fois (après « redistribuer » ou « accroître le gâteau », puis « produire davantage » ou « uniquement » redistribuer), l'animateur oppose redistribution et croissance, ici en invoquant « certains » qui voudraient un Google ou un Nvidia français. La relance est légitime pour tester les candidats sur la création de richesse, mais la formulation binaire et la source vague orientent la réponse. Olivier Faure répond d'ailleurs « les deux », signe que les termes ne s'excluent pas.",
+      "habermas": []
+    },
+    {
+      "id": "fal-037",
+      "kind": "rhetoric",
+      "type": "rhetorical_question",
+      "label": "Question rhétorique",
+      "segmentId": "s1101",
+      "quote": "vécu une seule fois dans votre vie avec un reste à vivre de 400 € pour élever deux enfants ?",
+      "speaker": "faure",
+      "severity": 45,
+      "confidence": 70,
+      "title": "Avez-vous déjà vécu avec 400 euros ?",
+      "explanation": "Après avoir évoqué des salariés de sa circonscription qui dorment au camping ou dans leur voiture, Olivier Faure lance une question qui n'attend pas de réponse. Le procédé mobilise l'empathie et oppose implicitement les décideurs ou journalistes, supposés à l'abri, aux familles modestes. Il est ancré dans le témoignage de Johanna, mais ne constitue pas en soi un argument en faveur des mesures qui suivent (bouclier logement, sécurité sociale alimentaire).",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-038",
+      "kind": "fallacy",
+      "type": "ambiguity",
+      "label": "Ambiguïté",
+      "segmentId": "s1123",
+      "quote": "Bref, il y a trop d'argent qui est distribué sans contrepartie.",
+      "speaker": "faure",
+      "severity": 40,
+      "confidence": 60,
+      "title": "70 ou 211 milliards ? Bref…",
+      "explanation": "Olivier Faure cite pour les aides aux entreprises « 70 milliards » (écho déformé des 170 de Ségolène Royal) puis 211 milliards (commission d'enquête sénatoriale de Fabien Gay), et conclut d'un « bref » à un excès d'argent sans contrepartie. L'écart entre ces montants tient au périmètre retenu (exonérations générales de cotisations, crédit d'impôt recherche, niches, subventions), que le « bref » escamote. Une présentation honnête aurait précisé ce qui est compté et quelle part serait réellement conditionnée.",
+      "habermas": [
+        "truth",
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-039",
+      "kind": "rhetoric",
+      "type": "repetition",
+      "label": "Répétition",
+      "segmentId": "s1165",
+      "quote": "Je veux pas une France de smicar parce que le travail, il doit payer dignement.",
+      "speaker": "guedj",
+      "severity": 30,
+      "confidence": 75,
+      "title": "Pas une France de smicards, deux fois",
+      "explanation": "Jérôme Guedj répète la formule pour marquer sa priorité : que le SMIC soit un point d'entrée et non un plafond. La répétition rend le message mémorable ; le mot « smicar », familier, peut toutefois sembler viser les salariés plutôt que leur condition. La proposition concrète qui l'accompagne (retirer les exonérations aux employeurs qui laissent un salarié au SMIC plusieurs années) donne du contenu à la formule.",
+      "habermas": []
+    },
+    {
+      "id": "fal-040",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Précision trompeuse",
+      "segmentId": "s1193",
+      "quote": "j'ai fait le calcul à partir de la proposition que j'ai faite, c'est quasiment une économie de 1500 € par an",
+      "speaker": "guedj",
+      "severity": 40,
+      "confidence": 55,
+      "title": "1 500 euros d'économie calculés en direct",
+      "explanation": "Jérôme Guedj affirme avoir calculé, pendant que les autres parlaient, que sa « grande Sécu » ferait économiser « quasiment 1500 € par an » à Johanna, à partir d'une mutuelle à 200 € par mois qu'il a lui-même supposée. Le chiffre ne détaille pas la hausse des cotisations qu'il mentionne juste après et dépend de paramètres non précisés : l'estimation reçoit une précision illusoire. Un ordre de grandeur assorti de ses conditions (« plusieurs centaines d'euros selon le financement retenu ») aurait été plus honnête.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-041",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Fausse analogie",
+      "segmentId": "s1219",
+      "quote": "Moi, en tant qu'entrepreneur, quand j'ai une dette, je dois la payer.",
+      "speaker": "citoyens",
+      "severity": 25,
+      "confidence": 65,
+      "title": "La dette d'un État comme celle d'une entreprise",
+      "explanation": "Nina assimile la dette publique à celle de son entreprise : une dette se rembourse, et son effacement signifierait la faillite. L'analogie est intuitive mais imparfaite : un État ne disparaît pas, lève l'impôt et refinance en continu sa dette sans jamais la « rembourser » globalement, et une partie est détenue par l'Eurosystème. Sa question (qui paiera ?) reste parfaitement légitime ; c'est le cadre comparatif qui pèse sur les réponses.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-042",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s1244",
+      "quote": "Ceux qui ont fait leur cette dette là doivent aussi emporter la responsabilité.",
+      "speaker": "royal",
+      "severity": 40,
+      "confidence": 65,
+      "title": "Payer ou effacer ? Réponse différée",
+      "explanation": "À la question directe de Nina (rembourser ou effacer la dette ?), Ségolène Royal parle d'abord des faillites de petites entreprises, puis de la culpabilisation des Français et de la responsabilité de « ceux qui ont fait » la dette. L'animateur doit reposer trois fois la question avant d'obtenir un « c'est non ». Désigner des responsables n'indique pas comment traiter la dette existante ; la réponse claire arrive, mais tardivement.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-043",
+      "kind": "rhetoric",
+      "type": "euphemism",
+      "label": "Euphémisme",
+      "segmentId": "s1266",
+      "quote": "je ne vous parlerai d'aucun impôt nouveau, sauf le rétablissement d'impôts de solidarité sur la fortune financière",
+      "speaker": "royal",
+      "severity": 25,
+      "confidence": 50,
+      "title": "Aucun impôt nouveau, sauf un",
+      "explanation": "Ségolène Royal annonce « aucun impôt nouveau » puis introduit aussitôt une exception, présentée comme un simple « rétablissement ». On peut soutenir que l'ISF supprimé en 2018 taxait déjà ces actifs, mais pour les contribuables concernés il s'agit bien d'un prélèvement supplémentaire. Dire directement « je rétablirai une imposition du patrimoine financier » aurait été plus transparent.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-044",
+      "kind": "fallacy",
+      "type": "hasty_generalization",
+      "label": "Généralisation hâtive",
+      "segmentId": "s1267",
+      "quote": "Il y a aucune raison qu'il ne soit pas remis, c'est tous les pays voisins l'ont fait.",
+      "speaker": "royal",
+      "severity": 45,
+      "confidence": 70,
+      "title": "Tous les pays voisins l'auraient fait",
+      "explanation": "Pour justifier le retour d'un impôt sur la fortune financière, Ségolène Royal affirme que « tous les pays voisins » en ont un. C'est inexact : l'Espagne et la Suisse taxent le patrimoine, mais l'Allemagne (depuis 1997), le Royaume-Uni ou le Luxembourg (pour les particuliers) n'ont pas d'impôt sur la fortune, l'Italie et la Belgique n'ayant que des taxes partielles. L'argument combine généralisation et appel à la majorité ; citer les exemples précis aurait suffi.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-045",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Ironie",
+      "segmentId": "s1325",
+      "quote": "Ils foutaient aussi au feu les créanciers.",
+      "speaker": "maurel",
+      "severity": 30,
+      "confidence": 60,
+      "title": "Au feu la dette : ironie historique",
+      "explanation": "Emmanuel Maurel attribue à Jean-Luc Mélenchon la formule « au feu la dette » et la tourne en dérision : seuls les rois de France brûlaient leurs dettes, en jetant aussi « au feu les créanciers », comme Philippe le Bel avec les Templiers. La plaisanterie disqualifie par le ridicule la position d'un absent avant de la discuter, même si Maurel développe ensuite un vrai argument sur la politique de la BCE. C'est une pique typique de ce débat où les candidats se démarquent de LFI.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-046",
+      "kind": "fallacy",
+      "type": "false_dilemma",
+      "label": "Faux dilemme",
+      "segmentId": "s1381",
+      "quote": "c'est pas qu'on dépense trop, c'est qu'on produit pas assez en France et qu'on répartit pas bien les richesses",
+      "speaker": "maurel",
+      "severity": 40,
+      "confidence": 60,
+      "title": "Dépenser trop ou produire trop peu ?",
+      "explanation": "Emmanuel Maurel conclut que le problème n'est « pas qu'on dépense trop » mais qu'on ne produit pas assez et qu'on répartit mal. Présenter ces explications comme exclusives évacue sans discussion le niveau de la dépense publique, l'un des plus élevés d'Europe, qui était au cœur de la question de Nina. Une version plus honnête aurait reconnu que production, recettes et dépenses jouent ensemble sur la dette.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-047",
+      "kind": "fallacy",
+      "type": "false_cause",
+      "label": "Fausse causalité",
+      "segmentId": "s1395",
+      "quote": "C'est donc la preuve que en réalité ce que Henry Ford avait compris depuis longtemps",
+      "speaker": "faure",
+      "severity": 50,
+      "confidence": 70,
+      "title": "Espagne : SMIC en hausse, donc emplois",
+      "explanation": "Olivier Faure cite la hausse d'environ 60 % du salaire minimum espagnol (en huit ans, précision ajoutée en cours d'échange) et 2,5 millions d'emplois créés depuis 2018 pour conclure : « c'est donc la preuve » que la consommation populaire soutient l'économie. La coïncidence ne prouve pas la causalité : l'emploi espagnol a aussi profité de la reprise post-Covid, de la réforme du travail de 2021, du tourisme et de l'immigration, et l'effet propre du salaire minimum reste débattu. L'exemple ne répond pas non plus à l'inquiétude de Nina, patronne d'une petite entreprise sans salarié.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-048",
+      "kind": "fallacy",
+      "type": "cherry_picking",
+      "label": "Sélection partiale",
+      "segmentId": "s1411",
+      "quote": "cadeaux fiscaux qui ont été engrangé essentiellement par les grandes fortunes et les grandes entreprises.",
+      "speaker": "faure",
+      "severity": 40,
+      "confidence": 60,
+      "title": "60 milliards, surtout pour les plus riches ?",
+      "explanation": "Olivier Faure impute la dette aux baisses d'impôts de l'ère Macron, environ 60 milliards par an, « engrangées essentiellement par les grandes fortunes et les grandes entreprises ». L'ordre de grandeur global est souvent avancé, mais sa principale composante, la suppression de la taxe d'habitation, ainsi que la baisse de l'impôt sur le revenu ont bénéficié à l'ensemble des ménages, et le Covid ou le bouclier énergétique pèsent aussi sur la dette. Ne retenir que la part favorable à la thèse donne une image partielle.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-049",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Digression",
+      "segmentId": "s1425",
+      "quote": "Je vois qu'il y a des journalistes qui sont très au-delà des 62 ans, des 64 ans, des 70 ans",
+      "speaker": "faure",
+      "severity": 35,
+      "confidence": 65,
+      "title": "De la dette aux journalistes septuagénaires",
+      "explanation": "Interrogé sur le remboursement de la dette, Olivier Faure passe à l'abrogation de la réforme des retraites, puis à une plaisanterie sur un journaliste déjà présent au débat de 1974. Le trait d'humour détend l'échange mais éloigne de la question, et la mesure mise en avant, qui alourdit les dépenses, n'est pas accompagnée de son financement. L'animateur finit par l'interrompre pour dépassement de temps de parole.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-050",
+      "kind": "fallacy",
+      "type": "whataboutism",
+      "label": "Whataboutisme",
+      "segmentId": "s1444",
+      "quote": "la dette elle s'est moins creusée que sous ces génies des finances publiques que sont les droits de la droite libérale.",
+      "speaker": "glucksmann",
+      "severity": 40,
+      "confidence": 60,
+      "title": "La dette ? La droite a fait pire",
+      "explanation": "À l'idée que « la gauche creuse la dette », Raphaël Glucksmann répond qu'elle s'est moins creusée sous Jospin et sous le quinquennat 2012-2017 que sous « ces génies des finances publiques » de la droite libérale. Le rappel est en partie exact, mais il ignore des contextes très différents (forte croissance sous Jospin, Covid et crise énergétique depuis 2020) et ne dit rien de ce que ferait la gauche demain. Comparer le bilan des autres ne répond pas à la question de Nina sur le financement.",
+      "habermas": [
+        "truth",
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-051",
+      "kind": "rhetoric",
+      "type": "rhetorical_question",
+      "label": "Question rhétorique",
+      "segmentId": "s1480",
+      "quote": "Si on veut réduire la dette, qu'est-ce qu'il faut faire ?",
+      "speaker": "glucksmann",
+      "severity": 25,
+      "confidence": 75,
+      "title": "Question posée, réponse aussitôt donnée",
+      "explanation": "Raphaël Glucksmann rythme sa réponse en posant puis en résolvant lui-même, deux fois de suite, la même question (« Si on veut résorber / réduire la dette, qu'est-ce qu'il faut faire ? »). Le procédé structure clairement son idée (produire en Europe, réserver les marchés publics aux productions européennes) mais présente comme une évidence un lien entre réindustrialisation et baisse de la dette qui resterait à chiffrer et à dater.",
+      "habermas": []
+    },
+    {
+      "id": "fal-052",
+      "kind": "rhetoric",
+      "type": "hyperbole",
+      "label": "Hyperbole",
+      "segmentId": "s1482",
+      "quote": "On dépense aujourd'hui des milliers de milliards à acheter des produits chinois.",
+      "speaker": "glucksmann",
+      "severity": 40,
+      "confidence": 55,
+      "title": "Des milliers de milliards de produits chinois",
+      "explanation": "Raphaël Glucksmann affirme qu'on dépense « des milliers de milliards » à acheter des produits chinois. Les importations françaises depuis la Chine se comptent en dizaines de milliards d'euros par an, et celles de l'Union européenne autour de 500 milliards : l'exagération, peut-être involontaire, change l'ordre de grandeur. Un chiffre exact aurait suffi à soutenir son argument sur la préférence européenne dans les marchés publics.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-053",
+      "kind": "rhetoric",
+      "type": "dog_whistle",
+      "label": "Allusion codée",
+      "segmentId": "s1506",
+      "quote": "moi je suis pour une gauche crédible et pas soumise.",
+      "speaker": "guedj",
+      "severity": 45,
+      "confidence": 80,
+      "title": "Crédible et pas soumise : pique à LFI",
+      "explanation": "Jérôme Guedj ouvre sa réponse sur la dette en se réclamant d'une gauche « crédible et pas soumise », jeu de mots transparent contre La France insoumise, avec laquelle il a rompu. La formule parle à un électorat hostile à LFI et rend implicitement suspects les concurrents ouverts à une alliance, sans les nommer. Elle place la réponse sur le terrain de l'identité politique avant celui des arguments.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-054",
+      "kind": "fallacy",
+      "type": "straw_man",
+      "label": "Homme de paille",
+      "segmentId": "s1507",
+      "quote": "je vais pas perdre de temps à commenter des propositions farfelues qui consistent à faire un jeu de bon tau",
+      "speaker": "guedj",
+      "severity": 50,
+      "confidence": 65,
+      "title": "Propositions farfelues réduites à un bonneteau",
+      "explanation": "Sans les exposer, Jérôme Guedj écarte les propositions d'annulation ou de monétisation de la dette comme « farfelues », un « jeu de bonneteau » entre la Banque de France et le budget de l'État, puis conclut « tout ça n'est pas sérieux ». La position visée est caricaturée en tour de passe-passe et rejetée par le ridicule plutôt que réfutée, alors que Royal et Faure venaient d'avancer de vrais arguments (réaction des taux, accord nécessaire des gouverneurs de la BCE). Reprendre l'un de ces arguments aurait constitué une réfutation.",
+      "habermas": [
+        "rightness",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-055",
+      "kind": "fallacy",
+      "type": "cherry_picking",
+      "label": "Sélection partiale",
+      "segmentId": "s1518",
+      "quote": "quand elle fait des bénéfices elle va payer 25 % sur les bénéfices.",
+      "speaker": "guedj",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Starbucks à 5 %, boulangerie à 25 %",
+      "explanation": "Pour illustrer l'injustice fiscale, Jérôme Guedj oppose le Starbucks du coin, qui paierait « 5 ou 6 % … peut-être 7 ou 8 % », à la boulangerie d'en face, taxée à 25 % sur ses bénéfices. L'optimisation fiscale des multinationales est documentée, mais les chiffres varient dans la phrase même et la comparaison omet le taux réduit de 15 % dont bénéficient les petites entreprises sur leurs premiers bénéfices (jusqu'à 42 500 €). Face à une entrepreneure, mentionner ce taux aurait rendu l'exemple plus juste.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-056",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Question orientée",
+      "segmentId": "s1564",
+      "quote": "il y a même pas eu de plaintes qui ont été déposées.",
+      "speaker": "moderator",
+      "severity": 25,
+      "confidence": 45,
+      "title": "Exclusion de Brun cadrée par ses failles",
+      "explanation": "Au nom de « beaucoup se disent », Pujadas présente l'exclusion de Philippe Brun uniquement sous l'angle de ses faiblesses procédurales (pas de garde à vue, pas de mise en examen, « même pas » de plainte). La question est légitime, mais sa formulation passe sous silence les motifs invoqués par le parti et oriente la réponse. Une version plus neutre aurait exposé les deux principes en tension : présomption d'innocence et écoute des victimes.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-057",
+      "kind": "fallacy",
+      "type": "tu_quoque",
+      "label": "Tu quoque",
+      "segmentId": "s1576",
+      "quote": "quand la France insoumise a toléré dans ses rangs la présence d'Adrien Catnin, vous étiez vous-même à dire",
+      "speaker": "faure",
+      "severity": 40,
+      "confidence": 55,
+      "title": "Renvoie l'interlocuteur à l'affaire Quatennens",
+      "explanation": "Plutôt que de répondre à l'objection (aucune plainte ni mise en examen contre Philippe Brun), Faure rappelle que son interlocuteur jugeait anormale la tolérance de LFI envers Adrien Quatennens, comme si cette position passée invalidait la question. Les deux cas diffèrent d'ailleurs : Quatennens avait été condamné après une plainte. Une réponse directe aurait expliqué le critère appliqué par le bureau national en l'absence de procédure judiciaire.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-058",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Recadrage",
+      "segmentId": "s1592",
+      "quote": "je crois pas qu'on soit ici pour incarner la gauche non mélanchonniste, antimélanchonniste.",
+      "speaker": "maurel",
+      "severity": 35,
+      "confidence": 70,
+      "title": "Refuse de se définir face à LFI",
+      "explanation": "Interrogé directement sur la poursuite de l'alliance avec LFI, Maurel conteste d'abord la pertinence de la question et propose de « se définir nous-même ». Le recadrage a une part de légitimité (ne pas faire de la primaire un référendum sur un tiers), mais il retarde la réponse : la journaliste doit rappeler que c'est une question que se posent les électeurs. Il finit par répondre en défendant un rassemblement face à l'extrême droite.",
+      "habermas": []
+    },
+    {
+      "id": "fal-059",
+      "kind": "fallacy",
+      "type": "false_dilemma",
+      "label": "Faux dilemme",
+      "segmentId": "s1630",
+      "quote": "il n'y reste plus qu'une seule une seule solution on va salir avec la droite",
+      "speaker": "maurel",
+      "severity": 50,
+      "confidence": 70,
+      "title": "Union avec LFI ou alliance avec la droite",
+      "explanation": "Maurel réduit le choix à deux branches : s'unir avec LFI, ou s'allier avec la droite. Il écarte sans les discuter les options défendues par Glucksmann et Guedj (candidatures autonomes, accords avec écologistes et communistes, désistements au second tour). Une version honnête aurait comparé les chances électorales de ces différentes stratégies.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-060",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Prétérition",
+      "segmentId": "s1644",
+      "quote": "Je n'en tire pas gloriol mais en même temps, je vais au bout",
+      "speaker": "guedj",
+      "severity": 30,
+      "confidence": 75,
+      "title": "Prétérition : « pas de gloriole », trois fois",
+      "explanation": "Après s'être présenté comme « le seul » de la salle à avoir refusé l'accord avec LFI en 2024, Guedj répète trois fois qu'il « n'en tire pas gloriole ». C'est une prétérition : on insiste sur ce qu'on prétend ne pas revendiquer. Le procédé souligne sa propre cohérence et, en creux, l'incohérence de ses concurrents.",
+      "habermas": []
+    },
+    {
+      "id": "fal-061",
+      "kind": "fallacy",
+      "type": "slippery_slope",
+      "label": "Pente glissante",
+      "segmentId": "s1674",
+      "quote": "si on commence la politique en se disant tout est négociable, alors on est mort.",
+      "speaker": "guedj",
+      "severity": 45,
+      "confidence": 65,
+      "title": "D'un accord électoral à la mort",
+      "explanation": "Guedj assimile des accords électoraux ponctuels aux législatives à l'idée que « tout est négociable », puis annonce l'effondrement (« on est mort », « on s'est fait amputer »). Aucun de ses concurrents n'a dit que les valeurs se négociaient, et l'enchaînement des conséquences n'est pas démontré. Une version honnête aurait précisé quels engagements un accord avec LFI remettrait concrètement en cause.",
+      "habermas": [
+        "truth",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-062",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Soupçon sur le questionneur",
+      "segmentId": "s1693",
+      "quote": "sans doute est-ce votre volonté que de mettre en fin de parcours cette question des alliances",
+      "speaker": "faure",
+      "severity": 30,
+      "confidence": 60,
+      "title": "Accuse les journalistes d'enflammer le débat",
+      "explanation": "Pris à partie par Guedj, Faure suggère que les journalistes ont placé la question des alliances en fin d'émission pour attiser le conflit, avant de concéder que « tout est légitime ». Ce détour par l'intention des questionneurs relativise le désaccord et gagne du temps avant d'aborder le fond.",
+      "habermas": []
+    },
+    {
+      "id": "fal-063",
+      "kind": "fallacy",
+      "type": "straw_man",
+      "label": "Homme de paille",
+      "segmentId": "s1717",
+      "quote": "si vous leur dites qu'ils sentent mauvais, ils viendront jamais.",
+      "speaker": "faure",
+      "severity": 55,
+      "confidence": 70,
+      "title": "Prête aux rivaux un mépris des électeurs",
+      "explanation": "Faure laisse entendre que ses concurrents disent aux électeurs de Mélenchon qu'ils « sentent mauvais », alors que Guedj et Glucksmann refusent un accord avec l'appareil LFI et son dirigeant, pas avec ses électeurs. La caricature rend leur position indéfendable sans la discuter. Une version honnête aurait distingué refus d'alliance partisane et reconquête des électeurs.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-064",
+      "kind": "rhetoric",
+      "type": "repetition",
+      "label": "Martèlement",
+      "segmentId": "s1751",
+      "quote": "Il n'y en aura pas non plus aux législatives.",
+      "speaker": "glucksmann",
+      "severity": 45,
+      "confidence": 85,
+      "title": "« Il n'y en aura pas », martelé",
+      "explanation": "Glucksmann répète son refus : « Il n'y en aura pas », puis deux fois de suite « il n'y en aura pas non plus aux législatives ». La répétition affiche une netteté opposée à l'ambiguïté qu'il prête à Faure. Elle ne répond pas pour autant à l'objection sur le risque de défaite quand la gauche présente des candidats concurrents au premier tour.",
+      "habermas": []
+    },
+    {
+      "id": "fal-065",
+      "kind": "fallacy",
+      "type": "cherry_picking",
+      "label": "Cueillette de données",
+      "segmentId": "s1763",
+      "quote": "Et quand nous l'avons affirmé cette famille politique aux élections européennes et bien nous avons fait 14 %.",
+      "speaker": "glucksmann",
+      "severity": 40,
+      "confidence": 65,
+      "title": "Les 14 % européens comme preuve",
+      "explanation": "Le score des européennes 2024 (13,8 %) est avancé comme preuve que la stratégie autonome fonctionne. Or c'était un scrutin proportionnel à un tour et à faible participation, et la liste arrivait derrière celle de la majorité présidentielle, ce que Royal rappelle aussitôt. Étendre ce résultat à la présidentielle et aux législatives, scrutins majoritaires, revient à retenir la seule donnée favorable.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-066",
+      "kind": "rhetoric",
+      "type": "repetition",
+      "label": "Anaphore",
+      "segmentId": "s1782",
+      "quote": "Il nous laisse une France qui n'est plus respectée sur la scène internationale.",
+      "speaker": "royal",
+      "severity": 50,
+      "confidence": 80,
+      "title": "Anaphore « Il nous laisse… » au lieu de répondre",
+      "explanation": "Interrogée sur d'éventuels ministres insoumis, Royal déroule une anaphore contre le bilan macroniste : « Il nous laisse des jeunes abîmés… une industrie saccagée… des dettes incommensurables ». Le procédé est efficace à l'oral, mais il repousse d'environ une minute la réponse à la question, qu'elle n'aborde qu'en s1797 (« Alors sur la question de Marion »).",
+      "habermas": []
+    },
+    {
+      "id": "fal-067",
+      "kind": "fallacy",
+      "type": "false_cause",
+      "label": "Fausse causalité",
+      "segmentId": "s1786",
+      "quote": "Ils ont même réussi cet exploit de faire effondrer la natalité dans notre pays.",
+      "speaker": "royal",
+      "severity": 45,
+      "confidence": 70,
+      "title": "Baisse de la natalité imputée aux macronistes",
+      "explanation": "Royal attribue la baisse de la natalité aux seuls macronistes. Or cette baisse a commencé au début des années 2010, s'observe dans la plupart des pays européens et a des causes multiples (économiques, sociales, culturelles). Une version honnête aurait évoqué d'éventuels effets des politiques familiales, sans en faire la cause unique.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-068",
+      "kind": "fallacy",
+      "type": "ad_hominem",
+      "label": "Attaque personnelle",
+      "segmentId": "s1801",
+      "quote": "c'est grâce au parti socialiste que vous avez été tête de liste aux élections européennes et maintenant vous venez donner les leçons",
+      "speaker": "royal",
+      "severity": 45,
+      "confidence": 70,
+      "title": "Conteste à Glucksmann le droit de parler",
+      "explanation": "Pour répondre à Glucksmann, Royal rappelle qu'il doit sa tête de liste aux européennes au PS, afin de lui refuser toute légitimité à parler de « refondation ». L'argument vise la position de la personne, pas sa proposition (refuser tout accord avec LFI). Une réponse sur le fond aurait contesté l'efficacité de cette stratégie.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-069",
+      "kind": "fallacy",
+      "type": "false_dilemma",
+      "label": "Faux dilemme",
+      "segmentId": "s1806",
+      "quote": "si vous ne faites pas l'accord avec des militants de gauche, vous allez donc les faire avec la droite.",
+      "speaker": "royal",
+      "severity": 55,
+      "confidence": 75,
+      "title": "Sans accord à gauche, accord avec la droite",
+      "explanation": "Royal ne laisse que deux issues : un accord avec LFI ou un accord avec la droite. Elle en déduit, sans preuve, des « rapprochements avec le centre, avec les macronistes ». Glucksmann et Guedj défendent pourtant une troisième voie : une candidature autonome et des accords avec les écologistes et les communistes. Une version honnête aurait discuté les chances de cette voie plutôt que de l'effacer.",
+      "habermas": [
+        "truth",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-070",
+      "kind": "fallacy",
+      "type": "ad_hominem",
+      "label": "Disqualification",
+      "segmentId": "s1868",
+      "quote": "vous vous glissez dans la soumission à la France insoumise.",
+      "speaker": "guedj",
+      "severity": 60,
+      "confidence": 70,
+      "title": "« Soumission » : disqualifier plutôt qu'argumenter",
+      "explanation": "Guedj qualifie de « soumission » la position de ses rivaux, avec un jeu de mots sur « insoumise ». Il les disqualifie moralement au lieu de discuter les effets des accords qu'ils envisagent. Royal y voit une insulte et l'échange dégénère. Une formulation honnête aurait été : « ces accords brouilleraient, selon moi, notre identité ».",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-071",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Recadrage",
+      "segmentId": "s1870",
+      "quote": "je ne glisse pas dans la soumission surtout une femme pas d'insulte",
+      "speaker": "royal",
+      "severity": 50,
+      "confidence": 60,
+      "title": "L'attaque politique recadrée en insulte sexiste",
+      "explanation": "Royal présente l'accusation politique de Guedj comme une insulte visant une femme (« surtout une femme »), comme elle l'avait fait plus tôt (« je suis une femme mais vous me laissez parler »). La réaction répond à une vraie provocation, mais elle met l'adversaire sur la défensive et déplace l'échange de la stratégie d'alliance vers la forme.",
+      "habermas": []
+    },
+    {
+      "id": "fal-072",
+      "kind": "fallacy",
+      "type": "straw_man",
+      "label": "Homme de paille",
+      "segmentId": "s1937",
+      "quote": "moi je veux pas de cette gauche là et donc je veux pas de ces électeurs là.",
+      "speaker": "maurel",
+      "severity": 45,
+      "confidence": 65,
+      "title": "Prête à Guedj un rejet des électeurs",
+      "explanation": "Maurel prête à Guedj un refus des électeurs insoumis et une attitude de retrait (« sur ton Aventin ») si Marine Le Pen gagnait. Guedj a pourtant dit accepter un front républicain et s'adresser à tous les électeurs ; il refuse seulement un accord avec l'appareil LFI. En glissant du parti aux électeurs, Maurel caricature sa position.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-073",
+      "kind": "fallacy",
+      "type": "anecdotal",
+      "label": "Preuve anecdotique",
+      "segmentId": "s1961",
+      "quote": "Est-ce que quand tu vas sur les marchés, les gens ne t'en parlent pas ?",
+      "speaker": "glucksmann",
+      "severity": 35,
+      "confidence": 65,
+      "title": "Les marchés en guise de preuve",
+      "explanation": "Pour affirmer que Mélenchon « fera perdre » ses alliés, Glucksmann invoque des « données » qu'il ne précise pas, puis ce que diraient les gens sur les marchés. Une impression de terrain ne prouve pas l'effet électoral avancé. Un argument rigoureux aurait cité des sondages de second tour ou des résultats par circonscription.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-074",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s1999",
+      "quote": "cessez cette obsession avec la France insoumise et occupez-vous d'abord de l'extrême droite",
+      "speaker": "faure",
+      "severity": 45,
+      "confidence": 65,
+      "title": "Le refus de LFI qualifié d'« obsession »",
+      "explanation": "En conclusion, Faure traite d'« obsession » la position de Guedj et Glucksmann et oppose la lutte contre LFI à la lutte contre l'extrême droite, comme si elles s'excluaient. Ses rivaux présentent au contraire le refus de LFI comme le moyen de battre le RN. Ce cadrage, appuyé par l'évocation de Vichy, le dispense de répondre à leur argument électoral.",
+      "habermas": []
+    },
+    {
+      "id": "fal-075",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Antithèse",
+      "segmentId": "s2012",
+      "quote": "j'ai pas eu le sentiment d'être face à vous mais avec vous.",
+      "speaker": "maurel",
+      "severity": 25,
+      "confidence": 75,
+      "title": "Face à vous, mais avec vous",
+      "explanation": "Maurel ouvre sa conclusion par une antithèse (« face à vous / avec vous ») qui flatte le public et les citoyens venus poser leurs questions. Elle le place du côté des gens plutôt que des appareils. C'est une captatio benevolentiae classique, sans contenu programmatique ; il enchaîne ensuite sur ses « ruptures ».",
+      "habermas": []
+    },
+    {
+      "id": "fal-076",
+      "kind": "rhetoric",
+      "type": "hyperbole",
+      "label": "Hyperbole",
+      "segmentId": "s2053",
+      "quote": "C'est deux clics et vous pouvez changer le destin de la gauche et le destin de la France.",
+      "speaker": "glucksmann",
+      "severity": 30,
+      "confidence": 80,
+      "title": "Deux clics pour changer le destin",
+      "explanation": "Pour pousser à l'inscription à la primaire, Glucksmann promet qu'un geste minime (« deux clics ») peut changer « le destin de la France ». Le mot « destin » est répété, juste après l'appel direct « j'ai besoin de vous. Nous avons besoin de vous ». C'est une hyperbole mobilisatrice classique en fin de débat.",
+      "habermas": []
+    },
+    {
+      "id": "fal-077",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s2061",
+      "quote": "électeur orphelin de cette gauche digne et crédible que vous appelez de vos vœux",
+      "speaker": "guedj",
+      "severity": 35,
+      "confidence": 70,
+      "title": "Les électeurs « orphelins » d'une gauche crédible",
+      "explanation": "Guedj s'adresse aux électeurs « orphelins » d'une gauche « digne et crédible ». Il sous-entend que l'offre actuelle, y compris celle de ses concurrents ouverts aux accords avec LFI, ne l'est pas. Ce cadrage fait de la primaire un vote de « clarification » sur les alliances plutôt que sur les programmes.",
+      "habermas": []
+    }
+  ]
+}

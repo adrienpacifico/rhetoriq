@@ -1,0 +1,1763 @@
+{
+ "speakers": {
+  "moderator": {
+   "name": "Anne-Claire Coudray",
+   "role": "Journaliste, présentatrice du 20H de TF1",
+   "party": null,
+   "kind": "moderator"
+  },
+  "attal": {
+   "name": "Gabriel Attal",
+   "role": "Porte-parole du gouvernement, soutien d'Emmanuel Macron",
+   "party": "LREM",
+   "kind": "debater"
+  },
+  "bardella": {
+   "name": "Jordan Bardella",
+   "role": "Président par intérim du Rassemblement national, soutien de Marine Le Pen",
+   "party": "RN",
+   "kind": "debater"
+  }
+ },
+ "turns": {
+  "s001": "moderator",
+  "s002": "moderator",
+  "s003": "moderator",
+  "s004": "attal",
+  "s005": "attal",
+  "s006": "attal",
+  "s007": "attal",
+  "s008": "attal",
+  "s009": "attal",
+  "s010": "attal",
+  "s011": "attal",
+  "s012": "attal",
+  "s013": "bardella",
+  "s014": "bardella",
+  "s015": "bardella",
+  "s016": "bardella",
+  "s017": "bardella",
+  "s018": "bardella",
+  "s019": "bardella",
+  "s020": "moderator",
+  "s021": "moderator",
+  "s022": "moderator",
+  "s023": "attal",
+  "s024": "attal",
+  "s025": "attal",
+  "s026": "attal",
+  "s027": "attal",
+  "s028": "attal",
+  "s029": "attal",
+  "s030": "attal",
+  "s031": "attal",
+  "s032": "bardella",
+  "s033": "bardella",
+  "s034": "bardella",
+  "s035": "bardella",
+  "s036": "bardella",
+  "s037": "bardella",
+  "s038": "bardella",
+  "s039": "bardella",
+  "s040": "bardella",
+  "s041": "bardella",
+  "s042": "bardella",
+  "s043": "bardella",
+  "s044": "bardella",
+  "s045": "attal",
+  "s046": "bardella",
+  "s047": "attal",
+  "s048": "attal",
+  "s049": "attal",
+  "s050": "attal",
+  "s051": "attal",
+  "s052": "attal",
+  "s053": "attal",
+  "s054": "attal",
+  "s055": "bardella",
+  "s056": "attal",
+  "s057": "bardella",
+  "s058": "bardella",
+  "s059": "bardella",
+  "s060": "bardella",
+  "s061": "bardella",
+  "s062": "bardella",
+  "s063": "bardella",
+  "s064": "bardella",
+  "s065": "bardella",
+  "s066": "bardella",
+  "s067": "attal",
+  "s068": "attal",
+  "s069": "attal",
+  "s070": "attal",
+  "s071": "attal",
+  "s072": "bardella",
+  "s073": "bardella",
+  "s074": "moderator",
+  "s075": "moderator",
+  "s076": "attal",
+  "s077": "attal",
+  "s078": "attal",
+  "s079": "attal",
+  "s080": "attal",
+  "s081": "attal",
+  "s082": "attal",
+  "s083": "attal",
+  "s084": "attal",
+  "s085": "attal",
+  "s086": "bardella",
+  "s087": "bardella",
+  "s088": "bardella",
+  "s089": "bardella",
+  "s090": "bardella",
+  "s091": "bardella",
+  "s092": "bardella",
+  "s093": "bardella",
+  "s094": "bardella",
+  "s095": "bardella",
+  "s096": "bardella",
+  "s097": "bardella",
+  "s098": "attal",
+  "s099": "attal",
+  "s100": "attal",
+  "s101": "attal",
+  "s102": "attal",
+  "s103": "attal",
+  "s104": "attal",
+  "s105": "attal",
+  "s106": "attal",
+  "s107": "attal",
+  "s108": "attal",
+  "s109": "attal",
+  "s110": "bardella",
+  "s111": "moderator",
+  "s112": "moderator",
+  "s113": "bardella",
+  "s114": "bardella",
+  "s115": "bardella",
+  "s116": "bardella",
+  "s117": "bardella",
+  "s118": "bardella",
+  "s119": "bardella",
+  "s120": "bardella",
+  "s121": "bardella",
+  "s122": "attal",
+  "s123": "attal",
+  "s124": "attal",
+  "s125": "attal",
+  "s126": "attal",
+  "s127": "attal",
+  "s128": "moderator",
+  "s129": "moderator",
+  "s130": "bardella",
+  "s131": "bardella",
+  "s132": "bardella",
+  "s133": "bardella",
+  "s134": "attal",
+  "s135": "attal",
+  "s136": "attal",
+  "s137": "attal",
+  "s138": "moderator",
+  "s139": "moderator"
+ },
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Abstention des jeunes et pourquoi voter",
+   "start": 0.0,
+   "end": 190.0,
+   "summary": "La journaliste ouvre le débat en interrogeant Gabriel Attal et Jordan Bardella sur les raisons d'aller voter face au risque d'abstention massive des jeunes générations."
+  },
+  {
+   "id": "c2",
+   "title": "Retraites : quel âge de départ",
+   "start": 190.0,
+   "end": 451.0,
+   "summary": "Attal défend le passage à 65 ans porté par Macron tandis que Bardella défend le maintien à 60-62 ans de Le Pen, chacun accusant l'autre de tromper les Français."
+  },
+  {
+   "id": "c3",
+   "title": "Financement des retraites et régimes spéciaux",
+   "start": 451.0,
+   "end": 675.0,
+   "summary": "Attal met en doute le chiffrage à 9 milliards du programme du RN et pointe le maintien des régimes spéciaux, pendant que Bardella s'appuie sur un rapport du COR pour défendre son financement."
+  },
+  {
+   "id": "c4",
+   "title": "Dette, économies et scandale McKinsey",
+   "start": 675.0,
+   "end": 1008.0,
+   "summary": "Face à la dette publique, Bardella détaille son plan d'économies (immigration, fraude, Union européenne) tandis qu'Attal renvoie à la polémique du recours aux cabinets de conseil, y compris à la mairie de Perpignan."
+  },
+  {
+   "id": "c5",
+   "title": "Sécurité et laxisme judiciaire",
+   "start": 1008.0,
+   "end": 1187.0,
+   "summary": "Les deux candidats s'affrontent sur le bilan sécuritaire du quinquennat, Bardella proposant présomption de légitime défense et tolérance zéro, Attal défendant les moyens supplémentaires accordés aux forces de l'ordre."
+  },
+  {
+   "id": "c6",
+   "title": "Mesure phare en 30 secondes",
+   "start": 1187.0,
+   "end": 1287.0,
+   "summary": "Invités à présenter en 30 secondes la mesure qui changerait le quotidien des Français, Bardella met en avant la baisse de TVA sur l'énergie et Attal le versement à la source des aides sociales, avant la clôture du journal."
+  }
+ ],
+ "annotations": [
+  {
+   "id": "fal-001",
+   "kind": "fallacy",
+   "type": "appeal_to_fear",
+   "label": "Appel à la peur",
+   "segmentId": "s007",
+   "quote": "qu'est ce qui se serait passé pendant cinq ans on n'aurait pas eu accès pendant la pandémie",
+   "speaker": "attal",
+   "severity": 45,
+   "confidence": 60,
+   "title": "Contrefactuel alarmiste sur un mandat Le Pen",
+   "explanation": "Attal affirme qu'avec Marine Le Pen élue en 2017, la France n'aurait pas eu accès aux vaccins, puis enchaîne d'autres scénarios sombres. Ce contrefactuel est invérifiable et présenté comme certain (des pays hors de l'UE se sont aussi procuré des vaccins) : il mobilise la crainte plus qu'il ne démontre. Une version honnête aurait comparé les positions effectives du programme sur la coopération européenne.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-002",
+   "kind": "fallacy",
+   "type": "straw_man",
+   "label": "Homme de paille",
+   "segmentId": "s009",
+   "quote": "c'est dans son programme une alliance militaire avec la russie",
+   "speaker": "attal",
+   "severity": 50,
+   "confidence": 45,
+   "title": "« Alliance militaire » : position adverse durcie",
+   "explanation": "Attal attribue au programme de Marine Le Pen une « alliance militaire avec la Russie ». Les positions du RN évoquaient un rapprochement ou une coopération avec Moscou sur certains sujets ; le qualificatif « militaire », en pleine guerre en Ukraine, rend la position adverse plus indéfendable qu'elle ne l'est. Une formulation honnête aurait cité précisément la proposition visée.",
+   "habermas": [
+    "truth",
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-003",
+   "kind": "fallacy",
+   "type": "false_cause",
+   "label": "Fausse causalité",
+   "segmentId": "s014",
+   "quote": "60% de taxes et que les français payent lorsqu'ils vont faire le plein de leur voiture",
+   "speaker": "bardella",
+   "severity": 40,
+   "confidence": 55,
+   "title": "Taxes sur le carburant imputées à Macron",
+   "explanation": "Bardella présente les « 60 % de taxes » sur le carburant comme la marque de la politique d'Emmanuel Macron. L'essentiel de ces prélèvements (accise et TVA) existait bien avant 2017, et la trajectoire de hausse de la taxe carbone a été gelée fin 2018 : imputer le total au seul gouvernement sortant est une causalité abusive. Il aurait été plus juste de viser les décisions propres au quinquennat.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-004",
+   "kind": "rhetoric",
+   "type": "repetition",
+   "label": "Anaphore",
+   "segmentId": "s016",
+   "quote": "elle est aussi dans la nécessité pour beaucoup de jeunes français",
+   "speaker": "bardella",
+   "severity": 35,
+   "confidence": 75,
+   "title": "Anaphore « elle est dans » contre Macron",
+   "explanation": "Bardella martèle « la politique d'Emmanuel Macron… elle est dans… » pour égrener carburant, APL, pensions et insécurité. L'anaphore rend le réquisitoire mémorable et transforme une question sur l'abstention en procès du bilan, sans hiérarchiser ni chiffrer les griefs. C'est un procédé oratoire classique, efficace mais peu argumentatif.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-005",
+   "kind": "fallacy",
+   "type": "hasty_generalization",
+   "label": "Généralisation hâtive",
+   "segmentId": "s017",
+   "quote": "que les femmes sont harcelées à chaque fois qu'elles sortent dans les rues de france",
+   "speaker": "bardella",
+   "severity": 45,
+   "confidence": 60,
+   "title": "« À chaque fois » : insécurité généralisée",
+   "explanation": "Bardella affirme que les femmes sont harcelées « à chaque fois qu'elles sortent dans les rues de France » et que l'insécurité entoure les jeunes « matin, midi et soir ». Le harcèlement de rue est un problème réel et documenté, mais la formulation universelle transforme une réalité fréquente en règle absolue. Une version honnête se serait appuyée sur des enquêtes de victimation chiffrées.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-006",
+   "kind": "rhetoric",
+   "type": "framing",
+   "label": "Cadrage",
+   "segmentId": "s019",
+   "quote": "gens qui sont au pouvoir depuis 30 ans eh bien on peut faire différemment",
+   "speaker": "bardella",
+   "severity": 35,
+   "confidence": 65,
+   "title": "« Au pouvoir depuis 30 ans » : amalgame",
+   "explanation": "Bardella assimile Emmanuel Macron et son camp aux « gens qui sont au pouvoir depuis 30 ans », opposés au « peuple français ». Ce cadrage anti-système fond des majorités très différentes en un bloc unique et place le RN en seule alternative. Il structure l'affrontement plus qu'il n'apporte d'argument vérifiable.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-007",
+   "kind": "rhetoric",
+   "type": "framing",
+   "label": "Cadrage",
+   "segmentId": "s021",
+   "quote": "la survie de ce système",
+   "speaker": "moderator",
+   "severity": 20,
+   "confidence": 40,
+   "title": "La « survie » du système : prémisse dramatisée",
+   "explanation": "La journaliste introduit le thème en évoquant la « survie » du système de retraites que devra assurer la jeune génération. Ce vocabulaire installe une prémisse de crise existentielle, alors que les projections du Conseil d'orientation des retraites décrivent des déficits modérés, pas un effondrement. Sans être partisan, le cadrage favorise d'emblée la logique de la réforme.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-008",
+   "kind": "fallacy",
+   "type": "appeal_to_fear",
+   "label": "Appel à la peur",
+   "segmentId": "s025",
+   "quote": "c'est d'arriver au défaut de paiement ne plus pouvoir verser les retraites",
+   "speaker": "attal",
+   "severity": 45,
+   "confidence": 60,
+   "title": "Le spectre du « défaut de paiement »",
+   "explanation": "Attal soutient que, sans réforme, on risque « le défaut de paiement », c'est-à-dire de ne plus pouvoir verser les retraites. Les projections du COR montrent un déficit limité, de l'ordre de quelques dixièmes de point de PIB, et l'État garantit de fait le versement des pensions : le scénario de rupture est dramatisé. Il était possible de défendre la réforme en parlant d'un déficit durable à combler.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-009",
+   "kind": "fallacy",
+   "type": "false_dilemma",
+   "label": "Faux dilemme",
+   "segmentId": "s025",
+   "quote": "il ya trois choix si on veut maintenir notre système",
+   "speaker": "attal",
+   "severity": 30,
+   "confidence": 45,
+   "title": "Trois choix seulement pour les retraites",
+   "explanation": "Attal réduit les options à trois leviers : baisser les pensions, augmenter les cotisations (assimilées à des impôts) ou travailler plus longtemps. Ce triptyque correspond bien aux paramètres d'un régime par répartition, mais il laisse de côté d'autres leviers (emploi des seniors, croissance, recettes hors cotisations, déficit toléré temporairement). Présenter ces options comme les principales, et non les seules, aurait été plus exact.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-010",
+   "kind": "fallacy",
+   "type": "other",
+   "label": "Appel à la pratique commune",
+   "segmentId": "s029",
+   "quote": "que autour de nous la plupart des pays sont déjà passées aux 65 ans",
+   "speaker": "attal",
+   "severity": 30,
+   "confidence": 45,
+   "title": "« La plupart des pays » sont à 65 ans",
+   "explanation": "Attal justifie le report à 65 ans par le fait que « la plupart des pays » voisins y sont déjà passés. Que d'autres pays le fassent ne prouve pas que ce soit pertinent en France, où la durée de cotisation exigée et le niveau des pensions diffèrent ; il mêle en outre âge légal et âge effectif de départ. Une comparaison honnête aurait porté sur l'ensemble des paramètres.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-011",
+   "kind": "rhetoric",
+   "type": "hyperbole",
+   "label": "Hyperbole",
+   "segmentId": "s032",
+   "quote": "la réélection des manuels macron va entraîner une accélération de la casse sociale",
+   "speaker": "bardella",
+   "severity": 40,
+   "confidence": 60,
+   "title": "« Accélération de la casse sociale »",
+   "explanation": "Bardella prédit que la réélection d'Emmanuel Macron « va entraîner une accélération de la casse sociale ». La formule, forte et imagée, ne précise ni les mesures visées ni leurs effets mesurables. Elle mobilise l'indignation plus qu'elle n'étaye la critique du projet de réforme.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-012",
+   "kind": "fallacy",
+   "type": "straw_man",
+   "label": "Homme de paille",
+   "segmentId": "s035",
+   "quote": "vous le savez très bien et c'est là l'objectif de cette réforme c'est d'aller faire des",
+   "speaker": "bardella",
+   "severity": 45,
+   "confidence": 45,
+   "title": "Objectif caché prêté à la réforme",
+   "explanation": "Bardella affirme que « l'objectif de cette réforme » est de faire des économies sur les pensions via la décote, en ajoutant « vous le savez très bien ». Le report de l'âge réduit bien la dépense de retraites, mais Attal venait d'exclure explicitement la baisse des pensions : lui prêter cette intention cachée relève du procès d'intention. Il aurait été plus honnête de discuter les effets prévisibles pour ceux qui ne peuvent pas travailler jusqu'à 65 ans.",
+   "habermas": [
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-013",
+   "kind": "fallacy",
+   "type": "appeal_to_emotion",
+   "label": "Appel à l'émotion",
+   "segmentId": "s040",
+   "quote": "sans avoir le dos cassé sans avoir les bras cassé",
+   "speaker": "bardella",
+   "severity": 30,
+   "confidence": 50,
+   "title": "« Le dos cassé » : image plutôt que chiffres",
+   "explanation": "Bardella évoque les travailleurs du BTP et de la voirie qui voudraient partir « sans avoir le dos cassé ». La pénibilité est un enjeu réel, mais l'image émotionnelle se substitue à une réponse sur les dispositifs, alors qu'Attal venait d'annoncer une prise en compte de la pénibilité. Un argument plus solide aurait comparé les deux systèmes pour ces métiers précis.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-014",
+   "kind": "rhetoric",
+   "type": "concession",
+   "label": "Concession stratégique",
+   "segmentId": "s045",
+   "quote": "ou qu'ils ont eu un métier pénible et qu'évidemment on en tiendra compte dans",
+   "speaker": "attal",
+   "severity": 30,
+   "confidence": 60,
+   "title": "Concession renvoyée à la négociation",
+   "explanation": "Attal reconnaît qu'une partie des Français ne pourra pas travailler jusqu'à 65 ans et promet qu'« on en tiendra compte » dans la négociation. La concession désamorce l'attaque adverse, mais elle reste vague : aucun critère ni dispositif n'est précisé. C'est un procédé défensif efficace qui laisse la question en suspens.",
+   "habermas": [
+    "comprehensibility"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-015",
+   "kind": "rhetoric",
+   "type": "interruption",
+   "label": "Interruption",
+   "segmentId": "s046",
+   "quote": "mais j'ai toujours pas compris vous n'avez pas répondu à l'égard de la nuitée",
+   "speaker": "bardella",
+   "severity": 35,
+   "confidence": 50,
+   "title": "Bardella coupe pour relancer sur les annuités",
+   "explanation": "Alors qu'Attal répond, Bardella l'interrompt : « vous n'avez pas répondu » sur la durée de cotisation. La relance est légitime sur le fond, mais elle intervient alors que la question du financement du programme RN reste elle-même sans réponse, chacun reprochant à l'autre son silence. L'échange tourne au chevauchement de paroles, peu lisible pour le téléspectateur.",
+   "habermas": [
+    "comprehensibility"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-016",
+   "kind": "fallacy",
+   "type": "straw_man",
+   "label": "Homme de paille",
+   "segmentId": "s051",
+   "quote": "et en plus on va vous baissez tous vos impôts et on va supprimer des taxes",
+   "speaker": "attal",
+   "severity": 45,
+   "confidence": 55,
+   "title": "Caricature du programme RN en promesses illimitées",
+   "explanation": "Attal résume le discours adverse par une accumulation : partir plus tôt, meilleure retraite, « on va vous baisser tous vos impôts », supprimer des taxes, créer des postes. Le programme de Marine Le Pen prévoit des baisses ciblées (TVA sur l'énergie, exonérations pour les jeunes), pas la baisse de tous les impôts : la version caricaturale est plus facile à réfuter. Une critique honnête aurait visé le coût des mesures réellement proposées.",
+   "habermas": [
+    "truth",
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-017",
+   "kind": "rhetoric",
+   "type": "appeal_to_common_sense",
+   "label": "Appel au bon sens",
+   "segmentId": "s052",
+   "quote": "parce qu'on ne vit pas au pays de l'argent magique",
+   "speaker": "attal",
+   "severity": 30,
+   "confidence": 65,
+   "title": "« Pas au pays de l'argent magique »",
+   "explanation": "Attal invoque l'intelligence des Français et rappelle qu'« on ne vit pas au pays de l'argent magique », formule qui fait écho à Emmanuel Macron. L'appel au bon sens disqualifie le programme adverse sans en discuter les chiffres. La formule est percutante, mais un chiffrage contradictoire aurait été plus probant.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-018",
+   "kind": "fallacy",
+   "type": "appeal_to_authority",
+   "label": "Appel à l'autorité",
+   "segmentId": "s053",
+   "quote": "9 milliards bois 9 milliards tous les experts disent",
+   "speaker": "attal",
+   "severity": 40,
+   "confidence": 60,
+   "title": "« Tous les experts » anonymes",
+   "explanation": "Pour contester le chiffrage à 9 milliards, Attal affirme que « tous les experts » l'estiment deux ou trois fois plus élevé. Certains instituts ont bien avancé des coûts supérieurs, mais l'invocation d'un consensus unanime et anonyme remplace la citation d'une source vérifiable. Nommer l'étude et sa méthode aurait rendu l'objection plus solide.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-019",
+   "kind": "rhetoric",
+   "type": "evasion",
+   "label": "Esquive",
+   "segmentId": "s055",
+   "quote": "je vous réponde au tour est formel coûte 9 milliards",
+   "speaker": "bardella",
+   "severity": 45,
+   "confidence": 60,
+   "title": "Le coût répété au lieu du financement",
+   "explanation": "Sommé d'expliquer comment il finance sa réforme, Bardella répète que « ça coûte 9 milliards » et que c'est « parfaitement chiffré ». Il répond sur le montant, pas sur la source de financement, puis relance sur les annuités. Une réponse directe aurait précisé quelles recettes ou économies couvrent ce coût.",
+   "habermas": [
+    "comprehensibility"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-020",
+   "kind": "rhetoric",
+   "type": "framing",
+   "label": "Cadrage",
+   "segmentId": "s060",
+   "quote": "votre réforme en réalité elle consiste à faire travailler beaucoup plus longtemps une infirmière qu'un cadre de la finance",
+   "speaker": "bardella",
+   "severity": 35,
+   "confidence": 55,
+   "title": "L'infirmière contre le cadre de la finance",
+   "explanation": "Bardella oppose l'infirmière qui a commencé tôt au « cadre de la finance » bac +5 qui partirait après moins d'années de travail. L'argument sur les carrières commencées jeune est réel, mais l'exemple est discutable puisqu'une partie des infirmières relève de catégories actives et qu'un dispositif carrières longues existe, comme le rappelle Attal. Le contraste social choisi renforce l'effet d'injustice au-delà de la démonstration.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-021",
+   "kind": "fallacy",
+   "type": "cherry_picking",
+   "label": "Sélection partiale des faits",
+   "segmentId": "s062",
+   "quote": "les dépenses des retraites dans le pib sont amenés à diminuer d'ici 2025",
+   "speaker": "bardella",
+   "severity": 55,
+   "confidence": 65,
+   "title": "Le rapport du COR lu à moitié",
+   "explanation": "Bardella cite le rapport 2021 du Conseil d'orientation des retraites pour affirmer que les dépenses de retraite vont passer de 15 % à 11 % du PIB. Ces projections portent sur l'horizon 2070, pas 2025, et la baisse vient surtout du décrochage des pensions par rapport aux salaires, précisément ce qu'il dénonce. Retenir le chiffre favorable en écartant son mécanisme revient à sélectionner les faits.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-022",
+   "kind": "rhetoric",
+   "type": "rhetorical_question",
+   "label": "Question rhétorique",
+   "segmentId": "s069",
+   "quote": "est ce que vous trouvez juste qu'un chauffeur de bus à paris parts cinq ans plus tôt",
+   "speaker": "attal",
+   "severity": 35,
+   "confidence": 70,
+   "title": "Contre-attaque sur les régimes spéciaux",
+   "explanation": "Répondant à l'accusation d'injustice, Attal demande s'il est juste qu'un chauffeur de bus parisien parte cinq ans plus tôt qu'un collègue du Havre ou de Bordeaux. La question rhétorique retourne le thème de l'injustice contre le RN, qui refuse de supprimer les régimes spéciaux. L'argument est pertinent sur le fond, mais la forme interrogative vise surtout à placer l'adversaire en contradiction.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-023",
+   "kind": "fallacy",
+   "type": "cherry_picking",
+   "label": "Sélection partiale des faits",
+   "segmentId": "s079",
+   "quote": "avant la crise qu'ovide avait ramené notre déficit sous les 3% ça faisait 15 ans que ce n'était pas arrivé",
+   "speaker": "attal",
+   "severity": 40,
+   "confidence": 55,
+   "title": "Déficit sous 3 % : période choisie",
+   "explanation": "Pour prouver la responsabilité budgétaire du camp présidentiel, Attal rappelle que le déficit était repassé sous 3 % avant la crise du Covid. Le fait est globalement exact, mais il isole la meilleure période, alors que la dette a continué de croître en euros et que la question portait sur le financement de promesses nouvelles. Une présentation honnête aurait mis en regard l'évolution de la dette sur tout le quinquennat.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-024",
+   "kind": "fallacy",
+   "type": "red_herring",
+   "label": "Diversion",
+   "segmentId": "s087",
+   "quote": "on aura peut-être l'occasion de parler du scandale de mckinsey",
+   "speaker": "bardella",
+   "severity": 40,
+   "confidence": 55,
+   "title": "Diversion vers McKinsey et le parquet",
+   "explanation": "Interrogé sur la dette et le financement de ses promesses, Bardella glisse vers le « scandale McKinsey » et une possible suite « devant le parquet national financier ». Le sujet est légitime, mais les sommes en jeu sont sans commune mesure avec le chiffrage du programme, et l'allusion judiciaire insinue une faute du gouvernement sans l'établir. Le détour sert surtout à mettre l'adversaire en accusation avant de détailler ses propres économies.",
+   "habermas": [
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-025",
+   "kind": "fallacy",
+   "type": "hasty_generalization",
+   "label": "Généralisation hâtive",
+   "segmentId": "s090",
+   "quote": "on ne peut pas venir en france pour bénéficier d'un certain nombre de prestations sans rien apporter en retour",
+   "speaker": "bardella",
+   "severity": 55,
+   "confidence": 60,
+   "title": "L'immigré qui profiterait sans contribuer",
+   "explanation": "Après avoir refusé que la France soit un « guichet social pour la terre entière », Bardella affirme qu'on ne peut pas venir bénéficier de prestations « sans rien apporter en retour ». La formule suggère que les étrangers viennent pour les aides et ne contribuent pas, alors qu'une large part travaille et cotise et que plusieurs prestations sont déjà soumises à des conditions de résidence. Une version honnête se serait appuyée sur des données de coût et de contribution.",
+   "habermas": [
+    "truth",
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-026",
+   "kind": "fallacy",
+   "type": "ambiguity",
+   "label": "Équivoque",
+   "segmentId": "s091",
+   "quote": "le fruit la solidarité nationale il doit rester nationale",
+   "speaker": "bardella",
+   "severity": 45,
+   "confidence": 65,
+   "title": "Jeu de mots sur « solidarité nationale »",
+   "explanation": "Bardella affirme que « la solidarité nationale doit rester nationale » pour réserver RSA et allocations familiales aux familles françaises. Dans « solidarité nationale », l'adjectif désigne la collectivité qui finance, y compris les étrangers résidents qui cotisent et paient l'impôt, pas la nationalité des bénéficiaires : le glissement de sens fait passer la préférence nationale pour une évidence. Il aurait fallu défendre ouvertement le critère de nationalité.",
+   "habermas": [
+    "comprehensibility",
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-027",
+   "kind": "fallacy",
+   "type": "appeal_to_authority",
+   "label": "Appel à l'autorité",
+   "segmentId": "s092",
+   "quote": "le magistrat charles le prat a remis un rapport en tout cas un livre extrêmement fourni",
+   "speaker": "bardella",
+   "severity": 45,
+   "confidence": 65,
+   "title": "Un « rapport » qui devient un livre",
+   "explanation": "Bardella s'appuie sur « le magistrat Charles Prats » pour chiffrer la fraude à 50 milliards d'euros par an, en corrigeant lui-même « un rapport » en « un livre ». Le titre de magistrat donne du poids à des estimations personnelles, contestées par les organismes publics, présentées comme un fait établi. Une version honnête aurait cité des évaluations officielles ou signalé la fourchette d'incertitude.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-028",
+   "kind": "rhetoric",
+   "type": "hyperbole",
+   "label": "Hyperbole",
+   "segmentId": "s094",
+   "quote": "des économies sur le puits sans fond qui représente aujourd'hui l'union européenne",
+   "speaker": "bardella",
+   "severity": 40,
+   "confidence": 70,
+   "title": "L'Union européenne, « puits sans fond »",
+   "explanation": "Bardella qualifie l'Union européenne de « puits sans fond » où chercher des économies. La France est bien contributrice nette au budget européen, mais pour un montant connu et limité, de l'ordre de 10 milliards d'euros par an, et elle reçoit des financements en retour : l'image suggère une perte illimitée. Il aurait été plus exact de chiffrer le solde net et les économies réellement attendues.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-029",
+   "kind": "rhetoric",
+   "type": "evasion",
+   "label": "Esquive",
+   "segmentId": "s099",
+   "quote": "c'est à ça aussi qu'on reconnaît les vrais politiciens à force de tout promettre à tout le monde",
+   "speaker": "attal",
+   "severity": 40,
+   "confidence": 60,
+   "title": "McKinsey esquivé par l'attaque sur les promesses",
+   "explanation": "Interpellé sur McKinsey, Attal annonce « je vais répondre » puis revient aux promesses de Marine Le Pen, qu'il range parmi les « vrais politiciens » qui promettent tout à tout le monde. La réponse sur les cabinets de conseil est différée, et l'étiquette de politicien disqualifie l'adversaire plus qu'elle ne le réfute. Répondre d'abord à la question posée aurait clarifié l'échange.",
+   "habermas": [
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-030",
+   "kind": "rhetoric",
+   "type": "hyperbole",
+   "label": "Hyperbole",
+   "segmentId": "s103",
+   "quote": "qu'il avait dit ni plus ni moins c'est à dire il dit les choses aujourd'hui il fera ce qu'il a dit",
+   "speaker": "attal",
+   "severity": 45,
+   "confidence": 70,
+   "title": "« Ni plus ni moins » : bilan idéalisé",
+   "explanation": "Attal affirme qu'Emmanuel Macron a fait pendant son mandat ce qu'il avait annoncé en 2017, « ni plus ni moins ». Or l'engagement phare d'un système universel de retraite, promis en 2017, n'a pas abouti, et d'autres promesses ont été ajustées : la formule absolue idéalise le bilan. Une version honnête aurait distingué les engagements tenus de ceux abandonnés.",
+   "habermas": [
+    "truth",
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-031",
+   "kind": "fallacy",
+   "type": "ad_hominem",
+   "label": "Attaque personnelle",
+   "segmentId": "s106",
+   "quote": "un classique de l'ex à droite que toujours essayé de faire partir le débat sur autre chose",
+   "speaker": "attal",
+   "severity": 55,
+   "confidence": 65,
+   "title": "« Extrême droite » et « complotisme » pour disqualifier",
+   "explanation": "Plutôt que de répondre sur le recours aux cabinets de conseil, Attal qualifie l'attaque de « classique de l'extrême droite » qui fait dériver le débat « avec du complotisme ». La critique s'appuyait sur un rapport sénatorial public, pas sur une théorie du complot : l'étiquette vise l'émetteur plutôt que l'argument. Une réponse honnête aurait porté sur les montants et l'usage de ces contrats.",
+   "habermas": [
+    "sincerity",
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-032",
+   "kind": "fallacy",
+   "type": "tu_quoque",
+   "label": "Toi aussi (tu quoque)",
+   "segmentId": "s108",
+   "quote": "je vais aller sur le site de la mairie de perpignan perpignan le maire c'est louis aliot",
+   "speaker": "attal",
+   "severity": 50,
+   "confidence": 75,
+   "title": "La mairie de Perpignan aussi a consulté",
+   "explanation": "Attal répond à la critique sur McKinsey en révélant que la mairie RN de Perpignan a elle aussi mandaté un cabinet de conseil. Que l'adversaire fasse de même ne dit rien de l'ampleur ni de la justification des dépenses de l'État, sans commune mesure avec un contrat municipal. L'argument aurait été honnête s'il avait servi à discuter des règles d'usage des cabinets pour toutes les administrations.",
+   "habermas": [
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-033",
+   "kind": "rhetoric",
+   "type": "framing",
+   "label": "Cadrage",
+   "segmentId": "s111",
+   "quote": "6 français sur 10 trouvent d'ailleurs que le bilan de ce quinquennat et je cite mauvais",
+   "speaker": "moderator",
+   "severity": 25,
+   "confidence": 45,
+   "title": "Question sécurité cadrée par un sondage",
+   "explanation": "La journaliste ouvre le thème par un sondage (« 6 Français sur 10 » jugent le bilan mauvais) puis demande à Bardella s'il est « aussi sévère que les Français ». Ce cadrage installe d'emblée le verdict de l'opinion et offre une question facile à l'opposant, le représentant de la majorité étant placé en position défensive. L'usage d'un sondage sourcé reste toutefois une pratique journalistique courante.",
+   "habermas": [],
+   "approx": false
+  },
+  {
+   "id": "fal-034",
+   "kind": "fallacy",
+   "type": "anecdotal",
+   "label": "Preuve anecdotique",
+   "segmentId": "s113",
+   "quote": "les agressions contre les policiers y en a encore eu la nuit dernière dans",
+   "speaker": "bardella",
+   "severity": 30,
+   "confidence": 45,
+   "title": "L'agression de la veille comme preuve",
+   "explanation": "Bardella appuie son réquisitoire sur des agressions contre des policiers survenues « la nuit dernière » dans son département de Seine-Saint-Denis. Un fait divers récent illustre mais ne démontre ni une tendance nationale ni la responsabilité directe du gouvernement. Des statistiques d'évolution sur plusieurs années auraient étayé l'accusation.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-035",
+   "kind": "fallacy",
+   "type": "false_cause",
+   "label": "Fausse causalité",
+   "segmentId": "s120",
+   "quote": "la délinquance de rue est liée à votre incapacité de maîtriser notre politique d'immigration",
+   "speaker": "bardella",
+   "severity": 60,
+   "confidence": 55,
+   "title": "Délinquance de rue imputée à l'immigration",
+   "explanation": "Bardella affirme qu'« une très grande partie » de la délinquance de rue découle de l'incapacité à maîtriser l'immigration. Certaines statistiques montrent une surreprésentation d'étrangers parmi les mis en cause dans certains territoires, mais elles ne suffisent pas à établir ce lien causal global, qui dépend aussi de l'âge, du sexe et des conditions sociales. Une version rigoureuse aurait cité des données précises et leurs limites.",
+   "habermas": [
+    "truth",
+    "rightness"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-036",
+   "kind": "rhetoric",
+   "type": "evasion",
+   "label": "Esquive",
+   "segmentId": "s122",
+   "quote": "je vais pas me payer de mots je vais dire ce qui a été fait",
+   "speaker": "attal",
+   "severity": 40,
+   "confidence": 65,
+   "title": "Les moyens énumérés, pas les résultats",
+   "explanation": "Interrogé sur un bilan sécuritaire jugé sévèrement, Attal énumère les moyens engagés : policiers recrutés, budget, véhicules, casernes. Ces données répondent sur l'effort consenti, pas sur l'évolution de la délinquance, qui était l'objet de la critique, et laissent sans réponse l'accusation liant immigration et délinquance. Une réponse complète aurait assumé des indicateurs de résultat.",
+   "habermas": [
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-037",
+   "kind": "rhetoric",
+   "type": "hyperbole",
+   "label": "Hyperbole",
+   "segmentId": "s130",
+   "quote": "dès le lendemain matin de son élection elle fera de l'ensemble des énergies",
+   "speaker": "bardella",
+   "severity": 40,
+   "confidence": 70,
+   "title": "TVA baissée « dès le lendemain matin »",
+   "explanation": "Bardella promet que, « dès le lendemain matin » de son élection, Marine Le Pen abaissera la TVA sur l'énergie à 5,5 %. Une telle mesure exige une loi votée par le Parlement, comme le relève aussitôt Attal : le calendrier annoncé relève de l'effet d'annonce. Il aurait été plus exact de présenter la mesure comme une priorité du premier texte budgétaire.",
+   "habermas": [
+    "truth",
+    "sincerity"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fal-038",
+   "kind": "rhetoric",
+   "type": "hyperbole",
+   "label": "Hyperbole",
+   "segmentId": "s136",
+   "quote": "il n'y aura plus de fraude aux prestations sociales",
+   "speaker": "attal",
+   "severity": 40,
+   "confidence": 70,
+   "title": "« Plus de fraude » grâce au versement automatique",
+   "explanation": "Attal affirme qu'avec le versement à la source des aides, « il n'y aura plus de fraude aux prestations sociales ». L'automatisation peut réduire erreurs et fausses déclarations, mais elle ne supprime pas les fraudes à l'identité, à la résidence ou sur des situations non déclarées : la promesse absolue survend la mesure. « Moins de fraude et moins de non-recours » aurait été une formulation défendable.",
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-001",
+   "kind": "fact",
+   "type": "other",
+   "label": "Autre",
+   "segmentId": "s009",
+   "quote": "c'est dans son programme une alliance militaire avec la russie",
+   "speaker": "attal",
+   "claim": "Le programme de Marine Le Pen prévoit une alliance militaire avec la Russie.",
+   "verdict": "mostly_true",
+   "fakeness": 25,
+   "confidence": 70,
+   "title": "Alliance avec la Russie : bien au programme",
+   "explanation": "Le volet défense du programme 2022 de Marine Le Pen visait bien une « alliance avec la Russie sur certains sujets de fond », au premier rang desquels la « sécurité européenne », ainsi que la lutte contre le terrorisme. Il ne s'agit toutefois pas d'une alliance militaire formelle au sens d'un traité de défense : le qualificatif « militaire » force le trait. Le 13 avril 2022, la candidate a précisé vouloir un rapprochement OTAN-Russie une fois la guerre en Ukraine terminée.",
+   "correction": "Le programme 2022 de Marine Le Pen prévoyait une alliance avec la Russie sur certains sujets, dont la sécurité européenne, sans parler explicitement d'alliance militaire.",
+   "sources": [
+    {
+     "title": "Toute l'Europe – Macron / Le Pen : leurs propositions pour la politique étrangère et la défense (19/04/2022)",
+     "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/emmanuel-macron-marine-le-pen-quelles-sont-leurs-propositions-pour-la-politique-etrangere-et-la-defense-europeennes/"
+    },
+    {
+     "title": "Al Jazeera – France's Le Pen backs 'rapprochement' between NATO and Russia (13/04/2022)",
+     "url": "https://www.aljazeera.com/news/2022/4/13/frances-le-pen-backs-rapprochement-between-nato-russia"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-002",
+   "kind": "fact",
+   "type": "other",
+   "label": "Autre",
+   "segmentId": "s009",
+   "quote": "les couples de même sexe n'aura plus le droit de",
+   "speaker": "attal",
+   "claim": "Si Marine Le Pen avait été élue en 2017, les couples de même sexe n'auraient plus pu se marier.",
+   "verdict": "mostly_true",
+   "fakeness": 10,
+   "confidence": 80,
+   "title": "Mariage pour tous : abrogation prévue en 2017",
+   "explanation": "Le programme 2017 de Marine Le Pen prévoyait de remplacer les dispositions de la loi Taubira par une union civile (« PACS amélioré »), sans effet rétroactif. Les nouveaux mariages entre personnes de même sexe seraient donc devenus impossibles, mais les couples déjà mariés n'auraient pas été « démariés ». La mesure aurait par ailleurs nécessité le vote d'une loi.",
+   "correction": "Le programme 2017 de Marine Le Pen supprimait l'accès au mariage pour les couples de même sexe (remplacé par un PACS amélioré), sans toucher aux mariages déjà célébrés.",
+   "sources": [
+    {
+     "title": "TÊTU – Marine Le Pen veut supprimer le mariage pour tous (24/04/2017)",
+     "url": "https://tetu.com/2017/04/24/marine-le-pen-rembobine-histoire-et-propose-union-civile/"
+    },
+    {
+     "title": "CNews – Droits des LGBTI : le programme de Marine Le Pen (02/05/2017)",
+     "url": "https://www.cnews.fr/france/2017-05-02/droits-des-lgbti-le-programme-de-marine-le-pen-753976"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-003",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s014",
+   "quote": "60% de taxes et que les français payent lorsqu'ils vont faire le plein de leur voiture",
+   "speaker": "bardella",
+   "claim": "Les taxes représentent 60 % du prix du carburant payé à la pompe.",
+   "verdict": "misleading",
+   "fakeness": 40,
+   "confidence": 70,
+   "title": "60 % de taxes : chiffre d'avant la flambée",
+   "explanation": "L'accise (ex-TICPE) est un montant fixe par litre : quand le prix hors taxes flambe, la part des taxes diminue. Selon les données de l'UFIP du 11 mars 2022, les taxes représentaient environ 45 % du prix du gazole et du SP95, contre près de 60 % lorsque les carburants étaient bon marché (2020). Le chiffre de 60 % était donc dépassé au moment du débat.",
+   "correction": "Fin mars 2022, les taxes représentaient environ 45 à 50 % du prix à la pompe, et non 60 %.",
+   "sources": [
+    {
+     "title": "Motor1 – Essence, diesel : quelles taxes payez-vous pour un litre ? (données UFIP mars 2022)",
+     "url": "https://fr.motor1.com/news/573324/essence-diesel-prix-taxes-proportion/"
+    },
+    {
+     "title": "Connaissance des énergies – Structuration des prix de l'essence et du gazole",
+     "url": "https://www.connaissancedesenergies.org/fiche-pedagogique/structuration-des-prix-de-lessence-et-du-gazole-en-france"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-004",
+   "kind": "fact",
+   "type": "event",
+   "label": "Événement",
+   "segmentId": "s015",
+   "quote": "pensions de retraite de leurs grands parents qui ont été désindexée de l'inflation par le gouvernement",
+   "speaker": "bardella",
+   "claim": "Le gouvernement d'Emmanuel Macron a désindexé les pensions de retraite de l'inflation.",
+   "verdict": "mostly_true",
+   "fakeness": 20,
+   "confidence": 80,
+   "title": "Sous-indexation réelle mais temporaire",
+   "explanation": "La revalorisation de 2018 a été décalée d'octobre à janvier, puis les pensions de base n'ont augmenté que de 0,3 % en 2019, nettement sous l'inflation. Après la crise des gilets jaunes, la sous-indexation a été limitée en 2020 aux pensions supérieures à 2 000 € (celles en dessous ont été revalorisées de 1 %), avant un retour à l'indexation complète. Le constat est exact pour 2018-2020 mais présenté comme permanent et général.",
+   "correction": "Les pensions ont été sous-indexées en 2018-2019, puis seulement au-dessus de 2 000 € en 2020, avant un retour à l'indexation sur l'inflation.",
+   "sources": [
+    {
+     "title": "Public Sénat – Retraites : l'indexation des pensions sur l'inflation fait des émules chez les candidats (07/04/2022)",
+     "url": "https://www.publicsenat.fr/actualites/non-classe/retraites-l-indexation-des-pensions-sur-l-inflation-fait-des-emules-chez-les"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-005",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s028",
+   "quote": "la france dans les pays de l' ocde c'est le pays où le départ effectif à la retraite est le plus bas",
+   "speaker": "attal",
+   "claim": "La France est le pays de l'OCDE où l'âge effectif de départ à la retraite est le plus bas.",
+   "verdict": "mostly_true",
+   "fakeness": 20,
+   "confidence": 75,
+   "title": "Parmi les plus bas de l'OCDE, pas le plus bas",
+   "explanation": "Selon le Panorama des pensions 2021 de l'OCDE, l'âge moyen de sortie du marché du travail en France « reste parmi les plus faibles de l'OCDE », environ 2,5 ans sous la moyenne. Mais le Luxembourg fait moins bien pour les hommes (59,2 ans), et plusieurs pays (Belgique, Grèce, Slovaquie, Espagne, Turquie) sont aussi à 61 ans ou moins. L'ordre de grandeur est juste, le superlatif est exagéré.",
+   "correction": "La France fait partie des pays de l'OCDE où l'on quitte le marché du travail le plus tôt, sans être systématiquement le dernier du classement.",
+   "sources": [
+    {
+     "title": "OCDE – Panorama des pensions 2021, note France (COR, février 2022)",
+     "url": "https://www.cor-retraites.fr/sites/default/files/2022-02/Doc%206%20-%20PAG%202021%20FRA.pdf"
+    },
+    {
+     "title": "OCDE – Effective age of labour market exit, Pensions at a Glance 2021",
+     "url": "https://www.oecd.org/en/publications/2021/12/pensions-at-a-glance-2021_e56e5553/full-report/component-36.html"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-006",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s037",
+   "quote": "arrivent à la retraite arrive au chômage",
+   "speaker": "bardella",
+   "claim": "La moitié des personnes qui partent à la retraite sont au chômage au moment de leur départ.",
+   "verdict": "mostly_false",
+   "fakeness": 70,
+   "confidence": 75,
+   "title": "Retraités au chômage : un sur cinq",
+   "explanation": "D'après la DREES (édition 2021), 58 % des retraités de la génération 1946 étaient en emploi l'année précédant leur départ et « près d'une personne sur cinq » était au chômage. Les autres situations de non-emploi (maladie, invalidité, inactivité) existent, mais même cumulées elles restent sous la moitié. Le chiffre avancé confond au mieux non-emploi et chômage.",
+   "correction": "Selon la DREES, environ un nouveau retraité sur cinq était au chômage juste avant sa retraite, et près de six sur dix étaient en emploi.",
+   "sources": [
+    {
+     "title": "DREES – Les retraités et les retraites, édition 2021, fiche 20 : La situation des assurés en fin de carrière",
+     "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-05/Fiche%2020%20-%20La%20situation%20des%20assur%C3%A9s%20en%20fin%20de%20carri%C3%A8re.pdf"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-007",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s047",
+   "quote": "il ya vingt ans et plus que deux personnes qui travaillaient pour financer une retraite",
+   "speaker": "attal",
+   "claim": "Il y a 50 ans, quatre actifs cotisaient pour un retraité ; il y a vingt ans, ils n'étaient plus que deux.",
+   "verdict": "mostly_true",
+   "fakeness": 10,
+   "confidence": 75,
+   "title": "Ratio actifs/retraités : ordre de grandeur correct",
+   "explanation": "Au régime général, on comptait environ 4,1 cotisants par retraité en 1960, 3,8 en 1970 et 1,6 en 2000. Tous régimes confondus, le rapport était d'environ 1,7 à 1,8 dans les années 2010-2020. La tendance décrite est juste, mais les dates sont approximatives : le ratio de quatre pour un date plutôt d'il y a 60 ans, et celui de deux pour un est un arrondi.",
+   "correction": "Le rapport cotisants/retraités est passé d'environ 4 dans les années 1960 à moins de 2 au début des années 2000, puis à environ 1,7 aujourd'hui (tous régimes).",
+   "sources": [
+    {
+     "title": "Sécurité sociale – Ratio de dépendance démographique (cotisants sur retraités), programme de qualité et d'efficience Retraites",
+     "url": "https://evaluation.securite-sociale.fr/home/retraite/1-6-ratio-de-dependance-demograp.html"
+    },
+    {
+     "title": "PLFSS 2013 – Indicateur n° 21 : Ratio cotisants / retraités de la CNAV",
+     "url": "https://www.securite-sociale.fr/files/live/sites/SSFR/files/medias/PLFSS/2013/ANNEXE_1/PLFSS-2013-ANNEXE_1-PQE-RETRAITE-DONNEES_DE_CADRAGE-INDICATEUR_21.pdf"
+    },
+    {
+     "title": "Insee – Cotisants, retraités et rapport démographique tous régimes",
+     "url": "https://www.insee.fr/fr/statistiques/2415121"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-008",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s053",
+   "quote": "un chiffre dans le programme de marine 9 milliards bois 9 milliards tous les experts disent",
+   "speaker": "attal",
+   "claim": "Le RN chiffre sa réforme des retraites à 9 milliards d'euros, alors que les experts l'estiment deux à trois fois plus coûteuse.",
+   "verdict": "mostly_true",
+   "fakeness": 10,
+   "confidence": 75,
+   "title": "Retraites RN : 9,6 contre 26,5 milliards",
+   "explanation": "Marine Le Pen évaluait le coût de sa réforme à 9,6 milliards d'euros par an. L'Institut Montaigne l'estimait à environ 26,5 milliards par an, soit près de trois fois plus. Le rapport « deux ou trois fois plus » est donc exact, même si « tous les experts » généralise à partir d'un nombre limité d'évaluations.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "Institut Montaigne – Marine Le Pen : restaurer la retraite à 60 ans à taux plein avec 40 annuités",
+     "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/restaurer-la-retraite-a-60-ans-a-taux-plein-avec-40-annuites-et-revaloriser-le-minimum-vieillesse/"
+    },
+    {
+     "title": "LCP – Retraites : les projets d'Emmanuel Macron et Marine Le Pen à la loupe",
+     "url": "https://lcp.fr/actualites/presidentielle-retraites-les-projets-d-emmanuel-macron-et-marine-le-pen-a-la-loupe"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-009",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s062",
+   "quote": "les dépenses des retraites dans le pib sont amenés à diminuer d'ici 2025 a passé de 15 % du pib à 11%",
+   "speaker": "bardella",
+   "claim": "Selon le rapport du COR de juin 2021, les dépenses de retraite passeraient de 15 % à 11 % du PIB d'ici 2025.",
+   "verdict": "mostly_false",
+   "fakeness": 55,
+   "confidence": 85,
+   "title": "COR : baisse prévue d'ici 2070, pas 2025",
+   "explanation": "Le rapport du COR de juin 2021 indique des dépenses de retraite à 14,7 % du PIB en 2020, puis autour de 13,7 % de 2022 à 2030. La baisse vers 11,3 % à 13,0 % du PIB n'est projetée qu'à l'horizon 2070, et 11,3 % correspond au scénario le plus favorable. La tendance à la baisse est réelle, mais l'échéance est décalée de 45 ans.",
+   "correction": "Le COR projetait en juin 2021 une part des dépenses de retraite entre 11,3 % et 13 % du PIB en 2070, contre 14,7 % en 2020.",
+   "sources": [
+    {
+     "title": "COR – Rapport annuel juin 2021, synthèse",
+     "url": "https://www.cor-retraites.fr/sites/default/files/2021-06/Synth%C3%A8se%20V2.pdf"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-010",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s065",
+   "quote": "dire qu'il ya un déficit aujourd'hui de 18 milliards",
+   "speaker": "bardella",
+   "claim": "Le Conseil d'orientation des retraites chiffre le déficit actuel du système de retraite à 18 milliards d'euros.",
+   "verdict": "mostly_true",
+   "fakeness": 10,
+   "confidence": 80,
+   "title": "18 milliards : déficit exact, mais de 2020",
+   "explanation": "Le COR indique que le déficit du système de retraite a atteint 18 milliards d'euros en 2020 (0,8 % du PIB), ramené à 0,6 % du PIB en comptant un versement du Fonds de réserve. Il s'agit d'un pic lié au Covid : le COR prévoyait un déficit d'environ 0,4 % du PIB dès 2021. Le chiffre est exact, mais il concerne l'année 2020.",
+   "correction": "Le déficit du système de retraite était de 18 milliards d'euros en 2020, un pic essentiellement conjoncturel selon le COR.",
+   "sources": [
+    {
+     "title": "COR – Rapport annuel juin 2021, synthèse",
+     "url": "https://www.cor-retraites.fr/sites/default/files/2021-06/Synth%C3%A8se%20V2.pdf"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-011",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s074",
+   "quote": "la dette elle s'élève aujourd'hui à 2800 milliards d'euros et ces deux dernières années épidémie oblige elle a augmenté",
+   "speaker": "moderator",
+   "claim": "La dette publique atteint 2 800 milliards d'euros et a augmenté de 560 milliards en deux ans à cause de l'épidémie.",
+   "verdict": "misleading",
+   "fakeness": 30,
+   "confidence": 80,
+   "title": "Dette : bon total, hausse surestimée",
+   "explanation": "Selon l'Insee, la dette publique au sens de Maastricht s'élevait à 2 813,1 Md€ fin 2021 : le total est exact. Mais elle était de 2 380,1 Md€ fin 2019 (2 374,9 Md€ après révision), soit une hausse d'environ 435 milliards en deux ans, et non de 560 milliards.",
+   "correction": "La dette publique atteignait 2 813 Md€ fin 2021, en hausse d'environ 435 Md€ par rapport à fin 2019.",
+   "sources": [
+    {
+     "title": "Insee – À la fin du quatrième trimestre 2021, la dette publique s'établit à 2 813,1 Md€",
+     "url": "https://www.insee.fr/fr/statistiques/6324852"
+    },
+    {
+     "title": "Insee – À la fin du quatrième trimestre 2019, la dette publique s'établit à 2 380,1 Md€",
+     "url": "https://www.insee.fr/fr/statistiques/4470952"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-012",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s079",
+   "quote": "avait ramené notre déficit sous les 3% ça faisait 15 ans que ce n'était pas arrivé",
+   "speaker": "attal",
+   "claim": "Avant le Covid, Emmanuel Macron a ramené le déficit public sous 3 % du PIB, une première depuis 15 ans, et fait sortir la France de la procédure pour déficit excessif.",
+   "verdict": "mostly_true",
+   "fakeness": 20,
+   "confidence": 80,
+   "title": "Déficit sous 3 % : 10 ans, pas 15",
+   "explanation": "Le déficit public est tombé à 2,6 % du PIB en 2017, une première depuis 2007, soit 10 ans et non 15. Ce résultat a permis à la France de sortir en 2018 de la procédure pour déficit excessif ouverte en 2009. L'année 2017 reposait toutefois en grande partie sur un budget voté par la majorité précédente.",
+   "correction": "Le déficit est passé sous 3 % du PIB en 2017 pour la première fois depuis 2007, ce qui a permis la sortie de la procédure pour déficit excessif en 2018.",
+   "sources": [
+    {
+     "title": "franceinfo – Le déficit public passe sous la barre des 3 %, une première depuis 2007",
+     "url": "https://www.franceinfo.fr/economie/deficit/le-deficit-francais-passe-sous-la-barre-des-3-une-premiere-depuis-2007_2674826.html"
+    },
+    {
+     "title": "economie.gouv.fr – Le déficit public sous la barre des 3 % en 2017",
+     "url": "https://www.economie.gouv.fr/deficit-public-sous-3-pour-cent-en-2017"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-013",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s088",
+   "quote": "le recours au cabinet privé a explosé sous votre quinquennat",
+   "speaker": "bardella",
+   "claim": "Les dépenses de l'État en cabinets de conseil privés ont explosé pendant le quinquennat d'Emmanuel Macron.",
+   "verdict": "true",
+   "fakeness": 5,
+   "confidence": 85,
+   "title": "Cabinets de conseil : dépenses plus que doublées",
+   "explanation": "La commission d'enquête du Sénat (rapport du 16 mars 2022) établit que les dépenses de conseil des ministères sont passées de 379,1 M€ en 2018 à 893,9 M€ en 2021, et dépassent le milliard d'euros en incluant les opérateurs. L'« explosion » est documentée ; les « dizaines de millions » évoquées juste avant sous-estiment même les montants en jeu.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "Sénat – Un phénomène tentaculaire : l'influence croissante des cabinets de conseil sur les politiques publiques (rapport n° 578, mars 2022)",
+     "url": "https://www.senat.fr/rap/r21-578-1/r21-578-1.html"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-014",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s093",
+   "quote": "la fraude c'est 50 milliards d'euros de fraudes chaque année avec plus de 7 millions de cartes vitale en circulation en trop",
+   "speaker": "bardella",
+   "claim": "Selon le magistrat Charles Prats, la fraude sociale atteint 50 milliards d'euros par an et plus de 7 millions de cartes Vitale circulent en trop.",
+   "verdict": "mostly_false",
+   "fakeness": 70,
+   "confidence": 75,
+   "title": "Fraude sociale : chiffres de Prats non confirmés",
+   "explanation": "Le chiffre de 50 milliards vient bien du livre de Charles Prats, qui parlait lui de 5 millions de cartes en trop, mais aucune source officielle ne le confirme : la Cour des comptes (2020) juge la fraude globale impossible à chiffrer et la CNAF l'estimait à 2,3 Md€ pour 2018. La Sécurité sociale a dénombré 609 000 cartes Vitale surnuméraires fin 2019. Selon Les Surligneurs, il n'en restait plus que 3 830 en décembre 2021. Le chiffre de 7 millions ne repose sur aucune donnée officielle.",
+   "correction": "Les estimations officielles de la fraude sociale sont de quelques milliards d'euros par an, et l'on comptait 609 000 cartes Vitale surnuméraires fin 2019, quasiment toutes désactivées fin 2021.",
+   "sources": [
+    {
+     "title": "Sécurité sociale – Point de situation sur les cartes Vitale surnuméraires (février 2020)",
+     "url": "https://www.securite-sociale.fr/home/medias/presse/list-presse/point-de-situation-sur-les-carte.html"
+    },
+    {
+     "title": "Les Surligneurs – Y a-t-il « entre 5 et 8 millions de fausses cartes Vitales » en France ?",
+     "url": "https://lessurligneurs.eu/fraude-sociale-y-a-t-il-entre-5-et-8-millions-de-fausses-cartes-vitales-en-france/"
+    },
+    {
+     "title": "Cour des comptes – La lutte contre les fraudes aux prestations sociales (septembre 2020)",
+     "url": "https://www.ccomptes.fr/fr/publications/la-lutte-contre-les-fraudes-aux-prestations-sociales"
+    },
+    {
+     "title": "Wikipédia – Charles Prats",
+     "url": "https://fr.wikipedia.org/wiki/Charles_Prats"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-015",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s094",
+   "quote": "on donne beaucoup plus aujourd'hui à l'union européenne qu'on ne reçoit et on reçoit avec des contreparties",
+   "speaker": "bardella",
+   "claim": "La France verse plus au budget européen qu'elle n'en reçoit, et les fonds reçus sont conditionnés à des réformes exigées par Bruxelles, dont celle des retraites.",
+   "verdict": "misleading",
+   "fakeness": 30,
+   "confidence": 75,
+   "title": "Contributeur net, mais pas de réforme imposée",
+   "explanation": "La France est bien contributrice nette : son solde était de −6,76 Md€ en 2019 selon le Sénat, au 3e rang derrière l'Allemagne et le Royaume-Uni. En revanche, les recommandations européennes sur les retraites (semestre européen) ne sont pas contraignantes, et les fact-checks concluent que l'UE n'impose pas la réforme. Le versement des fonds n'était pas conditionné à cette réforme.",
+   "correction": "La France est contributrice nette au budget de l'UE (environ 7 Md€ par an), mais les recommandations de Bruxelles sur les retraites ne sont pas contraignantes.",
+   "sources": [
+    {
+     "title": "Sénat – Projet de loi de finances pour 2021 : Affaires européennes",
+     "url": "https://www.senat.fr/rap/l20-138-22/l20-138-225.html"
+    },
+    {
+     "title": "Toute l'Europe – [Fact-checking] Retraites : l'Union européenne impose-t-elle sa réforme à la France ?",
+     "url": "https://www.touteleurope.eu/economie-et-social/retraites-l-union-europeenne-n-impose-pas-a-la-france-sa-reforme/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-016",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s097",
+   "quote": "notre chiffrage 68 milliards d'euros parfaitement chiffrés",
+   "speaker": "bardella",
+   "claim": "Le programme de Marine Le Pen coûte 68 milliards d'euros et son chiffrage est rigoureux.",
+   "verdict": "misleading",
+   "fakeness": 40,
+   "confidence": 70,
+   "title": "68 milliards : chiffrage contesté",
+   "explanation": "Marine Le Pen a bien présenté en mars 2022 un chiffrage d'environ 68 milliards d'euros de dépenses, compensées par autant d'économies (dont 16 Md€ sur l'immigration). L'Institut Montaigne évaluait pourtant les dépenses à environ 120 milliards et le déficit du projet à 101,8 milliards. Le montant cité est bien celui du RN, mais le qualificatif « parfaitement chiffré » n'est pas partagé par les évaluations indépendantes.",
+   "correction": "Le RN chiffrait son programme à 68 Md€, alors que l'Institut Montaigne estimait son coût à environ 120 Md€.",
+   "sources": [
+    {
+     "title": "Europe 1 – Présidentielle : Marine Le Pen prévoit un budget de 68 milliards d'euros",
+     "url": "https://www.europe1.fr/politique/presidentielle-marine-le-pen-prevoit-un-budget-de-68-milliards-deuros-4101386"
+    },
+    {
+     "title": "Institut Montaigne – Marine Le Pen : ses propositions décryptées (synthèse)",
+     "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/synthese/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-017",
+   "kind": "fact",
+   "type": "event",
+   "label": "Événement",
+   "segmentId": "s109",
+   "quote": "un cabinet de conseil mandaté par la mairie de perpignan par louis aliot un cabinet qui s'appelle spqr",
+   "speaker": "attal",
+   "claim": "La mairie RN de Perpignan dirigée par Louis Aliot a commandé un rapport au cabinet de conseil SPQR.",
+   "verdict": "true",
+   "fakeness": 5,
+   "confidence": 75,
+   "title": "Perpignan a bien mandaté le cabinet SPQR",
+   "explanation": "Après un appel d'offres (novembre 2020 - janvier 2021), la mairie de Perpignan dirigée par Louis Aliot a confié des audits, notamment financier, au cabinet indépendant SPQR. Par la suite, la chambre régionale des comptes a recensé 122 audits commandés par la ville entre 2019 et 2023 et noté une accélération du recours aux consultants depuis l'élection de Louis Aliot.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "Made in Perpignan – Audits de la ville de Perpignan : gestion financière et masse salariale (octobre 2021)",
+     "url": "https://madeinperpignan.com/audits-de-la-ville-de-perpignan-l-cadavre-exquis-gestion-financiere-et-masse-salariale/"
+    },
+    {
+     "title": "France 3 Occitanie – Audits des intervenants privés à Perpignan : la Chambre des comptes recommande un meilleur encadrement",
+     "url": "https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/audits-des-intervenants-prives-a-perpignan-la-chambre-des-comptes-recommande-un-meilleur-encadrement-louis-aliot-se-defend-en-conseil-municipal-3038987.html"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-018",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s122",
+   "quote": "dix mille policiers et gendarmes supplémentaires recrutés",
+   "speaker": "attal",
+   "claim": "Le quinquennat a permis le recrutement de 10 000 policiers et gendarmes supplémentaires.",
+   "verdict": "mostly_true",
+   "fakeness": 15,
+   "confidence": 80,
+   "title": "10 000 postes : promesse tenue sur le papier",
+   "explanation": "D'après la loi de finances 2022 citée par franceinfo, 9 583 postes de policiers et gendarmes ont été créés de 2017 à 2021, et 946 étaient prévus en 2022, soit environ 10 500 sur le quinquennat. Deux réserves : l'année 2017 relevait d'un budget voté par la majorité précédente, et le décompte en équivalents temps plein travaillés est moins favorable. La Cour des comptes a par ailleurs relevé un effet limité sur la délinquance.",
+   "correction": "Environ 10 000 postes de policiers et gendarmes ont été créés sur 2017-2022, selon le mode de décompte retenu.",
+   "sources": [
+    {
+     "title": "franceinfo – Vrai ou fake : Emmanuel Macron a-t-il vraiment créé 10 000 postes de policiers et gendarmes ? (13/01/2022)",
+     "url": "https://www.franceinfo.fr/economie/emploi/metiers/armee-et-securite/vrai-ou-fake-emmanuel-macron-a-t-il-vraiment-cree-10-000-postes-de-policiers-et-gendarmes_4915651.html"
+    },
+    {
+     "title": "CheckNews (via De Facto) – Y a-t-il 10 000 policiers et gendarmes de plus sur le terrain depuis cinq ans ?",
+     "url": "https://defacto-observatoire.fr/Medias/CheckNews/Fact-checks/Y-a-t-il-10-000-policiers-et-gendarmes-de-plus-sur-le-terrain-depuis-cinq-ans-comme-le-dit-Emmanuel-Macron/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-019",
+   "kind": "fact",
+   "type": "legal",
+   "label": "Texte de loi",
+   "segmentId": "s125",
+   "quote": "plus de crédit de remise de peine pour ceux qui s'en prennent aux dépositaires de l'autorité publique",
+   "speaker": "attal",
+   "claim": "Le Parlement a voté il y a quelques mois la suppression des crédits de réduction de peine pour les auteurs d'atteintes aux dépositaires de l'autorité publique.",
+   "verdict": "mostly_true",
+   "fakeness": 10,
+   "confidence": 75,
+   "title": "Loi sécurité globale : crédits de peine supprimés",
+   "explanation": "L'article 50 de la loi du 25 mai 2021 « pour une sécurité globale préservant les libertés » supprime les crédits de réduction de peine pour les personnes condamnées pour certaines infractions commises contre des élus, policiers, gendarmes, magistrats ou autres dépositaires de l'autorité publique. La mesure a été restreinte aux infractions les plus graves, et une réduction de peine pour bonne conduite a été maintenue.",
+   "correction": "Depuis la loi du 25 mai 2021, les auteurs des infractions les plus graves contre les dépositaires de l'autorité publique ne bénéficient plus des crédits automatiques de réduction de peine.",
+   "sources": [
+    {
+     "title": "Face au Risque – Loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés",
+     "url": "https://www.faceaurisque.com/base-reglementaire/loi-n-2021-646-du-25-mai-2021-pour-une-securite-globale-preservant-les-libertes/"
+    },
+    {
+     "title": "Sénat – Proposition de loi relative à la sécurité globale (rapport)",
+     "url": "https://www.senat.fr/rap/l20-409/l20-4099.html"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-020",
+   "kind": "fact",
+   "type": "statistic",
+   "label": "Statistique",
+   "segmentId": "s132",
+   "quote": "va permettre non seulement de rendre 12 milliards d'euros de pouvoir",
+   "speaker": "bardella",
+   "claim": "La baisse des taxes sur l'énergie proposée par le RN rendrait 12 milliards d'euros de pouvoir d'achat aux ménages.",
+   "verdict": "mostly_true",
+   "fakeness": 25,
+   "confidence": 65,
+   "title": "12 milliards : ordre de grandeur plausible",
+   "explanation": "Le RN chiffrait à 12 milliards d'euros par an la baisse de la TVA de 20 % à 5,5 % sur l'ensemble de l'énergie (carburants, électricité, gaz, fioul), pas sur le seul carburant. L'Institut Montaigne l'estimait à 10,3 milliards (fourchette 8,2 à 12,4). Le droit européen de la TVA n'autorisait pas en 2022 un taux réduit sur les carburants, ce qui rendait cette partie de la mesure difficile à appliquer.",
+   "correction": "La baisse de TVA sur toute l'énergie coûterait 8 à 12 Md€ par an selon l'Institut Montaigne, et son application aux carburants se heurtait au droit européen.",
+   "sources": [
+    {
+     "title": "Institut Montaigne – Marine Le Pen : baisser la TVA de 20 à 5,5 % pour les carburants, l'électricité, le gaz et le fioul domestique",
+     "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/baisser-la-tva-de-20-a-55-pour-les-carburants-lelectricite-le-gaz-et-le-fioul-domestique/"
+    },
+    {
+     "title": "Les Surligneurs – Marine Le Pen veut baisser la TVA sur les carburants à 5,5 %",
+     "url": "https://lessurligneurs.eu/marine-le-pen-veut-baisser-la-tva-sur-les-carburants-a-55-pour-redonner-du-pouvoir-dachat-aux-francais/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  },
+  {
+   "id": "fact-021",
+   "kind": "fact",
+   "type": "legal",
+   "label": "Texte de loi",
+   "segmentId": "s134",
+   "quote": "il faut une loi pour le faire donc même si elle était élue il faudra qu'elle attend de l'été",
+   "speaker": "attal",
+   "claim": "Une baisse de la TVA ne peut pas se faire dès le lendemain de l'élection : elle nécessite le vote d'une loi.",
+   "verdict": "true",
+   "fakeness": 5,
+   "confidence": 80,
+   "title": "Baisser la TVA exige bien une loi",
+   "explanation": "Les taux de TVA relèvent de la loi (article 34 de la Constitution) : l'Institut Montaigne qualifie la mesure de « niveau législatif » et note qu'elle suppose une négociation européenne préalable. Les Surligneurs rappellent aussi que la directive TVA n'autorisait pas de taux réduit sur les carburants en 2022. Une application « dès le lendemain » de l'élection était donc impossible.",
+   "correction": null,
+   "sources": [
+    {
+     "title": "Institut Montaigne – Marine Le Pen : baisser la TVA de 20 à 5,5 % pour les carburants, l'électricité, le gaz et le fioul domestique",
+     "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/baisser-la-tva-de-20-a-55-pour-les-carburants-lelectricite-le-gaz-et-le-fioul-domestique/"
+    },
+    {
+     "title": "Les Surligneurs – Marine Le Pen veut baisser la TVA sur les carburants à 5,5 %",
+     "url": "https://lessurligneurs.eu/marine-le-pen-veut-baisser-la-tva-sur-les-carburants-a-55-pour-redonner-du-pouvoir-dachat-aux-francais/"
+    }
+   ],
+   "habermas": [
+    "truth"
+   ],
+   "approx": false
+  }
+ ],
+ "habermas": {
+  "dimensions": {
+   "truth": "Vérité : les faits avancés sont-ils exacts ?",
+   "rightness": "Justesse : les normes invoquées sont-elles légitimes et discutées ?",
+   "sincerity": "Sincérité : le locuteur croit-il ce qu'il dit, sans manipulation ?",
+   "comprehensibility": "Intelligibilité : le propos est-il clair et compréhensible ?"
+  },
+  "speakers": {
+   "attal": {
+    "truth": 66,
+    "rightness": 56,
+    "sincerity": 50,
+    "comprehensibility": 77,
+    "verdict": "Gabriel Attal est le plus précis des deux : il expose clairement l'arbitrage des retraites, avance des chiffres vérifiables (bilan budgétaire, moyens de la sécurité) et répond souvent directement aux objections (infirmières, régimes spéciaux, remises de peine, TVA soumise à la loi). Mais il exige de son adversaire un chiffrage qu'il ne fournit pas lui-même, idéalise le bilan d'Emmanuel Macron et bascule dans la disqualification (« complotisme », « les vrais politiciens », « raconter n'importe quoi ») dès que le terrain lui devient défavorable, notamment sur l'affaire McKinsey."
+   },
+   "bardella": {
+    "truth": 44,
+    "rightness": 50,
+    "sincerity": 47,
+    "comprehensibility": 68,
+    "verdict": "Jordan Bardella porte l'objection normative la plus forte du débat, l'injustice d'un recul de l'âge pour ceux qui ont commencé à travailler tôt, et formule des propositions nettes et vérifiables sur les retraites comme sur la sécurité. Sa prétention à la vérité est en revanche fragile (chômage avant la retraite, rapport du COR, fraude, délinquance imputée à l'immigration, TVA « dès le lendemain matin »), et il pose la préférence nationale comme une évidence tout en renvoyant le financement à des économies peu étayées."
+   }
+  },
+  "moments": [
+   {
+    "id": "hab-001",
+    "segmentId": "s009",
+    "speaker": "attal",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Contrefactuel à charge présenté comme certain",
+    "note": "Pour répondre à la question sur l'abstention, il décrit ce qu'aurait été un quinquennat Le Pen (pas de vaccins, pas d'armes à l'Ukraine, « une alliance militaire avec la russie »). Ces hypothèses invérifiables sont assénées comme des faits et retiennent la lecture la plus défavorable d'un programme qui a évolué depuis 2017."
+   },
+   {
+    "id": "hab-002",
+    "segmentId": "s026",
+    "speaker": "attal",
+    "dimension": "comprehensibility",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Expose l'arbitrage des retraites en trois options",
+    "note": "Il rend explicites la contrainte démographique et les trois leviers possibles, en disant lesquels il écarte et pourquoi : c'est le passage le plus pédagogique du débat. L'alternative reste simplifiée, d'autres leviers (emploi des seniors, cotisations patronales, croissance) n'étant pas évoqués."
+   },
+   {
+    "id": "hab-003",
+    "segmentId": "s037",
+    "speaker": "bardella",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "« La moitié » au chômage : chiffre gonflé",
+    "note": "« la moitié des gens qui aujourd'hui arrivent à la retraite arrive au chômage » : l'ordre de grandeur correspond au mieux à la part des nouveaux retraités qui ne sont plus en emploi, chômage, inactivité, maladie et invalidité confondus. L'argument (reculer l'âge allonge l'indemnisation chômage) est recevable, mais il repose sur une donnée présentée avec une certitude qu'elle n'a pas."
+   },
+   {
+    "id": "hab-004",
+    "segmentId": "s039",
+    "speaker": "bardella",
+    "dimension": "sincerity",
+    "polarity": "positive",
+    "weight": 1,
+    "title": "S'inclut parmi les privilégiés des bureaux",
+    "note": "« qui n'ont pas la chance comme vous et moi de travailler dans des bureaux » : en se rangeant lui-même du côté des métiers protégés, il évite l'attaque personnelle et fonde l'argument de la pénibilité sur la condition des travailleurs concernés. Le propos glisse ensuite vers l'imputation (« c'est pas votre modèle »), mais le geste initial est de bonne foi."
+   },
+   {
+    "id": "hab-005",
+    "segmentId": "s043",
+    "speaker": "bardella",
+    "dimension": "comprehensibility",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Proposition chiffrée : 60 ans, 40 annuités",
+    "note": "Il détaille les paramètres de la réforme défendue : départ à 60 ans avec 40 annuités pour ceux qui ont commencé entre 17 et 20 ans, progressivité jusqu'à 62 ans « mais pas plus », minimum de pension. La proposition devient ainsi discutable et vérifiable, ce qui honore l'exigence d'intelligibilité."
+   },
+   {
+    "id": "hab-006",
+    "segmentId": "s045",
+    "speaker": "attal",
+    "dimension": "rightness",
+    "polarity": "positive",
+    "weight": 1,
+    "title": "Concède l'objection des carrières longues et pénibles",
+    "note": "Il reconnaît qu'« une partie des français qui ne peuvent pas aller jusqu'à 65 ans » existe et promet d'en tenir compte : c'est une concession réelle à l'argument adverse. Elle reste toutefois renvoyée à une future « négociation », sans critère précis, ce qui en limite la portée."
+   },
+   {
+    "id": "hab-007",
+    "segmentId": "s060",
+    "speaker": "bardella",
+    "dimension": "rightness",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Objection d'équité : l'infirmière face au cadre",
+    "note": "Il oppose au recul de l'âge un argument de justice précis : un âge légal élevé fait travailler plus longtemps ceux qui ont commencé tôt que les diplômés entrés tard sur le marché du travail. C'est l'objection normative la plus solide du débat, directement adressée à la proposition adverse, même si sa formulation embrouillée (annuités et âge mêlés) en obscurcit la démonstration."
+   },
+   {
+    "id": "hab-008",
+    "segmentId": "s062",
+    "speaker": "bardella",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Rapport du COR cité mais déformé",
+    "note": "Citer le rapport de juin 2021 du Conseil d'orientation des retraites est un bon réflexe, mais la baisse de la part des retraites dans le PIB qu'il projette vaut à l'horizon 2070, non « d'ici 2025 ». Surtout, cette baisse résulte du recul du niveau relatif des pensions, précisément ce que Bardella dit refuser."
+   },
+   {
+    "id": "hab-009",
+    "segmentId": "s068",
+    "speaker": "attal",
+    "dimension": "truth",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Répond directement sur infirmières et carrières longues",
+    "note": "Plutôt que de changer de sujet, il répond à l'exemple adverse : départs anticipés des « catégories actives » et maintien du dispositif de carrières longues. La réponse est pertinente mais incomplète, une large part des infirmières (secteur privé, recrues hospitalières depuis 2010) ne relevant plus de la catégorie active."
+   },
+   {
+    "id": "hab-010",
+    "segmentId": "s070",
+    "speaker": "attal",
+    "dimension": "rightness",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Met la norme d'équité adverse à l'épreuve",
+    "note": "Il reprend l'argument de justice de son contradicteur et l'applique aux régimes spéciaux : un chauffeur de bus parisien part plus tôt qu'au Havre, à Metz ou à Bordeaux pour le même travail. Ce test d'universalisation d'une norme invoquée par l'autre est exactement le type d'échange que requiert la discussion argumentée."
+   },
+   {
+    "id": "hab-011",
+    "segmentId": "s072",
+    "speaker": "bardella",
+    "dimension": "rightness",
+    "polarity": "negative",
+    "weight": 1,
+    "title": "Élude les régimes spéciaux par l'amalgame",
+    "note": "Au lieu de répondre sur l'écart entre agents de la RATP et chauffeurs de province, il invoque marins pêcheurs, policiers et militaires, dont les départs anticipés relèvent d'autres logiques, et lance « soyez sérieux ». L'échange est coupé par la modératrice avant que la contradiction soit traitée."
+   },
+   {
+    "id": "hab-012",
+    "segmentId": "s079",
+    "speaker": "attal",
+    "dimension": "truth",
+    "polarity": "positive",
+    "weight": 1,
+    "title": "Bilan budgétaire daté et vérifiable",
+    "note": "Il appuie sa prétention au sérieux budgétaire sur des faits contrôlables : déficit repassé sous 3 % avant la crise du Covid et sortie en 2018 de la procédure européenne pour déficit excessif. Le « 15 ans » est exagéré (le précédent passage sous 3 % remontait à 2007), mais l'essentiel est exact."
+   },
+   {
+    "id": "hab-013",
+    "segmentId": "s081",
+    "speaker": "attal",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Exige un chiffrage qu'il ne fournit pas",
+    "note": "Après avoir reproché à son adversaire de ne pas expliquer son financement, il affirme avoir « un projet qui est financé » en énumérant des pistes sans montant (numérisation, intelligence artificielle, conseiller territorial). Ce double standard affaiblit la sincérité de la critique adressée à l'autre camp."
+   },
+   {
+    "id": "hab-014",
+    "segmentId": "s088",
+    "speaker": "bardella",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Insinuation pénale sur l'affaire McKinsey",
+    "note": "La critique de l'explosion du recours aux cabinets privés s'appuie sur le rapport de la commission d'enquête du Sénat (mars 2022), mais l'ajout « peut-être même devant le parquet national financier » suggère une faute pénale du gouvernement sans aucun élément. À la date du débat, aucune enquête n'était ouverte ; celle lancée quelques jours plus tard visera la situation fiscale du cabinet."
+   },
+   {
+    "id": "hab-015",
+    "segmentId": "s091",
+    "speaker": "bardella",
+    "dimension": "rightness",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Préférence nationale posée comme une évidence",
+    "note": "« le fruit la solidarité nationale il doit rester nationale » : réserver le RSA et les allocations familiales aux familles françaises est présenté comme allant de soi. Or c'est précisément la légitimité de cette norme (égalité devant la loi, droit européen) qui fait débat, et elle n'est jamais discutée, pas plus que le chiffrage de « 16 milliards d'euros d'économies »."
+   },
+   {
+    "id": "hab-016",
+    "segmentId": "s096",
+    "speaker": "bardella",
+    "dimension": "truth",
+    "polarity": "positive",
+    "weight": 1,
+    "title": "Renvoie à un chiffrage public et consultable",
+    "note": "Il invite les électeurs à consulter le chiffrage détaillé du programme sur le site de campagne : sa prétention à la vérité est offerte à la vérification. Plusieurs recettes annoncées reposent toutefois sur des estimations contestées, comme les « 50 milliards d'euros de fraudes » tirés du livre du magistrat Charles Prats."
+   },
+   {
+    "id": "hab-017",
+    "segmentId": "s102",
+    "speaker": "attal",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "« Ni plus ni moins » : bilan idéalisé",
+    "note": "Il affirme qu'Emmanuel Macron a fait depuis 2017 ce qu'il avait dit « ni plus ni moins », ce que contredit notamment la réforme des retraites par points, promesse phare de 2017 suspendue en 2020 puis abandonnée. L'autorité de la parole présidentielle remplace ici la discussion des engagements présents."
+   },
+   {
+    "id": "hab-018",
+    "segmentId": "s106",
+    "speaker": "attal",
+    "dimension": "sincerity",
+    "polarity": "negative",
+    "weight": 3,
+    "title": "Disqualifie McKinsey en « complotisme » d'extrême droite",
+    "note": "Face à une question documentée par une commission d'enquête sénatoriale, il répond par une étiquette (un « classique » de l'extrême droite, « du complotisme ») puis par un tu quoque sur un cabinet mandaté par la mairie de Perpignan. C'est le moment le plus coercitif du débat : l'interlocuteur est disqualifié au lieu que son argument soit discuté."
+   },
+   {
+    "id": "hab-019",
+    "segmentId": "s117",
+    "speaker": "bardella",
+    "dimension": "comprehensibility",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Trois mesures de sécurité précises et falsifiables",
+    "note": "Présomption de légitime défense pour les policiers, suppression des aménagements pour les peines ferme de plus de six mois, expulsion des délinquants étrangers : les propositions sont nettes et identifiables. Chacune peut être discutée sur pièces, ce qui tranche avec les constats généraux qui les précèdent."
+   },
+   {
+    "id": "hab-020",
+    "segmentId": "s120",
+    "speaker": "bardella",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "Délinquance imputée à l'immigration sans données",
+    "note": "« la délinquance de rue est liée à votre incapacité de maîtriser notre politique d'immigration » : le lien causal est affirmé sans chiffre ni source, tout comme « l'explosion de l'insécurité » quelques secondes plus tôt. Une généralisation de ce type, présentée comme certaine, ferme la discussion factuelle qu'appelle le sujet."
+   },
+   {
+    "id": "hab-021",
+    "segmentId": "s122",
+    "speaker": "attal",
+    "dimension": "truth",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Bilan sécuritaire chiffré plutôt que slogans",
+    "note": "« je vais pas me payer de mots » : il répond par des données vérifiables (10 000 policiers et gendarmes, budget, véhicules, heures supplémentaires) puis, sur le volet pénal, par la loi supprimant les crédits de réduction de peine pour les agresseurs de policiers. Il laisse en revanche sans réponse la présomption de légitime défense sur laquelle Bardella l'avait interpellé."
+   },
+   {
+    "id": "hab-022",
+    "segmentId": "s131",
+    "speaker": "bardella",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 2,
+    "title": "TVA baissée « dès le lendemain matin » : impossible",
+    "note": "Il promet que la TVA sur l'énergie passera de 20 % à 5,5 % « dès le lendemain matin » de l'élection, alors qu'un taux d'imposition relève de la loi et exige un vote du Parlement. L'engagement, présenté comme certain, ignore une contrainte institutionnelle élémentaire."
+   },
+   {
+    "id": "hab-023",
+    "segmentId": "s134",
+    "speaker": "attal",
+    "dimension": "truth",
+    "polarity": "positive",
+    "weight": 2,
+    "title": "Rappelle qu'une baisse de TVA exige une loi",
+    "note": "Il corrige la promesse adverse par un fait institutionnel exact : le taux de TVA est fixé par la loi, ce qui repousse toute baisse après les élections législatives. C'est une réfutation factuelle nette, qui vise l'affirmation et non la personne."
+   },
+   {
+    "id": "hab-024",
+    "segmentId": "s135",
+    "speaker": "attal",
+    "dimension": "rightness",
+    "polarity": "negative",
+    "weight": 1,
+    "title": "Transforme une erreur ponctuelle en discrédit global",
+    "note": "Juste après cette correction fondée, il conclut que son adversaire ne fait que « raconter n'importe quoi », généralisant une imprécision en disqualification de toute sa parole. Le procédé dessert sa propre réfutation en la faisant glisser de l'argument vers la personne."
+   },
+   {
+    "id": "hab-025",
+    "segmentId": "s136",
+    "speaker": "attal",
+    "dimension": "truth",
+    "polarity": "negative",
+    "weight": 1,
+    "title": "« Plus de fraude » : promesse absolue",
+    "note": "Il affirme qu'avec le versement à la source des aides « il n'y aura plus de fraude aux prestations sociales », alors qu'un versement automatique réduit certaines erreurs déclaratives sans supprimer la fraude (identité, résidence, ressources dissimulées). Sa seconde justification, le non-recours aux droits, est en revanche fondée et clairement exposée."
+   }
+  ],
+  "ideal_speech": {
+   "equal_participation": {
+    "score": 72,
+    "note": "Temps de parole équilibré : environ 9 à 10 minutes chacun et un volume de mots quasi identique, avec une alternance tenue par Anne-Claire Coudray, qui recadre les deux camps (s073-s074, s110-s111, s128) et salue en conclusion le respect de la parole. Les chevauchements restent fréquents dans les passes d'armes sur les retraites (s046-s048, s054-s058, s065-s066) et sur McKinsey, où Attal proteste « je vous ai pas interrompu […] pas une seule fois » ; le format très court (21 minutes pour quatre thèmes) réduit en outre la sécurité à deux exposés successifs sans échange."
+   },
+   "no_coercion": {
+    "score": 58,
+    "note": "Aucune intimidation ni menace, mais une coercition discursive de part et d'autre. Chez Attal, étiquetage et disqualification (« complotisme », un « classique » de l'extrême droite, « les vrais politiciens », « raconter n'importe quoi ») et autorité vague (« tous les experts disent ») ; chez Bardella, insinuation pénale (« devant le parquet national financier »), procès d'intention (« vous ne vous rendez pas compte des souffrances », « c'est pas votre modèle ») et injonction (« soyez sérieux ») : la crédibilité de l'autre est souvent visée plutôt que ses raisons."
+   },
+   "argument_over_power": {
+    "score": 52,
+    "note": "Les retraites donnent lieu à un vrai échange d'arguments : objection d'équité (l'infirmière face au cadre), réponse par les catégories actives et les carrières longues, contre-épreuve des régimes spéciaux. Mais les concessions restent marginales : Attal admet qu'une partie des Français ne pourra pas travailler jusqu'à 65 ans sans en tirer de conséquence précise, Bardella ne répond pas sur les régimes spéciaux et adosse son financement à des économies peu étayées. La dette dérive vers l'affaire McKinsey et un tu quoque sur Perpignan, et la sécurité se réduit à la juxtaposition d'un réquisitoire et d'un bilan."
+   },
+   "overall": {
+    "score": 58,
+    "verdict": "Au sens de Habermas, c'est un débat honorable mais inabouti : le cadre est équilibré (temps de parole comparable, alternance respectée, modération qui recadre les deux camps) et plusieurs échanges sur les retraites relèvent d'une véritable confrontation d'arguments, où chacun répond à l'objection de l'autre. Mais aucune concession de fond n'est faite, l'objection d'équité de Bardella ne reçoit qu'une réponse partielle, le financement du programme du RN reste affirmé plutôt que démontré, et le format de 21 minutes pour quatre thèmes transforme la séquence sécurité en deux monologues. Surtout, dès que la discussion touche à la crédibilité de l'adversaire (McKinsey, promesses de campagne), les deux débatteurs basculent vers la disqualification et l'insinuation, si bien que la force du meilleur argument ne l'emporte que par intermittence."
+   }
+  }
+ }
+}

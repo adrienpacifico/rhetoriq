@@ -1,0 +1,365 @@
+{
+  "dimensions": {
+    "truth": "Vérité : les faits avancés sont-ils exacts ?",
+    "rightness": "Justesse : les normes invoquées sont-elles légitimes et discutées ?",
+    "sincerity": "Sincérité : le locuteur croit-il ce qu'il dit, sans manipulation ?",
+    "comprehensibility": "Intelligibilité : le propos est-il clair et compréhensible ?"
+  },
+  "speakers": {
+    "faure": {
+      "truth": 66,
+      "rightness": 64,
+      "sincerity": 57,
+      "comprehensibility": 68,
+      "verdict": "Olivier Faure étaye souvent ses positions (convention de 1948 sur le génocide, rapport sénatorial sur les aides aux entreprises, exemple espagnol du salaire minimum) et crédite volontiers ses concurrents de leurs propositions. Sa sincérité fléchit sur la question des alliances, qu'il contourne (« je ne parle pas d'alliance ») avant de l'assumer en conclusion seulement, et il glisse quelques moqueries envers des absents (le ministre Papin, Jean-Luc Mélenchon) tout en coupant la parole à Glucksmann dans la séquence la plus tendue."
+    },
+    "glucksmann": {
+      "truth": 62,
+      "rightness": 64,
+      "sincerity": 68,
+      "comprehensibility": 79,
+      "verdict": "Raphaël Glucksmann est le plus structuré et le plus net du plateau (réponses en trois points, « il n'y aura pas d'alliance aux législatives ») et sait concéder ou rectifier (zone d'exclusion aérienne, chiffre contesté des 211 milliards, accord avec Ségolène Royal sur le train de vie de l'État). Ses chiffres sont parfois gonflés ou invérifiables (« des milliers de milliards » d'achats chinois, confidences de chefs de services de renseignement, « données » non citées) et il prête volontiers des intentions à ses adversaires (gouvernement « lobbyiste » de Total, journalistes ayant « gobé » le récit macroniste)."
+    },
+    "guedj": {
+      "truth": 70,
+      "rightness": 60,
+      "sincerity": 66,
+      "comprehensibility": 76,
+      "verdict": "Jérôme Guedj apporte les réponses les plus concrètes aux citoyens (la « contemporanéisation des ressources » pour Johanna, des économies ciblées dans l'assurance maladie pour Nina) et défend avec constance la norme universaliste contre toute essentialisation. Mais il recourt aussi à des étiquettes disqualifiantes envers son propre camp (« gauche inutile », « propositions farfelues », « soumission à la France insoumise ») qui ferment la discussion plus qu'elles ne l'argumentent."
+    },
+    "maurel": {
+      "truth": 60,
+      "rightness": 74,
+      "sincerity": 76,
+      "comprehensibility": 70,
+      "verdict": "Emmanuel Maurel est le candidat le plus tourné vers l'entente : il concède à Guedj que les « blagues » de Mélenchon sont « scandaleuses », reconnaît une « faute politique » et invite le plateau à se définir par ses idées plutôt que contre LFI. Ses affirmations factuelles sont en revanche parfois approximatives ou posées comme évidentes (« C'est 25 %. Tout le monde le sait. », « la pression des Allemands »), et il lui arrive de dresser un constat général au lieu de répondre à la question posée."
+    },
+    "royal": {
+      "truth": 45,
+      "rightness": 51,
+      "sincerity": 50,
+      "comprehensibility": 58,
+      "verdict": "Ségolène Royal porte des mesures lisibles (essence à 1,70 €, « C'est non » à l'annulation de la dette) et répond parfois de front aux objections, mais ses chiffrages se contredisent (35 à 40 milliards pour l'essence, puis « à peu près le même prix » qu'un ISF de 3 à 4 milliards) et plusieurs affirmations sont invérifiables (casques bleus qui auraient évité la guerre). Elle dépasse régulièrement son temps, esquive par de longues tirades, nie la portée de ses propres propos (« Il ne faut pas caricaturer la pensée des autres ») et conteste la légitimité de Glucksmann plutôt que ses arguments."
+    }
+  },
+  "moments": [
+    {
+      "id": "hab-001",
+      "segmentId": "s064",
+      "speaker": "guedj",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "Disqualifie une « gauche inutile » sans argument",
+      "note": "Dès son introduction, Jérôme Guedj renvoie une partie de son propre camp à « cette gauche inutile du bruit de la fureur » : l'étiquette tient lieu de critique et vise un absent qui ne peut pas répondre."
+    },
+    {
+      "id": "hab-002",
+      "segmentId": "s259",
+      "speaker": "guedj",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Précédent historique daté : le décret Rocard",
+      "note": "Pour défendre le plafonnement des marges, il cite un précédent précis et vérifiable (invasion du Koweït le 2 août 1990, décret le 8 août), puis précise qu'aujourd'hui la concentration des marges se situe au niveau du raffinage."
+    },
+    {
+      "id": "hab-003",
+      "segmentId": "s290",
+      "speaker": "royal",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Répond sur le fond à l'objection de Glucksmann",
+      "note": "Plutôt que d'ignorer la critique des aides générales profitant aux SUV, elle y répond directement (« une partie de ceux auxquels tu penses contribueront » via l'ISF) et oppose un argument pratique : les aides ciblées sont mal perçues. Un vrai échange de raisons entre concurrents, même si son chiffre sur la moitié des éligibles n'est pas sourcé."
+    },
+    {
+      "id": "hab-004",
+      "segmentId": "s334",
+      "speaker": "faure",
+      "dimension": "sincerity",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Crédite ses concurrents de leurs propositions",
+      "note": "Relancé par Pujadas sur ce qu'il faut taxer chez Total, Olivier Faure reconnaît ses « points de convergence » et attribue le plafonnement des marges à Emmanuel Maurel et Jérôme Guedj ; il reprendra de même le « grand emprunt vert » de Maurel. Dans une primaire, créditer ses rivaux plutôt que s'approprier leurs idées est un signe de coopération."
+    },
+    {
+      "id": "hab-005",
+      "segmentId": "s386",
+      "speaker": "maurel",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Confronte les propositions à l'ordre de grandeur",
+      "note": "Emmanuel Maurel oppose aux mesures de ses concurrents un argument d'échelle : un ISF à 5 milliards ou une taxe à 10 milliards ne financeront pas l'électrification du pays. Il discute les chiffres des autres au lieu de simplement juxtaposer son programme."
+    },
+    {
+      "id": "hab-006",
+      "segmentId": "s437",
+      "speaker": "royal",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Contrefactuel invérifiable sur les casques bleus",
+      "note": "Elle affirme que « cette guerre aurait pu ne pas exister » si elle avait demandé des casques bleus à la frontière : une hypothèse invérifiable présentée comme une certitude, qui ignore qu'un tel déploiement suppose un vote du Conseil de sécurité où la Russie dispose d'un droit de veto."
+    },
+    {
+      "id": "hab-007",
+      "segmentId": "s530",
+      "speaker": "maurel",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "Un constat général au lieu d'une réponse",
+      "note": "Interrogé sur le financement de l'effort ukrainien, il énumère les nationalismes du monde (Poutine, Trump, Netanyahou) jusqu'à ce que David Pujadas le relance (« je voudrais vous demander votre vision »). La question précise de Léandre reste sans réponse chiffrée."
+    },
+    {
+      "id": "hab-008",
+      "segmentId": "s580",
+      "speaker": "glucksmann",
+      "dimension": "sincerity",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Concède et reformule sur la zone d'exclusion aérienne",
+      "note": "Interpellé par Guedj, il reconnaît qu'une « no fly zone » impliquerait d'intercepter des avions russes, « confrontation » que personne ne veut, et resserre sa proposition sur des intercepteurs de missiles et de drones. Le désaccord est traité par la clarification plutôt que par l'esquive."
+    },
+    {
+      "id": "hab-009",
+      "segmentId": "s680",
+      "speaker": "faure",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 3,
+      "title": "Justifie « génocide » par la convention de 1948",
+      "note": "Face à Jérôme Guedj qui s'en tient aux termes « que la justice consacre », il argumente sa qualification à partir des critères de la convention de 1948, conçue pour prévenir et non pour constater après coup. Une norme contestée est discutée à partir d'un texte commun, en laissant l'autre finir (« je te laisse finir »)."
+    },
+    {
+      "id": "hab-010",
+      "segmentId": "s758",
+      "speaker": "royal",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Assigne aux voix juives un devoir particulier",
+      "note": "Après avoir imputé la montée de l'antisémitisme aux « actuels dirigeants d'Israël », elle souhaite « plus de voix israéliennes et juives » pour la freiner. Faire dépendre la lutte contre l'antisémitisme de la parole des juifs en tant que tels revient à les essentialiser, ce que Guedj relève aussitôt."
+    },
+    {
+      "id": "hab-011",
+      "segmentId": "s767",
+      "speaker": "guedj",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 3,
+      "title": "Refuse l'essentialisation au nom de l'universalisme",
+      "note": "Jérôme Guedj conteste en direct l'« injonction » faite aux juifs de se justifier du gouvernement israélien et rappelle qu'on n'a pas demandé aux musulmans de se désolidariser de Daech. Il invoque une norme que tous peuvent partager, l'universalisme républicain, et Glucksmann puis Faure s'y rallient."
+    },
+    {
+      "id": "hab-012",
+      "segmentId": "s838",
+      "speaker": "glucksmann",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Rectifie Faure sur la CPI, faits à l'appui",
+      "note": "Il corrige l'argument de Faure : la justice internationale ne s'était pas saisie du cas ouïghour, tandis que la CPI a visé Netanyahou pour crimes de guerre et crimes contre l'humanité sans retenir le terme de génocide. Il propose ensuite de « s'accorder » sur les actions plutôt que sur les mots."
+    },
+    {
+      "id": "hab-013",
+      "segmentId": "s854",
+      "speaker": "maurel",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Retourne l'exigence de responsabilité vers soi",
+      "note": "À la question « à qui vous adressez-vous ? », Emmanuel Maurel répond « à nous-même » : la vigilance sur les mots et les émotions incombe d'abord aux candidats. Il ramène un échange tendu à une norme commune plutôt qu'à la faute d'un adversaire."
+    },
+    {
+      "id": "hab-014",
+      "segmentId": "s940",
+      "speaker": "maurel",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "« Tout le monde le sait » comme preuve",
+      "note": "Il oppose une inflation « facialement » de 2 à 2,5 % à une hausse alimentaire de « 25 % » sans préciser la période : un taux annuel et un cumul pluriannuel sont mis sur le même plan, et l'évidence supposée remplace la source."
+    },
+    {
+      "id": "hab-015",
+      "segmentId": "s1028",
+      "speaker": "glucksmann",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Interroge Johanna avant de lui répondre",
+      "note": "Au lieu d'enchaîner sur son programme, il demande à la citoyenne comment elle fera garder ses enfants si elle travaille dans la restauration, puis construit sa réponse (un statut pour les familles monoparentales) à partir de ce qu'elle décrit. Une réponse ancrée dans la situation réelle de l'interlocutrice."
+    },
+    {
+      "id": "hab-016",
+      "segmentId": "s1122",
+      "speaker": "faure",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Cite ses sources et la fourchette d'estimations",
+      "note": "Sur les aides publiques aux entreprises, il reprend le chiffre avancé par Royal et celui de 211 milliards du rapport sénatorial de Fabien Gay (« Fabien Guayet » dans les sous-titres). Signaler la pluralité des estimations et leur origine rend l'affirmation discutable, au bon sens du terme."
+    },
+    {
+      "id": "hab-017",
+      "segmentId": "s1147",
+      "speaker": "guedj",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Répond précisément au problème concret de Johanna",
+      "note": "Il nomme le mécanisme qui pénalise la citoyenne, la « contemporanéisation des ressources », et l'explique simplement : ses aides sont calculées sur l'avis d'imposition de l'année précédente. C'est la réponse la plus directe de la soirée à une question citoyenne, même si le chiffrage improvisé de 1 500 € d'économie qui suit reste invérifiable."
+    },
+    {
+      "id": "hab-018",
+      "segmentId": "s1256",
+      "speaker": "royal",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Un « C'est non » net sur l'annulation",
+      "note": "Relancée par Pujadas, elle répond clairement à Nina qu'il ne faut pas annuler la dette et explique pourquoi : qui la détient (environ 18 % la BCE, 60 % des investisseurs internationaux) et l'effet d'une telle annonce sur les taux d'intérêt."
+    },
+    {
+      "id": "hab-019",
+      "segmentId": "s1268",
+      "speaker": "royal",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 3,
+      "title": "Chiffrages contradictoires : 35 milliards ou 4 ?",
+      "note": "L'ISF financier rapporterait « entre 3 et 4 milliards » et financerait l'essence à 1,70 €, « à peu près le même prix », alors qu'elle estimait elle-même ce coût à « 35 à 40 milliards ». Le montant des aides aux entreprises varie aussi chez elle de 150 à 170 puis « 160 ou un peu plus de 200 » milliards, ce qui fragilise l'ensemble de son chiffrage."
+    },
+    {
+      "id": "hab-020",
+      "segmentId": "s1332",
+      "speaker": "maurel",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Explique clairement le rôle de la BCE",
+      "note": "Après avoir écarté l'annulation (« il s'agit pas d'annuler la dette »), il explique la fin du renouvellement des titres de dette par la BCE et son effet sur les intérêts. Une réponse directe à Nina, qui distingue un désaccord de politique monétaire d'un slogan."
+    },
+    {
+      "id": "hab-021",
+      "segmentId": "s1394",
+      "speaker": "faure",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Répond à Nina par l'exemple espagnol chiffré",
+      "note": "À l'inquiétude de l'entrepreneuse sur la hausse du SMIC, il oppose un cas vérifiable : environ +60 % de salaire minimum en Espagne en huit ans et 2,5 millions d'emplois créés depuis 2018. Les ordres de grandeur sont justes, même si le lien de causalité reste débattu."
+    },
+    {
+      "id": "hab-022",
+      "segmentId": "s1482",
+      "speaker": "glucksmann",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "« Des milliers de milliards » d'achats chinois",
+      "note": "L'ordre de grandeur est très exagéré : les importations de l'Union européenne en provenance de Chine avoisinent 500 milliards d'euros par an, celles de la France quelques dizaines de milliards. L'hyperbole sert le récit de la désindustrialisation au détriment de l'exactitude."
+    },
+    {
+      "id": "hab-023",
+      "segmentId": "s1507",
+      "speaker": "guedj",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "« Propositions farfelues » : l'étiquette remplace l'argument",
+      "note": "Il refuse de « perdre de temps à commenter des propositions farfelues » (visant implicitement LFI) et se pose en « gauche crédible et pas soumise » : une disqualification sans examen. Il enchaîne heureusement sur une réponse concrète à Nina (justice fiscale, économies dans l'assurance maladie)."
+    },
+    {
+      "id": "hab-024",
+      "segmentId": "s1706",
+      "speaker": "faure",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Esquive la question des alliances avec LFI",
+      "note": "Interrogé par Marion Mourgue sur une alliance aux législatives, il plaide pour les convergences avec les insoumis tout en répétant « je ne parle pas d'alliance ». Glucksmann le relève (« tu n'as pas été capable de dire que tu ne voulais pas d'alliance ») et Faure ne l'assume qu'en conclusion (« Et moi, je le concevrai »)."
+    },
+    {
+      "id": "hab-025",
+      "segmentId": "s1738",
+      "speaker": "glucksmann",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Réponse nette : pas d'alliance aux législatives",
+      "note": "Il répond sans détour à la question de Marion Mourgue : pas d'alliance avec La France insoumise, ni à la présidentielle ni aux législatives. Il justifie ce choix par une stratégie explicite, conquérir des électeurs qui refusent cette alliance."
+    },
+    {
+      "id": "hab-026",
+      "segmentId": "s1801",
+      "speaker": "royal",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Conteste la légitimité plutôt que l'argument",
+      "note": "Elle répond à Glucksmann en lui déniant le droit de parler de refondation (« c'est grâce au parti socialiste que vous avez été tête de liste »), puis réduit le choix à un accord avec LFI ou avec la droite. Procès en légitimité et faux dilemme remplacent la discussion de ses raisons."
+    },
+    {
+      "id": "hab-027",
+      "segmentId": "s1868",
+      "speaker": "guedj",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 3,
+      "title": "Accuse ses rivaux de « soumission » à LFI",
+      "note": "Il accuse ses concurrents de se glisser « dans la soumission à la France insoumise » : Ségolène Royal y voit une insulte et l'échange bascule dans les interruptions croisées. Un désaccord stratégique légitime est formulé comme une faute morale de l'adversaire."
+    },
+    {
+      "id": "hab-028",
+      "segmentId": "s1921",
+      "speaker": "maurel",
+      "dimension": "sincerity",
+      "polarity": "positive",
+      "weight": 3,
+      "title": "Concède à Guedj : « c'est scandaleux »",
+      "note": "Ancien proche de Mélenchon, il reconnaît que ses blagues sur les noms sont « scandaleuses » (« Je suis d'accord avec toi ») et approuve quand Pujadas qualifie la NUPES de « faute politique ». Il maintient pourtant sa position sur le rassemblement face à l'extrême droite : concéder sans se renier, c'est le cœur de l'éthique de la discussion."
+    },
+    {
+      "id": "hab-029",
+      "segmentId": "s1960",
+      "speaker": "glucksmann",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "Des « données » jamais précisées",
+      "note": "Pour affirmer qu'une alliance avec LFI fait perdre au second tour, il invoque des « données » non citées et ce que disent les gens « sur les marchés ». L'affirmation est peut-être défendable, mais elle est présentée comme établie sans aucune source."
+    },
+    {
+      "id": "hab-030",
+      "segmentId": "s1997",
+      "speaker": "faure",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Une prédiction présentée comme une certitude",
+      "note": "« Tout le monde sait que Jean-Luc Mélenchon ne sera jamais président » : une prévision électorale devient une évidence partagée, qui lui permet d'écarter l'objection de ses concurrents (« cessez cette obsession ») sans y répondre."
+    }
+  ],
+  "ideal_speech": {
+    "equal_participation": {
+      "score": 72,
+      "note": "Temps de parole mesuré sur les sous-titres : Ségolène Royal 33,5 min (20,7 % du temps des candidats), Jérôme Guedj 33,1 min (20,4 %), Emmanuel Maurel 33,1 min (20,4 %), Olivier Faure 32,9 min (20,3 %), Raphaël Glucksmann 29,5 min (18,2 %) ; animation 25,5 min, citoyens 10,4 min. Le chronométrage rappelé par David Pujadas garantit un équilibre réel, mais Ségolène Royal double sa minute d'introduction et est reprise plusieurs fois, et la séquence sur les alliances multiplie les prises de parole croisées (« tu interromps et tu ne laisses pas parler », « je suis une femme mais vous me laissez parler »)."
+    },
+    "no_coercion": {
+      "score": 63,
+      "note": "Ni intimidation ni menace, et un ton globalement courtois entre camarades. La contrainte passe par des étiquettes disqualifiantes (« gauche inutile », « propositions farfelues », « soumission à la France insoumise », « obsession »), des procès en légitimité (« c'est grâce au parti socialiste que vous avez été tête de liste ») et quelques arguments d'autorité (réunion « dans un bunker » avec les services de renseignement, présidence de la COP 21)."
+    },
+    "argument_over_power": {
+      "score": 64,
+      "note": "Les meilleurs moments sont de vrais échanges de raisons : zone d'exclusion aérienne (Guedj et Glucksmann), qualification de génocide (convention de 1948 contre CPI), aides ciblées ou générales, essentialisation des juifs, avec des concessions explicites (Glucksmann à Royal sur le train de vie de l'État, Maurel à Guedj sur Mélenchon). Les questions des citoyens reçoivent souvent des réponses concrètes (Johanna, Nina) mais servent aussi de tremplin au programme, et le débat sur LFI tourne au positionnement stratégique plus qu'à la recherche d'un accord."
+    },
+    "overall": {
+      "score": 63,
+      "verdict": "Pendant plus de deux heures, ce débat s'approche honorablement de la situation idéale de parole : temps de parole équilibré, questions citoyennes réellement traitées, désaccords argumentés entre candidats du même camp et concessions explicites. La séquence sur les alliances avec LFI inverse la logique : étiquettes (« soumission », « obsession »), procès en légitimité et esquives remplacent les arguments, et chacun parle davantage pour se distinguer que pour convaincre. Au sens de Habermas, c'est un débat délibératif de bonne tenue sur le fond programmatique, mais la logique stratégique d'une primaire à gagner finit par l'emporter sur la recherche d'une entente."
+    }
+  }
+}

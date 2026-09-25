@@ -1,0 +1,294 @@
+{
+  "dimensions": {
+    "truth": "Vérité : les faits avancés sont-ils exacts ?",
+    "rightness": "Justesse : les normes invoquées sont-elles légitimes et discutées ?",
+    "sincerity": "Sincérité : le locuteur croit-il ce qu'il dit, sans manipulation ?",
+    "comprehensibility": "Intelligibilité : le propos est-il clair et compréhensible ?"
+  },
+  "speakers": {
+    "bompard": {
+      "truth": 64,
+      "rightness": 72,
+      "sincerity": 66,
+      "comprehensibility": 82,
+      "verdict": "Bompard construit un réquisitoire ordonné et largement sourcé : il s'appuie sur des autorités extérieures (ONU, Défenseur des droits, précédent britannique), délimite lui-même sa thèse (« Il s'agit pas de dire que l'ensemble des policiers sont racistes ») et avance deux propositions institutionnelles précises, ce qui en fait le locuteur le plus intelligible du débat. Sa faiblesse est ailleurs : chiffres forcés (« contrôler 10 15 20 fois dans la journée »), disqualification généalogique de la loi (« issue du programme du Front National ») et insinuations invérifiables (« bizarrement les vidéos de cette caméra, elles ont été effacé ») qui convertissent le soupçon en preuve, pendant que plusieurs objections factuelles du ministre restent sans réponse."
+    },
+    "nunez": {
+      "truth": 66,
+      "rightness": 54,
+      "sincerity": 55,
+      "comprehensibility": 64,
+      "verdict": "Nuñez apporte les corrections les plus utiles de l'échange — le cas de Carcassonne concerne « un policier municipal », l'IGPN est « dirigé comme l'IGGN d'ailleurs maintenant par des magistrats », et le texte crée « une présomption d'usage légitime de l'arme » et non une présomption de légitime défense — et il concède d'emblée que des comportements racistes existent dans la police et sont sanctionnés. Mais il referme la discussion normative plus qu'il ne l'ouvre : universels invérifiables (« toujours dans un cadre légal »), chiffres opposés sans jamais être produits et travaux de recherche disqualifiés en bloc, procès d'intention (« Pourquoi vous essayez de faire croire autre chose ? ») et ridicule (« le monde des bisous nours »), jusqu'à faire de la critique elle-même une faute contre l'apaisement."
+    }
+  },
+  "moments": [
+    {
+      "id": "hab-001",
+      "segmentId": "s011",
+      "speaker": "bompard",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Ouvre en citant des sources externes",
+      "note": "Il adosse son accusation à des instances identifiables — l'ONU au segment précédent, puis « un certain nombre de défenseurs des droits » — et donne un ordre de grandeur chiffré (« 20 fois plus de chances de se faire contrôler »). La prétention à la vérité est explicitement offerte à la vérification, même si l'attribution du chiffre reste approximative."
+    },
+    {
+      "id": "hab-002",
+      "segmentId": "s014",
+      "speaker": "bompard",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Délimite sa thèse avant d'être contredit",
+      "note": "« Il s'agit pas de dire que l'ensemble des policiers sont racistes » : il restreint de lui-même la portée de la norme qu'il invoque, ce qui rend la critique discutable au lieu de la rendre totale. C'est exactement le geste qu'une discussion argumentée exige : formuler une prétention assez précise pour pouvoir être réfutée."
+    },
+    {
+      "id": "hab-003",
+      "segmentId": "s024",
+      "speaker": "nunez",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Prête une généralisation qui vient d'être écartée",
+      "note": "Bompard vient de dire qu'il ne vise pas tous les policiers ; Nuñez lui oppose malgré tout le slogan « la police tue » pour conclure à « une généralisation chez la France insoumise ». Il répond à une position reconstruite plutôt qu'à celle qui a été énoncée devant lui."
+    },
+    {
+      "id": "hab-004",
+      "segmentId": "s026",
+      "speaker": "nunez",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Concède l'existence de comportements racistes",
+      "note": "« il y a évidemment parfois des comportements qui sont des comportements racistes dans la police, dans la gendarmerie, qui sont sanctionnés » : il ne nie pas le fait établi et il précise, au segment suivant, que l'agent de Carcassonne est un policier municipal. La concession est réelle, même si le qualificatif « très minoritaires » est posé sans chiffre."
+    },
+    {
+      "id": "hab-005",
+      "segmentId": "s030",
+      "speaker": "nunez",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Un universel invérifiable martelé deux fois",
+      "note": "« ce sont des contrôles qui s'effectuent toujours dans un cadre légal », répété tel quel au segment suivant : l'affirmation porte sur la totalité des contrôles et ne peut être ni vérifiée ni discutée. La répétition remplace ici la justification, alors que des décisions de justice ont reconnu des contrôles discriminatoires."
+    },
+    {
+      "id": "hab-006",
+      "segmentId": "s036",
+      "speaker": "nunez",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Écarte le récépissé sur un motif opérationnel",
+      "note": "La proposition est rejetée parce qu'elle « viendrait complètement gripper le fonctionnement des services de police », sans que soit examinée la question normative qui la motive, la discrimination. Un obstacle d'exécution est substitué à la discussion de la norme elle-même."
+    },
+    {
+      "id": "hab-007",
+      "segmentId": "s043",
+      "speaker": "bompard",
+      "dimension": "truth",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Précédent britannique cité avec prudence",
+      "note": "Il oppose à l'objection opérationnelle un cas comparable — « ce système il existe par exemple dans la police britannique » — et mesure lui-même l'effet annoncé : « pas de les effacer complètement mais de réduire ». L'argument est falsifiable et calibré ; il restera pourtant sans réponse du ministre."
+    },
+    {
+      "id": "hab-008",
+      "segmentId": "s051",
+      "speaker": "bompard",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Impute au ministre une intention de couvrir",
+      "note": "« votre première réaction de couvrir, c'est de protéger » : il passe du constat d'un délai de réaction à l'attribution d'un mobile, que rien dans l'échange n'établit. Le procès d'intention déplace le désaccord des faits vers la personne."
+    },
+    {
+      "id": "hab-009",
+      "segmentId": "s059",
+      "speaker": "bompard",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Chiffre forcé présenté comme évident",
+      "note": "« des gens qui n'ont rien à se reprocher qui se retrouvent contrôler 10 15 20 fois dans la journée » : l'échelle avancée, à la journée, dépasse largement ce que documentent les enquêtes sur les contrôles répétés. L'exagération affaiblit une démonstration qui reposait jusque-là sur des sources."
+    },
+    {
+      "id": "hab-010",
+      "segmentId": "s063",
+      "speaker": "nunez",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Indépendance de l'IGPN close par l'expérience personnelle",
+      "note": "Après avoir signalé, à juste titre, que l'IGPN est dirigée par des magistrats, il conclut « il y a toutes les garanties d'indépendance » et l'appuie sur sa carrière : « j'ai connu pas mal dans ma carrière d'enquête de l'IGPN ». La compétence du locuteur est mobilisée comme preuve, ce qui soustrait la norme contestée à l'examen."
+    },
+    {
+      "id": "hab-011",
+      "segmentId": "s065",
+      "speaker": "bompard",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 1,
+      "title": "Refuse la réponse sans la discuter",
+      "note": "« vous convaincrerez personne, en tout cas, vous me convaincrerez pas moi » : l'argument précis du ministre — des magistrats à la tête des inspections, des enquêtes sous autorité du parquet — n'est à aucun moment contredit sur le fond. L'incrédulité affichée tient lieu de réfutation."
+    },
+    {
+      "id": "hab-012",
+      "segmentId": "s084",
+      "speaker": "nunez",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 3,
+      "title": "Fait de la critique une atteinte à l'apaisement",
+      "note": "« on a une responsabilité de ce point de vue, c'est jouer l'apaisement » et dire que la police est raciste « ne contribue pas à l'apaisement » : la question posée n'est plus celle de la validité de la critique mais de ses effets sur l'ordre public. C'est la forme la plus coercitive du débat, car elle délégitime la prise de parole adverse indépendamment de ce qu'elle vaut."
+    },
+    {
+      "id": "hab-013",
+      "segmentId": "s089",
+      "speaker": "bompard",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Disqualifie la loi par sa généalogie supposée",
+      "note": "Rattacher la mesure à « une proposition qui est issue du programme du Front National de Jean-Marie Le Pen » est une filiation historiquement contestable, et surtout sans effet sur la validité du texte discuté. L'origine attribuée sert à condamner la mesure sans l'examiner."
+    },
+    {
+      "id": "hab-014",
+      "segmentId": "s091",
+      "speaker": "bompard",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Explique la mesure aux auditeurs",
+      "note": "Après avoir demandé « Qu'est-ce que ça veut dire très concrètement ? », il déroule le mécanisme qu'il dénonce en termes accessibles, du tir policier à l'ouverture d'enquête. La clarté profite à l'auditeur même si sa description de l'automaticité de l'enquête sera aussitôt contestée."
+    },
+    {
+      "id": "hab-015",
+      "segmentId": "s103",
+      "speaker": "bompard",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Traduit le slogan en question discutable",
+      "note": "Pressé par le modérateur sur le caractère systémique du slogan, il reformule sans dérober : « La question est de savoir si quand la police tue, elle le fait dans les règles qui sont les règles prévues par la déontologie. » L'énoncé polémique est traduit en prétention discutable."
+    },
+    {
+      "id": "hab-016",
+      "segmentId": "s109",
+      "speaker": "nunez",
+      "dimension": "comprehensibility",
+      "polarity": "positive",
+      "weight": 3,
+      "title": "Rectifie la qualification juridique du texte",
+      "note": "« ça n'est pas une présomption légitime défense c'est une présomption d'usage légitime de l'arme » : c'est la clarification conceptuelle la plus utile de l'émission, et elle porte sur le cœur même du désaccord. Il rappelle ensuite les critères — « Absolue nécessité, proportionnalité » — et le caractère simple, donc réfragable, de la présomption."
+    },
+    {
+      "id": "hab-017",
+      "segmentId": "s110",
+      "speaker": "bompard",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Coupe l'explication par un slogan",
+      "note": "« C'est un permis de tuer » est lancé au milieu de la distinction juridique que le ministre est en train d'établir. L'interruption ramène à la formule militante au moment précis où l'échange devenait technique et vérifiable."
+    },
+    {
+      "id": "hab-018",
+      "segmentId": "s117",
+      "speaker": "nunez",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Traite les chiffres adverses de « farfelus »",
+      "note": "Il qualifie les données avancées à l'Assemblée de « farfelus farfelus » et affirme que l'usage des armes « a baissé » depuis 2017, sans produire un seul chiffre ni une seule référence. L'évaluation de la prétention devient impossible pour l'auditeur, alors que l'évolution des tirs après refus d'obtempérer est précisément disputée."
+    },
+    {
+      "id": "hab-019",
+      "segmentId": "s122",
+      "speaker": "nunez",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Écarte en bloc chercheurs et sociologues",
+      "note": "« C'est pas des chiffres des chercheurs des des sociologues », opposé aux chiffres « des deux inspections générales » : une source est disqualifiée par sa catégorie et non par une erreur identifiée. L'autorité administrative est posée comme supérieure au travail scientifique, ce qui ferme la vérification plutôt que de l'ouvrir."
+    },
+    {
+      "id": "hab-020",
+      "segmentId": "s128",
+      "speaker": "nunez",
+      "dimension": "sincerity",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Suppose la mauvaise foi de l'adversaire",
+      "note": "« Pourquoi vous essayez de faire croire autre chose ? » suppose acquis que Bompard sait le contraire de ce qu'il soutient. La discussion glisse de la validité de l'énoncé à l'honnêteté supposée de celui qui l'énonce."
+    },
+    {
+      "id": "hab-021",
+      "segmentId": "s137",
+      "speaker": "bompard",
+      "dimension": "truth",
+      "polarity": "negative",
+      "weight": 2,
+      "title": "Insinuation répétée sur un dossier judiciaire",
+      "note": "« bizarrement il y avait une caméra... et bizarrement les vidéos de cette caméra, elles ont été effacé » : l'adverbe répété installe l'idée d'une dissimulation organisée sans que rien ne l'établisse à l'antenne. Le soupçon, légitime comme question, est présenté comme un fait acquis."
+    },
+    {
+      "id": "hab-022",
+      "segmentId": "s152",
+      "speaker": "nunez",
+      "dimension": "sincerity",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "Reconnaît ne pas connaître le dossier",
+      "note": "« Moi je connais pas exactement les dysfonctionnements dont vous parlez » : plutôt que d'improviser une réponse, il avoue une limite de son information. La franchise est réelle, mais il enchaîne aussitôt sur d'autres affaires « allées au bout », ce qui laisse le cas soulevé sans traitement."
+    },
+    {
+      "id": "hab-023",
+      "segmentId": "s156",
+      "speaker": "nunez",
+      "dimension": "rightness",
+      "polarity": "negative",
+      "weight": 3,
+      "title": "Ridiculise l'adversaire plutôt que son programme",
+      "note": "« Vous êtes dans le monde des bisous nours » suit immédiatement « vous êtes plus dans le monde du réel » : le programme adverse est renvoyé à l'enfance au lieu d'être discuté point par point. Le ridicule est une contrainte exercée sur le débat, pas un argument."
+    },
+    {
+      "id": "hab-024",
+      "segmentId": "s175",
+      "speaker": "bompard",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 2,
+      "title": "Oppose une doctrine alternative, pas un refus",
+      "note": "Il assume une norme de rechange — redéploiement en police de proximité, maintien de l'ordre fondé « sur la méthode de la désescalade » — et l'appuie sur l'expérience d'autres pays européens. La prétention reste peu sourcée, mais elle est formulée comme une proposition discutable et non comme une dénonciation."
+    },
+    {
+      "id": "hab-025",
+      "segmentId": "s176",
+      "speaker": "nunez",
+      "dimension": "rightness",
+      "polarity": "positive",
+      "weight": 1,
+      "title": "Répond directement sur la désescalade",
+      "note": "« la désescalade, ça vous savez très bien que nous l'appliquons » : il prend l'argument tel qu'il vient d'être posé et le conteste frontalement, au lieu de changer de terrain. La réponse arrive toutefois à la toute fin, sans que le désaccord factuel puisse être tranché."
+    }
+  ],
+  "ideal_speech": {
+    "equal_participation": {
+      "score": 62,
+      "note": "Le modérateur organise explicitement l'alternance (« Je vous laisse la parole », « Réponse de Laurent Lunis à Emmanuel Bonpard ») et chacun obtient de longues séquences continues, ce qui place ce débat au-dessus de la moyenne du genre. Mais les interruptions sont nombreuses et croisées (s110, s121, s157, s162-s165), Bompard doit réclamer son temps pour exposer son propre programme (« il faut que vous puissiez répondre une minute pour parler de mon propre programme »), et le dossier qu'il apporte est écourté par le modérateur alors que le programme de LFI est, lui, introduit sous une forme choisie par la modération."
+    },
+    "no_coercion": {
+      "score": 46,
+      "note": "Aucune menace, mais une coercition discursive constante : ridicule (« le monde des bisous nours »), injonction (« Renseignez-vous »), argument d'autorité institutionnelle (les chiffres des inspections contre ceux des chercheurs) et expérience personnelle érigée en preuve d'indépendance de l'IGPN. Le plus lourd reste la mise en cause de la légitimité même de la critique, accusée de ne pas « contribuer à l'apaisement » ; côté Bompard, les procès d'intention (« votre première réaction de couvrir ») et les insinuations répétées exercent une pression symétrique, quoique moins systématique."
+    },
+    "argument_over_power": {
+      "score": 52,
+      "note": "Il existe de vraies séquences argumentatives : récépissé, objection opérationnelle, contre-exemple britannique ; slogan « la police tue » clarifié en question de proportionnalité ; distinction entre présomption de légitime défense et présomption d'usage légitime de l'arme ; désescalade contestée frontalement. Mais les meilleurs arguments de chaque camp restent orphelins — Nuñez ne répond jamais au précédent britannique ni au rapport de 1 à 20, Bompard ne répond jamais à la direction des inspections par des magistrats — et chacun dispose d'une porte de sortie récurrente, l'imputation d'intention pour l'un, la disqualification des sources pour l'autre."
+    },
+    "overall": {
+      "score": 54,
+      "verdict": "Au sens de Habermas, ce n'est qu'à moitié un bon débat : le cadre formel est honorable, puisque deux positions frontalement opposées acceptent la confrontation en direct, qu'un modérateur distribue la parole et reformule les termes, et que chacun développe des arguments construits plutôt que des formules. Mais la force du meilleur argument ne l'emporte que par intermittence : les objections les plus solides de chaque camp restent sans réponse, et l'échange bascule régulièrement du contenu vers les intentions et la personne de l'adversaire. Surtout, la coercition, pour être purement discursive, n'en est pas moins efficace — ridicule, autorité institutionnelle opposée à la recherche, et procès fait à la critique de nuire à l'apaisement ferment des questions que la discussion aurait dû maintenir ouvertes."
+    }
+  }
+}

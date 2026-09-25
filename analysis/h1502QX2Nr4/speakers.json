@@ -1,0 +1,4456 @@
+{
+  "speakers": {
+    "moderator": {
+      "name": "Sonia Delesalle-Stolper & Thomas Legrand",
+      "role": "Libération — modération",
+      "party": null,
+      "kind": "moderator"
+    },
+    "fauvelle": {
+      "name": "Marc Fauvelle",
+      "role": "Journaliste, BFMTV",
+      "party": null,
+      "kind": "moderator"
+    },
+    "ruffin": {
+      "name": "François Ruffin",
+      "role": "Député de la Somme, fondateur de Debout!, candidat à la présidentielle 2027",
+      "party": "Debout!",
+      "kind": "debater"
+    },
+    "villepin": {
+      "name": "Dominique de Villepin",
+      "role": "Ancien Premier ministre, fondateur de La France humaniste, candidat potentiel à la présidentielle 2027",
+      "party": "La France humaniste",
+      "kind": "debater"
+    }
+  },
+  "turns": [
+    {
+      "segmentId": "s001",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s002",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s003",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s004",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s005",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s006",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s007",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s008",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s009",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s010",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s011",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s012",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s013",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s014",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s015",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s016",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s017",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s018",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s019",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s020",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s021",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s022",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s023",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s024",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s025",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s026",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s027",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s028",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s029",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s030",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s031",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s032",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s033",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s034",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s035",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s036",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s037",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s038",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s039",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s040",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s041",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s042",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s043",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s044",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s045",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s046",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s047",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s048",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s049",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s050",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s051",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s052",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s053",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s054",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s055",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s056",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s057",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s058",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s059",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s060",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s061",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s062",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s063",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s064",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s065",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s066",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s067",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s068",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s069",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s070",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s071",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s072",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s073",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s074",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s075",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s076",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s077",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s078",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s079",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s080",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s081",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s082",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s083",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s084",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s085",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s086",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s087",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s088",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s089",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s090",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s091",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s092",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s093",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s094",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s095",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s096",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s097",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s098",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s099",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s100",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s101",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s102",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s103",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s104",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s105",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s106",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s107",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s108",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s109",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s110",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s111",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s112",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s113",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s114",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s115",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s116",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s117",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s118",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s119",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s120",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s121",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s122",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s123",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s124",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s125",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s126",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s127",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s128",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s129",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s130",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s131",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s132",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s133",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s134",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s135",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s136",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s137",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s138",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s139",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s140",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s141",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s142",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s143",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s144",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s145",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s146",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s147",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s148",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s149",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s150",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s151",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s152",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s153",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s154",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s155",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s156",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s157",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s158",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s159",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s160",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s161",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s162",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s163",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s164",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s165",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s166",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s167",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s168",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s169",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s170",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s171",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s172",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s173",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s174",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s175",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s176",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s177",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s178",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s179",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s180",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s181",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s182",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s183",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s184",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s185",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s186",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s187",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s188",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s189",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s190",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s191",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s192",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s193",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s194",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s195",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s196",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s197",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s198",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s199",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s200",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s201",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s202",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s203",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s204",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s205",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s206",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s207",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s208",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s209",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s210",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s211",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s212",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s213",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s214",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s215",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s216",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s217",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s218",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s219",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s220",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s221",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s222",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s223",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s224",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s225",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s226",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s227",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s228",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s229",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s230",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s231",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s232",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s233",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s234",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s235",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s236",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s237",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s238",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s239",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s240",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s241",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s242",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s243",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s244",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s245",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s246",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s247",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s248",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s249",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s250",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s251",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s252",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s253",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s254",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s255",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s256",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s257",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s258",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s259",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s260",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s261",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s262",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s263",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s264",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s265",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s266",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s267",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s268",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s269",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s270",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s271",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s272",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s273",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s274",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s275",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s276",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s277",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s278",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s279",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s280",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s281",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s282",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s283",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s284",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s285",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s286",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s287",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s288",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s289",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s290",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s291",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s292",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s293",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s294",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s295",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s296",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s297",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s298",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s299",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s300",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s301",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s302",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s303",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s304",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s305",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s306",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s307",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s308",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s309",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s310",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s311",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s312",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s313",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s314",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s315",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s316",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s317",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s318",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s319",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s320",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s321",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s322",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s323",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s324",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s325",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s326",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s327",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s328",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s329",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s330",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s331",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s332",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s333",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s334",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s335",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s336",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s337",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s338",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s339",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s340",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s341",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s342",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s343",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s344",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s345",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s346",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s347",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s348",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s349",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s350",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s351",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s352",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s353",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s354",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s355",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s356",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s357",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s358",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s359",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s360",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s361",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s362",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s363",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s364",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s365",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s366",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s367",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s368",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s369",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s370",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s371",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s372",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s373",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s374",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s375",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s376",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s377",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s378",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s379",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s380",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s381",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s382",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s383",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s384",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s385",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s386",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s387",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s388",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s389",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s390",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s391",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s392",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s393",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s394",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s395",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s396",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s397",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s398",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s399",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s400",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s401",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s402",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s403",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s404",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s405",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s406",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s407",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s408",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s409",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s410",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s411",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s412",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s413",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s414",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s415",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s416",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s417",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s418",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s419",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s420",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s421",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s422",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s423",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s424",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s425",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s426",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s427",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s428",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s429",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s430",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s431",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s432",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s433",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s434",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s435",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s436",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s437",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s438",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s439",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s440",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s441",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s442",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s443",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s444",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s445",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s446",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s447",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s448",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s449",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s450",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s451",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s452",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s453",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s454",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s455",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s456",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s457",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s458",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s459",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s460",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s461",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s462",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s463",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s464",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s465",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s466",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s467",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s468",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s469",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s470",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s471",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s472",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s473",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s474",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s475",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s476",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s477",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s478",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s479",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s480",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s481",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s482",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s483",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s484",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s485",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s486",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s487",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s488",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s489",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s490",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s491",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s492",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s493",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s494",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s495",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s496",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s497",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s498",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s499",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s500",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s501",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s502",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s503",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s504",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s505",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s506",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s507",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s508",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s509",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s510",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s511",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s512",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s513",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s514",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s515",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s516",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s517",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s518",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s519",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s520",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s521",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s522",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s523",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s524",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s525",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s526",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s527",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s528",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s529",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s530",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s531",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s532",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s533",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s534",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s535",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s536",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s537",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s538",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s539",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s540",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s541",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s542",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s543",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s544",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s545",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s546",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s547",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s548",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s549",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s550",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s551",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s552",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s553",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s554",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s555",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s556",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s557",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s558",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s559",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s560",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s561",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s562",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s563",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s564",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s565",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s566",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s567",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s568",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s569",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s570",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s571",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s572",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s573",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s574",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s575",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s576",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s577",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s578",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s579",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s580",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s581",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s582",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s583",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s584",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s585",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s586",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s587",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s588",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s589",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s590",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s591",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s592",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s593",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s594",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s595",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s596",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s597",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s598",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s599",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s600",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s601",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s602",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s603",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s604",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s605",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s606",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s607",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s608",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s609",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s610",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s611",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s612",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s613",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s614",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s615",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s616",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s617",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s618",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s619",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s620",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s621",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s622",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s623",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s624",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s625",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s626",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s627",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s628",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s629",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s630",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s631",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s632",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s633",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s634",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s635",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s636",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s637",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s638",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s639",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s640",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s641",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s642",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s643",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s644",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s645",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s646",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s647",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s648",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s649",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s650",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s651",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s652",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s653",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s654",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s655",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s656",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s657",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s658",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s659",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s660",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s661",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s662",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s663",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s664",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s665",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s666",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s667",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s668",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s669",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s670",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s671",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s672",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s673",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s674",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s675",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s676",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s677",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s678",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s679",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s680",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s681",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s682",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s683",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s684",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s685",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s686",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s687",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s688",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s689",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s690",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s691",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s692",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s693",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s694",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s695",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s696",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s697",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s698",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s699",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s700",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s701",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s702",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s703",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s704",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s705",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s706",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s707",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s708",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s709",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s710",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s711",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s712",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s713",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s714",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s715",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s716",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s717",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s718",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s719",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s720",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s721",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s722",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s723",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s724",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s725",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s726",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s727",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s728",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s729",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s730",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s731",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s732",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s733",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s734",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s735",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s736",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s737",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s738",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s739",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s740",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s741",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s742",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s743",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s744",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s745",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s746",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s747",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s748",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s749",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s750",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s751",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s752",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s753",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s754",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s755",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s756",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s757",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s758",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s759",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s760",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s761",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s762",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s763",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s764",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s765",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s766",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s767",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s768",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s769",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s770",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s771",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s772",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s773",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s774",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s775",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s776",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s777",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s778",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s779",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s780",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s781",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s782",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s783",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s784",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s785",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s786",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s787",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s788",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s789",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s790",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s791",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s792",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s793",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s794",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s795",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s796",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s797",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s798",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s799",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s800",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s801",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s802",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s803",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s804",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s805",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s806",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s807",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s808",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s809",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s810",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s811",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s812",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s813",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s814",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s815",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s816",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s817",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s818",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s819",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s820",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s821",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s822",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s823",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s824",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s825",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s826",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s827",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s828",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s829",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s830",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s831",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s832",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s833",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s834",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s835",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s836",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s837",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s838",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s839",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s840",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s841",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s842",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s843",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s844",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s845",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s846",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s847",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s848",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s849",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s850",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s851",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s852",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s853",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s854",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s855",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s856",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s857",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s858",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s859",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s860",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s861",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s862",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s863",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s864",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s865",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s866",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s867",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s868",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s869",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s870",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s871",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s872",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s873",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s874",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s875",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s876",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s877",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s878",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s879",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s880",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s881",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s882",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s883",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s884",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s885",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s886",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s887",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s888",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s889",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s890",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s891",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s892",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s893",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s894",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s895",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s896",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s897",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s898",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s899",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s900",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s901",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s902",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s903",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s904",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s905",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s906",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s907",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s908",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s909",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s910",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s911",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s912",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s913",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s914",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s915",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s916",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s917",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s918",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s919",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s920",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s921",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s922",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s923",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s924",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s925",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s926",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s927",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s928",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s929",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s930",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s931",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s932",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s933",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s934",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s935",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s936",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s937",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s938",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s939",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s940",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s941",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s942",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s943",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s944",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s945",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s946",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s947",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s948",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s949",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s950",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s951",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s952",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s953",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s954",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s955",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s956",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s957",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s958",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s959",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s960",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s961",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s962",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s963",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s964",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s965",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s966",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s967",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s968",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s969",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s970",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s971",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s972",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s973",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s974",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s975",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s976",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s977",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s978",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s979",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s980",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s981",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s982",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s983",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s984",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s985",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s986",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s987",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s988",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s989",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s990",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s991",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s992",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s993",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s994",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s995",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s996",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s997",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s998",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s999",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1000",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1001",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1002",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1003",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1004",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1005",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1006",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1007",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1008",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1009",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1010",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1011",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1012",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1013",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1014",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1015",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1016",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1017",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1018",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1019",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1020",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1021",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1022",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1023",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1024",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1025",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1026",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1027",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1028",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1029",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1030",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1031",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1032",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1033",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1034",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1035",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1036",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1037",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1038",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1039",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1040",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1041",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1042",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1043",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1044",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1045",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1046",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1047",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1048",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1049",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1050",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1051",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1052",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1053",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1054",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1055",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1056",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1057",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1058",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1059",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1060",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1061",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1062",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1063",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1064",
+      "speaker": "fauvelle"
+    },
+    {
+      "segmentId": "s1065",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1066",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1067",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1068",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1069",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1070",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1071",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1072",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1073",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1074",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1075",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1076",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1077",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1078",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1079",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1080",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1081",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1082",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1083",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1084",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1085",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1086",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1087",
+      "speaker": "villepin"
+    },
+    {
+      "segmentId": "s1088",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1089",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1090",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1091",
+      "speaker": "ruffin"
+    },
+    {
+      "segmentId": "s1092",
+      "speaker": "ruffin"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "c1",
+      "title": "Autodéfinition politique et CNR",
+      "start": 0.0,
+      "end": 694.6,
+      "summary": "Sonia Delesalle-Stolper ouvre la soirée Libé 2027 puis Thomas Legrand invite Villepin et Ruffin à s'autodéfinir politiquement autour de la référence commune au Conseil national de la Résistance."
+    },
+    {
+      "id": "c2",
+      "title": "Climat et écologie",
+      "start": 694.6,
+      "end": 2024.1,
+      "summary": "Villepin défend une taxe carbone et une planification écologique tandis que Ruffin promeut un « travaillisme écologique » centré sur l'isolation des passoirs thermiques."
+    },
+    {
+      "id": "c3",
+      "title": "Géopolitique et souveraineté",
+      "start": 2024.1,
+      "end": 3432.0,
+      "summary": "Les deux débattent de démondialisation et de politique commerciale face à la Chine et aux États-Unis, du rôle de la France dans le monde, de Gaza et de la colonisation."
+    },
+    {
+      "id": "c4",
+      "title": "Fiscalité et dette publique",
+      "start": 3432.0,
+      "end": 4536.7,
+      "summary": "Villepin propose un « big bang social » ouvrant les niches fiscales pendant que Ruffin dénonce la répartition capital-travail et l'opacité de la dette, avant un échange sur le CPE et les autoroutes."
+    },
+    {
+      "id": "c5",
+      "title": "Retraites, immigration et démocratie",
+      "start": 4536.7,
+      "end": 5101.2,
+      "summary": "Le débat porte sur le rapport entre pouvoir et société, la pénibilité au travail, l'immigration de travail et la crise démographique française."
+    },
+    {
+      "id": "c6",
+      "title": "Sondages et convergences avec Fauvelle",
+      "start": 5101.2,
+      "end": 5924.2,
+      "summary": "Marc Fauvelle rejoint la scène, interroge les deux hommes sur leur faible score dans les sondages, dresse la liste de leurs convergences et divergences, puis les pousse sur ce qu'ils sont prêts à sacrifier."
+    },
+    {
+      "id": "c7",
+      "title": "Qui autour de la table pour un nouveau CNR",
+      "start": 5924.2,
+      "end": 6729.4,
+      "summary": "Ruffin et Villepin débattent de qui associer à un « CNR bis » (Jancovici, Piketty, Roussel côté gauche, Borloo côté droite) et s'opposent sur la place d'Attal, Philippe ou Retailleau."
+    },
+    {
+      "id": "c8",
+      "title": "Conclusion",
+      "start": 6729.4,
+      "end": 6919.0,
+      "summary": "Les deux invités concluent sur l'espoir et le plaisir pris pendant ce débat, avant un dernier mot de chacun sur l'absence d'ambition personnelle qui l'anime."
+    }
+  ]
+}

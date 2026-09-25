@@ -1,0 +1,983 @@
+{
+  "annotations": [
+    {
+      "id": "fal-001",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s016",
+      "quote": "refuser le fatalisme et l'inévitabilité d'une extrême droite au pouvoir en mai prochain",
+      "speaker": "moderator",
+      "severity": 25,
+      "confidence": 65,
+      "title": "Cadre éditorial anti-RN posé d'emblée",
+      "explanation": "Dès l'ouverture, l'organisatrice donne au débat une finalité normative : refuser l'arrivée de l'extrême droite au pouvoir. Ce choix éditorial est assumé et légitime pour un journal, mais il installe un cadre que les deux invités partagent, si bien que cet axe ne sera jamais contradictoirement discuté. Une présentation plus neutre aurait annoncé les thèmes sans fixer l'adversaire commun.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-002",
+      "kind": "fallacy",
+      "type": "cherry_picking",
+      "label": "Sélection des faits",
+      "segmentId": "s040",
+      "quote": "Échec de la droite avec Nicolas Sarkozi, échec de la gauche avec François Hollande",
+      "speaker": "villepin",
+      "severity": 30,
+      "confidence": 45,
+      "title": "Bilan des échecs qui épargne Chirac",
+      "explanation": "L'anaphore « échec de… » dresse le bilan de trois présidences (Sarkozy, Hollande, Macron) et s'arrête commodément en 2007, laissant hors champ la présidence Chirac, dont Villepin fut secrétaire général de l'Élysée, ministre puis Premier ministre. Le découpage temporel peut se défendre, mais il permet de se placer en juge extérieur des échecs récents. Une version plus honnête aurait inclus son propre bilan ou précisé ses critères d'échec.",
+      "habermas": [
+        "truth",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-003",
+      "kind": "fallacy",
+      "type": "appeal_to_emotion",
+      "label": "Appel à l'émotion",
+      "segmentId": "s052",
+      "quote": "la tragédie de la petite Liana, avec la canicule, la sécheresse, les incendies",
+      "speaker": "villepin",
+      "severity": 40,
+      "confidence": 50,
+      "title": "Amalgame de drames pour conclure à l'impuissance",
+      "explanation": "Villepin juxtapose un drame touchant une enfant, des catastrophes climatiques et le piratage de données fiscales pour conclure à « une impuissance publique totale ». La charge émotionnelle de l'énumération tient lieu de démonstration : rien n'établit que ces événements relèvent d'une même défaillance ni que l'État pouvait tous les prévenir. Il aurait fallu distinguer les cas et préciser quelle faute publique est en cause dans chacun.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-004",
+      "kind": "fallacy",
+      "type": "false_cause",
+      "label": "Fausse cause",
+      "segmentId": "s093",
+      "quote": "c'est dans ce gouffre là que c'est enquister Rassemblement national",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 50,
+      "title": "Le RN expliqué par le seul 2005",
+      "explanation": "Ruffin fait du contournement du « non » de 2005 le point de départ du « gouffre » où se serait enkysté le Rassemblement national. Le facteur est plausible, mais le présenter comme la cause principale néglige que le FN accédait déjà au second tour en 2002, et d'autres ressorts (désindustrialisation, immigration, insécurité, fractures territoriales). Il aurait été plus juste de dire que 2005 est l'un des facteurs de cette défiance.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-005",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Prétérition",
+      "segmentId": "s097",
+      "quote": "je veux pas parler pour vous hein, mais sur euh leur leur cupidité, éventuellement leur médiocrité",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Prête à Villepin sa critique des élites",
+      "explanation": "Tout en affirmant ne pas vouloir parler à sa place, Ruffin attribue à Villepin un regard critique sur la « cupidité » et la « médiocrité » des élites, l'enrôlant ainsi dans son propre diagnostic. Villepin nuancera plus tard ce diagnostic en invoquant la complexité de la décision publique. La version transparente aurait été de lui poser la question plutôt que de lui prêter cette position.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-006",
+      "kind": "fallacy",
+      "type": "straw_man",
+      "label": "Homme de paille",
+      "segmentId": "s109",
+      "quote": "parier sur la technique, parier sur l'évolution, la simple évolution technologique",
+      "speaker": "villepin",
+      "severity": 30,
+      "confidence": 45,
+      "title": "Politique climatique de Macron réduite à la technique",
+      "explanation": "Villepin résume la politique climatique d'Emmanuel Macron à un simple pari technologique, pour mieux présenter sa « grande transformation » comme la voie qui dépasse à la fois la « transition » et la « conversion ». Or ces gouvernements ont aussi adopté des normes contraignantes (loi Climat et résilience) et lancé une « planification écologique ». La critique aurait été plus solide en discutant ces politiques telles qu'elles ont été conduites.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-007",
+      "kind": "fallacy",
+      "type": "false_dilemma",
+      "label": "Faux dilemme",
+      "segmentId": "s121",
+      "quote": "sans signal prix, il ne se passera rien.",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 55,
+      "title": "Le signal prix présenté comme seul levier",
+      "explanation": "L'affirmation exclut d'emblée les normes, interdictions, investissements publics ou subventions, que Villepin propose d'ailleurs lui-même quelques instants plus tard (pacte territorial, budgets de transition des maires). Réduire l'alternative à « taxe carbone ou rien » sert à rendre sa mesure incontournable. Une formulation honnête aurait présenté le signal prix comme un levier jugé indispensable parmi d'autres.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-008",
+      "kind": "rhetoric",
+      "type": "euphemism",
+      "label": "Euphémisme",
+      "segmentId": "s145",
+      "quote": "C'est une écologie qui fera pas souffrir.",
+      "speaker": "villepin",
+      "severity": 40,
+      "confidence": 55,
+      "title": "Une taxe carbone « sans souffrance »",
+      "explanation": "Villepin promet une écologie indolore alors qu'il vient de proposer un carburant oscillant entre 1,75 et 2,50 € le litre. La redistribution intégrale annoncée peut compenser une partie des ménages, mais pas nécessairement ceux qui roulent beaucoup, objection que Ruffin soulèvera. Une présentation honnête aurait reconnu l'existence de perdants et détaillé la compensation prévue.",
+      "habermas": [
+        "sincerity",
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-009",
+      "kind": "fallacy",
+      "type": "anecdotal",
+      "label": "Preuve anecdotique",
+      "segmentId": "s157",
+      "quote": "on voit que les élites ne protègent plus",
+      "speaker": "ruffin",
+      "severity": 40,
+      "confidence": 55,
+      "title": "Quelques exemples érigés en faillite des élites",
+      "explanation": "À partir d'exemples frappants (couvertures de survie pendant la canicule, cagoules filtrantes à 80 € manquantes, sacs poubelle pendant le Covid), Ruffin conclut à une « faillite des élites », formule martelée quatre fois en quelques phrases. Ces cas illustrent des défaillances réelles mais ne suffisent pas à établir un diagnostic général sur l'ensemble des dirigeants. Une argumentation plus solide aurait évalué des politiques précises (plans canicule, moyens des services d'incendie).",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-010",
+      "kind": "rhetoric",
+      "type": "rhetorical_question",
+      "label": "Question rhétorique",
+      "segmentId": "s181",
+      "quote": "Qui a envie de se lever pour ça ?",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 70,
+      "title": "Question rhétorique contre le « vide » libéral",
+      "explanation": "Après avoir résumé l'horizon des dirigeants à « marché, compétitivité, croissance, concurrence, c'est le vide », Ruffin enchaîne deux questions dont la réponse est imposée. Le procédé est efficace pour mobiliser, mais la caricature des valeurs adverses échappe ainsi à toute discussion. Il aurait pu expliquer pourquoi ces objectifs lui paraissent insuffisants pour fédérer.",
+      "habermas": []
+    },
+    {
+      "id": "fal-011",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s201",
+      "quote": "Soit nous considérons qu'il suffit de réparer le système.",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Réparer ou changer le système : cadrage binaire",
+      "explanation": "Villepin pose l'alternative « réparer » ou « changer en profondeur » le système, et range aussitôt les propositions de Ruffin (encadrement des loyers, prime, hausse du SMIC) dans la première catégorie ; il y reviendra avec ses « propositions de réparation ». Ce cadrage le place en réformateur plus radical que son interlocuteur, alors que « changer le système » reste peu défini à ce stade. Il aurait gagné à préciser concrètement ce qui distingue les deux voies.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-012",
+      "kind": "fallacy",
+      "type": "hasty_generalization",
+      "label": "Généralisation hâtive",
+      "segmentId": "s211",
+      "quote": "toutes les autres propositions se situent dans le cadre de ce qui existe et qui n'a pas marché",
+      "speaker": "villepin",
+      "severity": 40,
+      "confidence": 60,
+      "title": "Tous les autres programmes jugés voués à l'échec",
+      "explanation": "Après avoir écarté sans examen « les deux candidats de la radicalité » et leurs propositions « hors sol », Villepin affirme que toutes les autres propositions restent dans un cadre qui a échoué. Le jugement global, sans exemple ni critère, disqualifie l'ensemble des concurrents et place sa propre offre à part. Une version honnête aurait cité des propositions précises et expliqué en quoi elles sont insuffisantes.",
+      "habermas": [
+        "truth",
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-013",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s217",
+      "quote": "Peut-être que la taxe carbone que propose Dominique de Vulpin ça vous convient pas.",
+      "speaker": "moderator",
+      "severity": 25,
+      "confidence": 65,
+      "title": "Le modérateur souffle la réponse attendue",
+      "explanation": "Plutôt que de demander son avis à Ruffin, le modérateur formule d'avance son désaccord supposé, pour susciter une confrontation après une série de convergences. La question orientée est un classique de l'animation, mais elle contraste avec l'intention affichée d'éviter la culture du clash. Une question ouverte (« que pensez-vous de cette taxe carbone ? ») aurait laissé l'invité définir sa position.",
+      "habermas": []
+    },
+    {
+      "id": "fal-014",
+      "kind": "fallacy",
+      "type": "ad_hominem",
+      "label": "Attaque personnelle",
+      "segmentId": "s230",
+      "quote": "Nous sommes dirigés par des aveugles et par des inconscients.",
+      "speaker": "ruffin",
+      "severity": 45,
+      "confidence": 60,
+      "title": "Dirigeants traités d'aveugles et d'inconscients",
+      "explanation": "Partant du « qui aurait pu prédire » d'Emmanuel Macron, Ruffin disqualifie les dirigeants en tant que personnes, puis prolonge avec l'image du président qui « fait du jet ski » pendant que « notre maison brûle ». L'attaque vise les individus plutôt que des décisions identifiables, ce que Villepin jugera « un peu facile ». Une critique plus probante aurait pointé des choix précis (plan d'adaptation, moyens budgétaires).",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-015",
+      "kind": "fallacy",
+      "type": "appeal_to_emotion",
+      "label": "Appel à l'émotion",
+      "segmentId": "s233",
+      "quote": "qu'il aille parler du catastrophisme écologique en disant on en fait trop au aux familles de pompiers",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 55,
+      "title": "Répondre à Bardella par les victimes",
+      "explanation": "Pour contrer le reproche de « catastrophisme écologique » adressé par Jordan Bardella, Ruffin enchaîne une anaphore (« qu'il aille parler… ») vers les familles de pompiers tués, les habitants évacués et les enfants privés de sport. L'image est forte et renvoie à des dommages réels, mais elle remplace l'argument par la compassion due aux victimes. Une réfutation plus rigoureuse aurait opposé des données sur le lien entre réchauffement et incendies, et sur le coût de l'inaction.",
+      "habermas": []
+    },
+    {
+      "id": "fal-016",
+      "kind": "rhetoric",
+      "type": "concession",
+      "label": "Concession",
+      "segmentId": "s256",
+      "quote": "je faisais ça un peu à la loue puis quand on m'engueulait trop",
+      "speaker": "ruffin",
+      "severity": 25,
+      "confidence": 70,
+      "title": "Aveu d'un premier chiffrage approximatif",
+      "explanation": "Ruffin reconnaît avec humour que son chiffrage initial de l'isolation des passoires thermiques était approximatif et ajusté selon les réactions, avant de l'adosser au rapport Pisani-Ferry (16 milliards pour les logements, 10 pour les bâtiments publics). L'aveu désamorce l'accusation d'improvisation et rattache la proposition à une expertise reconnue. C'est une pratique plutôt vertueuse, même si elle révèle que le premier chiffre n'était pas étayé.",
+      "habermas": [
+        "sincerity",
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-017",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Recadrage",
+      "segmentId": "s264",
+      "quote": "Je suis très tenté de suivre François Ruffin quand il dit nous sommes dirigés par des sauts.",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Des dirigeants « sots » à la complexité",
+      "explanation": "Villepin concède la tentation de la critique de Ruffin, puis déplace le problème de l'incompétence des personnes vers la « complexité de la responsabilité politique », argument recevable qui exonère aussi en partie la classe dirigeante dont il a fait partie. Au passage, il reformule « aveugles et inconscients » en « sots », glissement que Ruffin corrigera (« je les traite pas de sots »). La nuance est utile, mais il aurait pu répondre à la critique telle qu'elle a été formulée.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-018",
+      "kind": "rhetoric",
+      "type": "appeal_to_common_sense",
+      "label": "Appel au bon sens",
+      "segmentId": "s277",
+      "quote": "Vous pouvez encadrer le loyer, ça conduira à une pénurie de logement.",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 55,
+      "title": "Effet contesté présenté comme mécanique",
+      "explanation": "Visant une proposition de Ruffin, Villepin présente comme une certitude mécanique un effet économique débattu : les études sur l'encadrement des loyers aboutissent à des résultats contrastés (effet modérateur sur les loyers, effet sur l'offre discuté). L'évidence affirmée dispense d'apporter des éléments. Une version prudente aurait parlé d'un risque de réduction de l'offre, selon certains économistes.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-019",
+      "kind": "rhetoric",
+      "type": "interruption",
+      "label": "Interruption",
+      "segmentId": "s306",
+      "quote": "pour financer la solution, une taxe carbone, ça ferait du bien",
+      "speaker": "villepin",
+      "severity": 30,
+      "confidence": 70,
+      "title": "Coupe Ruffin pour retourner son argument",
+      "explanation": "Alors que Ruffin demande d'« offrir d'abord la solution » (location sociale de véhicules électriques) avant la contrainte fiscale, Villepin l'interrompt (« sauf que monsieur Ruffin ») pour retourner l'argument : il faut bien financer cette solution, et la taxe carbone le permettrait. L'interruption est vive mais pertinente, car elle met le doigt sur le financement, que Ruffin n'avait pas abordé.",
+      "habermas": []
+    },
+    {
+      "id": "fal-020",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s307",
+      "quote": "Écoutez, j'espère qu'il y aura une page fiscale.",
+      "speaker": "ruffin",
+      "severity": 40,
+      "confidence": 70,
+      "title": "Le financement renvoyé à plus tard",
+      "explanation": "Interrogé sur le financement de ses 3 millions de véhicules en location sociale, Ruffin renvoie à une future séquence sur la fiscalité sans indiquer de source de financement. Le format contraint peut expliquer ce report, mais l'objection centrale de Villepin reste sans réponse dans l'échange sur l'écologie. Il aurait pu donner au moins un ordre de grandeur et une piste de recette.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-021",
+      "kind": "fallacy",
+      "type": "hasty_generalization",
+      "label": "Généralisation hâtive",
+      "segmentId": "s335",
+      "quote": "c'est comme si on cherchait à prolonger le libre échange quand tous les autres y avaient renoncé.",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Tous les pays auraient renoncé au libre-échange",
+      "explanation": "À partir du seul exemple américain (Biden puis Trump), Ruffin affirme que « tous les autres » ont renoncé au libre-échange. Il cite pourtant lui-même, peu après, l'accord conclu avec l'Inde, et de nombreux pays continuent de signer des accords commerciaux. Il aurait été exact de dire que les États-Unis ont tourné le dos au libre-échange et que l'Europe fait figure d'exception parmi les grandes puissances occidentales.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-022",
+      "kind": "fallacy",
+      "type": "straw_man",
+      "label": "Homme de paille",
+      "segmentId": "s355",
+      "quote": "On dit \"C'est formidable ce traiter.",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 50,
+      "title": "Position de Macron sur le Mercosur caricaturée",
+      "explanation": "Ruffin décrit un double discours présidentiel : éloge du traité avec le Mercosur à Rio auprès de Lula, condamnation au Salon de l'agriculture. Or Emmanuel Macron s'est publiquement dit opposé à l'accord « en l'état », y compris lors de ses visites au Brésil. Le reproche d'un manque de combativité et d'alliances à Bruxelles peut se défendre sans attribuer au président une déclaration caricaturale.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-023",
+      "kind": "rhetoric",
+      "type": "repetition",
+      "label": "Anaphore",
+      "segmentId": "s395",
+      "quote": "Nous avons les atouts, nous avons la richesse, nous avons le statut",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 70,
+      "title": "Anaphore des atouts, faute de volonté",
+      "explanation": "L'anaphore « nous avons » énumère les atouts de la France (siège au Conseil de sécurité, dissuasion) pour conclure que seules « la volonté » et « l'imagination » font défaut. Le procédé, typique d'une rhétorique gaullienne volontariste, ramène un problème complexe à un déficit de volonté politique. Il passe ainsi sous silence les contraintes (partenaires européens, finances publiques) que Villepin évoquait lui-même quelques instants plus tôt.",
+      "habermas": []
+    },
+    {
+      "id": "fal-024",
+      "kind": "rhetoric",
+      "type": "hyperbole",
+      "label": "Hyperbole",
+      "segmentId": "s402",
+      "quote": "le Canada de Marque Carnet démontre notre lâcheté.",
+      "speaker": "ruffin",
+      "severity": 40,
+      "confidence": 55,
+      "title": "La « lâcheté » européenne face à Trump",
+      "explanation": "Ruffin qualifie de « lâcheté » la politique commerciale européenne face aux États-Unis, par contraste avec le Canada de Mark Carney. Le terme moral dramatise un désaccord stratégique, et la comparaison est sélective : le Canada a lui aussi fait des concessions, comme le retrait de sa taxe sur les services numériques en 2025. Parler de manque de fermeté aurait permis de discuter les arbitrages en jeu.",
+      "habermas": []
+    },
+    {
+      "id": "fal-025",
+      "kind": "rhetoric",
+      "type": "personal_anecdote",
+      "label": "Anecdote personnelle",
+      "segmentId": "s418",
+      "quote": "J'ai mal à ma France.",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 75,
+      "title": "« J'ai mal à ma France »",
+      "explanation": "Pour montrer que la politique étrangère touche les Français « au cœur », Ruffin rapporte la phrase d'un ouvrier dont l'usine allait fermer. Le témoignage incarne efficacement un sentiment de déclassement national, mais un cas unique ne mesure pas l'opinion. Des données d'enquête auraient étayé l'idée que ce sentiment est largement partagé.",
+      "habermas": []
+    },
+    {
+      "id": "fal-026",
+      "kind": "rhetoric",
+      "type": "repetition",
+      "label": "Anaphore",
+      "segmentId": "s425",
+      "quote": "Le nom, c'est évidemment le nom de Jacques Chirac à la guerre en Irak.",
+      "speaker": "ruffin",
+      "severity": 45,
+      "confidence": 80,
+      "title": "La lignée des « non » français",
+      "explanation": "Par l'anaphore « le non, c'est le non de… » (de Gaulle et l'OTAN, Mitterrand et la « guerre des étoiles », Chirac et l'Irak ; « nom » est une erreur de transcription), Ruffin construit une généalogie nationale du refus dans laquelle il inscrit son interlocuteur. La construction est puissante mais sélective : elle omet les épisodes d'alignement, comme la participation française à la guerre du Golfe en 1991. Elle sert d'argument d'autorité historique plus que de démonstration.",
+      "habermas": []
+    },
+    {
+      "id": "fal-027",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Culpabilité par association",
+      "segmentId": "s428",
+      "quote": "sont tous les trois passés par la French American Foundation, par le programme des Young American Leaders",
+      "speaker": "ruffin",
+      "severity": 45,
+      "confidence": 60,
+      "title": "Insinuation sur la French American Foundation",
+      "explanation": "Ruffin suggère que l'atlantisme des trois derniers présidents s'expliquerait par leur passage dans un programme de réseautage franco-américain, puis conclut « ça me pose un souci », sans établir de lien entre ce passage et leurs décisions (l'appartenance de chacun reste d'ailleurs à vérifier). L'insinuation remplace l'argument. Une critique probante aurait analysé les choix diplomatiques eux-mêmes.",
+      "habermas": [
+        "truth",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-028",
+      "kind": "rhetoric",
+      "type": "concession",
+      "label": "Concession",
+      "segmentId": "s444",
+      "quote": "Rien ne pouvait justifier la barbarie.",
+      "speaker": "villepin",
+      "severity": 30,
+      "confidence": 70,
+      "title": "Condamnation du 7 octobre avant la critique",
+      "explanation": "Avant de dénoncer le « deux poids, deux mesures » européen et l'escalade au Proche-Orient, Villepin condamne sans ambiguïté l'attaque terroriste du 7 octobre. Cette précaution oratoire rend sa critique audible et clarifie sa position morale. Le procédé est ici légitime : il distingue la condamnation d'un acte de l'évaluation de la réponse qui a suivi.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-029",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Biais rétrospectif",
+      "segmentId": "s460",
+      "quote": "il y a pas besoin d'être visionnaire pour savoir que ça allait se terminer en capilotade.",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 40,
+      "title": "Des échecs présentés comme évidents a posteriori",
+      "explanation": "Villepin présente l'échec des interventions en Libye et au Sahel comme prévisible par tous, alors que ces décisions bénéficiaient d'un large soutien au moment où elles ont été prises, et qu'il concède lui-même un « acquiescement » à l'intervention initiale sur Bamako. Rappeler ses propres mises en garde de l'époque serait légitime ; affirmer que l'issue était évidente efface l'incertitude réelle des choix. Une version plus honnête aurait distingué ce qui était prévisible de ce qui ne l'est apparu qu'ensuite.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-030",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Question fermée",
+      "segmentId": "s508",
+      "quote": "La colonisation Dominique de Villepin est-elle un crime ?",
+      "speaker": "moderator",
+      "severity": 30,
+      "confidence": 55,
+      "title": "Question-test sur la colonisation",
+      "explanation": "Le modérateur pose à Villepin seul une question fermée sur une qualification historique et juridique chargée, après avoir dit ne pas la poser à Ruffin car « tout le monde connaît la réponse ». Le procédé présume des positions et transforme la question en test de loyauté plutôt qu'en exploration des implications (politique mémorielle, relations avec l'Afrique). Une question ouverte posée aux deux invités aurait été plus équitable.",
+      "habermas": []
+    },
+    {
+      "id": "fal-031",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s509",
+      "quote": "Vous connaissez la réponse. Je l'ai je l'ai dit je l'ai dit à plusieurs reprises",
+      "speaker": "villepin",
+      "severity": 20,
+      "confidence": 45,
+      "title": "Réponse par renvoi, sans prononcer le mot",
+      "explanation": "À la question « la colonisation est-elle un crime ? », Villepin répond par renvoi à ses déclarations passées, sans prononcer le mot, puis se tourne vers la critique de la droite et son bilan de 2005. Sa position se devine (il parle de « réalité historique » à regarder en face) mais reste implicite, contrairement à Ruffin qui dira « c'est évidemment un crime ». L'esquive est légère : un « oui » explicite aurait levé toute ambiguïté.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-032",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Fausse évidence",
+      "segmentId": "s529",
+      "quote": "par définition réduire la dépense publique ça réduit la croissance",
+      "speaker": "villepin",
+      "severity": 30,
+      "confidence": 60,
+      "title": "Présente un effet débattu comme une définition",
+      "explanation": "Villepin affirme que réduire la dépense publique réduit « par définition » la croissance, et que tout redressement sans effort de croissance est « la garantie de l'échec absolu ». L'effet d'une baisse de dépenses sur l'activité est une question empirique (multiplicateurs variables selon le moment, le type de dépense, le contexte monétaire), pas une vérité définitionnelle. Une version honnête aurait été : « à court terme, une baisse de dépenses pèse souvent sur la croissance ».",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-033",
+      "kind": "fallacy",
+      "type": "straw_man",
+      "label": "Homme de paille",
+      "segmentId": "s540",
+      "quote": "on ne peut pas se contenter de dire \"On va augmenter de façon illimitée les impôts.\"",
+      "speaker": "villepin",
+      "severity": 45,
+      "confidence": 60,
+      "title": "Caricature les propositions fiscales adverses",
+      "explanation": "Villepin prête à ses adversaires l'idée d'« augmenter de façon illimitée les impôts » et range dans le même sac la taxation des riches, la critique des fonctionnaires et le discours du RN sur les immigrés, sous l'étiquette de « bouc émissaire ». Personne ne défend une hausse illimitée, et lui-même propose un impôt sur le patrimoine et sur les successions quelques phrases plus loin. Il aurait été plus juste de discuter les propositions réelles (taxe Zucman, rabot des aides) et leurs limites chiffrées.",
+      "habermas": [
+        "truth",
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-034",
+      "kind": "fallacy",
+      "type": "hasty_generalization",
+      "label": "Généralisation hâtive",
+      "segmentId": "s598",
+      "quote": "non seulement on a 1400 milliards d'euros de dette supplémentaire, mais en plus ça ne sert à rien",
+      "speaker": "ruffin",
+      "severity": 40,
+      "confidence": 60,
+      "title": "« Ça ne sert à rien » : conclusion trop large",
+      "explanation": "Ruffin tire de trois exemples (industrie, loi grand âge, climat) la conclusion que l'endettement supplémentaire « ne sert à rien ». Il reconnaît pourtant lui-même, juste après, qu'une part de cette dette vient des crises (Covid), où elle a financé chômage partiel et soutien aux entreprises. La version honnête : « cette dette a surtout financé des baisses d'impôts et des crises, trop peu l'investissement ».",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-035",
+      "kind": "fallacy",
+      "type": "cherry_picking",
+      "label": "Sélection des faits",
+      "segmentId": "s603",
+      "quote": "Non non non, c'est c'est SarkoZi et Macron.",
+      "speaker": "ruffin",
+      "severity": 40,
+      "confidence": 55,
+      "title": "Efface le quinquennat Hollande du bilan de dette",
+      "explanation": "Villepin objecte que la gauche a aussi creusé la dette (« Nicolas Sarkozy, François Hollande 1000 milliards »). Ruffin répond que ce sont Sarkozy et Macron, en retenant le quinquennat de droite hors de sa fenêtre de dix ans mais en écartant celui de Hollande, pendant lequel la dette a aussi fortement augmenté. Reconnaître la part de chaque majorité aurait renforcé plutôt qu'affaibli sa critique de la politique fiscale.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-036",
+      "kind": "rhetoric",
+      "type": "personal_anecdote",
+      "label": "Anecdote personnelle",
+      "segmentId": "s612",
+      "quote": "Quand je vais sur le parking de Décathlon qui a José qui est au rayon des chaussures de sport",
+      "speaker": "ruffin",
+      "severity": 40,
+      "confidence": 80,
+      "title": "José de Décathlon face aux dividendes Mulliez",
+      "explanation": "Ruffin incarne le partage capital-travail par des visages : les salariés d'ID Logistique qui sautent le petit-déjeuner, José qui ne part pas en vacances, face au milliard versé à la famille Mulliez. Le procédé est efficace et émouvant ; il n'est pas fallacieux ici car il est suivi de données agrégées (classement Challenges, rapport européen sur les profits), mais l'anecdote seule ne prouverait pas la tendance.",
+      "habermas": []
+    },
+    {
+      "id": "fal-037",
+      "kind": "fallacy",
+      "type": "false_cause",
+      "label": "Fausse cause (cause unique)",
+      "segmentId": "s638",
+      "quote": "en se mettant dans la mondialisation, ça a fait que on a détruit notre euh socle productif industriel",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 50,
+      "title": "Mondialisation, cause unique de « l'État subvention »",
+      "explanation": "Ruffin déroule une chaîne causale linéaire : mondialisation, désindustrialisation, chômage, puis subventions à l'industrie, à l'agriculture, aux bas salaires et au logement, jusqu'à un pays « camé aux subventions ». Chaque maillon est plausible, mais la désindustrialisation et la hausse des aides ont aussi d'autres causes (automatisation, choix de spécialisation, euro fort, vieillissement). Une formulation honnête présenterait la mondialisation comme un facteur majeur parmi d'autres.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-038",
+      "kind": "fallacy",
+      "type": "ad_hominem",
+      "label": "Empoisonnement du puits",
+      "segmentId": "s654",
+      "quote": "vous allez les voir au MEDF et ailleurs qui est ma cassette ma cassette ma cassette",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 55,
+      "title": "Disqualifie d'avance les objections patronales",
+      "explanation": "En imitant Harpagon (« ma cassette ! »), Ruffin réduit par avance toute objection du patronat à un impôt sur le patrimoine à de l'avarice. Les objections sont ainsi discréditées par le motif prêté à leurs auteurs avant même d'être formulées. Une version honnête aurait nommé les arguments attendus (fuite des capitaux, compétitivité, liquidité) et y aurait répondu.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-039",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Recadrage",
+      "segmentId": "s663",
+      "quote": "Le CPE euh c'est bien dans l'optique de la réparation que je l'ai fait.",
+      "speaker": "villepin",
+      "severity": 40,
+      "confidence": 60,
+      "title": "Le CPE requalifié en mesure de « réparation »",
+      "explanation": "Interpellé sur le CPE, Villepin le présente comme une réponse sociale à la détresse des banlieues après 2005, et précise « je n'ai jamais été un grand libéral ». Le lien avec la crise des banlieues est réel (loi pour l'égalité des chances), mais ce recadrage laisse de côté le mécanisme contesté (licenciement sans motif pendant deux ans) qui avait provoqué la mobilisation. Une présentation complète aurait assumé à la fois l'objectif et la mesure de flexibilité.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-040",
+      "kind": "fallacy",
+      "type": "ambiguity",
+      "label": "Jeu sur les mots",
+      "segmentId": "s684",
+      "quote": "je n'ai jamais privatisé les autoroutes",
+      "speaker": "villepin",
+      "severity": 50,
+      "confidence": 70,
+      "title": "« Concession » au lieu de « privatisation »",
+      "explanation": "Villepin nie avoir « privatisé les autoroutes » et qualifie l'accusation de « mensonge éhonté », en distinguant concession et privatisation. Le réseau reste certes propriété de l'État, mais son gouvernement a cédé en 2005-2006 les participations publiques dans les sociétés concessionnaires (ASF, APRR, Sanef), opération couramment appelée privatisation. Jouer sur le mot permet de rejeter la critique sans répondre sur le fond, c'est-à-dire la vente et ses conditions.",
+      "habermas": [
+        "truth",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-041",
+      "kind": "fallacy",
+      "type": "tu_quoque",
+      "label": "Tu quoque",
+      "segmentId": "s686",
+      "quote": "nous avons terminé un processus qui avait été commencé en grande partie par la gauche et Lionel Jospin en faisait partie",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 55,
+      "title": "« La gauche avait commencé » : responsabilité diluée",
+      "explanation": "Pour répondre à la critique sur les autoroutes, Villepin rappelle que le processus avait été engagé par la gauche (Jospin, Élisabeth Borne alors conseillère). Le rappel n'est pas faux (ouverture du capital d'ASF en 2002), mais le fait que d'autres aient commencé ne répond pas à la critique de la cession complète de 2006. Il le reconnaît en partie ensuite (« l'État a été faible »), ce qui aurait suffi.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-042",
+      "kind": "rhetoric",
+      "type": "concession",
+      "label": "Concession stratégique",
+      "segmentId": "s707",
+      "quote": "croyez bien que j'ai retenu la leçon de choses et que je vous suis dans ce domaine",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 70,
+      "title": "Transforme l'échec du CPE en leçon apprise",
+      "explanation": "Villepin reconnaît avoir tiré la leçon du CPE (« écouter la rue même si la loi avait été votée ») et se range à l'avis de Ruffin sur le rapport entre pouvoir et société. La concession, sincère en apparence, retourne un échec passé en preuve d'évolution et renforce la connivence avec son interlocuteur. Elle simplifie un peu les faits : le CPE a été promulgué puis remplacé plutôt que simplement retiré.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-043",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s733",
+      "quote": "améliorer le le taux d'emploi entre 20 et 60 ans et non pas demander aux gens de travailler plus longtemps",
+      "speaker": "ruffin",
+      "severity": 40,
+      "confidence": 65,
+      "title": "Retraites recadrées en « gâchis productif »",
+      "explanation": "Interrogé sur le financement des retraites et l'immigration face au vieillissement, Ruffin répète « gâchis productif » (jeunes, seniors, handicap, femmes, étrangers, mal-travail) et conclut qu'il faut relever le taux d'emploi plutôt que l'âge de départ. C'est une vraie proposition alternative, mais le cadrage évite la question du ratio actifs/retraités et ne consacre qu'une phrase à l'immigration. Chiffrer ce que rapporterait la hausse du taux d'emploi aurait rendu la réponse vérifiable.",
+      "habermas": []
+    },
+    {
+      "id": "fal-044",
+      "kind": "rhetoric",
+      "type": "personal_anecdote",
+      "label": "Anecdote personnelle",
+      "segmentId": "s746",
+      "quote": "le diplomate comme moi qui a 72 ans peut encore faire de la course à pied 1 heure et demi par jour",
+      "speaker": "villepin",
+      "severity": 30,
+      "confidence": 80,
+      "title": "Le cariste et le diplomate joggeur",
+      "explanation": "Pour défendre la prise en compte de la pénibilité, Villepin oppose le cariste usé au diplomate de 72 ans qui court une heure et demie par jour, lui-même. L'image rend l'argument concret et désamorce par l'autodérision ; elle sert aussi, discrètement, son image de candidat en forme malgré l'âge. L'argument de fond (différencier selon la pénibilité) reste valable indépendamment de l'anecdote.",
+      "habermas": []
+    },
+    {
+      "id": "fal-045",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage",
+      "segmentId": "s778",
+      "quote": "vous représentez pas grand-chose dans l'opinion pour l'instant si l'on en croit les sondages",
+      "speaker": "moderator",
+      "severity": 35,
+      "confidence": 70,
+      "title": "Les sondages comme grille de lecture",
+      "explanation": "En ouvrant la séquence sur le rapprochement, la modération rappelle que les deux invités « ne représentent pas grand-chose » dans les sondages. Le rappel est factuel et relevé par une formule sur la « dynamique », mais il installe d'emblée le poids électoral comme critère du débat, à huit mois du scrutin. Ruffin s'en saisit aussitôt pour contester le cadrage.",
+      "habermas": []
+    },
+    {
+      "id": "fal-046",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Recadrage",
+      "segmentId": "s782",
+      "quote": "sans l'appui d'un grand appareil, je suis donné à 6 % dans les sondages",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 70,
+      "title": "6 % présenté comme une performance",
+      "explanation": "Face au constat de sondages faibles, Ruffin retourne le chiffre : sans appareil ni moyens, face à des candidats à leur quatrième présidentielle, 6 % serait remarquable (« je suis stupéfait », « une personne sur 20 »). Le recadrage est légitime pour un candidat, mais il déplace la question : le seuil nécessaire pour peser au premier tour n'est pas abordé.",
+      "habermas": []
+    },
+    {
+      "id": "fal-047",
+      "kind": "rhetoric",
+      "type": "euphemism",
+      "label": "Minimisation",
+      "segmentId": "s801",
+      "quote": "Et taxe carbone, mais on est quand même un peu dans le détail",
+      "speaker": "fauvelle",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Désaccords réduits à des « détails »",
+      "explanation": "En dressant le bilan convergences/divergences, Marc Fauvelle ramène les désaccords (CPE et autoroutes « prescrits », taxe carbone « un peu dans le détail », gel de la dette) à peu de chose. Or la taxe carbone a été un point de fond du chapitre climat. Cette minimisation sert le fil conducteur de sa séquence (« pourriez-vous travailler ensemble ? ») mais oriente la discussion avant qu'elle commence.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-048",
+      "kind": "fallacy",
+      "type": "other",
+      "label": "Analogie historique abusive",
+      "segmentId": "s849",
+      "quote": "c'est l'homme qui tranquillement par résignation, comme on glisse sur la pente du pire amène Marine Le Pen à l'Élysée",
+      "speaker": "ruffin",
+      "severity": 45,
+      "confidence": 55,
+      "title": "Macron assimilé aux élites de 1940",
+      "explanation": "Ruffin rapproche Emmanuel Macron des élites de « L'Étrange Défaite » de Marc Bloch, qui avaient failli en 1940, et affirme qu'il « amène Marine Le Pen à l'Élysée ». L'analogie avec la débâcle charge fortement le propos, et la responsabilité imputée porte sur un événement qui n'a pas eu lieu, sans démonstration. Une critique honnête aurait relié des politiques précises à la progression mesurée du vote RN.",
+      "habermas": [
+        "rightness",
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-049",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage provocateur",
+      "segmentId": "s853",
+      "quote": "ne vous vexez pas mais c'est un peu tarte à la crème",
+      "speaker": "fauvelle",
+      "severity": 30,
+      "confidence": 60,
+      "title": "Le CNR qualifié de « tarte à la crème »",
+      "explanation": "Avant même de poser sa question, Marc Fauvelle disqualifie la référence au Conseil national de la Résistance comme un lieu commun. La provocation est une technique journalistique pour forcer une réponse concrète (« qui mettez-vous autour de la table ? »), mais elle impose un jugement de valeur au lieu de laisser les invités défendre la pertinence de la référence.",
+      "habermas": []
+    },
+    {
+      "id": "fal-050",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s861",
+      "quote": "Ils étaient 17 autour de la table au 48 rue du Four.",
+      "speaker": "villepin",
+      "severity": 55,
+      "confidence": 75,
+      "title": "Répond sur 1943 au lieu de 2027",
+      "explanation": "À la question « qui invitez-vous : les insoumis, le RN ? », Villepin répond par le récit du CNR de 1943, puis la nuit du 4 août et une réflexion sur le sacrifice, sans citer aucun nom actuel. Marc Fauvelle devra lui demander plus tard de « laisser Jean Moulin de côté » pour revenir en 2026. Une réponse directe aurait nommé les forces ou personnalités acceptées et exclues.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-051",
+      "kind": "fallacy",
+      "type": "appeal_to_emotion",
+      "label": "Appel à l'émotion",
+      "segmentId": "s883",
+      "quote": "Peut-être que l'un d'entre nous aura pris une balle entre les deux yeux.",
+      "speaker": "villepin",
+      "severity": 45,
+      "confidence": 60,
+      "title": "Dramatise l'engagement par l'image de l'assassinat",
+      "explanation": "Pour illustrer le « sacrifice » qu'exige la politique, Villepin évoque la possibilité d'être tué d'ici à mai, ce qui surprend le journaliste (« Pourquoi vous dites ça ? »). Il l'appuie ensuite sur des menaces reçues depuis 2023, mais l'image dramatique sert surtout à grandir sa posture et remplace la réponse attendue sur les alliances. Évoquer les menaces sans cette hyperbole aurait suffi à faire passer l'idée de risque.",
+      "habermas": [
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-052",
+      "kind": "fallacy",
+      "type": "hasty_generalization",
+      "label": "Généralisation hâtive",
+      "segmentId": "s894",
+      "quote": "Ils ont tous compris ou acquis que Marine Le Pen allait gagner.",
+      "speaker": "villepin",
+      "severity": 50,
+      "confidence": 70,
+      "title": "« Toute la classe politique » joue les places",
+      "explanation": "Villepin affirme que toute la classe politique a intégré la victoire de Marine Le Pen et ne joue plus que les places aux législatives. Il généralise à l'ensemble des responsables politiques et leur prête des pensées, sans exemple, ce qui le pose en seul acteur désintéressé. Une version honnête aurait cité des comportements précis ou parlé de « certains ».",
+      "habermas": [
+        "truth",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "fal-053",
+      "kind": "fallacy",
+      "type": "ad_hominem",
+      "label": "Attaque personnelle",
+      "segmentId": "s914",
+      "quote": "parce que vous vous êtes journaliste vous êtes journaliste",
+      "speaker": "villepin",
+      "severity": 50,
+      "confidence": 65,
+      "title": "Disqualifie la question par le statut du journaliste",
+      "explanation": "Pressé de dire concrètement ce qu'il est prêt à sacrifier, Villepin répond que le journaliste, parce qu'il est journaliste, « ne voit pas » ce que paient les responsables politiques. Il met en cause la légitimité du questionneur au lieu de répondre, et Fauvelle rappelle que des journalistes paient aussi. Une réponse honnête aurait précisé ce à quoi il renonce.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-054",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Relance critique",
+      "segmentId": "s949",
+      "quote": "Je note il y a beaucoup de personnalités de gauche dans les noms que vous venez de citer.",
+      "speaker": "fauvelle",
+      "severity": 30,
+      "confidence": 75,
+      "title": "Confronte le « dépassement » à la liste citée",
+      "explanation": "Après la liste de Ruffin (Roussel, Piketty, Cagé, Mélenchon, Jancovici, Polony), Marc Fauvelle relève qu'elle penche nettement à gauche et demande des noms « de l'autre rive ». La relance oppose au discours de dépassement les exemples donnés par l'orateur lui-même, un procédé de modération utile pour tester la cohérence d'un propos. Ruffin renvoie la question à Villepin.",
+      "habermas": []
+    },
+    {
+      "id": "fal-055",
+      "kind": "rhetoric",
+      "type": "repetition",
+      "label": "Anaphore",
+      "segmentId": "s972",
+      "quote": "Si on dit retour d'un impôt de solidarité sur la fortune, c'est 80 % des Français qui sont pour.",
+      "speaker": "ruffin",
+      "severity": 35,
+      "confidence": 70,
+      "title": "« 80 % des Français » répété trois fois",
+      "explanation": "Ruffin martèle trois fois la même structure (« Si je dis… c'est 80 % des Français qui sont pour ») pour l'indexation des salaires, le RIC et l'ISF. L'anaphore est efficace pour défendre l'idée de mesures rassembleuses, mais le chiffre identique et non sourcé pour trois mesures distinctes ressemble à un ordre de grandeur rhétorique. La popularité d'une mesure ne dit rien, par ailleurs, de son efficacité.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-056",
+      "kind": "rhetoric",
+      "type": "framing",
+      "label": "Cadrage catastrophiste",
+      "segmentId": "s989",
+      "quote": "nous verrons notre pays s'effacer et de l'Europe et de l'histoire du monde",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 60,
+      "title": "Le « bon train » ou l'effacement de la France",
+      "explanation": "Villepin oppose le « bon train de l'histoire » au « train fou » et annonce, faute de choisir le premier, l'effacement de la France de l'Europe et de l'histoire. La métaphore ferroviaire, partagée avec Ruffin (« train de la fatalité »), dramatise l'enjeu sans préciser le mécanisme du déclin annoncé. Préciser les indicateurs de ce « rétrécissement » aurait donné prise à la discussion.",
+      "habermas": []
+    },
+    {
+      "id": "fal-057",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Recadrage",
+      "segmentId": "s993",
+      "quote": "Protéger bien sûr la sécurité, c'est un élément essentiel",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 65,
+      "title": "Le « protéger » de Ruffin tiré vers la sécurité",
+      "explanation": "Villepin dit souscrire « pleinement » au pilier « protéger » de Ruffin, puis l'oriente aussitôt vers la sécurité et l'« ordre républicain ». Chez Ruffin, protéger visait surtout le revenu, l'emploi et le climat. L'accord affiché masque un glissement de sens ; il aurait été plus clair de dire que chacun met un contenu différent sous le même mot.",
+      "habermas": [
+        "comprehensibility"
+      ]
+    },
+    {
+      "id": "fal-058",
+      "kind": "rhetoric",
+      "type": "evasion",
+      "label": "Esquive",
+      "segmentId": "s1015",
+      "quote": "Je me refuse Je me refuse à me placer dans cette hypothèse.",
+      "speaker": "ruffin",
+      "severity": 45,
+      "confidence": 70,
+      "title": "Refuse de dire s'il « résisterait » à Le Pen",
+      "explanation": "Marc Fauvelle cite précisément Marine Tondelier et Mathilde Panot et demande si, en cas de victoire du RN, les invités se considéreraient en devoir de résister. Ruffin refuse l'hypothèse et bascule sur la « joie » de faire de la politique. Refuser une hypothèse défaitiste peut être un choix stratégique assumé, mais la question de fond (respect du résultat, formes légitimes d'opposition) reste sans réponse.",
+      "habermas": [
+        "rightness"
+      ]
+    },
+    {
+      "id": "fal-059",
+      "kind": "rhetoric",
+      "type": "hyperbole",
+      "label": "Hyperbole",
+      "segmentId": "s1029",
+      "quote": "Donald Trump vit en absence totale d'opposition intellectuelle, politique",
+      "speaker": "villepin",
+      "severity": 40,
+      "confidence": 70,
+      "title": "« Absence totale » d'opposition à Trump",
+      "explanation": "Pour justifier un « esprit de résistance », Villepin affirme que Donald Trump gouverne sans aucune opposition intellectuelle ni politique. C'est excessif : l'opposition démocrate, des décisions de justice, des universités et de larges manifestations existent. L'argument sous-jacent, une résistance institutionnelle jugée faible, pouvait être défendu sans l'absolu « totale ».",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-060",
+      "kind": "rhetoric",
+      "type": "other",
+      "label": "Ironie",
+      "segmentId": "s1041",
+      "quote": "Là vous venez d'enlever Gabriel Édouard Philippe Bruno Rotaillot la table se vide.",
+      "speaker": "fauvelle",
+      "severity": 30,
+      "confidence": 70,
+      "title": "« La table se vide » : pointe sur les exclusions",
+      "explanation": "Après que Villepin a écarté les insoumis puis visé Philippe, Attal et Retailleau, Marc Fauvelle note avec ironie que la table du « nouveau CNR » se vide. La relance met en évidence une tension entre l'ambition de rassembler « les trois quarts de l'échiquier » et des exclusions en série. Elle vise la cohérence du propos plutôt que la personne ; Ruffin et Villepin répondent d'ailleurs qu'ils ne siégeraient pas non plus avec eux.",
+      "habermas": []
+    },
+    {
+      "id": "fal-061",
+      "kind": "fallacy",
+      "type": "false_dilemma",
+      "label": "Faux dilemme",
+      "segmentId": "s1072",
+      "quote": "nous avons le choix entre des radicalités ou la poursuite du macronisme sous d'autres forme",
+      "speaker": "villepin",
+      "severity": 35,
+      "confidence": 55,
+      "title": "Radicalités ou macronisme, sauf… lui",
+      "explanation": "Villepin réduit l'offre politique à deux options, les « radicalités » ou un macronisme prolongé, et y range la gauche (« les mêmes mesurettes »), pour se présenter en seule alternative. Cette alternative binaire efface la diversité des programmes concurrents. Une version honnête aurait distingué les positions et dit précisément en quoi la sienne diffère.",
+      "habermas": [
+        "truth"
+      ]
+    },
+    {
+      "id": "fal-062",
+      "kind": "rhetoric",
+      "type": "rhetorical_question",
+      "label": "Question rhétorique",
+      "segmentId": "s1079",
+      "quote": "Ils veulent qu'on fasse comme avant ou est-ce qu'ils veulent que cela change ?",
+      "speaker": "ruffin",
+      "severity": 30,
+      "confidence": 75,
+      "title": "« Comme avant ou que cela change ? »",
+      "explanation": "En conclusion, Ruffin se tourne vers la salle avec une série de questions dont la réponse est évidente (comme avant ou le changement ? les jeux sont-ils faits ?). Le procédé mobilise l'auditoire et présuppose qu'il incarne lui-même le changement, sans préciser lequel. C'est une clôture de campagne classique plus qu'un argument.",
+      "habermas": []
+    },
+    {
+      "id": "fal-063",
+      "kind": "rhetoric",
+      "type": "reframing",
+      "label": "Reformulation inexacte",
+      "segmentId": "s1086",
+      "quote": "Dominique de Villepin a dit combien il n'avait plus rien à perdre",
+      "speaker": "moderator",
+      "severity": 25,
+      "confidence": 75,
+      "title": "Résumé qui inverse le propos de Villepin",
+      "explanation": "En synthèse, la modération résume Villepin comme quelqu'un qui « n'avait plus rien à perdre ». Villepin corrige aussitôt : il a dit avoir « tout à perdre » mais être prêt à le perdre. La nuance compte, puisque son argument reposait sur le sacrifice ; citer ses mots aurait évité ce glissement.",
+      "habermas": [
+        "truth"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8412 @@
+{
+  "speakers": {
+    "moderator": {
+      "name": "David Pujadas",
+      "role": "Animateur du débat",
+      "party": null,
+      "kind": "moderator"
+    },
+    "mourgue": {
+      "name": "Marion Mourgue",
+      "role": "Rédactrice en chef au Parisien (alliances)",
+      "party": null,
+      "kind": "moderator"
+    },
+    "citoyens": {
+      "name": "Citoyens sympathisants",
+      "role": "Pascal, Léandre, Johanna et Nina interpellent les candidats",
+      "party": null,
+      "kind": "moderator"
+    },
+    "faure": {
+      "name": "Olivier Faure",
+      "role": "Premier secrétaire du PS, député de Seine-et-Marne",
+      "party": "PS",
+      "kind": "debater"
+    },
+    "glucksmann": {
+      "name": "Raphaël Glucksmann",
+      "role": "Député européen, coprésident de Place publique",
+      "party": "Place publique",
+      "kind": "debater"
+    },
+    "guedj": {
+      "name": "Jérôme Guedj",
+      "role": "Député de l'Essonne",
+      "party": "PS",
+      "kind": "debater"
+    },
+    "maurel": {
+      "name": "Emmanuel Maurel",
+      "role": "Député, Gauche républicaine et socialiste",
+      "party": "GRS",
+      "kind": "debater"
+    },
+    "royal": {
+      "name": "Ségolène Royal",
+      "role": "Ancienne ministre, candidate à la présidentielle 2007",
+      "party": null,
+      "kind": "debater"
+    }
+  },
+  "turns": [
+    {
+      "segmentId": "s001",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s002",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s003",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s004",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s005",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s006",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s007",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s008",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s009",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s010",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s011",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s012",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s013",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s014",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s015",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s016",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s017",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s018",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s019",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s020",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s021",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s022",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s023",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s024",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s025",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s026",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s027",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s028",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s029",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s030",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s031",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s032",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s033",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s034",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s035",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s036",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s037",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s038",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s039",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s040",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s041",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s042",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s043",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s044",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s045",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s046",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s047",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s048",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s049",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s050",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s051",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s052",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s053",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s054",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s055",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s056",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s057",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s058",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s059",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s060",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s061",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s062",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s063",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s064",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s065",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s066",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s067",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s068",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s069",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s070",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s071",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s072",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s073",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s074",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s075",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s076",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s077",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s078",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s079",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s080",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s081",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s082",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s083",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s084",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s085",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s086",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s087",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s088",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s089",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s090",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s091",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s092",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s093",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s094",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s095",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s096",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s097",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s098",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s099",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s100",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s101",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s102",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s103",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s104",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s105",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s106",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s107",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s108",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s109",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s110",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s111",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s112",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s113",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s114",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s115",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s116",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s117",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s118",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s119",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s120",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s121",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s122",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s123",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s124",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s125",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s126",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s127",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s128",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s129",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s130",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s131",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s132",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s133",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s134",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s135",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s136",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s137",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s138",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s139",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s140",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s141",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s142",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s143",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s144",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s145",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s146",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s147",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s148",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s149",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s150",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s151",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s152",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s153",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s154",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s155",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s156",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s157",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s158",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s159",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s160",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s161",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s162",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s163",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s164",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s165",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s166",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s167",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s168",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s169",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s170",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s171",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s172",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s173",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s174",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s175",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s176",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s177",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s178",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s179",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s180",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s181",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s182",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s183",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s184",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s185",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s186",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s187",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s188",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s189",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s190",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s191",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s192",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s193",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s194",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s195",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s196",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s197",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s198",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s199",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s200",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s201",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s202",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s203",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s204",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s205",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s206",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s207",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s208",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s209",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s210",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s211",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s212",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s213",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s214",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s215",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s216",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s217",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s218",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s219",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s220",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s221",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s222",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s223",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s224",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s225",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s226",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s227",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s228",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s229",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s230",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s231",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s232",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s233",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s234",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s235",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s236",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s237",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s238",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s239",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s240",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s241",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s242",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s243",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s244",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s245",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s246",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s247",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s248",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s249",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s250",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s251",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s252",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s253",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s254",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s255",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s256",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s257",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s258",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s259",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s260",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s261",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s262",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s263",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s264",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s265",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s266",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s267",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s268",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s269",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s270",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s271",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s272",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s273",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s274",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s275",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s276",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s277",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s278",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s279",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s280",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s281",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s282",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s283",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s284",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s285",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s286",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s287",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s288",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s289",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s290",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s291",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s292",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s293",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s294",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s295",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s296",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s297",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s298",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s299",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s300",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s301",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s302",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s303",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s304",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s305",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s306",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s307",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s308",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s309",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s310",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s311",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s312",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s313",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s314",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s315",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s316",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s317",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s318",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s319",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s320",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s321",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s322",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s323",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s324",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s325",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s326",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s327",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s328",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s329",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s330",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s331",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s332",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s333",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s334",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s335",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s336",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s337",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s338",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s339",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s340",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s341",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s342",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s343",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s344",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s345",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s346",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s347",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s348",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s349",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s350",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s351",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s352",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s353",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s354",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s355",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s356",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s357",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s358",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s359",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s360",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s361",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s362",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s363",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s364",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s365",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s366",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s367",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s368",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s369",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s370",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s371",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s372",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s373",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s374",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s375",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s376",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s377",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s378",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s379",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s380",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s381",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s382",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s383",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s384",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s385",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s386",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s387",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s388",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s389",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s390",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s391",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s392",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s393",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s394",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s395",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s396",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s397",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s398",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s399",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s400",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s401",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s402",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s403",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s404",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s405",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s406",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s407",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s408",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s409",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s410",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s411",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s412",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s413",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s414",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s415",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s416",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s417",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s418",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s419",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s420",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s421",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s422",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s423",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s424",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s425",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s426",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s427",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s428",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s429",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s430",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s431",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s432",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s433",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s434",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s435",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s436",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s437",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s438",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s439",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s440",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s441",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s442",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s443",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s444",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s445",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s446",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s447",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s448",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s449",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s450",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s451",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s452",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s453",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s454",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s455",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s456",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s457",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s458",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s459",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s460",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s461",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s462",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s463",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s464",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s465",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s466",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s467",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s468",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s469",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s470",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s471",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s472",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s473",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s474",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s475",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s476",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s477",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s478",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s479",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s480",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s481",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s482",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s483",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s484",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s485",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s486",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s487",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s488",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s489",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s490",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s491",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s492",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s493",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s494",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s495",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s496",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s497",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s498",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s499",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s500",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s501",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s502",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s503",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s504",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s505",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s506",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s507",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s508",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s509",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s510",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s511",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s512",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s513",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s514",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s515",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s516",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s517",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s518",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s519",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s520",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s521",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s522",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s523",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s524",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s525",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s526",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s527",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s528",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s529",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s530",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s531",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s532",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s533",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s534",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s535",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s536",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s537",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s538",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s539",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s540",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s541",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s542",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s543",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s544",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s545",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s546",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s547",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s548",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s549",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s550",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s551",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s552",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s553",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s554",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s555",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s556",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s557",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s558",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s559",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s560",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s561",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s562",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s563",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s564",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s565",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s566",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s567",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s568",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s569",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s570",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s571",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s572",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s573",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s574",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s575",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s576",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s577",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s578",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s579",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s580",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s581",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s582",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s583",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s584",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s585",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s586",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s587",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s588",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s589",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s590",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s591",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s592",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s593",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s594",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s595",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s596",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s597",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s598",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s599",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s600",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s601",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s602",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s603",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s604",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s605",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s606",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s607",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s608",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s609",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s610",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s611",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s612",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s613",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s614",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s615",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s616",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s617",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s618",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s619",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s620",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s621",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s622",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s623",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s624",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s625",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s626",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s627",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s628",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s629",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s630",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s631",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s632",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s633",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s634",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s635",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s636",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s637",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s638",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s639",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s640",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s641",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s642",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s643",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s644",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s645",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s646",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s647",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s648",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s649",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s650",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s651",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s652",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s653",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s654",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s655",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s656",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s657",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s658",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s659",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s660",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s661",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s662",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s663",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s664",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s665",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s666",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s667",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s668",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s669",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s670",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s671",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s672",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s673",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s674",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s675",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s676",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s677",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s678",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s679",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s680",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s681",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s682",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s683",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s684",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s685",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s686",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s687",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s688",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s689",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s690",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s691",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s692",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s693",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s694",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s695",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s696",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s697",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s698",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s699",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s700",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s701",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s702",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s703",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s704",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s705",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s706",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s707",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s708",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s709",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s710",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s711",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s712",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s713",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s714",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s715",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s716",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s717",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s718",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s719",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s720",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s721",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s722",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s723",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s724",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s725",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s726",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s727",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s728",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s729",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s730",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s731",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s732",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s733",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s734",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s735",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s736",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s737",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s738",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s739",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s740",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s741",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s742",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s743",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s744",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s745",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s746",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s747",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s748",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s749",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s750",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s751",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s752",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s753",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s754",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s755",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s756",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s757",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s758",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s759",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s760",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s761",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s762",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s763",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s764",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s765",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s766",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s767",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s768",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s769",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s770",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s771",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s772",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s773",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s774",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s775",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s776",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s777",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s778",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s779",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s780",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s781",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s782",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s783",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s784",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s785",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s786",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s787",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s788",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s789",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s790",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s791",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s792",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s793",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s794",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s795",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s796",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s797",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s798",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s799",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s800",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s801",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s802",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s803",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s804",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s805",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s806",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s807",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s808",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s809",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s810",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s811",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s812",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s813",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s814",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s815",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s816",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s817",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s818",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s819",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s820",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s821",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s822",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s823",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s824",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s825",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s826",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s827",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s828",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s829",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s830",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s831",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s832",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s833",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s834",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s835",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s836",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s837",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s838",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s839",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s840",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s841",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s842",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s843",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s844",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s845",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s846",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s847",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s848",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s849",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s850",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s851",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s852",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s853",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s854",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s855",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s856",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s857",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s858",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s859",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s860",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s861",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s862",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s863",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s864",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s865",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s866",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s867",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s868",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s869",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s870",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s871",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s872",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s873",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s874",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s875",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s876",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s877",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s878",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s879",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s880",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s881",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s882",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s883",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s884",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s885",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s886",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s887",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s888",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s889",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s890",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s891",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s892",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s893",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s894",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s895",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s896",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s897",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s898",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s899",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s900",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s901",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s902",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s903",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s904",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s905",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s906",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s907",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s908",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s909",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s910",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s911",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s912",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s913",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s914",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s915",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s916",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s917",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s918",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s919",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s920",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s921",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s922",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s923",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s924",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s925",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s926",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s927",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s928",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s929",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s930",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s931",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s932",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s933",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s934",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s935",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s936",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s937",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s938",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s939",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s940",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s941",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s942",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s943",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s944",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s945",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s946",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s947",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s948",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s949",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s950",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s951",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s952",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s953",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s954",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s955",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s956",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s957",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s958",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s959",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s960",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s961",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s962",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s963",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s964",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s965",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s966",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s967",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s968",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s969",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s970",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s971",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s972",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s973",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s974",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s975",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s976",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s977",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s978",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s979",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s980",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s981",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s982",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s983",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s984",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s985",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s986",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s987",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s988",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s989",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s990",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s991",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s992",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s993",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s994",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s995",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s996",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s997",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s998",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s999",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1000",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1001",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1002",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1003",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1004",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1005",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1006",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1007",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1008",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1009",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1010",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1011",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1012",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1013",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1014",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1015",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1016",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1017",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1018",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1019",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1020",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1021",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1022",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1023",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1024",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1025",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1026",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1027",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1028",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1029",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1030",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1031",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1032",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1033",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1034",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1035",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1036",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1037",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1038",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1039",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1040",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1041",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1042",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1043",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1044",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1045",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1046",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1047",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1048",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1049",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1050",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1051",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1052",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1053",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1054",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1055",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1056",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1057",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1058",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1059",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1060",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1061",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1062",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1063",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1064",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1065",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1066",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1067",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1068",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1069",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1070",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1071",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1072",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1073",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1074",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1075",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1076",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1077",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1078",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1079",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1080",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1081",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1082",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1083",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1084",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1085",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1086",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1087",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1088",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1089",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1090",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1091",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1092",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1093",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1094",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1095",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1096",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1097",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1098",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1099",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1100",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1101",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1102",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1103",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1104",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1105",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1106",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1107",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1108",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1109",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1110",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1111",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1112",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1113",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1114",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1115",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1116",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1117",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1118",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1119",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1120",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1121",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1122",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1123",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1124",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1125",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1126",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1127",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1128",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1129",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1130",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1131",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1132",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1133",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1134",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1135",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1136",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1137",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1138",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1139",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1140",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1141",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1142",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1143",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1144",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1145",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1146",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1147",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1148",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1149",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1150",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1151",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1152",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1153",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1154",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1155",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1156",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1157",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1158",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1159",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1160",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1161",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1162",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1163",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1164",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1165",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1166",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1167",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1168",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1169",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1170",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1171",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1172",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1173",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1174",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1175",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1176",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1177",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1178",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1179",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1180",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1181",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1182",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1183",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1184",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1185",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1186",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1187",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1188",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1189",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1190",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1191",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1192",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1193",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1194",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1195",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1196",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1197",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1198",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1199",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1200",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1201",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1202",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1203",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1204",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1205",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1206",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1207",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1208",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1209",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1210",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1211",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1212",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1213",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1214",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1215",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1216",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1217",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1218",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1219",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1220",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1221",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1222",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1223",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1224",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1225",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1226",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1227",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1228",
+      "speaker": "citoyens"
+    },
+    {
+      "segmentId": "s1229",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1230",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1231",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1232",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1233",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1234",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1235",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1236",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1237",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1238",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1239",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1240",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1241",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1242",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1243",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1244",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1245",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1246",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1247",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1248",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1249",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1250",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1251",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1252",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1253",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1254",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1255",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1256",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1257",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1258",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1259",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1260",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1261",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1262",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1263",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1264",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1265",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1266",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1267",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1268",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1269",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1270",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1271",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1272",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1273",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1274",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1275",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1276",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1277",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1278",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1279",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1280",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1281",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1282",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1283",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1284",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1285",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1286",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1287",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1288",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1289",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1290",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1291",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1292",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1293",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1294",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1295",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1296",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1297",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1298",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1299",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1300",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1301",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1302",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1303",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1304",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1305",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1306",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1307",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1308",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1309",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1310",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1311",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1312",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1313",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1314",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1315",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1316",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1317",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1318",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1319",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1320",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1321",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1322",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1323",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1324",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1325",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1326",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1327",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1328",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1329",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1330",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1331",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1332",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1333",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1334",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1335",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1336",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1337",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1338",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1339",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1340",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1341",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1342",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1343",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1344",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1345",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1346",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1347",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1348",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1349",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1350",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1351",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1352",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1353",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1354",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1355",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1356",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1357",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1358",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1359",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1360",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1361",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1362",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1363",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1364",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1365",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1366",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1367",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1368",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1369",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1370",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1371",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1372",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1373",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1374",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1375",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1376",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1377",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1378",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1379",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1380",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1381",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1382",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1383",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1384",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1385",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1386",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1387",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1388",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1389",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1390",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1391",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1392",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1393",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1394",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1395",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1396",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1397",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1398",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1399",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1400",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1401",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1402",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1403",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1404",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1405",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1406",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1407",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1408",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1409",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1410",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1411",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1412",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1413",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1414",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1415",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1416",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1417",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1418",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1419",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1420",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1421",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1422",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1423",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1424",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1425",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1426",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1427",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1428",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1429",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1430",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1431",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1432",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1433",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1434",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1435",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1436",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1437",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1438",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1439",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1440",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1441",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1442",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1443",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1444",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1445",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1446",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1447",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1448",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1449",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1450",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1451",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1452",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1453",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1454",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1455",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1456",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1457",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1458",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1459",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1460",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1461",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1462",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1463",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1464",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1465",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1466",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1467",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1468",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1469",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1470",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1471",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1472",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1473",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1474",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1475",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1476",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1477",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1478",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1479",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1480",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1481",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1482",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1483",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1484",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1485",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1486",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1487",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1488",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1489",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1490",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1491",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1492",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1493",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1494",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1495",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1496",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1497",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1498",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1499",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1500",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1501",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1502",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1503",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1504",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1505",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1506",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1507",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1508",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1509",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1510",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1511",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1512",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1513",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1514",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1515",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1516",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1517",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1518",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1519",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1520",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1521",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1522",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1523",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1524",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1525",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1526",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1527",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1528",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1529",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1530",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1531",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1532",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1533",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1534",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1535",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1536",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1537",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1538",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1539",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1540",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1541",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1542",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1543",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1544",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1545",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1546",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1547",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1548",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1549",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1550",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1551",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1552",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1553",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1554",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1555",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1556",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1557",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1558",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1559",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1560",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1561",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1562",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1563",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1564",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1565",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1566",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1567",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1568",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1569",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1570",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1571",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1572",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1573",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1574",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1575",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1576",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1577",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1578",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1579",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1580",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1581",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1582",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1583",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1584",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1585",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1586",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1587",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1588",
+      "speaker": "mourgue"
+    },
+    {
+      "segmentId": "s1589",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1590",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1591",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1592",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1593",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1594",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1595",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1596",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1597",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1598",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1599",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1600",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1601",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1602",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1603",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1604",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1605",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1606",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1607",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1608",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1609",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1610",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1611",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1612",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1613",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1614",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1615",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1616",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1617",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1618",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1619",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1620",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1621",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1622",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1623",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1624",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1625",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1626",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1627",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1628",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1629",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1630",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1631",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1632",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1633",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1634",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1635",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1636",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1637",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1638",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1639",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1640",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1641",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1642",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1643",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1644",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1645",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1646",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1647",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1648",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1649",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1650",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1651",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1652",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1653",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1654",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1655",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1656",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1657",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1658",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1659",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1660",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1661",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1662",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1663",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1664",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1665",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1666",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1667",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1668",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1669",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1670",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1671",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1672",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1673",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1674",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1675",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1676",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1677",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1678",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1679",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1680",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1681",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1682",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1683",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1684",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1685",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1686",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1687",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1688",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1689",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1690",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1691",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1692",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1693",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1694",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1695",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1696",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1697",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1698",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1699",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1700",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1701",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1702",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1703",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1704",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1705",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1706",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1707",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1708",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1709",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1710",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1711",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1712",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1713",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1714",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1715",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1716",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1717",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1718",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1719",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1720",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1721",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1722",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1723",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1724",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1725",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1726",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1727",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1728",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1729",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1730",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1731",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1732",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1733",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1734",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1735",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1736",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1737",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1738",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1739",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1740",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1741",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1742",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1743",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1744",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1745",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1746",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1747",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1748",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1749",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1750",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1751",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1752",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1753",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1754",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1755",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1756",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1757",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1758",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1759",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1760",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1761",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1762",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1763",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1764",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1765",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1766",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1767",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1768",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1769",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1770",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1771",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1772",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1773",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1774",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1775",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1776",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1777",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1778",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1779",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1780",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1781",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1782",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1783",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1784",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1785",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1786",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1787",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1788",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1789",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1790",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1791",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1792",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1793",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1794",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1795",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1796",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1797",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1798",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1799",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1800",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1801",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1802",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1803",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1804",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1805",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1806",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1807",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1808",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1809",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1810",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1811",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1812",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1813",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1814",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1815",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1816",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1817",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1818",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1819",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1820",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1821",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1822",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1823",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1824",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1825",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1826",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1827",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1828",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1829",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1830",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1831",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1832",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1833",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1834",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1835",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1836",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1837",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1838",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1839",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1840",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1841",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1842",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1843",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1844",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1845",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1846",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1847",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1848",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1849",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1850",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1851",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1852",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1853",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1854",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1855",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1856",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1857",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1858",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1859",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1860",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1861",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1862",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1863",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1864",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1865",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1866",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1867",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1868",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1869",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1870",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1871",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1872",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1873",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1874",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1875",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1876",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1877",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1878",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1879",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1880",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1881",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1882",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1883",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1884",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1885",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1886",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1887",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1888",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1889",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1890",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1891",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1892",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1893",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1894",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1895",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1896",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1897",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1898",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1899",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1900",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1901",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1902",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1903",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1904",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1905",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1906",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1907",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1908",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1909",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1910",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1911",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1912",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1913",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1914",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1915",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1916",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1917",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1918",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1919",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1920",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1921",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1922",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1923",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1924",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1925",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1926",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1927",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1928",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1929",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1930",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1931",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1932",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1933",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1934",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1935",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1936",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1937",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1938",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1939",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1940",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1941",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1942",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1943",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1944",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1945",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1946",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1947",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s1948",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1949",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1950",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1951",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1952",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1953",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1954",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1955",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1956",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1957",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1958",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1959",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1960",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1961",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1962",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1963",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1964",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1965",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1966",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1967",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1968",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1969",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1970",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1971",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1972",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1973",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1974",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1975",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1976",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1977",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1978",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1979",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1980",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s1981",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s1982",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1983",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1984",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s1985",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1986",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1987",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s1988",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1989",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1990",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1991",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1992",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1993",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1994",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1995",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1996",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1997",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1998",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s1999",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2000",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2001",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2002",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2003",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2004",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2005",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2006",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2007",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2008",
+      "speaker": "faure"
+    },
+    {
+      "segmentId": "s2009",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2010",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2011",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2012",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2013",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2014",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2015",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2016",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2017",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2018",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2019",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2020",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2021",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2022",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2023",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2024",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2025",
+      "speaker": "maurel"
+    },
+    {
+      "segmentId": "s2026",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2027",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2028",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2029",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s2030",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s2031",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s2032",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s2033",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s2034",
+      "speaker": "royal"
+    },
+    {
+      "segmentId": "s2035",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2036",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2037",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2038",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2039",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2040",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2041",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2042",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2043",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2044",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2045",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2046",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2047",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2048",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2049",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2050",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2051",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2052",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2053",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2054",
+      "speaker": "glucksmann"
+    },
+    {
+      "segmentId": "s2055",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2056",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2057",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s2058",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s2059",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s2060",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s2061",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s2062",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s2063",
+      "speaker": "guedj"
+    },
+    {
+      "segmentId": "s2064",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2065",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2066",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2067",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2068",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2069",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2070",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2071",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2072",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2073",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2074",
+      "speaker": "moderator"
+    },
+    {
+      "segmentId": "s2075",
+      "speaker": "moderator"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "c1",
+      "title": "Présentation des cinq candidats",
+      "start": 0.0,
+      "end": 731.12,
+      "summary": "David Pujadas ouvre le débat, présente les cinq candidats de la primaire et Marion Mourgue, puis chacun dispose d'une minute pour expliquer pourquoi il serait le meilleur candidat avant l'annonce du format de la soirée."
+    },
+    {
+      "id": "c2",
+      "title": "Crise des carburants et écologie du quotidien",
+      "start": 731.12,
+      "end": 2213.72,
+      "summary": "Le citoyen Pascal interroge les candidats sur la flambée des prix à la pompe : aides ciblées ou mesures générales, plafonnement des marges des raffineurs, taxation des superprofits de Total et financement de l'électrification du pays opposent les cinq candidats."
+    },
+    {
+      "id": "c3",
+      "title": "Ukraine, défense et autonomie européenne",
+      "start": 2213.72,
+      "end": 3554.0,
+      "summary": "Le jeune citoyen Léandre interpelle les cinq candidats sur le financement de l'effort de guerre ukrainien et la nécessité d'une défense européenne autonome face à la Russie."
+    },
+    {
+      "id": "c4",
+      "title": "Gaza, antisémitisme et racisme",
+      "start": 3554.0,
+      "end": 5082.4,
+      "summary": "Le débat bascule sur Gaza : suspension de l'accord UE-Israël, qualification de génocide, essentialisation des juifs et des musulmans, et montée de l'antisémitisme et du racisme en France."
+    },
+    {
+      "id": "c5",
+      "title": "Johanna : pouvoir d'achat et garde d'enfants",
+      "start": 5082.4,
+      "end": 6933.159,
+      "summary": "Une mère célibataire en recherche d'emploi raconte ses fins de mois impossibles (loyer, APL, cantine) et interroge les candidats sur les salaires, le logement et la santé."
+    },
+    {
+      "id": "c6",
+      "title": "Nina : SMIC, charges et dette publique",
+      "start": 6933.159,
+      "end": 8939.52,
+      "summary": "Une entrepreneuse inquiète de la hausse du SMIC et de ses charges interpelle les candidats sur leur position vis-à-vis de la dette et son remboursement."
+    },
+    {
+      "id": "c7",
+      "title": "Exclusion de Brun et alliances LFI",
+      "start": 8939.52,
+      "end": 11317.16,
+      "summary": "Pujadas interroge d'abord Olivier Faure sur l'exclusion de Philippe Brun de la primaire, puis Marion Mourgue pousse les cinq candidats sur une éventuelle alliance avec LFI et Jean-Luc Mélenchon aux législatives, provoquant de vifs échanges sur la cohérence de la gauche."
+    },
+    {
+      "id": "c8",
+      "title": "Engagements et conclusions des candidats",
+      "start": 11317.16,
+      "end": 11951.879,
+      "summary": "Chaque candidat s'engage en quinze secondes à soutenir le vainqueur de la primaire, puis livre sa conclusion selon un tirage au sort, avant les remerciements finaux de David Pujadas."
+    }
+  ]
+}

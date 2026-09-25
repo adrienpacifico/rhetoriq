@@ -1,0 +1,122 @@
+[
+ {
+  "id": "-o8Bs20Pqrs",
+  "title": "1ᵉʳ DÉBAT DE LA PRIMAIRE DE LA GAUCHE CHOISIR 2027",
+  "channel": "PS - Parti socialiste",
+  "uploadDate": "20260924",
+  "duration": 11951,
+  "thumbnail": "https://i.ytimg.com/vi/-o8Bs20Pqrs/maxresdefault.jpg",
+  "segments": 2075,
+  "chapters": 8,
+  "annotations": 116,
+  "hasAnalysis": true,
+  "speakers": [
+   "Olivier Faure",
+   "Raphaël Glucksmann",
+   "Jérôme Guedj",
+   "Emmanuel Maurel",
+   "Ségolène Royal"
+  ],
+  "stats": {
+   "fallacy": 39,
+   "rhetoric": 38,
+   "fact": 39,
+   "avgFakeness": 16,
+   "moments": 30,
+   "habermas": 63
+  }
+ },
+ {
+  "id": "RtS0Aap_hts",
+  "title": "💥 Racisme, « permis de tuer » : je demande des comptes au ministre de l'Intérieur.",
+  "channel": "Manuel Bompard",
+  "uploadDate": "20260913",
+  "duration": 989,
+  "thumbnail": null,
+  "segments": 179,
+  "chapters": 6,
+  "annotations": 64,
+  "hasAnalysis": true,
+  "speakers": [
+   "Manuel Bompard",
+   "Laurent Nuñez"
+  ],
+  "stats": {
+   "fallacy": 25,
+   "rhetoric": 19,
+   "fact": 20,
+   "avgFakeness": 21,
+   "moments": 25,
+   "habermas": 54
+  }
+ },
+ {
+  "id": "h1502QX2Nr4",
+  "title": "Ruffin et Villepin face à Libé : le débat en intégralité",
+  "channel": "Libération",
+  "uploadDate": "20260903",
+  "duration": 6919,
+  "thumbnail": "https://i.ytimg.com/vi/h1502QX2Nr4/maxresdefault.jpg",
+  "segments": 1092,
+  "chapters": 8,
+  "annotations": 93,
+  "hasAnalysis": true,
+  "speakers": [
+   "François Ruffin",
+   "Dominique de Villepin"
+  ],
+  "stats": {
+   "fallacy": 26,
+   "rhetoric": 37,
+   "fact": 30,
+   "avgFakeness": 21,
+   "moments": 25,
+   "habermas": 64
+  }
+ },
+ {
+  "id": "rmwhBtuyrgQ",
+  "title": "Eric Zemmour : Mon débat face à Raphaël Glucksmann, l'idiot utile de l'islamisation de la France .",
+  "channel": "Éric Zemmour",
+  "uploadDate": "20251118",
+  "duration": 2301,
+  "thumbnail": null,
+  "segments": 427,
+  "chapters": 0,
+  "annotations": 0,
+  "hasAnalysis": false,
+  "speakers": [],
+  "stats": {
+   "fallacy": 0,
+   "rhetoric": 0,
+   "fact": 0,
+   "avgFakeness": null,
+   "moments": 0,
+   "habermas": null
+  }
+ },
+ {
+  "id": "oQpryKlWYjY",
+  "title": "Débat G. Attal / J. Bardella - Replay du 20H de TF1",
+  "channel": "TF1 INFO",
+  "uploadDate": "20220328",
+  "duration": 1287,
+  "thumbnail": null,
+  "segments": 139,
+  "chapters": 6,
+  "annotations": 59,
+  "hasAnalysis": true,
+  "speakers": [
+   "Gabriel Attal",
+   "Jordan Bardella"
+  ],
+  "stats": {
+   "fallacy": 21,
+   "rhetoric": 17,
+   "fact": 21,
+   "avgFakeness": 25,
+   "moments": 25,
+   "habermas": 58
+  }
+ }
+]
