@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
 import type { Analysis, Dimension, Kind, Layer, Phase, SpeakerId, Transcript as TranscriptData, VideoIndexEntry } from './types'
 import { useYouTube } from './lib/youtube'
 import {
@@ -20,6 +20,18 @@ import { Transcript } from './components/Transcript'
 import { HabermasSheet } from './components/HabermasSheet'
 import { DimensionSheet } from './components/DimensionSheet'
 import { KindSheet } from './components/KindSheet'
+import { Splitter } from './components/Splitter'
+
+const SPLIT_KEY = 'rhetoriq.split'
+
+function loadSplit(): number | null {
+  try {
+    const v = Number(localStorage.getItem(SPLIT_KEY))
+    return v > 0 && v < 1 ? v : null
+  } catch {
+    return null
+  }
+}
 
 interface Props {
   transcript: TranscriptData
@@ -50,6 +62,7 @@ export function Workspace({ transcript, analysis, videos, onSelectVideo, onHome 
   const [sheetOpen, setSheetOpen] = useState(false)
   const [dim, setDim] = useState<{ speaker: SpeakerId; dimension: Dimension } | null>(null)
   const [kindSheet, setKindSheet] = useState<{ speaker: SpeakerId; kind: Kind } | null>(null)
+  const [split, setSplit] = useState(loadSplit)
 
   // static derivations
   const placedAll = useMemo(() => placeAnnotations(transcript, analysis), [transcript, analysis])
@@ -153,6 +166,15 @@ export function Workspace({ transcript, analysis, videos, onSelectVideo, onHome 
     if (player.ended) setSheetOpen(true)
   }, [player.ended])
 
+  useEffect(() => {
+    try {
+      if (split == null) localStorage.removeItem(SPLIT_KEY)
+      else localStorage.setItem(SPLIT_KEY, String(split))
+    } catch {
+      // storage unavailable: the split just won't persist
+    }
+  }, [split])
+
   return (
     <div className="app">
       <Header
@@ -168,7 +190,7 @@ export function Workspace({ transcript, analysis, videos, onSelectVideo, onHome 
         onOpenSheet={() => setSheetOpen(true)}
         agentsActive={agentsActive}
       />
-      <main className="layout">
+      <main className="layout" style={split == null ? undefined : ({ '--left-w': `${(split * 100).toFixed(2)}%` } as CSSProperties)}>
         <section className="left">
           <Player hostRef={hostRef} ready={player.ready} />
           <Timeline
@@ -202,6 +224,7 @@ export function Workspace({ transcript, analysis, videos, onSelectVideo, onHome 
           />
           <AgentFeed events={events} active={agentsActive} speakers={analysis.speakers} onFocus={focus} />
         </section>
+        <Splitter value={split} onChange={setSplit} />
         <section className="right">
           <Transcript
             segments={transcript.segments}

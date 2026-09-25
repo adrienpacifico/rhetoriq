@@ -253,13 +253,30 @@ a.btn, a.brand { color: inherit; text-decoration: none; }
 @media (max-width: 1300px) { .btn-label { display: none; } }
 
 /* ---------- layout ---------- */
-.layout { display: grid; grid-template-columns: minmax(400px, 42%) minmax(0, 1fr); min-height: 0; min-width: 0; height: 100%; }
+.layout {
+  display: grid; min-height: 0; min-width: 0; height: 100%;
+  /* --left-w is set by the splitter; bounds mirror MIN_LEFT / MIN_RIGHT in Splitter.tsx */
+  grid-template-columns: clamp(340px, var(--left-w, 42%), calc(100% - 380px)) 1px minmax(0, 1fr);
+}
 .left {
   overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 14px;
-  border-right: 1px solid var(--border); background: var(--bg-2); min-width: 0;
+  background: var(--bg-2); min-width: 0;
   scrollbar-width: thin; scrollbar-color: var(--border-2) transparent;
 }
-.right { min-height: 0; min-width: 0; position: relative; }
+.right { min-height: 0; min-width: 0; position: relative; container-type: inline-size; }
+
+/* ---------- splitter ---------- */
+.splitter { position: relative; z-index: 5; background: var(--border); cursor: col-resize; touch-action: none; outline: none; transition: background .15s; }
+.splitter::before { content: ''; position: absolute; inset: 0 -6px; } /* wider grab area */
+.splitter::after {
+  content: ''; position: absolute; top: 50%; left: 50%; width: 6px; height: 38px; border-radius: 4px;
+  transform: translate(-50%, -50%); background: var(--surface-2); border: 1px solid var(--border-2);
+  transition: background .15s, border-color .15s, height .15s;
+}
+.splitter:hover, .splitter:focus-visible, .splitter.dragging { background: var(--agent); }
+.splitter:hover::after, .splitter:focus-visible::after, .splitter.dragging::after { background: var(--agent); border-color: var(--agent); height: 56px; }
+body.resizing { cursor: col-resize; user-select: none; }
+body.resizing iframe { pointer-events: none; } /* keep the YouTube iframe from swallowing the drag */
 
 /* ---------- player ---------- */
 .player {
@@ -501,9 +518,16 @@ button.stat:hover { border-color: var(--border-2); transform: translateY(-1px); 
 @media (max-width: 1700px) { .brand-tag { display: none; } }
 @media (max-width: 1500px) { .agents-status { display: none; } .layer .count-total { display: none; } }
 
+@container (max-width: 700px) {
+  .seg { grid-template-columns: 1fr; gap: 6px; }
+  .gutter { padding-left: 48px; flex-direction: row; flex-wrap: wrap; }
+  .card { flex: 1 1 240px; }
+}
+
 @media (max-width: 1100px) {
   .layout { grid-template-columns: 1fr; grid-template-rows: auto minmax(0, 1fr); }
-  .left { border-right: 0; border-bottom: 1px solid var(--border); max-height: 52vh; }
+  .left { border-bottom: 1px solid var(--border); max-height: 52vh; }
+  .splitter { display: none; }
   .speakers, .feed { display: none; }
   .header { flex-wrap: wrap; gap: 10px; }
   .video-meta { order: 5; flex-basis: 100%; }
