@@ -21,6 +21,15 @@ des analyses.
 agent diarisation (Sonnet), puis agents sophismes / fact-check / Habermas (Opus) en parallèle,
 validation, fusion. Prompts : `analysis/prompts/*.md`.
 
+## Dépôts : GitLab privé, miroir GitHub public
+- `origin` = GitLab, source de vérité : on ne pousse que là (CLI `glab`).
+- GitHub (`adrienpacifico/rhetoriq`) est un miroir push automatique des branches protégées
+  (`main`), configuré côté GitLab. Ne jamais pousser directement sur GitHub.
+- **Tout ce qui arrive sur `main` devient public** : ni secrets, ni notes de stratégie ou feuille
+  de route privée dans le dépôt. Les branches non protégées restent sur GitLab.
+- Issues : stratégie et idées perso sur GitLab (`glab issue`) ; issues officielles (vitrine) sur
+  GitHub (`gh issue`).
+
 ## Conventions
 - Ne pas commiter sans demande explicite.
 - Les agents n'écrivent que leur fichier de sortie et valident avec `check_analysis.py`.
